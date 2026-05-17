@@ -129,7 +129,10 @@ def scrape_pages():
 
     with sync_playwright() as p:
         browser = p.chromium.launch()
-        page = browser.new_page()
+        page = browser.new_page(
+    locale="en-GB",
+    extra_http_headers={"Accept-Language": "en-GB,en;q=0.9"}
+)
 
         try:
             page.goto(
