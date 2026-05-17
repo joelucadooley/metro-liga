@@ -1,16 +1,126 @@
 {
-    "matchday": 0,
-    "updated": null,
-    "lines": {
-      "L1":   { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L2":   { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L3":   { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L4":   { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L5":   { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L9N":  { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L9S":  { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L10N": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L10S": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L11":  { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] }
+  "matchday": 1,
+  "updated": "2026-05-17T20:35:22.957985+00:00",
+  "lines": {
+    "L1": {
+      "severity": "incident",
+      "description": "uptions CURRENT UPCOMING Last update 20:35 17/5/2026 Update L1 Hospital de Bellvitge / Fondo Normal service Disruption Add to favourites the",
+      "seasonPts": 0,
+      "checks": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "recentForm": [
+        "L"
+      ]
+    },
+    "L2": {
+      "severity": "incident",
+      "description": "ation (L1) is closed for works See information on this line L2 Paral·lel / Badalona Pompeu Fabra Normal service Disruption Add to favourites",
+      "seasonPts": 0,
+      "checks": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "recentForm": [
+        "L"
+      ]
+    },
+    "L3": {
+      "severity": "incident",
+      "description": "service for improvement work. See information on this line L3 Zona Universitària / Trinitat Nova Normal service Disruption Add to favourites",
+      "seasonPts": 0,
+      "checks": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "recentForm": [
+        "L"
+      ]
+    },
+    "L4": {
+      "severity": "incident",
+      "description": "service for improvement works. See information on this line L4 La Pau / Trinitat Nova Normal service Disruption Add to favourites the line L",
+      "seasonPts": 0,
+      "checks": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "recentForm": [
+        "L"
+      ]
+    },
+    "L5": {
+      "severity": "incident",
+      "description": "y 12 months, the connecting passageway between lines L4 and L5 at Verdaguer station is closed for works. The link must be made from the outs",
+      "seasonPts": 0,
+      "checks": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "recentForm": [
+        "L"
+      ]
+    },
+    "L9N": {
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "recentForm": [
+        "W"
+      ]
+    },
+    "L9S": {
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "recentForm": [
+        "W"
+      ]
+    },
+    "L10N": {
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "recentForm": [
+        "W"
+      ]
+    },
+    "L10S": {
+      "severity": "minor",
+      "description": ", if necessary, with the initials N and S. For example, L1, L10S. See What can you do this weekend? From 15/05/2026 to 17/05/2026 What's on?",
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "recentForm": [
+        "D"
+      ]
+    },
+    "L11": {
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "recentForm": [
+        "W"
+      ]
     }
   }
+}
