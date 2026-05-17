@@ -17,14 +17,13 @@ const LINE_META = {
   L11:  { color: "#8DC63F", text: "#000" },
 };
 
-// Raw GitHub URL — always serves the latest committed status.json
 const STATUS_URL =
   "https://raw.githubusercontent.com/joelucadooley/metro-liga/main/data/status.json";
 
-const REFRESH_SEC = 300; // 5 minutes — matches the scraper interval
+const REFRESH_SEC = 300;
 
 // ─────────────────────────────────────────────────────────────────────────────
-// STANDINGS — built from the JSON file, no local computation needed
+// STANDINGS
 // ─────────────────────────────────────────────────────────────────────────────
 
 function buildStandings(lines) {
@@ -39,7 +38,6 @@ function buildStandings(lines) {
     currentSeverity: d.severity    ?? "clear",
     currentDetail:   d.description ?? null,
   }));
-
   rows.sort((a, b) => b.seasonPts - a.seasonPts || b.wins - a.wins);
   return rows;
 }
@@ -78,6 +76,66 @@ const CSS = `
 .cd-fill { height: 2px; background: #E3000B; border-radius: 1px; transition: width 1s linear; opacity: 0.4; }
 .cd-num { font-family: 'JetBrains Mono', monospace; font-size: 0.5rem; color: #1e1e1e; flex-shrink: 0; min-width: 28px; text-align: right; }
 
+/* ── Scrolling ticker ── */
+.ticker-wrap {
+  background: #0a0a0d;
+  border-bottom: 1px solid #181820;
+  overflow: hidden;
+  height: 28px;
+  display: flex;
+  align-items: center;
+}
+.ticker-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.52rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #886020;
+  padding: 0 1rem;
+  flex-shrink: 0;
+  border-right: 1px solid #1e1e10;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background: #0a0a0d;
+  z-index: 1;
+}
+.ticker-label.incident { color: #8a2020; border-right-color: #1e1010; }
+.ticker-track { flex: 1; overflow: hidden; position: relative; }
+.ticker-inner {
+  display: flex;
+  white-space: nowrap;
+  animation: ticker-scroll 40s linear infinite;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.58rem;
+  color: #555;
+  gap: 0;
+}
+.ticker-inner:hover { animation-play-state: paused; }
+@keyframes ticker-scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.ticker-item {
+  padding: 0 2rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+.ticker-line-badge {
+  font-size: 0.48rem;
+  font-weight: 700;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.ticker-sep { color: #2a2a2a; margin: 0 1rem; }
+
 /* ── Error ── */
 .err-box { padding: 0.6rem 1.3rem; background: #130808; border-bottom: 1px solid #2a0e0e; font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; color: #6a3030; }
 
@@ -92,21 +150,26 @@ const CSS = `
 .zone-sep.mid   { color: #1c1c24; border-left-color: #1a1a22; }
 .zone-sep.releg { color: #5a1a1a; border-left-color: #5a1a1a; }
 
-.row { display: grid; grid-template-columns: 38px minmax(0,1fr) 64px 120px 90px 52px; padding: 0 1.3rem; border-bottom: 1px solid #0e0e14; align-items: center; border-left: 2px solid transparent; transition: background 0.12s; min-height: 54px; }
+.row {
+  display: grid;
+  grid-template-columns: 38px minmax(0,1fr) 64px 120px 90px 52px;
+  padding: 0 1.3rem;
+  border-bottom: 1px solid #0e0e14;
+  align-items: center;
+  border-left: 2px solid transparent;
+  transition: background 0.12s;
+  height: 52px; /* fixed height — no content pushes rows taller */
+}
 .row:hover { background: #0e0e14; }
 .row.top   { border-left-color: #1e3a1e; }
 .row.mid   { border-left-color: #141420; }
 .row.releg { border-left-color: #3a1010; }
 
 .col-pos { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: #222; }
-.col-club { display: flex; align-items: center; gap: 0.65rem; min-width: 0; padding: 0.4rem 0; }
+
+.col-club { display: flex; align-items: center; gap: 0.65rem; min-width: 0; overflow: hidden; }
 .pip { width: 30px; height: 30px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.56rem; font-weight: 700; flex-shrink: 0; }
-.club-info { min-width: 0; }
-.club-name { font-size: 0.95rem; font-weight: 600; color: #aaa; line-height: 1.1; }
-.status-tag { font-family: 'JetBrains Mono', monospace; font-size: 0.49rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 180px; }
-.status-tag.incident { color: #8a2020; }
-.status-tag.minor    { color: #886020; }
-.no-data-tag { font-family: 'JetBrains Mono', monospace; font-size: 0.49rem; color: #252525; }
+.club-name { font-size: 0.95rem; font-weight: 600; color: #aaa; line-height: 1; white-space: nowrap; }
 
 .col-pts-wrap { text-align: right; }
 .col-pts { font-family: 'JetBrains Mono', monospace; font-size: 1.1rem; color: #bbb; line-height: 1; }
@@ -149,6 +212,50 @@ const CSS = `
 `;
 
 // ─────────────────────────────────────────────────────────────────────────────
+// TICKER
+// ─────────────────────────────────────────────────────────────────────────────
+
+function Ticker({ standings }) {
+  const alerts = standings.filter(
+    s => s.currentSeverity !== "clear" && s.currentDetail
+  );
+
+  if (alerts.length === 0) return null;
+
+  const hasIncident = alerts.some(s => s.currentSeverity === "incident");
+  const labelClass  = hasIncident ? "ticker-label incident" : "ticker-label";
+  const labelText   = hasIncident ? "⚠ Incident" : "~ Alterations";
+
+  // Duplicate items so the scroll loops seamlessly
+  const items = [...alerts, ...alerts];
+
+  return (
+    <div className="ticker-wrap">
+      <div className={labelClass}>{labelText}</div>
+      <div className="ticker-track">
+        <div className="ticker-inner">
+          {items.map((s, i) => {
+            const meta = LINE_META[s.name] || { color: "#555", text: "#fff" };
+            return (
+              <span key={i} className="ticker-item">
+                <span className="ticker-line-badge"
+                      style={{ background: meta.color, color: meta.text }}>
+                  {s.name}
+                </span>
+                {s.currentDetail}
+                {i < items.length - 1 && (
+                  <span className="ticker-sep">◆</span>
+                )}
+              </span>
+            );
+          })}
+        </div>
+      </div>
+    </div>
+  );
+}
+
+// ─────────────────────────────────────────────────────────────────────────────
 // COMPONENTS
 // ─────────────────────────────────────────────────────────────────────────────
 
@@ -183,13 +290,10 @@ function Row({ s, pos, total }) {
       <div className="col-pos">{pos + 1}</div>
 
       <div className="col-club">
-        <div className="pip" style={{ background: meta.color, color: meta.text }}>{s.name}</div>
-        <div className="club-info">
-          <div className="club-name">{s.name}</div>
-          {sev === "incident" && <div className="status-tag incident">⚠ {s.currentDetail}</div>}
-          {sev === "minor"    && <div className="status-tag minor">~ {s.currentDetail}</div>}
-          {sev === "clear" && s.checks === 0 && <div className="no-data-tag">awaiting first check</div>}
+        <div className="pip" style={{ background: meta.color, color: meta.text }}>
+          {s.name}
         </div>
+        <div className="club-name">{s.name}</div>
       </div>
 
       <div className="col-pts-wrap">
@@ -200,7 +304,9 @@ function Row({ s, pos, total }) {
       </div>
 
       <div className="col-form">
-        {form.map((r, i) => <div key={i} className={`fd ${r ?? "none"}`}>{r ?? ""}</div>)}
+        {form.map((r, i) => (
+          <div key={i} className={`fd ${r ?? "none"}`}>{r ?? ""}</div>
+        ))}
       </div>
 
       <div className="col-season">
@@ -269,9 +375,7 @@ export default function App() {
     if (manual) setRefreshing(true);
     cdRef.current = REFRESH_SEC;
     setCountdown(REFRESH_SEC);
-
     try {
-      // cache-bust so browsers don't serve stale data
       const res = await fetch(`${STATUS_URL}?t=${Date.now()}`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
       const json = await res.json();
@@ -305,12 +409,8 @@ export default function App() {
   const incCount = standings?.filter(s => s.currentSeverity === "incident").length ?? 0;
   const altCount = standings?.filter(s => s.currentSeverity === "minor").length ?? 0;
 
-  const updatedStr = updated
-    ? updated.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit" })
-    : "—";
-  const updatedDateStr = updated
-    ? updated.toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short" })
-    : "—";
+  const updatedStr = updated?.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit" }) ?? "—";
+  const updatedDateStr = updated?.toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short" }) ?? "—";
 
   return (
     <div className="app">
@@ -354,7 +454,6 @@ export default function App() {
             </button>
           </div>
         </div>
-
         <div className="countdown-wrap">
           <div className="countdown-inner">
             <div className="cd-label">Next reload</div>
@@ -366,9 +465,9 @@ export default function App() {
         </div>
       </div>
 
-      {err && (
-        <div className="err-box">⚠ {err} — check your connection or try refreshing</div>
-      )}
+      {standings && <Ticker standings={standings} />}
+
+      {err && <div className="err-box">⚠ {err} — check your connection or try refreshing</div>}
 
       {loading ? (
         <div className="state">
