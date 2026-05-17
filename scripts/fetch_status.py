@@ -160,7 +160,7 @@ def scrape_pages():
         try:
             page.goto(
                 "https://www.tmb.cat/en/barcelona-transport/status-metro-network",
-                wait_until="networkidle",
+                wait_until="domcontentloaded",
                 timeout=30000,
             )
 
