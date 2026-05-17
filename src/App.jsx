@@ -435,7 +435,7 @@ export default function App() {
         <div className="hdr-top">
           <div className="hdr-badge">
             <div className="hdr-badge-sup">BCN Metro</div>
-            <div className="hdr-badge-title">League</div>
+            <div className="hdr-badge-title">Liga</div>
           </div>
           <div className="hdr-mid">
             <div className="hdr-season">
