@@ -16,15 +16,16 @@ POINTS = {"W": 3, "D": 1, "L": 0}
 DATA_FILE = Path("data/status.json")
 
 INCIDENT_KEYWORDS = [
-    "incident", "interrupció", "interrupcio", "suspension", "suspended",
-    "delayed", "avaria", "avería", "service disruption", "no service",
+    "service suspended", "service interrupted", "no service",
+    "interrupció del servei", "servei interromput",
+    "trains not running", "line closed",
 ]
 MINOR_KEYWORDS = [
-    "escalator", "lift", "elevator", "ascensor", "passage", "pas tancat",
-    "works", "obres", "closed", "tancat", "alteration", "alteració",
-    "access", "accés", "stairs", "notice", "avís",
+    "escalator", "ascensor", "lift out", "elevator out",
+    "passage closed", "pas tancat", "passageway closed",
+    "station closed", "access closed", "accés tancat",
+    "closed for works", "tancat per obres",
 ]
-
 def load_existing():
     if DATA_FILE.exists():
         try:
