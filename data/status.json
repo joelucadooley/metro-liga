@@ -1,86 +1,92 @@
 {
-  "matchday": 3,
-  "updated": "2026-05-17T20:59:34.870704+00:00",
+  "matchday": 4,
+  "updated": "2026-05-17T21:06:20.911139+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "Add to favourites the line L1 Add to favourites the line L1 L1 Hospital de Bellvitge / Fondo",
-      "seasonPts": 4,
-      "checks": 3,
-      "wins": 1,
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 7,
+      "checks": 4,
+      "wins": 2,
       "draws": 1,
       "losses": 1,
       "recentForm": [
         "L",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "Add to favourites the line L2 Add to favourites the line L2 L2 Paral·lel / Badalona Pompeu Fabra",
-      "seasonPts": 4,
-      "checks": 3,
-      "wins": 1,
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 7,
+      "checks": 4,
+      "wins": 2,
       "draws": 1,
       "losses": 1,
       "recentForm": [
         "L",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "Add to favourites the line L3 Add to favourites the line L3 L3 Zona Universitària / Trinitat Nova",
-      "seasonPts": 4,
-      "checks": 3,
-      "wins": 1,
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 7,
+      "checks": 4,
+      "wins": 2,
       "draws": 1,
       "losses": 1,
       "recentForm": [
         "L",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "Add to favourites the line L4 Add to favourites the line L4 L4 La Pau / Trinitat Nova",
-      "seasonPts": 4,
-      "checks": 3,
-      "wins": 1,
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 7,
+      "checks": 4,
+      "wins": 2,
       "draws": 1,
       "losses": 1,
       "recentForm": [
         "L",
         "W",
-        "D"
+        "D",
+        "W"
       ]
     },
     "L5": {
-      "severity": "incident",
+      "severity": "clear",
       "description": null,
-      "seasonPts": 3,
-      "checks": 3,
-      "wins": 1,
+      "seasonPts": 6,
+      "checks": 4,
+      "wins": 2,
       "draws": 0,
       "losses": 2,
       "recentForm": [
         "L",
         "W",
-        "L"
+        "L",
+        "W"
       ]
     },
     "L9N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 9,
-      "checks": 3,
-      "wins": 3,
+      "seasonPts": 12,
+      "checks": 4,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W",
         "W",
         "W"
@@ -89,12 +95,13 @@
     "L9S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 9,
-      "checks": 3,
-      "wins": 3,
+      "seasonPts": 12,
+      "checks": 4,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W",
         "W",
         "W"
@@ -103,12 +110,13 @@
     "L10N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 9,
-      "checks": 3,
-      "wins": 3,
+      "seasonPts": 12,
+      "checks": 4,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W",
         "W",
         "W"
@@ -117,13 +125,14 @@
     "L10S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 7,
-      "checks": 3,
-      "wins": 2,
+      "seasonPts": 10,
+      "checks": 4,
+      "wins": 3,
       "draws": 1,
       "losses": 0,
       "recentForm": [
         "D",
+        "W",
         "W",
         "W"
       ]
@@ -131,12 +140,13 @@
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 9,
-      "checks": 3,
-      "wins": 3,
+      "seasonPts": 12,
+      "checks": 4,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W",
         "W",
         "W"
