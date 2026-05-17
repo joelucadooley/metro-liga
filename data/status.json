@@ -1,93 +1,93 @@
 {
-  "matchday": 6,
-  "updated": "2026-05-17T21:55:25.220307+00:00",
+  "matchday": 7,
+  "updated": "2026-05-17T22:01:44.306181+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 11,
-      "checks": 6,
+      "severity": "minor",
+      "description": "Plaça de Sants · From · 27.04.2026 · , until · 27.03.2027 · Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work. The link must be made from the outside. · Can Serra · From · 01.05.2026 · , until · 20.05.2026 · Until 21",
+      "seasonPts": 12,
+      "checks": 7,
       "wins": 3,
-      "draws": 2,
+      "draws": 3,
       "losses": 1,
       "recentForm": [
-        "W",
         "D",
         "D",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 11,
-      "checks": 6,
+      "severity": "minor",
+      "description": "Monumental · From · 12.05.2026 · , until · 02.06.2026 · Until approximately June 2, the escalator that goes up from the platform towards Badalona Pompeu Fabra to the lobby of Monumental station will be out of service for improvement work. · L3 · Zona Universitària / Trinitat Nova · Normal service · ",
+      "seasonPts": 12,
+      "checks": 7,
       "wins": 3,
-      "draws": 2,
+      "draws": 3,
       "losses": 1,
       "recentForm": [
-        "W",
         "D",
         "D",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 11,
-      "checks": 6,
+      "severity": "minor",
+      "description": "Maria Cristina · From · 12.05.2026 · , until · 22.05.2026 · Until approximately May 22nd, the elevator that connects the platform towards Zona Universitària with the lobby of Maria Cristina station will be out of service for improvement works. · L4 · La Pau / Trinitat Nova · Normal service · Disrupt",
+      "seasonPts": 12,
+      "checks": 7,
       "wins": 3,
-      "draws": 2,
+      "draws": 3,
       "losses": 1,
       "recentForm": [
-        "W",
         "D",
         "D",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 11,
-      "checks": 6,
+      "severity": "minor",
+      "description": "Verdaguer · From · 09.10.2025 · , until · 30.08.2026 · From 13/10/2025, and for approximately 12 months, the connecting passageway between lines L4 and L5 at Verdaguer station is closed for works. The link must be made from the outside. · More info: · Connection between L4 and L5 closed at Verdaguer",
+      "seasonPts": 12,
+      "checks": 7,
       "wins": 3,
-      "draws": 2,
+      "draws": 3,
       "losses": 1,
       "recentForm": [
-        "W",
         "D",
         "D",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     "L5": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 10,
-      "checks": 6,
+      "severity": "minor",
+      "description": "Badal · From · 12.05.2026 · , until · 09.06.2026 · Until approximately June 9th, the escalator that goes up from the platform towards Cornellà Centre to the lobby of the Carrer de Sants access, at Badal station, will be out of service for improvement work. · Sants Estació · From · 12.05.2026 · , unt",
+      "seasonPts": 11,
+      "checks": 7,
       "wins": 3,
-      "draws": 1,
+      "draws": 2,
       "losses": 2,
       "recentForm": [
-        "W",
         "L",
         "D",
         "W",
-        "W"
+        "W",
+        "D"
       ]
     },
     "L9N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 18,
-      "checks": 6,
-      "wins": 6,
+      "seasonPts": 21,
+      "checks": 7,
+      "wins": 7,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -101,9 +101,9 @@
     "L9S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 18,
-      "checks": 6,
-      "wins": 6,
+      "seasonPts": 21,
+      "checks": 7,
+      "wins": 7,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -117,9 +117,9 @@
     "L10N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 18,
-      "checks": 6,
-      "wins": 6,
+      "seasonPts": 21,
+      "checks": 7,
+      "wins": 7,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -133,9 +133,9 @@
     "L10S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 16,
-      "checks": 6,
-      "wins": 5,
+      "seasonPts": 19,
+      "checks": 7,
+      "wins": 6,
       "draws": 1,
       "losses": 0,
       "recentForm": [
@@ -149,9 +149,9 @@
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 18,
-      "checks": 6,
-      "wins": 6,
+      "seasonPts": 21,
+      "checks": 7,
+      "wins": 7,
       "draws": 0,
       "losses": 0,
       "recentForm": [
