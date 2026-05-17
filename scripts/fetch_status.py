@@ -2,10 +2,14 @@
 """
 Scrapes TMB Barcelona metro status pages and updates data/status.json.
 Runs via GitHub Actions every 5 minutes. No API costs.
+
+Classification logic:
+- Traffic: "Normal service" + Stations: no Disruption = W (3pts)
+- Traffic: "Normal service" + Stations: Disruption    = D (1pt)
+- Traffic: anything else                              = L (0pts)
 """
 
 import json
-import re
 from pathlib import Path
 from datetime import datetime, timezone
 from playwright.sync_api import sync_playwright
@@ -15,17 +19,7 @@ LINES = ["L1", "L2", "L3", "L4", "L5", "L9N", "L9S", "L10N", "L10S", "L11"]
 POINTS = {"W": 3, "D": 1, "L": 0}
 DATA_FILE = Path("data/status.json")
 
-INCIDENT_KEYWORDS = [
-    "service suspended", "service interrupted", "no service",
-    "interrupció del servei", "servei interromput",
-    "trains not running", "line closed",
-]
-MINOR_KEYWORDS = [
-    "escalator", "ascensor", "lift out", "elevator out",
-    "passage closed", "pas tancat", "passageway closed",
-    "station closed", "access closed", "accés tancat",
-    "closed for works", "tancat per obres",
-]
+
 def load_existing():
     if DATA_FILE.exists():
         try:
@@ -37,72 +31,96 @@ def load_existing():
         "updated": None,
         "lines": {
             n: {
-                "severity": "clear", "description": None,
-                "seasonPts": 0, "checks": 0,
-                "wins": 0, "draws": 0, "losses": 0,
+                "severity": "clear",
+                "description": None,
+                "seasonPts": 0,
+                "checks": 0,
+                "wins": 0,
+                "draws": 0,
+                "losses": 0,
                 "recentForm": [],
             }
             for n in LINES
         },
     }
 
-def classify(snippet):
-    s = snippet.lower()
-    if any(k in s for k in INCIDENT_KEYWORDS):
-        return "incident"
-    if any(k in s for k in MINOR_KEYWORDS):
-        return "minor"
-    return "clear"
 
 def scrape_pages():
     status = {n: {"severity": "clear", "description": None} for n in LINES}
 
-    urls = [
-        "https://www.tmb.cat/en/barcelona-transport/status-metro-network",
-        "https://www.tmb.cat/en/barcelona-transport/service-notices",
-    ]
-
     with sync_playwright() as p:
         browser = p.chromium.launch()
+        page = browser.new_page()
 
-        for url in urls:
-            try:
-                page = browser.new_page()
-                # Wait for network to settle so Angular has time to render
-                page.goto(url, wait_until="networkidle", timeout=30000)
-                html = page.content()
-                page.close()
+        try:
+            page.goto(
+                "https://www.tmb.cat/en/barcelona-transport/status-metro-network",
+                wait_until="networkidle",
+                timeout=30000,
+            )
+            html = page.content()
+            soup = BeautifulSoup(html, "html.parser")
+            text = soup.get_text(separator="\n", strip=True)
+            lines_text = text.split("\n")
 
-                soup = BeautifulSoup(html, "html.parser")
-                text = soup.get_text(separator=" ", strip=True)
+            current_line = None
 
+            for i, chunk in enumerate(lines_text):
+                chunk = chunk.strip()
+
+                # Detect which line we're looking at
                 for line in LINES:
-                    pattern = rf"\b{re.escape(line)}\b"
-                    for m in re.finditer(pattern, text, re.IGNORECASE):
-                        pos = m.start()
-                        # Read 300 chars around each line mention
-                        snippet = text[max(0, pos - 60): pos + 300]
-                        sev = classify(snippet)
+                    if chunk == line or chunk.startswith(line + " "):
+                        current_line = line
+                        break
 
-                        # Only upgrade severity, never downgrade
-                        current = status[line]["severity"]
-                        if sev == "incident" and current != "incident":
-                            status[line] = {
-                                "severity": "incident",
-                                "description": snippet.strip()[:140],
-                            }
-                        elif sev == "minor" and current == "clear":
-                            status[line] = {
-                                "severity": "minor",
-                                "description": snippet.strip()[:140],
-                            }
+                if current_line is None:
+                    continue
 
-            except Exception as e:
-                print(f"  Warning: could not scrape {url}: {e}")
+                # Look at the next 30 lines for Traffic and Stations sections
+                window = "\n".join(lines_text[i: i + 30])
 
-        browser.close()
+                has_normal_service = "Normal service" in window
+                has_disruption = "Disruption" in window
 
+                if has_normal_service and has_disruption:
+                    severity = "minor"
+                elif has_normal_service:
+                    severity = "clear"
+                else:
+                    severity = "incident"
+
+                # Extract disruption description
+                desc = None
+                if has_disruption:
+                    for j in range(i, min(i + 30, len(lines_text))):
+                        if "Disruption" in lines_text[j]:
+                            desc_lines = [
+                                l.strip()
+                                for l in lines_text[j + 1: j + 5]
+                                if l.strip()
+                            ]
+                            desc = " ".join(desc_lines)[:200] or None
+                            break
+
+                # Only update if we haven't already set this line
+                # (take the worst severity seen)
+                current = status[current_line]["severity"]
+                if severity == "incident" or current == "clear":
+                    status[current_line] = {
+                        "severity": severity,
+                        "description": desc,
+                    }
+
+        except Exception as e:
+            print(f"  Warning: scrape failed: {e}")
+
+        finally:
+            browser.close()
+
+    print(f"  Scraped: {status}")
     return status
+
 
 def update_scores(existing, new_status):
     lines = existing.get("lines", {})
@@ -113,18 +131,25 @@ def update_scores(existing, new_status):
         sev = s["severity"]
         result = "L" if sev == "incident" else "D" if sev == "minor" else "W"
         pts = POINTS[result]
-        prev = lines.get(name, {
-            "seasonPts": 0, "checks": 0,
-            "wins": 0, "draws": 0, "losses": 0, "recentForm": [],
-        })
+        prev = lines.get(
+            name,
+            {
+                "seasonPts": 0,
+                "checks": 0,
+                "wins": 0,
+                "draws": 0,
+                "losses": 0,
+                "recentForm": [],
+            },
+        )
         lines[name] = {
             "severity": sev,
             "description": s["description"],
             "seasonPts": prev.get("seasonPts", 0) + pts,
-            "checks":    prev.get("checks",    0) + 1,
-            "wins":      prev.get("wins",      0) + (1 if result == "W" else 0),
-            "draws":     prev.get("draws",     0) + (1 if result == "D" else 0),
-            "losses":    prev.get("losses",    0) + (1 if result == "L" else 0),
+            "checks": prev.get("checks", 0) + 1,
+            "wins": prev.get("wins", 0) + (1 if result == "W" else 0),
+            "draws": prev.get("draws", 0) + (1 if result == "D" else 0),
+            "losses": prev.get("losses", 0) + (1 if result == "L" else 0),
             "recentForm": (prev.get("recentForm", []) + [result])[-5:],
         }
 
@@ -134,6 +159,7 @@ def update_scores(existing, new_status):
         "lines": lines,
     }
 
+
 def main():
     DATA_FILE.parent.mkdir(exist_ok=True)
     print("Loading existing data...")
@@ -142,7 +168,6 @@ def main():
     print("Scraping TMB pages...")
     try:
         new_status = scrape_pages()
-        print(f"  Scraped: {new_status}")
         result = update_scores(existing, new_status)
     except Exception as e:
         print(f"Scraping failed: {e}")
@@ -151,6 +176,7 @@ def main():
 
     DATA_FILE.write_text(json.dumps(result, indent=2, ensure_ascii=False))
     print(f"Saved {DATA_FILE} — matchday {result.get('matchday', '?')}")
+
 
 if __name__ == "__main__":
     main()
