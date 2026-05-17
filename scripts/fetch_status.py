@@ -7,6 +7,18 @@ Classification logic:
 - Traffic: "Normal service" + Stations: no Disruption = W (3pts)
 - Traffic: "Normal service" + Stations: Disruption    = D (1pt)
 - Traffic: anything other than "Normal service"       = L (0pts)
+
+The real line section always has the pattern:
+  L5
+  Cornellà Centre / Vall d'Hebron
+  Traffic
+  Normal service / [incident text]
+  ...
+  Stations
+  Disruption (if any)
+
+Cross-references like "passageway between L1 and L5" do NOT have "Traffic"
+following them, so we skip those.
 """
 
 import json
@@ -46,33 +58,45 @@ def load_existing():
     }
 
 
-def extract_line_sections(text):
+def find_real_sections(text):
     """
-    Split the full page text into per-line sections.
-    Each section starts when we see a line identifier like 'L1', 'L9N' etc.
-    Returns dict: { "L1": "...text for L1 section...", ... }
+    Find each line's real status section by looking for the pattern:
+      <LINE>\n<route>\nTraffic\n<status>
+    Cross-references in other lines' disruption text won't have 'Traffic'
+    following them within a few lines.
+    Returns dict: { "L1": "...section text...", ... }
     """
-    pattern = r'(?<!\w)(' + '|'.join(re.escape(l) for l in LINES) + r')(?!\w)'
     sections = {}
-    matches = list(re.finditer(pattern, text))
+    lines_list = text.split("\n")
 
-    for i, m in enumerate(matches):
-        line = m.group(1)
-        start = m.start()
-        end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
-        section = text[start:end]
+    for i, chunk in enumerate(lines_list):
+        chunk = chunk.strip()
 
-        # Only keep the first occurrence of each line
-        # (later occurrences are cross-references in other lines' text)
-        if line not in sections:
-            sections[line] = section
+        # Check if this line starts with a line identifier
+        for line in LINES:
+            if chunk == line:
+                # Look ahead — the real section has "Traffic" within 5 lines
+                lookahead = "\n".join(lines_list[i:i+6])
+                if "Traffic" in lookahead and line not in sections:
+                    # This is the real section — grab until the next real section
+                    # Find end: next line identifier that also has Traffic after it
+                    end = len(lines_list)
+                    for j in range(i+1, len(lines_list)):
+                        next_chunk = lines_list[j].strip()
+                        if next_chunk in LINES:
+                            next_look = "\n".join(lines_list[j:j+6])
+                            if "Traffic" in next_look:
+                                end = j
+                                break
+                    sections[line] = "\n".join(lines_list[i:end])
+                break
 
     return sections
 
 
 def classify_section(section):
     """
-    Given a line's text section, return (severity, description).
+    Given a line's real section text, return (severity, description).
     """
     has_normal_service = "Normal service" in section
     has_disruption = "Disruption" in section
@@ -84,13 +108,16 @@ def classify_section(section):
     else:
         severity = "incident"
 
-    # Extract description: grab text after "Disruption" heading
+    # Extract description from after "Stations\nDisruption"
     desc = None
-    if has_disruption:
+    if has_disruption and "Stations" in section:
         after = section[section.index("Disruption"):]
         raw = after[len("Disruption"):].strip()
         # Remove UI noise
-        raw = re.sub(r'Add to favourites[^\n]*', '', raw)
+        raw = re.sub(r'Add to favourites[^\n]*\n?', '', raw)
+        raw = re.sub(r'See information on this line\n?', '', raw)
+        # Collapse whitespace but keep some structure
+        raw = re.sub(r'\n+', ' · ', raw).strip()
         raw = re.sub(r'\s+', ' ', raw).strip()
         desc = raw[:300] or None
 
@@ -116,13 +143,18 @@ def scrape_pages():
                 tag.decompose()
             text = soup.get_text(separator="\n", strip=True)
 
-            sections = extract_line_sections(text)
-            print(f"  Found sections for: {list(sections.keys())}")
+            sections = find_real_sections(text)
+            print(f"  Found real sections for: {list(sections.keys())}")
 
             for line, section in sections.items():
                 severity, desc = classify_section(section)
                 status[line] = {"severity": severity, "description": desc}
                 print(f"  {line}: {severity} — {(desc or '')[:80]}")
+
+            # Report any missing lines
+            missing = [l for l in LINES if l not in sections]
+            if missing:
+                print(f"  Warning: no real section found for {missing}")
 
         except Exception as e:
             print(f"  Warning: scrape failed: {e}")
