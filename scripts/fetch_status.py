@@ -9,16 +9,13 @@ Classification logic:
 - Traffic: anything other than "Normal service"       = L (0pts)
 
 The real line section always has the pattern:
-  L5
-  Cornellà Centre / Vall d'Hebron
+  L1
+  Hospital de Bellvitge / Fondo
   Traffic
-  Normal service / [incident text]
+  Normal service
   ...
   Stations
   Disruption (if any)
-
-Cross-references like "passageway between L1 and L5" do NOT have "Traffic"
-following them, so we skip those.
 """
 
 import json
@@ -64,27 +61,21 @@ def find_real_sections(text):
       <LINE>\n<route>\nTraffic\n<status>
     Cross-references in other lines' disruption text won't have 'Traffic'
     following them within a few lines.
-    Returns dict: { "L1": "...section text...", ... }
     """
     sections = {}
     lines_list = text.split("\n")
 
     for i, chunk in enumerate(lines_list):
         chunk = chunk.strip()
-
-        # Check if this line starts with a line identifier
         for line in LINES:
             if chunk == line:
-                # Look ahead — the real section has "Traffic" within 5 lines
-                lookahead = "\n".join(lines_list[i:i+6])
+                lookahead = "\n".join(lines_list[i:i + 6])
                 if "Traffic" in lookahead and line not in sections:
-                    # This is the real section — grab until the next real section
-                    # Find end: next line identifier that also has Traffic after it
                     end = len(lines_list)
-                    for j in range(i+1, len(lines_list)):
+                    for j in range(i + 1, len(lines_list)):
                         next_chunk = lines_list[j].strip()
                         if next_chunk in LINES:
-                            next_look = "\n".join(lines_list[j:j+6])
+                            next_look = "\n".join(lines_list[j:j + 6])
                             if "Traffic" in next_look:
                                 end = j
                                 break
@@ -95,9 +86,6 @@ def find_real_sections(text):
 
 
 def classify_section(section):
-    """
-    Given a line's real section text, return (severity, description).
-    """
     has_normal_service = "Normal service" in section
     has_disruption = "Disruption" in section
 
@@ -108,15 +96,12 @@ def classify_section(section):
     else:
         severity = "incident"
 
-    # Extract description from after "Stations\nDisruption"
     desc = None
     if has_disruption and "Stations" in section:
         after = section[section.index("Disruption"):]
         raw = after[len("Disruption"):].strip()
-        # Remove UI noise
         raw = re.sub(r'Add to favourites[^\n]*\n?', '', raw)
         raw = re.sub(r'See information on this line\n?', '', raw)
-        # Collapse whitespace but keep some structure
         raw = re.sub(r'\n+', ' · ', raw).strip()
         raw = re.sub(r'\s+', ' ', raw).strip()
         desc = raw[:300] or None
@@ -130,9 +115,9 @@ def scrape_pages():
     with sync_playwright() as p:
         browser = p.chromium.launch()
         page = browser.new_page(
-    locale="en-GB",
-    extra_http_headers={"Accept-Language": "en-GB,en;q=0.9"}
-)
+            locale="en-GB",
+            extra_http_headers={"Accept-Language": "en-GB,en;q=0.9"}
+        )
 
         try:
             page.goto(
@@ -146,6 +131,13 @@ def scrape_pages():
                 tag.decompose()
             text = soup.get_text(separator="\n", strip=True)
 
+            # Debug: print a sample of the page text so we can see what GitHub gets
+            print(f"  Page length: {len(text)} chars")
+            print(f"  Contains 'Traffic': {'Traffic' in text}")
+            print(f"  Contains 'Normal service': {'Normal service' in text}")
+            print(f"  Contains 'Disruption': {'Disruption' in text}")
+            print(f"  Sample (3000-3600): {repr(text[3000:3600])}")
+
             sections = find_real_sections(text)
             print(f"  Found real sections for: {list(sections.keys())}")
 
@@ -154,10 +146,9 @@ def scrape_pages():
                 status[line] = {"severity": severity, "description": desc}
                 print(f"  {line}: {severity} — {(desc or '')[:80]}")
 
-            # Report any missing lines
             missing = [l for l in LINES if l not in sections]
             if missing:
-                print(f"  Warning: no real section found for {missing}")
+                print(f"  Clean lines (not on page): {missing}")
 
         except Exception as e:
             print(f"  Warning: scrape failed: {e}")
@@ -177,17 +168,10 @@ def update_scores(existing, new_status):
         sev = s["severity"]
         result = "L" if sev == "incident" else "D" if sev == "minor" else "W"
         pts = POINTS[result]
-        prev = lines.get(
-            name,
-            {
-                "seasonPts": 0,
-                "checks": 0,
-                "wins": 0,
-                "draws": 0,
-                "losses": 0,
-                "recentForm": [],
-            },
-        )
+        prev = lines.get(name, {
+            "seasonPts": 0, "checks": 0,
+            "wins": 0, "draws": 0, "losses": 0, "recentForm": [],
+        })
         lines[name] = {
             "severity": sev,
             "description": s["description"],
