@@ -7,15 +7,6 @@ Classification logic:
 - Traffic: "Normal service" + Stations: no Disruption = W (3pts)
 - Traffic: "Normal service" + Stations: Disruption    = D (1pt)
 - Traffic: anything other than "Normal service"       = L (0pts)
-
-The real line section always has the pattern:
-  L1
-  Hospital de Bellvitge / Fondo
-  Traffic
-  Normal service
-  ...
-  Stations
-  Disruption (if any)
 """
 
 import json
@@ -53,6 +44,34 @@ def load_existing():
             for n in LINES
         },
     }
+
+
+def dismiss_cookies(page):
+    """Try to dismiss any cookie consent banner."""
+    try:
+        # Common cookie accept button patterns
+        for selector in [
+            "button[id*='accept']",
+            "button[class*='accept']",
+            "button[id*='cookie']",
+            "button[class*='cookie']",
+            "[id*='accept-all']",
+            "[class*='accept-all']",
+            "button:has-text('Accept')",
+            "button:has-text('Acceptar')",
+            "button:has-text('Accepto')",
+            "button:has-text('D\'acord')",
+            "button:has-text('Agree')",
+        ]:
+            btn = page.query_selector(selector)
+            if btn and btn.is_visible():
+                btn.click()
+                page.wait_for_timeout(1000)
+                print(f"  Dismissed cookie banner with: {selector}")
+                return True
+    except Exception as e:
+        print(f"  Cookie dismissal attempt failed: {e}")
+    return False
 
 
 def find_real_sections(text):
@@ -114,10 +133,29 @@ def scrape_pages():
 
     with sync_playwright() as p:
         browser = p.chromium.launch()
-        page = browser.new_page(
+        context = browser.new_context(
             locale="en-GB",
-            extra_http_headers={"Accept-Language": "en-GB,en;q=0.9"}
+            extra_http_headers={"Accept-Language": "en-GB,en;q=0.9"},
+            # Pre-accept cookies via storage state to bypass banner
         )
+
+        # Set cookie consent cookies before navigating
+        context.add_cookies([
+            {
+                "name": "CookieConsent",
+                "value": "true",
+                "domain": ".tmb.cat",
+                "path": "/",
+            },
+            {
+                "name": "cookies_accepted",
+                "value": "1",
+                "domain": ".tmb.cat",
+                "path": "/",
+            },
+        ])
+
+        page = context.new_page()
 
         try:
             page.goto(
@@ -125,18 +163,25 @@ def scrape_pages():
                 wait_until="networkidle",
                 timeout=30000,
             )
+
+            # Try to dismiss cookie banner just in case
+            dismiss_cookies(page)
+
+            # Wait a bit more for content to load after any dismissal
+            page.wait_for_timeout(2000)
+
             html = page.content()
             soup = BeautifulSoup(html, "html.parser")
             for tag in soup(["script", "style", "noscript"]):
                 tag.decompose()
             text = soup.get_text(separator="\n", strip=True)
 
-            # Debug: print a sample of the page text so we can see what GitHub gets
+            # Debug output
             print(f"  Page length: {len(text)} chars")
             print(f"  Contains 'Traffic': {'Traffic' in text}")
             print(f"  Contains 'Normal service': {'Normal service' in text}")
             print(f"  Contains 'Disruption': {'Disruption' in text}")
-            print(f"  Sample (3000-3600): {repr(text[3000:3600])}")
+            print(f"  Sample (2000-2500): {repr(text[2000:2500])}")
 
             sections = find_real_sections(text)
             print(f"  Found real sections for: {list(sections.keys())}")
