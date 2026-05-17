@@ -36,6 +36,66 @@ Error generating stack: `+e.message+`
 .cd-fill { height: 2px; background: #E3000B; border-radius: 1px; transition: width 1s linear; opacity: 0.4; }
 .cd-num { font-family: 'JetBrains Mono', monospace; font-size: 0.5rem; color: #1e1e1e; flex-shrink: 0; min-width: 28px; text-align: right; }
 
+/* ── Scrolling ticker ── */
+.ticker-wrap {
+  background: #0a0a0d;
+  border-bottom: 1px solid #181820;
+  overflow: hidden;
+  height: 28px;
+  display: flex;
+  align-items: center;
+}
+.ticker-label {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.52rem;
+  letter-spacing: 0.15em;
+  text-transform: uppercase;
+  color: #886020;
+  padding: 0 1rem;
+  flex-shrink: 0;
+  border-right: 1px solid #1e1e10;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  background: #0a0a0d;
+  z-index: 1;
+}
+.ticker-label.incident { color: #8a2020; border-right-color: #1e1010; }
+.ticker-track { flex: 1; overflow: hidden; position: relative; }
+.ticker-inner {
+  display: flex;
+  white-space: nowrap;
+  animation: ticker-scroll 40s linear infinite;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.58rem;
+  color: #555;
+  gap: 0;
+}
+.ticker-inner:hover { animation-play-state: paused; }
+@keyframes ticker-scroll {
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
+}
+.ticker-item {
+  padding: 0 2rem;
+  display: inline-flex;
+  align-items: center;
+  gap: 0.5rem;
+  flex-shrink: 0;
+}
+.ticker-line-badge {
+  font-size: 0.48rem;
+  font-weight: 700;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+.ticker-sep { color: #2a2a2a; margin: 0 1rem; }
+
 /* ── Error ── */
 .err-box { padding: 0.6rem 1.3rem; background: #130808; border-bottom: 1px solid #2a0e0e; font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; color: #6a3030; }
 
@@ -50,21 +110,26 @@ Error generating stack: `+e.message+`
 .zone-sep.mid   { color: #1c1c24; border-left-color: #1a1a22; }
 .zone-sep.releg { color: #5a1a1a; border-left-color: #5a1a1a; }
 
-.row { display: grid; grid-template-columns: 38px minmax(0,1fr) 64px 120px 90px 52px; padding: 0 1.3rem; border-bottom: 1px solid #0e0e14; align-items: center; border-left: 2px solid transparent; transition: background 0.12s; min-height: 54px; }
+.row {
+  display: grid;
+  grid-template-columns: 38px minmax(0,1fr) 64px 120px 90px 52px;
+  padding: 0 1.3rem;
+  border-bottom: 1px solid #0e0e14;
+  align-items: center;
+  border-left: 2px solid transparent;
+  transition: background 0.12s;
+  height: 52px; /* fixed height — no content pushes rows taller */
+}
 .row:hover { background: #0e0e14; }
 .row.top   { border-left-color: #1e3a1e; }
 .row.mid   { border-left-color: #141420; }
 .row.releg { border-left-color: #3a1010; }
 
 .col-pos { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: #222; }
-.col-club { display: flex; align-items: center; gap: 0.65rem; min-width: 0; padding: 0.4rem 0; }
+
+.col-club { display: flex; align-items: center; gap: 0.65rem; min-width: 0; overflow: hidden; }
 .pip { width: 30px; height: 30px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.56rem; font-weight: 700; flex-shrink: 0; }
-.club-info { min-width: 0; }
-.club-name { font-size: 0.95rem; font-weight: 600; color: #aaa; line-height: 1.1; }
-.status-tag { font-family: 'JetBrains Mono', monospace; font-size: 0.49rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; max-width: 180px; }
-.status-tag.incident { color: #8a2020; }
-.status-tag.minor    { color: #886020; }
-.no-data-tag { font-family: 'JetBrains Mono', monospace; font-size: 0.49rem; color: #252525; }
+.club-name { font-size: 0.95rem; font-weight: 600; color: #aaa; line-height: 1; white-space: nowrap; }
 
 .col-pts-wrap { text-align: right; }
 .col-pts { font-family: 'JetBrains Mono', monospace; font-size: 1.1rem; color: #bbb; line-height: 1; }
@@ -104,4 +169,4 @@ Error generating stack: `+e.message+`
   .col-form { display: none; }
   .countdown-wrap { padding-left: 0; }
 }
-`;function v({wins:e,draws:t,losses:n}){let r=e+t+n;if(!r)return(0,f.jsx)(`div`,{className:`seg-bar`});let i=e/r*100,a=t/r*100,o=n/r*100;return(0,f.jsxs)(`div`,{className:`seg-bar`,children:[e>0&&(0,f.jsx)(`div`,{className:`seg-w`,style:{width:`${i}%`}}),t>0&&(0,f.jsx)(`div`,{className:`seg-d`,style:{width:`${a}%`}}),n>0&&(0,f.jsx)(`div`,{className:`seg-l`,style:{width:`${o}%`}})]})}function y({s:e,pos:t,total:n}){let r=p[e.name]||{color:`#555`,text:`#fff`},i=t<3,a=t>=n-3,o=i?`top`:a?`releg`:`mid`,s=[...[,,,,,]].map((t,n)=>{let r=5-e.recentForm.length;return n>=r?e.recentForm[n-r]:null}),c=e.currentSeverity,l=c===`incident`?`now-incident`:c===`minor`?`now-minor`:`now-clear`,u=c===`incident`?`INC`:c===`minor`?`ALT`:`OK`,d=e.checks*3;return(0,f.jsxs)(`div`,{className:`row ${o}`,children:[(0,f.jsx)(`div`,{className:`col-pos`,children:t+1}),(0,f.jsxs)(`div`,{className:`col-club`,children:[(0,f.jsx)(`div`,{className:`pip`,style:{background:r.color,color:r.text},children:e.name}),(0,f.jsxs)(`div`,{className:`club-info`,children:[(0,f.jsx)(`div`,{className:`club-name`,children:e.name}),c===`incident`&&(0,f.jsxs)(`div`,{className:`status-tag incident`,children:[`⚠ `,e.currentDetail]}),c===`minor`&&(0,f.jsxs)(`div`,{className:`status-tag minor`,children:[`~ `,e.currentDetail]}),c===`clear`&&e.checks===0&&(0,f.jsx)(`div`,{className:`no-data-tag`,children:`awaiting first check`})]})]}),(0,f.jsxs)(`div`,{className:`col-pts-wrap`,children:[(0,f.jsx)(`div`,{className:`col-pts`,children:e.seasonPts}),(0,f.jsx)(`div`,{className:`col-record`,children:e.checks>0?`${e.wins}W ${e.draws}D ${e.losses}L`:`—`})]}),(0,f.jsx)(`div`,{className:`col-form`,children:s.map((e,t)=>(0,f.jsx)(`div`,{className:`fd ${e??`none`}`,children:e??``},t))}),(0,f.jsxs)(`div`,{className:`col-season`,children:[(0,f.jsx)(v,{wins:e.wins,draws:e.draws,losses:e.losses}),(0,f.jsx)(`div`,{className:`season-label`,children:d>0?`${Math.round(e.seasonPts/d*100)}% max pts`:`no data yet`})]}),(0,f.jsx)(`div`,{className:`col-now ${l}`,children:e.checks>0?u:`—`})]})}function b({standings:e}){let t=e.length,n=Math.max(t-3,3);return(0,f.jsxs)(`div`,{children:[(0,f.jsxs)(`div`,{className:`tbl-head`,children:[(0,f.jsx)(`div`,{className:`th`,children:`#`}),(0,f.jsx)(`div`,{className:`th`,children:`Line`}),(0,f.jsx)(`div`,{className:`th r`,children:`Pts`}),(0,f.jsx)(`div`,{className:`th c`,children:`Form`}),(0,f.jsx)(`div`,{className:`th r`,children:`Season`}),(0,f.jsx)(`div`,{className:`th r`,children:`Now`})]}),e.map((e,r)=>{let i=r===0?{txt:`Champions Metro Zone`,cls:`top`}:r===3?{txt:`Mid-table`,cls:`mid`}:r===n?{txt:`Relegation Zone`,cls:`releg`}:null;return(0,f.jsxs)(`div`,{children:[i&&(0,f.jsx)(`div`,{className:`zone-sep ${i.cls}`,children:i.txt}),(0,f.jsx)(y,{s:e,pos:r,total:t})]},e.name)}),(0,f.jsxs)(`div`,{className:`legend`,children:[(0,f.jsxs)(`div`,{className:`legend-item`,children:[(0,f.jsx)(`div`,{className:`legend-dot`,style:{background:`#2a7a2a`}}),`W = clean run (3 pts)`]}),(0,f.jsxs)(`div`,{className:`legend-item`,children:[(0,f.jsx)(`div`,{className:`legend-dot`,style:{background:`#7a6010`}}),`D = station alterations (1 pt)`]}),(0,f.jsxs)(`div`,{className:`legend-item`,children:[(0,f.jsx)(`div`,{className:`legend-dot`,style:{background:`#7a1a1a`}}),`L = service incident (0 pts)`]})]})]})}function x(){let[e,t]=(0,l.useState)(null),[n,r]=(0,l.useState)(!0),[i,a]=(0,l.useState)(!1),[o,s]=(0,l.useState)(null),[c,u]=(0,l.useState)(null),[d,p]=(0,l.useState)(h),v=(0,l.useRef)(h),y=(0,l.useRef)(!1),x=(0,l.useCallback)(async(e=!1)=>{if(!y.current){y.current=!0,e&&a(!0),v.current=h,p(h);try{let e=await fetch(`${m}?t=${Date.now()}`);if(!e.ok)throw Error(`HTTP ${e.status}`);t(await e.json()),u(new Date),s(null)}catch(e){s(e.message)}finally{r(!1),a(!1),y.current=!1}}},[]);(0,l.useEffect)(()=>{x();let e=setInterval(()=>{v.current=Math.max(0,v.current-1),p(v.current),v.current<=0&&x()},1e3);return()=>clearInterval(e)},[x]);let ee=e?.lines?g(e.lines):null,S=e?.matchday??0,C=e?.updated?new Date(e.updated):null,te=d/h*100,ne=ee?.filter(e=>e.currentSeverity===`incident`).length??0,re=ee?.filter(e=>e.currentSeverity===`minor`).length??0,w=C?C.toLocaleTimeString(`en-GB`,{hour:`2-digit`,minute:`2-digit`}):`—`,ie=C?C.toLocaleDateString(`en-GB`,{weekday:`short`,day:`numeric`,month:`short`}):`—`;return(0,f.jsxs)(`div`,{className:`app`,children:[(0,f.jsx)(`style`,{children:_}),(0,f.jsxs)(`div`,{className:`hdr`,children:[(0,f.jsxs)(`div`,{className:`hdr-top`,children:[(0,f.jsxs)(`div`,{className:`hdr-badge`,children:[(0,f.jsx)(`div`,{className:`hdr-badge-sup`,children:`BCN Metro`}),(0,f.jsx)(`div`,{className:`hdr-badge-title`,children:`League`})]}),(0,f.jsxs)(`div`,{className:`hdr-mid`,children:[(0,f.jsxs)(`div`,{className:`hdr-season`,children:[`Season 2025/26 · Matchday `,S,` · W=3 D=1 L=0`]}),(0,f.jsx)(`div`,{className:`hdr-info`,children:n?`Loading…`:o?`Could not load data`:ne>0?`${ne} incident${ne>1?`s`:``}, ${re} alteration${re===1?``:`s`}`:re>0?`All lines running · ${re} with station alterations`:S===0?`Waiting for first scraper run…`:`All lines clear`})]}),(0,f.jsxs)(`div`,{className:`hdr-right`,children:[(0,f.jsxs)(`div`,{className:`hdr-time`,children:[`TMB checked`,(0,f.jsx)(`br`,{}),ie,` `,w]}),(0,f.jsxs)(`button`,{className:`btn-refresh`,onClick:()=>x(!0),disabled:i||n,children:[(0,f.jsx)(`span`,{className:i?`spin`:``,children:`⟳`}),i?`Loading…`:`Refresh`]})]})]}),(0,f.jsx)(`div`,{className:`countdown-wrap`,children:(0,f.jsxs)(`div`,{className:`countdown-inner`,children:[(0,f.jsx)(`div`,{className:`cd-label`,children:`Next reload`}),(0,f.jsx)(`div`,{className:`cd-track`,children:(0,f.jsx)(`div`,{className:`cd-fill`,style:{width:`${te}%`}})}),(0,f.jsxs)(`div`,{className:`cd-num`,children:[d,`s`]})]})})]}),o&&(0,f.jsxs)(`div`,{className:`err-box`,children:[`⚠ `,o,` — check your connection or try refreshing`]}),n?(0,f.jsxs)(`div`,{className:`state`,children:[(0,f.jsx)(`div`,{className:`state-ico`,children:`🚇`}),(0,f.jsx)(`div`,{className:`state-msg`,children:`Loading metro league data…`})]}):ee?(0,f.jsx)(b,{standings:ee}):null,(0,f.jsx)(`div`,{className:`footer`,children:`Data scraped every 5 min from tmb.cat by GitHub Actions · Hosted free on GitHub Pages · W=3pts D=1pt L=0pts`})]})}(0,u.createRoot)(document.getElementById(`root`)).render((0,f.jsx)(l.StrictMode,{children:(0,f.jsx)(x,{})}));
+`;function v({standings:e}){let t=e.filter(e=>e.currentSeverity!==`clear`&&e.currentDetail);if(t.length===0)return null;let n=t.some(e=>e.currentSeverity===`incident`),r=n?`ticker-label incident`:`ticker-label`,i=n?`⚠ Incident`:`~ Alterations`,a=[...t,...t];return(0,f.jsxs)(`div`,{className:`ticker-wrap`,children:[(0,f.jsx)(`div`,{className:r,children:i}),(0,f.jsx)(`div`,{className:`ticker-track`,children:(0,f.jsx)(`div`,{className:`ticker-inner`,children:a.map((e,t)=>{let n=p[e.name]||{color:`#555`,text:`#fff`};return(0,f.jsxs)(`span`,{className:`ticker-item`,children:[(0,f.jsx)(`span`,{className:`ticker-line-badge`,style:{background:n.color,color:n.text},children:e.name}),e.currentDetail,t<a.length-1&&(0,f.jsx)(`span`,{className:`ticker-sep`,children:`◆`})]},t)})})})]})}function y({wins:e,draws:t,losses:n}){let r=e+t+n;if(!r)return(0,f.jsx)(`div`,{className:`seg-bar`});let i=e/r*100,a=t/r*100,o=n/r*100;return(0,f.jsxs)(`div`,{className:`seg-bar`,children:[e>0&&(0,f.jsx)(`div`,{className:`seg-w`,style:{width:`${i}%`}}),t>0&&(0,f.jsx)(`div`,{className:`seg-d`,style:{width:`${a}%`}}),n>0&&(0,f.jsx)(`div`,{className:`seg-l`,style:{width:`${o}%`}})]})}function b({s:e,pos:t,total:n}){let r=p[e.name]||{color:`#555`,text:`#fff`},i=t<3,a=t>=n-3,o=i?`top`:a?`releg`:`mid`,s=[...[,,,,,]].map((t,n)=>{let r=5-e.recentForm.length;return n>=r?e.recentForm[n-r]:null}),c=e.currentSeverity,l=c===`incident`?`now-incident`:c===`minor`?`now-minor`:`now-clear`,u=c===`incident`?`INC`:c===`minor`?`ALT`:`OK`,d=e.checks*3;return(0,f.jsxs)(`div`,{className:`row ${o}`,children:[(0,f.jsx)(`div`,{className:`col-pos`,children:t+1}),(0,f.jsxs)(`div`,{className:`col-club`,children:[(0,f.jsx)(`div`,{className:`pip`,style:{background:r.color,color:r.text},children:e.name}),(0,f.jsx)(`div`,{className:`club-name`,children:e.name})]}),(0,f.jsxs)(`div`,{className:`col-pts-wrap`,children:[(0,f.jsx)(`div`,{className:`col-pts`,children:e.seasonPts}),(0,f.jsx)(`div`,{className:`col-record`,children:e.checks>0?`${e.wins}W ${e.draws}D ${e.losses}L`:`—`})]}),(0,f.jsx)(`div`,{className:`col-form`,children:s.map((e,t)=>(0,f.jsx)(`div`,{className:`fd ${e??`none`}`,children:e??``},t))}),(0,f.jsxs)(`div`,{className:`col-season`,children:[(0,f.jsx)(y,{wins:e.wins,draws:e.draws,losses:e.losses}),(0,f.jsx)(`div`,{className:`season-label`,children:d>0?`${Math.round(e.seasonPts/d*100)}% max pts`:`no data yet`})]}),(0,f.jsx)(`div`,{className:`col-now ${l}`,children:e.checks>0?u:`—`})]})}function x({standings:e}){let t=e.length,n=Math.max(t-3,3);return(0,f.jsxs)(`div`,{children:[(0,f.jsxs)(`div`,{className:`tbl-head`,children:[(0,f.jsx)(`div`,{className:`th`,children:`#`}),(0,f.jsx)(`div`,{className:`th`,children:`Line`}),(0,f.jsx)(`div`,{className:`th r`,children:`Pts`}),(0,f.jsx)(`div`,{className:`th c`,children:`Form`}),(0,f.jsx)(`div`,{className:`th r`,children:`Season`}),(0,f.jsx)(`div`,{className:`th r`,children:`Now`})]}),e.map((e,r)=>{let i=r===0?{txt:`Champions Metro Zone`,cls:`top`}:r===3?{txt:`Mid-table`,cls:`mid`}:r===n?{txt:`Relegation Zone`,cls:`releg`}:null;return(0,f.jsxs)(`div`,{children:[i&&(0,f.jsx)(`div`,{className:`zone-sep ${i.cls}`,children:i.txt}),(0,f.jsx)(b,{s:e,pos:r,total:t})]},e.name)}),(0,f.jsxs)(`div`,{className:`legend`,children:[(0,f.jsxs)(`div`,{className:`legend-item`,children:[(0,f.jsx)(`div`,{className:`legend-dot`,style:{background:`#2a7a2a`}}),`W = clean run (3 pts)`]}),(0,f.jsxs)(`div`,{className:`legend-item`,children:[(0,f.jsx)(`div`,{className:`legend-dot`,style:{background:`#7a6010`}}),`D = station alterations (1 pt)`]}),(0,f.jsxs)(`div`,{className:`legend-item`,children:[(0,f.jsx)(`div`,{className:`legend-dot`,style:{background:`#7a1a1a`}}),`L = service incident (0 pts)`]})]})]})}function ee(){let[e,t]=(0,l.useState)(null),[n,r]=(0,l.useState)(!0),[i,a]=(0,l.useState)(!1),[o,s]=(0,l.useState)(null),[c,u]=(0,l.useState)(null),[d,p]=(0,l.useState)(h),y=(0,l.useRef)(h),b=(0,l.useRef)(!1),ee=(0,l.useCallback)(async(e=!1)=>{if(!b.current){b.current=!0,e&&a(!0),y.current=h,p(h);try{let e=await fetch(`${m}?t=${Date.now()}`);if(!e.ok)throw Error(`HTTP ${e.status}`);t(await e.json()),u(new Date),s(null)}catch(e){s(e.message)}finally{r(!1),a(!1),b.current=!1}}},[]);(0,l.useEffect)(()=>{ee();let e=setInterval(()=>{y.current=Math.max(0,y.current-1),p(y.current),y.current<=0&&ee()},1e3);return()=>clearInterval(e)},[ee]);let S=e?.lines?g(e.lines):null,C=e?.matchday??0,te=e?.updated?new Date(e.updated):null,ne=d/h*100,re=S?.filter(e=>e.currentSeverity===`incident`).length??0,w=S?.filter(e=>e.currentSeverity===`minor`).length??0,ie=te?.toLocaleTimeString(`en-GB`,{hour:`2-digit`,minute:`2-digit`})??`—`,ae=te?.toLocaleDateString(`en-GB`,{weekday:`short`,day:`numeric`,month:`short`})??`—`;return(0,f.jsxs)(`div`,{className:`app`,children:[(0,f.jsx)(`style`,{children:_}),(0,f.jsxs)(`div`,{className:`hdr`,children:[(0,f.jsxs)(`div`,{className:`hdr-top`,children:[(0,f.jsxs)(`div`,{className:`hdr-badge`,children:[(0,f.jsx)(`div`,{className:`hdr-badge-sup`,children:`BCN Metro`}),(0,f.jsx)(`div`,{className:`hdr-badge-title`,children:`League`})]}),(0,f.jsxs)(`div`,{className:`hdr-mid`,children:[(0,f.jsxs)(`div`,{className:`hdr-season`,children:[`Season 2025/26 · Matchday `,C,` · W=3 D=1 L=0`]}),(0,f.jsx)(`div`,{className:`hdr-info`,children:n?`Loading…`:o?`Could not load data`:re>0?`${re} incident${re>1?`s`:``}, ${w} alteration${w===1?``:`s`}`:w>0?`All lines running · ${w} with station alterations`:C===0?`Waiting for first scraper run…`:`All lines clear`})]}),(0,f.jsxs)(`div`,{className:`hdr-right`,children:[(0,f.jsxs)(`div`,{className:`hdr-time`,children:[`TMB checked`,(0,f.jsx)(`br`,{}),ae,` `,ie]}),(0,f.jsxs)(`button`,{className:`btn-refresh`,onClick:()=>ee(!0),disabled:i||n,children:[(0,f.jsx)(`span`,{className:i?`spin`:``,children:`⟳`}),i?`Loading…`:`Refresh`]})]})]}),(0,f.jsx)(`div`,{className:`countdown-wrap`,children:(0,f.jsxs)(`div`,{className:`countdown-inner`,children:[(0,f.jsx)(`div`,{className:`cd-label`,children:`Next reload`}),(0,f.jsx)(`div`,{className:`cd-track`,children:(0,f.jsx)(`div`,{className:`cd-fill`,style:{width:`${ne}%`}})}),(0,f.jsxs)(`div`,{className:`cd-num`,children:[d,`s`]})]})})]}),S&&(0,f.jsx)(v,{standings:S}),o&&(0,f.jsxs)(`div`,{className:`err-box`,children:[`⚠ `,o,` — check your connection or try refreshing`]}),n?(0,f.jsxs)(`div`,{className:`state`,children:[(0,f.jsx)(`div`,{className:`state-ico`,children:`🚇`}),(0,f.jsx)(`div`,{className:`state-msg`,children:`Loading metro league data…`})]}):S?(0,f.jsx)(x,{standings:S}):null,(0,f.jsx)(`div`,{className:`footer`,children:`Data scraped every 5 min from tmb.cat by GitHub Actions · Hosted free on GitHub Pages · W=3pts D=1pt L=0pts`})]})}(0,u.createRoot)(document.getElementById(`root`)).render((0,f.jsx)(l.StrictMode,{children:(0,f.jsx)(ee,{})}));
