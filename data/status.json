@@ -1,124 +1,134 @@
 {
-  "matchday": 1,
-  "updated": "2026-05-17T20:35:22.957985+00:00",
+  "matchday": 2,
+  "updated": "2026-05-17T20:42:11.966301+00:00",
   "lines": {
     "L1": {
-      "severity": "incident",
-      "description": "uptions CURRENT UPCOMING Last update 20:35 17/5/2026 Update L1 Hospital de Bellvitge / Fondo Normal service Disruption Add to favourites the",
-      "seasonPts": 0,
-      "checks": 1,
-      "wins": 0,
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 3,
+      "checks": 2,
+      "wins": 1,
       "draws": 0,
       "losses": 1,
       "recentForm": [
-        "L"
+        "L",
+        "W"
       ]
     },
     "L2": {
-      "severity": "incident",
-      "description": "ation (L1) is closed for works See information on this line L2 Paral·lel / Badalona Pompeu Fabra Normal service Disruption Add to favourites",
-      "seasonPts": 0,
-      "checks": 1,
-      "wins": 0,
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 3,
+      "checks": 2,
+      "wins": 1,
       "draws": 0,
       "losses": 1,
       "recentForm": [
-        "L"
+        "L",
+        "W"
       ]
     },
     "L3": {
-      "severity": "incident",
-      "description": "service for improvement work. See information on this line L3 Zona Universitària / Trinitat Nova Normal service Disruption Add to favourites",
-      "seasonPts": 0,
-      "checks": 1,
-      "wins": 0,
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 3,
+      "checks": 2,
+      "wins": 1,
       "draws": 0,
       "losses": 1,
       "recentForm": [
-        "L"
+        "L",
+        "W"
       ]
     },
     "L4": {
-      "severity": "incident",
-      "description": "service for improvement works. See information on this line L4 La Pau / Trinitat Nova Normal service Disruption Add to favourites the line L",
-      "seasonPts": 0,
-      "checks": 1,
-      "wins": 0,
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 3,
+      "checks": 2,
+      "wins": 1,
       "draws": 0,
       "losses": 1,
       "recentForm": [
-        "L"
+        "L",
+        "W"
       ]
     },
     "L5": {
-      "severity": "incident",
-      "description": "y 12 months, the connecting passageway between lines L4 and L5 at Verdaguer station is closed for works. The link must be made from the outs",
-      "seasonPts": 0,
-      "checks": 1,
-      "wins": 0,
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 3,
+      "checks": 2,
+      "wins": 1,
       "draws": 0,
       "losses": 1,
       "recentForm": [
-        "L"
+        "L",
+        "W"
       ]
     },
     "L9N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 3,
-      "checks": 1,
-      "wins": 1,
+      "seasonPts": 6,
+      "checks": 2,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W"
       ]
     },
     "L9S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 3,
-      "checks": 1,
-      "wins": 1,
+      "seasonPts": 6,
+      "checks": 2,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W"
       ]
     },
     "L10N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 3,
-      "checks": 1,
-      "wins": 1,
+      "seasonPts": 6,
+      "checks": 2,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W"
       ]
     },
     "L10S": {
-      "severity": "minor",
-      "description": ", if necessary, with the initials N and S. For example, L1, L10S. See What can you do this weekend? From 15/05/2026 to 17/05/2026 What's on?",
-      "seasonPts": 1,
-      "checks": 1,
-      "wins": 0,
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 4,
+      "checks": 2,
+      "wins": 1,
       "draws": 1,
       "losses": 0,
       "recentForm": [
-        "D"
+        "D",
+        "W"
       ]
     },
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 3,
-      "checks": 1,
-      "wins": 1,
+      "seasonPts": 6,
+      "checks": 2,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W"
       ]
     }
