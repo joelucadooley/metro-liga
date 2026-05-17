@@ -1,81 +1,87 @@
 {
-  "matchday": 2,
-  "updated": "2026-05-17T20:42:11.966301+00:00",
+  "matchday": 3,
+  "updated": "2026-05-17T20:59:34.870704+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 3,
-      "checks": 2,
+      "severity": "minor",
+      "description": "Add to favourites the line L1 Add to favourites the line L1 L1 Hospital de Bellvitge / Fondo",
+      "seasonPts": 4,
+      "checks": 3,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
       "recentForm": [
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 3,
-      "checks": 2,
+      "severity": "minor",
+      "description": "Add to favourites the line L2 Add to favourites the line L2 L2 Paral·lel / Badalona Pompeu Fabra",
+      "seasonPts": 4,
+      "checks": 3,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
       "recentForm": [
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 3,
-      "checks": 2,
+      "severity": "minor",
+      "description": "Add to favourites the line L3 Add to favourites the line L3 L3 Zona Universitària / Trinitat Nova",
+      "seasonPts": 4,
+      "checks": 3,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
       "recentForm": [
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 3,
-      "checks": 2,
+      "severity": "minor",
+      "description": "Add to favourites the line L4 Add to favourites the line L4 L4 La Pau / Trinitat Nova",
+      "seasonPts": 4,
+      "checks": 3,
       "wins": 1,
-      "draws": 0,
+      "draws": 1,
       "losses": 1,
       "recentForm": [
         "L",
-        "W"
+        "W",
+        "D"
       ]
     },
     "L5": {
-      "severity": "clear",
+      "severity": "incident",
       "description": null,
       "seasonPts": 3,
-      "checks": 2,
+      "checks": 3,
       "wins": 1,
       "draws": 0,
-      "losses": 1,
+      "losses": 2,
       "recentForm": [
         "L",
-        "W"
+        "W",
+        "L"
       ]
     },
     "L9N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 6,
-      "checks": 2,
-      "wins": 2,
+      "seasonPts": 9,
+      "checks": 3,
+      "wins": 3,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W",
         "W"
       ]
@@ -83,12 +89,13 @@
     "L9S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 6,
-      "checks": 2,
-      "wins": 2,
+      "seasonPts": 9,
+      "checks": 3,
+      "wins": 3,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W",
         "W"
       ]
@@ -96,12 +103,13 @@
     "L10N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 6,
-      "checks": 2,
-      "wins": 2,
+      "seasonPts": 9,
+      "checks": 3,
+      "wins": 3,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W",
         "W"
       ]
@@ -109,25 +117,27 @@
     "L10S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 4,
-      "checks": 2,
-      "wins": 1,
+      "seasonPts": 7,
+      "checks": 3,
+      "wins": 2,
       "draws": 1,
       "losses": 0,
       "recentForm": [
         "D",
+        "W",
         "W"
       ]
     },
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 6,
-      "checks": 2,
-      "wins": 2,
+      "seasonPts": 9,
+      "checks": 3,
+      "wins": 3,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W",
         "W"
       ]
