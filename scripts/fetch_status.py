@@ -6,10 +6,11 @@ Runs via GitHub Actions every 5 minutes. No API costs.
 Classification logic:
 - Traffic: "Normal service" + Stations: no Disruption = W (3pts)
 - Traffic: "Normal service" + Stations: Disruption    = D (1pt)
-- Traffic: anything else                              = L (0pts)
+- Traffic: anything other than "Normal service"       = L (0pts)
 """
 
 import json
+import re
 from pathlib import Path
 from datetime import datetime, timezone
 from playwright.sync_api import sync_playwright
@@ -45,6 +46,57 @@ def load_existing():
     }
 
 
+def extract_line_sections(text):
+    """
+    Split the full page text into per-line sections.
+    Each section starts when we see a line identifier like 'L1', 'L9N' etc.
+    Returns dict: { "L1": "...text for L1 section...", ... }
+    """
+    pattern = r'(?<!\w)(' + '|'.join(re.escape(l) for l in LINES) + r')(?!\w)'
+    sections = {}
+    matches = list(re.finditer(pattern, text))
+
+    for i, m in enumerate(matches):
+        line = m.group(1)
+        start = m.start()
+        end = matches[i + 1].start() if i + 1 < len(matches) else len(text)
+        section = text[start:end]
+
+        # Only keep the first occurrence of each line
+        # (later occurrences are cross-references in other lines' text)
+        if line not in sections:
+            sections[line] = section
+
+    return sections
+
+
+def classify_section(section):
+    """
+    Given a line's text section, return (severity, description).
+    """
+    has_normal_service = "Normal service" in section
+    has_disruption = "Disruption" in section
+
+    if has_normal_service and has_disruption:
+        severity = "minor"
+    elif has_normal_service:
+        severity = "clear"
+    else:
+        severity = "incident"
+
+    # Extract description: grab text after "Disruption" heading
+    desc = None
+    if has_disruption:
+        after = section[section.index("Disruption"):]
+        raw = after[len("Disruption"):].strip()
+        # Remove UI noise
+        raw = re.sub(r'Add to favourites[^\n]*', '', raw)
+        raw = re.sub(r'\s+', ' ', raw).strip()
+        desc = raw[:300] or None
+
+    return severity, desc
+
+
 def scrape_pages():
     status = {n: {"severity": "clear", "description": None} for n in LINES}
 
@@ -60,57 +112,17 @@ def scrape_pages():
             )
             html = page.content()
             soup = BeautifulSoup(html, "html.parser")
+            for tag in soup(["script", "style", "noscript"]):
+                tag.decompose()
             text = soup.get_text(separator="\n", strip=True)
-            lines_text = text.split("\n")
 
-            current_line = None
+            sections = extract_line_sections(text)
+            print(f"  Found sections for: {list(sections.keys())}")
 
-            for i, chunk in enumerate(lines_text):
-                chunk = chunk.strip()
-
-                # Detect which line we're looking at
-                for line in LINES:
-                    if chunk == line or chunk.startswith(line + " "):
-                        current_line = line
-                        break
-
-                if current_line is None:
-                    continue
-
-                # Look at the next 30 lines for Traffic and Stations sections
-                window = "\n".join(lines_text[i: i + 30])
-
-                has_normal_service = "Normal service" in window
-                has_disruption = "Disruption" in window
-
-                if has_normal_service and has_disruption:
-                    severity = "minor"
-                elif has_normal_service:
-                    severity = "clear"
-                else:
-                    severity = "incident"
-
-                # Extract disruption description
-                desc = None
-                if has_disruption:
-                    for j in range(i, min(i + 30, len(lines_text))):
-                        if "Disruption" in lines_text[j]:
-                            desc_lines = [
-                                l.strip()
-                                for l in lines_text[j + 1: j + 5]
-                                if l.strip()
-                            ]
-                            desc = " ".join(desc_lines)[:200] or None
-                            break
-
-                # Only update if we haven't already set this line
-                # (take the worst severity seen)
-                current = status[current_line]["severity"]
-                if severity == "incident" or current == "clear":
-                    status[current_line] = {
-                        "severity": severity,
-                        "description": desc,
-                    }
+            for line, section in sections.items():
+                severity, desc = classify_section(section)
+                status[line] = {"severity": severity, "description": desc}
+                print(f"  {line}: {severity} — {(desc or '')[:80]}")
 
         except Exception as e:
             print(f"  Warning: scrape failed: {e}")
@@ -118,7 +130,6 @@ def scrape_pages():
         finally:
             browser.close()
 
-    print(f"  Scraped: {status}")
     return status
 
 
@@ -175,7 +186,7 @@ def main():
         result["updated"] = datetime.now(timezone.utc).isoformat()
 
     DATA_FILE.write_text(json.dumps(result, indent=2, ensure_ascii=False))
-    print(f"Saved {DATA_FILE} — matchday {result.get('matchday', '?')}")
+    print(f"Saved — matchday {result.get('matchday', '?')}")
 
 
 if __name__ == "__main__":
