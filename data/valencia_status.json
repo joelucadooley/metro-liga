@@ -1,118 +1,13 @@
 {
-  "matchday": 35,
-  "updated": "2026-05-18T13:26:48.445663+00:00",
-  "lines": {
-    "L1": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 105,
-      "checks": 35,
-      "wins": 35,
-      "draws": 0,
-      "losses": 0,
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ]
-    },
-    "L2": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 105,
-      "checks": 35,
-      "wins": 35,
-      "draws": 0,
-      "losses": 0,
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ]
-    },
-    "L3": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 105,
-      "checks": 35,
-      "wins": 35,
-      "draws": 0,
-      "losses": 0,
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ]
-    },
-    "L4": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 105,
-      "checks": 35,
-      "wins": 35,
-      "draws": 0,
-      "losses": 0,
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ]
-    },
-    "L5": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 105,
-      "checks": 35,
-      "wins": 35,
-      "draws": 0,
-      "losses": 0,
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ]
-    },
-    "L6": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 105,
-      "checks": 35,
-      "wins": 35,
-      "draws": 0,
-      "losses": 0,
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ]
-    },
-    "L7": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 105,
-      "checks": 35,
-      "wins": 35,
-      "draws": 0,
-      "losses": 0,
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ]
+    "matchday": 0,
+    "updated": null,
+    "lines": {
+      "L1": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
+      "L2": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
+      "L3": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
+      "L4": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
+      "L5": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
+      "L6": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
+      "L7": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] }
     }
   }
-}

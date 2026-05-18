@@ -60,13 +60,17 @@ const CITIES = {
       L1: { color: "#01820B", text: "#fff" },
     },
   },
+  bilbao: {
+    id: "bilbao", name: "Bilbao", code: "BIL", color: "#EE1C25",
+    statusUrl: "https://raw.githubusercontent.com/joelucadooley/metro-liga/main/data/bilbao_status.json",
+    lines: {
+      L1: { color: "#EE1C25", text: "#fff" },
+      L2: { color: "#003082", text: "#fff" },
+    },
+  },
 };
 
 const REFRESH_SEC = 300;
-
-// ─────────────────────────────────────────────────────────────────────────────
-// STANDINGS
-// ─────────────────────────────────────────────────────────────────────────────
 
 function buildStandings(lines) {
   return Object.entries(lines)
@@ -89,122 +93,207 @@ function buildStandings(lines) {
 // ─────────────────────────────────────────────────────────────────────────────
 
 const CSS = `
-html, body, #root {
-  width: 100%;
-  max-width: 100%;
-  margin: 0;
-  padding: 0;
-  background: #08080b;
-}
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
+html, body, #root { margin: 0; padding: 0; background: #08080b; width: 100%; }
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 .app { min-height: 100vh; background: #08080b; color: #ccc; font-family: 'Oswald', sans-serif; }
 
-.hdr { background: #0c0c10; border-bottom: 1px solid #181820; }
-.hdr-top { display: flex; align-items: stretch; min-height: 64px; }
-.hdr-badge { padding: 0.8rem 1rem; display: flex; flex-direction: column; justify-content: center; flex-shrink: 0; min-width: 80px; transition: background 0.3s; }
-.hdr-badge-sup { font-family: 'JetBrains Mono', monospace; font-size: 0.45rem; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(255,255,255,0.6); line-height: 1; }
-.hdr-badge-title { font-size: 1.3rem; font-weight: 700; text-transform: uppercase; color: #fff; line-height: 1; }
-.hdr-mid { flex: 1; padding: 0.6rem 1rem; display: flex; flex-direction: column; justify-content: center; gap: 0.15rem; min-width: 0; }
-.hdr-season { font-family: 'JetBrains Mono', monospace; font-size: 0.48rem; letter-spacing: 0.12em; text-transform: uppercase; color: #333; }
-.hdr-info { font-size: 0.85rem; color: #666; font-weight: 300; line-height: 1.2; }
-.hdr-right { padding: 0.6rem 1rem; display: flex; flex-direction: column; align-items: flex-end; justify-content: center; gap: 0.35rem; flex-shrink: 0; }
-.btn-refresh { background: #161620; border: 1px solid #242430; border-radius: 2px; padding: 0.3rem 0.7rem; color: #666; font-family: 'Oswald', sans-serif; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; cursor: pointer; transition: all 0.15s; display: flex; align-items: center; gap: 0.3rem; white-space: nowrap; }
+/* ── Header — full width ── */
+.hdr { background: #0c0c10; border-bottom: 1px solid #181820; width: 100%; }
+.hdr-top { display: flex; align-items: stretch; min-height: 80px; }
+
+/* ── Badge — the "logo" ── */
+.hdr-badge {
+  padding: 1rem 1.5rem;
+  display: flex; flex-direction: column; justify-content: center;
+  flex-shrink: 0; min-width: 130px;
+  transition: background 0.3s;
+}
+.hdr-badge-sup {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.55rem; letter-spacing: 0.25em; text-transform: uppercase;
+  color: rgba(255,255,255,0.6); line-height: 1; margin-bottom: 0.2rem;
+}
+.hdr-badge-title {
+  font-size: 1.8rem; font-weight: 700; text-transform: uppercase;
+  color: #fff; line-height: 0.95; letter-spacing: -0.01em;
+}
+
+.hdr-mid {
+  flex: 1; padding: 0.8rem 1.5rem;
+  display: flex; flex-direction: column; justify-content: center; gap: 0.2rem; min-width: 0;
+}
+.hdr-season {
+  font-family: 'JetBrains Mono', monospace; font-size: 0.52rem;
+  letter-spacing: 0.14em; text-transform: uppercase; color: #333;
+}
+.hdr-info { font-size: 1rem; color: #666; font-weight: 300; line-height: 1.2; }
+.hdr-right {
+  padding: 0.8rem 1.5rem;
+  display: flex; flex-direction: column; align-items: flex-end; justify-content: center;
+  gap: 0.4rem; flex-shrink: 0;
+}
+.hdr-time {
+  font-family: 'JetBrains Mono', monospace; font-size: 0.52rem;
+  color: #282828; text-align: right; line-height: 1.5;
+}
+.btn-refresh {
+  background: #161620; border: 1px solid #242430; border-radius: 2px;
+  padding: 0.4rem 1rem; color: #666;
+  font-family: 'Oswald', sans-serif; font-size: 0.85rem; font-weight: 600;
+  text-transform: uppercase; letter-spacing: 0.1em;
+  cursor: pointer; transition: all 0.15s; display: flex; align-items: center; gap: 0.35rem; white-space: nowrap;
+}
 .btn-refresh:hover { background: #1e1e2c; color: #bbb; }
 .btn-refresh:disabled { opacity: 0.35; cursor: wait; }
 .spin { animation: spin 0.9s linear infinite; display: inline-block; }
 @keyframes spin { to { transform: rotate(360deg); } }
 
-/* City tabs */
-.city-tabs { display: flex; border-bottom: 1px solid #181820; background: #0a0a0e; overflow-x: auto; }
-.city-tab { padding: 0.5rem 1rem; font-family: 'Oswald', sans-serif; font-size: 0.82rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: #333; cursor: pointer; border: none; background: none; border-bottom: 2px solid transparent; margin-bottom: -1px; transition: all 0.15s; white-space: nowrap; flex-shrink: 0; }
+/* ── City tabs ── */
+.city-tabs {
+  display: flex; border-bottom: 1px solid #181820;
+  background: #0a0a0e; overflow-x: auto;
+  padding: 0 1.5rem;
+}
+.city-tab {
+  padding: 0.55rem 1.2rem;
+  font-family: 'Oswald', sans-serif; font-size: 0.9rem; font-weight: 600;
+  text-transform: uppercase; letter-spacing: 0.1em;
+  color: #333; cursor: pointer; border: none; background: none;
+  border-bottom: 2px solid transparent; margin-bottom: -1px;
+  transition: all 0.15s; white-space: nowrap; flex-shrink: 0;
+}
 .city-tab:hover { color: #666; }
-.city-tab.active { color: #ccc; }
+.city-tab.active { color: #ddd; }
 
-/* Countdown */
+/* ── Content wrapper — centered with max-width ── */
+.content-wrap {
+  max-width: 860px;
+  margin: 0 auto;
+}
+
+/* ── Countdown ── */
 .countdown-wrap { background: #0c0c10; border-top: 1px solid #111116; }
-.countdown-inner { display: flex; align-items: center; gap: 0.8rem; padding: 0.28rem 1rem; }
-.cd-label { font-family: 'JetBrains Mono', monospace; font-size: 0.46rem; letter-spacing: 0.12em; text-transform: uppercase; color: #1e1e1e; flex-shrink: 0; }
+.countdown-inner { display: flex; align-items: center; gap: 0.8rem; padding: 0.3rem 1.5rem; max-width: 860px; margin: 0 auto; }
+.cd-label { font-family: 'JetBrains Mono', monospace; font-size: 0.48rem; letter-spacing: 0.12em; text-transform: uppercase; color: #1e1e1e; flex-shrink: 0; }
 .cd-track { flex: 1; background: #111118; height: 2px; border-radius: 1px; overflow: hidden; }
 .cd-fill { height: 2px; border-radius: 1px; transition: width 1s linear; opacity: 0.5; }
-.cd-num { font-family: 'JetBrains Mono', monospace; font-size: 0.46rem; color: #1e1e1e; flex-shrink: 0; min-width: 28px; text-align: right; }
+.cd-num { font-family: 'JetBrains Mono', monospace; font-size: 0.48rem; color: #1e1e1e; flex-shrink: 0; min-width: 28px; text-align: right; }
 
-/* Ticker */
-.ticker-wrap { background: #0a0a0d; border-bottom: 1px solid #181820; overflow: hidden; height: 26px; display: flex; align-items: center; }
-.ticker-label { font-family: 'JetBrains Mono', monospace; font-size: 0.48rem; letter-spacing: 0.12em; text-transform: uppercase; color: #886020; padding: 0 0.8rem; flex-shrink: 0; border-right: 1px solid #1e1e10; height: 100%; display: flex; align-items: center; background: #0a0a0d; z-index: 1; }
+/* ── Ticker ── */
+.ticker-wrap {
+  background: #0a0a0d; border-bottom: 1px solid #181820;
+  overflow: hidden; height: 28px; display: flex; align-items: center;
+}
+.ticker-label {
+  font-family: 'JetBrains Mono', monospace; font-size: 0.5rem;
+  letter-spacing: 0.14em; text-transform: uppercase; color: #886020;
+  padding: 0 1rem; flex-shrink: 0; border-right: 1px solid #1e1e10;
+  height: 100%; display: flex; align-items: center; background: #0a0a0d; z-index: 1;
+}
 .ticker-label.incident { color: #8a2020; border-right-color: #1e1010; }
 .ticker-track { flex: 1; overflow: hidden; }
-.ticker-inner { display: flex; white-space: nowrap; animation: ticker-scroll 45s linear infinite; font-family: 'JetBrains Mono', monospace; font-size: 0.54rem; color: #555; }
+.ticker-inner {
+  display: flex; white-space: nowrap;
+  animation: ticker-scroll 45s linear infinite;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.56rem; color: #555;
+}
 .ticker-inner:hover { animation-play-state: paused; }
 @keyframes ticker-scroll { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
 .ticker-item { padding: 0 1.5rem; display: inline-flex; align-items: center; gap: 0.4rem; flex-shrink: 0; }
-.ticker-pip { font-size: 0.44rem; font-weight: 700; width: 18px; height: 18px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; }
-.ticker-sep { color: #2a2a2a; margin: 0 0.8rem; }
+.ticker-pip { font-size: 0.46rem; font-weight: 700; width: 20px; height: 20px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; }
+.ticker-sep { color: #2a2a2a; margin: 0 1rem; }
 
-.err-box { padding: 0.5rem 1rem; background: #130808; border-bottom: 1px solid #2a0e0e; font-family: 'JetBrains Mono', monospace; font-size: 0.56rem; color: #6a3030; }
+.err-box { padding: 0.5rem 1.5rem; background: #130808; border-bottom: 1px solid #2a0e0e; font-family: 'JetBrains Mono', monospace; font-size: 0.56rem; color: #6a3030; }
 
-/* Table */
-.tbl-head { display: grid; grid-template-columns: 32px minmax(0,1fr) 52px 100px 80px 44px; padding: 0.4rem 1rem; border-bottom: 1px solid #111116; background: #0a0a0e; }
-.th { font-family: 'JetBrains Mono', monospace; font-size: 0.46rem; letter-spacing: 0.16em; text-transform: uppercase; color: #222; }
+/* ── Table ── */
+.tbl-head {
+  display: grid;
+  grid-template-columns: 40px minmax(0,1fr) 64px 120px 100px 52px;
+  padding: 0.5rem 1.5rem; border-bottom: 1px solid #111116; background: #0a0a0e;
+}
+.th { font-family: 'JetBrains Mono', monospace; font-size: 0.5rem; letter-spacing: 0.18em; text-transform: uppercase; color: #252525; }
 .th.r { text-align: right; }
 .th.c { text-align: center; }
 
-.zone-sep { padding: 0.25rem 1rem; font-family: 'JetBrains Mono', monospace; font-size: 0.46rem; letter-spacing: 0.16em; text-transform: uppercase; background: #0a0a0e; border-bottom: 1px solid #0e0e14; border-left: 2px solid transparent; }
+.zone-sep {
+  padding: 0.3rem 1.5rem;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.5rem;
+  letter-spacing: 0.18em; text-transform: uppercase;
+  background: #0a0a0e; border-bottom: 1px solid #0e0e14;
+  border-left: 2px solid transparent;
+}
 .zone-sep.top   { color: #2a5a2a; border-left-color: #2a5a2a; }
 .zone-sep.mid   { color: #1c1c24; border-left-color: #1a1a22; }
 .zone-sep.releg { color: #5a1a1a; border-left-color: #5a1a1a; }
 
-.row { display: grid; grid-template-columns: 32px minmax(0,1fr) 52px 100px 80px 44px; padding: 0 1rem; border-bottom: 1px solid #0e0e14; align-items: center; border-left: 2px solid transparent; transition: background 0.12s; height: 50px; }
+.row {
+  display: grid;
+  grid-template-columns: 40px minmax(0,1fr) 64px 120px 100px 52px;
+  padding: 0 1.5rem; border-bottom: 1px solid #0e0e14;
+  align-items: center; border-left: 2px solid transparent;
+  transition: background 0.12s; height: 56px;
+}
 .row:hover { background: #0e0e14; }
 .row.top   { border-left-color: #1e3a1e; }
 .row.mid   { border-left-color: #141420; }
 .row.releg { border-left-color: #3a1010; }
 
-.col-pos { font-family: 'JetBrains Mono', monospace; font-size: 0.75rem; color: #222; }
-.col-club { display: flex; align-items: center; gap: 0.6rem; min-width: 0; overflow: hidden; }
-.pip { width: 34px; height: 34px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.58rem; font-weight: 700; flex-shrink: 0; letter-spacing: -0.02em; }
+.col-pos { font-family: 'JetBrains Mono', monospace; font-size: 0.85rem; color: #252525; }
+.col-club { display: flex; align-items: center; gap: 0.7rem; min-width: 0; overflow: hidden; }
+.pip {
+  width: 38px; height: 38px; border-radius: 50%;
+  display: flex; align-items: center; justify-content: center;
+  font-size: 0.62rem; font-weight: 700; flex-shrink: 0; letter-spacing: -0.02em;
+}
 
 .col-pts-wrap { text-align: right; }
-.col-pts { font-family: 'JetBrains Mono', monospace; font-size: 1.05rem; color: #bbb; line-height: 1; }
-.col-record { font-family: 'JetBrains Mono', monospace; font-size: 0.44rem; color: #252525; letter-spacing: 0.04em; margin-top: 1px; }
+.col-pts { font-family: 'JetBrains Mono', monospace; font-size: 1.2rem; color: #bbb; line-height: 1; }
+.col-record { font-family: 'JetBrains Mono', monospace; font-size: 0.46rem; color: #252525; letter-spacing: 0.04em; margin-top: 2px; }
 
-.col-form { display: flex; align-items: center; justify-content: center; gap: 3px; }
-.fd { width: 12px; height: 12px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: 'JetBrains Mono', monospace; font-size: 0.36rem; font-weight: 500; }
+.col-form { display: flex; align-items: center; justify-content: center; gap: 4px; }
+.fd { width: 13px; height: 13px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: 'JetBrains Mono', monospace; font-size: 0.38rem; font-weight: 500; }
 .fd.W    { background: #2a7a2a; color: #5aaa5a; }
 .fd.D    { background: #7a6010; color: #bba040; }
 .fd.L    { background: #7a1a1a; color: #aa4040; }
 .fd.none { background: #131318; }
 
 .col-season { display: flex; flex-direction: column; align-items: flex-end; gap: 3px; }
-.seg-bar { display: flex; width: 72px; height: 3px; border-radius: 2px; overflow: hidden; gap: 1px; background: #131318; }
+.seg-bar { display: flex; width: 80px; height: 4px; border-radius: 2px; overflow: hidden; gap: 1px; background: #131318; }
 .seg-w { background: #2a7a2a; opacity: 0.8; }
 .seg-d { background: #7a6010; opacity: 0.8; }
 .seg-l { background: #7a1a1a; opacity: 0.8; }
-.season-label { font-family: 'JetBrains Mono', monospace; font-size: 0.44rem; color: #252525; }
+.season-label { font-family: 'JetBrains Mono', monospace; font-size: 0.46rem; color: #252525; }
 
-.col-now { font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; font-weight: 500; text-align: right; letter-spacing: 0.06em; }
+.col-now { font-family: 'JetBrains Mono', monospace; font-size: 0.65rem; font-weight: 500; text-align: right; letter-spacing: 0.06em; }
 .now-clear    { color: #2a6a2a; }
 .now-minor    { color: #886020; }
 .now-incident { color: #8a2020; }
 
-.state { display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 4rem 1.5rem; gap: 0.7rem; font-family: 'JetBrains Mono', monospace; text-align: center; }
-.state-ico { font-size: 2rem; }
-.state-msg { font-size: 0.65rem; color: #333; max-width: 320px; line-height: 1.9; }
+.state { display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 5rem 2rem; gap: 0.8rem; font-family: 'JetBrains Mono', monospace; text-align: center; }
+.state-ico { font-size: 2.5rem; }
+.state-msg { font-size: 0.68rem; color: #333; max-width: 340px; line-height: 1.9; }
 
-.legend { display: flex; gap: 1rem; padding: 0.5rem 1rem; border-top: 1px solid #0e0e14; align-items: center; flex-wrap: wrap; }
-.legend-item { display: flex; align-items: center; gap: 0.3rem; font-family: 'JetBrains Mono', monospace; font-size: 0.46rem; color: #252525; }
+.legend { display: flex; gap: 1.2rem; padding: 0.6rem 1.5rem; border-top: 1px solid #0e0e14; align-items: center; flex-wrap: wrap; }
+.legend-item { display: flex; align-items: center; gap: 0.35rem; font-family: 'JetBrains Mono', monospace; font-size: 0.48rem; color: #252525; }
 .legend-dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
 
-.footer { padding: 0.4rem 1rem; font-family: 'JetBrains Mono', monospace; font-size: 0.42rem; color: #161616; border-top: 1px solid #0e0e14; letter-spacing: 0.05em; }
+.solo-champ { text-align: center; padding: 1.5rem; font-family: 'JetBrains Mono', monospace; font-size: 0.62rem; color: #2a5a2a; letter-spacing: 0.1em; }
 
-/* Single-line city message */
-.solo-champ { text-align: center; padding: 1.5rem 1rem; font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; color: #2a5a2a; letter-spacing: 0.1em; }
+.footer { padding: 0.45rem 1.5rem; font-family: 'JetBrains Mono', monospace; font-size: 0.44rem; color: #161616; border-top: 1px solid #0e0e14; letter-spacing: 0.06em; }
 
-@media (max-width: 480px) {
-  .tbl-head, .row { grid-template-columns: 28px minmax(0,1fr) 44px 90px 0 36px; }
+/* ── Mobile ── */
+@media (max-width: 600px) {
+  .hdr-badge { min-width: 100px; padding: 0.8rem 1rem; }
+  .hdr-badge-title { font-size: 1.4rem; }
+  .hdr-time { display: none; }
+  .tbl-head, .row { grid-template-columns: 32px minmax(0,1fr) 52px 100px 0 42px; }
   .col-season, .th.season { display: none; }
-  .pip { width: 30px; height: 30px; font-size: 0.52rem; }
-  .city-tab { padding: 0.5rem 0.7rem; font-size: 0.72rem; }
+  .pip { width: 32px; height: 32px; font-size: 0.56rem; }
+  .city-tabs { padding: 0 0.5rem; }
+  .city-tab { padding: 0.5rem 0.8rem; font-size: 0.78rem; }
+  .countdown-inner { padding: 0.28rem 1rem; }
+  .tbl-head, .zone-sep, .row, .legend, .footer { padding-left: 1rem; padding-right: 1rem; }
 }
 `;
 
@@ -289,8 +378,6 @@ function Row({ s, pos, total, city }) {
 
 function Table({ standings, city }) {
   const n = standings.length;
-
-  // Special case: single line city (Seville)
   if (n === 1) {
     return (
       <div>
@@ -301,9 +388,7 @@ function Table({ standings, city }) {
         </div>
         <div className="zone-sep top">Champions Metro Zone</div>
         <Row s={standings[0]} pos={0} total={1} city={city} />
-        <div className="solo-champ">
-          🏆 Undefeated champions — no competition found
-        </div>
+        <div className="solo-champ">🏆 Undefeated champions — no competition found</div>
         <div className="legend">
           <div className="legend-item"><div className="legend-dot" style={{ background: "#2a7a2a" }} />W = clean run (3 pts)</div>
           <div className="legend-item"><div className="legend-dot" style={{ background: "#7a6010" }} />D = station alterations (1 pt)</div>
@@ -312,7 +397,6 @@ function Table({ standings, city }) {
       </div>
     );
   }
-
   const relegStart = Math.max(n - 3, 3);
   return (
     <div>
@@ -409,21 +493,23 @@ function CityView({ city }) {
         </div>
       </div>
 
-      {standings && <Ticker standings={standings} city={city} />}
+      <Ticker standings={standings ?? []} city={city} />
       {err && <div className="err-box">⚠ {err} — try refreshing</div>}
 
-      {loading ? (
-        <div className="state">
-          <div className="state-ico">🚇</div>
-          <div className="state-msg">Loading {city.name} metro liga data…</div>
-        </div>
-      ) : standings ? (
-        <Table standings={standings} city={city} />
-      ) : null}
+      <div className="content-wrap">
+        {loading ? (
+          <div className="state">
+            <div className="state-ico">🚇</div>
+            <div className="state-msg">Loading {city.name} metro liga data…</div>
+          </div>
+        ) : standings ? (
+          <Table standings={standings} city={city} />
+        ) : null}
 
-      <div className="footer">
-        {city.name} · Matchday {matchday} · Scraped every 5 min · GitHub Pages · W=3pts D=1pt L=0pts
-        {updated && ` · Checked ${dateStr} ${timeStr}`}
+        <div className="footer">
+          {city.name} · Matchday {matchday} · Scraped every 5 min · GitHub Pages · W=3pts D=1pt L=0pts
+          {updated && ` · Checked ${dateStr} ${timeStr}`}
+        </div>
       </div>
     </>
   );
@@ -434,34 +520,44 @@ function CityView({ city }) {
 // ─────────────────────────────────────────────────────────────────────────────
 
 export default function App() {
-  const [cityId, setCityId] = useState("barcelona");
+  const [cityId,     setCityId]     = useState("barcelona");
+  const [refreshing, setRefreshing] = useState(false);
   const city = CITIES[cityId];
+  const refreshRef = useRef(null);
 
   return (
     <div className="app">
       <style>{CSS}</style>
+
       <div className="hdr">
         <div className="hdr-top">
+          {/* Logo badge */}
           <div className="hdr-badge" style={{ background: city.color }}>
             <div className="hdr-badge-sup">{city.code} Metro</div>
             <div className="hdr-badge-title">Liga</div>
           </div>
+
           <div className="hdr-mid">
             <div className="hdr-season">Season 2025/26 · W=3 D=1 L=0</div>
-            <div className="hdr-info">{city.name} Metro Liga</div>
+            <div className="hdr-info">
+              {city.name} Metro Liga
+            </div>
           </div>
+
           <div className="hdr-right">
-            <button className="btn-refresh" onClick={() => {}}>
-              ⟳ Refresh
-            </button>
+            <div className="hdr-time">
+              {city.name}<br />Metro Liga
+            </div>
           </div>
         </div>
+
+        {/* City selector */}
         <div className="city-tabs">
           {Object.values(CITIES).map(c => (
             <button
               key={c.id}
               className={`city-tab ${cityId === c.id ? "active" : ""}`}
-              style={cityId === c.id ? { borderBottomColor: c.color, color: "#ccc" } : {}}
+              style={cityId === c.id ? { borderBottomColor: c.color, color: "#ddd" } : {}}
               onClick={() => setCityId(c.id)}
             >
               {c.name}

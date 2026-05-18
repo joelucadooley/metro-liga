@@ -1,0 +1,8 @@
+{
+    "matchday": 0,
+    "updated": null,
+    "lines": {
+      "L1": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
+      "L2": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] }
+    }
+  }
