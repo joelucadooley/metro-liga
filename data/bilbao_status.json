@@ -1,13 +1,13 @@
 {
-  "matchday": 68,
-  "updated": "2026-05-18T19:12:12.556779+00:00",
+  "matchday": 69,
+  "updated": "2026-05-18T19:17:26.096256+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 204,
-      "checks": 68,
-      "wins": 68,
+      "seasonPts": 207,
+      "checks": 69,
+      "wins": 69,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -21,9 +21,9 @@
     "L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 204,
-      "checks": 68,
-      "wins": 68,
+      "seasonPts": 207,
+      "checks": 69,
+      "wins": 69,
       "draws": 0,
       "losses": 0,
       "recentForm": [
