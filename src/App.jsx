@@ -64,6 +64,7 @@ const CITIES = {
       MAL_L1: { color: "#009E3A", text: "#fff", pip: "L1", label: "Málaga" },
       MAL_L2: { color: "#00AADF", text: "#fff", pip: "L2", label: "Málaga" },
       PMI_M1: { color: "#F5A623", text: "#fff", pip: "M1", label: "Palma" },
+      GRN_L1: { color: "#1FACA5", text: "#fff", pip: "L1", label: "Granada" },
     },
   },
 };

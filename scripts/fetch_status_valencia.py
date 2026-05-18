@@ -4,7 +4,7 @@ Scrapes Metrovalencia service updates page and updates data/valencia_status.json
 Runs via GitHub Actions every 5 minutes. No API costs.
 
 Single page: metrovalencia.es/en/service-updates/
-Lists all current service alerts per line.
+Content is JS-rendered so needs networkidle + extra wait.
 """
 
 import json
@@ -20,6 +20,18 @@ POINTS    = {"W": 3, "D": 1, "L": 0}
 DATA_FILE = Path("data/valencia_status.json")
 STATUS_URL = "https://www.metrovalencia.es/en/service-updates/"
 
+# Station → line mapping for Valencia
+# Used to assign an alteration to the right line when the line isn't mentioned
+STATION_TO_LINE = {
+    "empalme": "L1", "bétera": "L1", "seminari": "L1",
+    "llíria": "L2",
+    "rafelbunyol": "L3", "aeroport": "L3", "aiport": "L3",
+    "dr. lluch": "L4", "faitanar": "L4",
+    "alameda": "L5", "maritim": "L5", "aeroport t1": "L5",
+    "tossal": "L6", "sagunt": "L6",
+    "la granja": "L7", "pont de fusta": "L7",
+}
+
 INCIDENT_KEYWORDS = [
     "service suspended", "service interrupted", "no service",
     "suspended between", "line closed", "service not available",
@@ -28,10 +40,10 @@ INCIDENT_KEYWORDS = [
 ]
 
 MINOR_KEYWORDS = [
-    "escalator", "lift", "elevator", "ascensor",
-    "passage", "access", "alteration", "works",
+    "escalator", "lift", "elevator", "elevator failure", "ascensor",
+    "passage", "access", "alteration", "works", "accessibility",
     "out of service", "closed temporarily", "improvement work",
-    "maintenance", "reduced service",
+    "maintenance", "reduced service", "failure", "avaria",
 ]
 
 
@@ -54,6 +66,23 @@ def load_existing():
     }
 
 
+def find_line_for_snippet(snippet):
+    """Try to find which line a snippet refers to by line mention or station name."""
+    low = snippet.lower()
+
+    # Direct line mention
+    for line in LINES:
+        if re.search(rf'\b{re.escape(line)}\b', snippet, re.IGNORECASE):
+            return line
+
+    # Station name lookup
+    for station, line in STATION_TO_LINE.items():
+        if station in low:
+            return line
+
+    return None
+
+
 def scrape_valencia():
     status = {n: {"severity": "clear", "description": None} for n in LINES}
 
@@ -66,8 +95,9 @@ def scrape_valencia():
         page = context.new_page()
 
         try:
-            page.goto(STATUS_URL, wait_until="domcontentloaded", timeout=25000)
-            page.wait_for_timeout(2000)
+            # networkidle + long wait to let JS render the notices
+            page.goto(STATUS_URL, wait_until="networkidle", timeout=35000)
+            page.wait_for_timeout(5000)
 
             html = page.content()
             soup = BeautifulSoup(html, "html.parser")
@@ -76,38 +106,38 @@ def scrape_valencia():
             text = soup.get_text(separator="\n", strip=True)
 
             print(f"  Page length: {len(text)} chars")
-            print(f"  Sample: {repr(text[500:1000])}")
 
-            # Check each line
+            lines_text = text.split("\n")
+
+            # Scan each chunk of text for incident/minor keywords
+            # and try to assign to a line
+            i = 0
+            while i < len(lines_text):
+                chunk = lines_text[i].strip()
+                chunk_low = chunk.lower()
+
+                if any(kw in chunk_low for kw in INCIDENT_KEYWORDS + MINOR_KEYWORDS):
+                    # Get context window
+                    window = "\n".join(lines_text[max(0, i-3): i+8])
+                    sev = "incident" if any(kw in chunk_low for kw in INCIDENT_KEYWORDS) else "minor"
+                    line = find_line_for_snippet(window)
+
+                    if line:
+                        current = status[line]["severity"]
+                        if sev == "incident" or current == "clear":
+                            desc = re.sub(r'\s+', ' ', window).strip()[:250]
+                            status[line] = {"severity": sev, "description": desc}
+                            print(f"  {line}: {sev} — {desc[:80]}")
+                    else:
+                        # Couldn't identify line — log it
+                        print(f"  Unknown line: {sev} — {chunk[:80]}")
+
+                i += 1
+
+            # Report clean lines
             for line in LINES:
-                pattern = rf"\b{re.escape(line)}\b"
-                matches = list(re.finditer(pattern, text, re.IGNORECASE))
-
-                if not matches:
-                    # Line not mentioned = no issues
-                    status[line] = {"severity": "clear", "description": None}
-                    continue
-
-                # Look at text around each mention
-                worst = "clear"
-                best_desc = None
-
-                for m in matches:
-                    pos = m.start()
-                    snippet = text[max(0, pos - 50): pos + 400].lower()
-                    orig_snippet = text[max(0, pos - 50): pos + 400]
-
-                    if any(kw in snippet for kw in INCIDENT_KEYWORDS):
-                        if worst != "incident":
-                            worst = "incident"
-                            best_desc = re.sub(r'\s+', ' ', orig_snippet).strip()[:250]
-                    elif any(kw in snippet for kw in MINOR_KEYWORDS):
-                        if worst == "clear":
-                            worst = "minor"
-                            best_desc = re.sub(r'\s+', ' ', orig_snippet).strip()[:250]
-
-                status[line] = {"severity": worst, "description": best_desc}
-                print(f"  {line}: {worst} — {(best_desc or '')[:70]}")
+                if status[line]["severity"] == "clear":
+                    print(f"  {line}: clear")
 
         except Exception as e:
             print(f"  Scrape failed: {e}")

@@ -1,100 +1,88 @@
 {
-  "matchday": 134,
-  "updated": "2026-05-19T09:02:35.099244+00:00",
+  "matchday": 1,
+  "updated": "2026-05-18T22:04:14.377070+00:00",
   "lines": {
     "SVQ_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 402,
-      "checks": 134,
-      "wins": 134,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     },
     "BIL_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 402,
-      "checks": 134,
-      "wins": 134,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     },
     "BIL_L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 402,
-      "checks": 134,
-      "wins": 134,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     },
     "MAL_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 402,
-      "checks": 134,
-      "wins": 134,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     },
     "MAL_L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 402,
-      "checks": 134,
-      "wins": 134,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     },
     "PMI_M1": {
       "severity": "minor",
       "description": "R BAG CAGES AND COMPLEMENTARY ACCESSORIES. Our manufacturing includes an extensive range of products, with a design of the highest quality. Our products are being used with high ef",
-      "seasonPts": 134,
-      "checks": 134,
+      "seasonPts": 1,
+      "checks": 1,
       "wins": 0,
-      "draws": 134,
+      "draws": 1,
       "losses": 0,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
+        "D"
+      ]
+    },
+    "GRN_L1": {
+      "severity": "minor",
+      "description": "encuentra en la fase final de obras Read more about La Junta licita por más de 8 millones la limpieza de las instalaciones y los trenes de Metro de Granada 03-03-2026 Metro de Gran",
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "recentForm": [
         "D"
       ]
     }
