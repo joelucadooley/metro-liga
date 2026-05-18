@@ -1,14 +1,14 @@
 {
-  "matchday": 50,
-  "updated": "2026-05-18T14:21:26.408824+00:00",
+  "matchday": 51,
+  "updated": "2026-05-18T14:26:38.938002+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos Out of service due to repair works. Expected date of coming into service: 18-05-2026 Escalat",
-      "seasonPts": 50,
-      "checks": 50,
+      "seasonPts": 51,
+      "checks": 51,
       "wins": 0,
-      "draws": 50,
+      "draws": 51,
       "losses": 0,
       "recentForm": [
         "D",
@@ -21,10 +21,10 @@
     "L2": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform hallways to platform in the direction of Cuatro Caminos Out of service due to check-up. Coming into service in the next hours. Services: Ac",
-      "seasonPts": 50,
-      "checks": 50,
+      "seasonPts": 51,
+      "checks": 51,
       "wins": 0,
-      "draws": 50,
+      "draws": 51,
       "losses": 0,
       "recentForm": [
         "D",
@@ -37,10 +37,10 @@
     "L3": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza de Legazpi of lobby Legazpi to lobby Out of service due to repair works. Expected date of coming into service: 18-05-2026 Services: A",
-      "seasonPts": 50,
-      "checks": 50,
+      "seasonPts": 51,
+      "checks": 51,
       "wins": 0,
-      "draws": 50,
+      "draws": 51,
       "losses": 0,
       "recentForm": [
         "D",
@@ -53,10 +53,10 @@
     "L4": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Maria de Molina to the lobby. There is another elevator in the same location. Out of service. We are examining the reasons for the stop. From en",
-      "seasonPts": 50,
-      "checks": 50,
+      "seasonPts": 51,
+      "checks": 51,
       "wins": 0,
-      "draws": 50,
+      "draws": 51,
       "losses": 0,
       "recentForm": [
         "D",
@@ -69,10 +69,10 @@
     "L5": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Alameda de Osuna Out of service due to repair works. Expected date of coming into service: 18-05-2026 Services: E",
-      "seasonPts": 50,
-      "checks": 50,
+      "seasonPts": 51,
+      "checks": 51,
       "wins": 0,
-      "draws": 50,
+      "draws": 51,
       "losses": 0,
       "recentForm": [
         "D",
@@ -85,9 +85,9 @@
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 150,
-      "checks": 50,
-      "wins": 50,
+      "seasonPts": 153,
+      "checks": 51,
+      "wins": 51,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -101,10 +101,10 @@
     "L7": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Out of service due to repair jobs. Expected date of coming into service: 18-05-2026 Services: Accessible station Li",
-      "seasonPts": 52,
-      "checks": 50,
+      "seasonPts": 53,
+      "checks": 51,
       "wins": 1,
-      "draws": 49,
+      "draws": 50,
       "losses": 0,
       "recentForm": [
         "D",
@@ -117,10 +117,10 @@
     "L8": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 and line 10 platform in the direction of Puerta del Sur Out of service due to check-up. Coming int",
-      "seasonPts": 50,
-      "checks": 50,
+      "seasonPts": 51,
+      "checks": 51,
       "wins": 0,
-      "draws": 50,
+      "draws": 51,
       "losses": 0,
       "recentForm": [
         "D",
@@ -133,10 +133,10 @@
     "L9": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms Out of service. We are examining the reasons for the stop. Services: Escalators Defibrillator Mobile phone coverage Access: V",
-      "seasonPts": 50,
-      "checks": 50,
+      "seasonPts": 51,
+      "checks": 51,
       "wins": 0,
-      "draws": 50,
+      "draws": 51,
       "losses": 0,
       "recentForm": [
         "D",
@@ -150,10 +150,10 @@
       "severity": "incident",
       "description": "Service suspended on Line 10 between Nuevos Ministerios and Cuzco stations, in both directions, due to renovation and accessibility works at Santiago Bernabéu station. A special replacement bus servic",
       "seasonPts": 3,
-      "checks": 50,
+      "checks": 51,
       "wins": 1,
       "draws": 0,
-      "losses": 49,
+      "losses": 50,
       "recentForm": [
         "L",
         "L",
@@ -165,9 +165,9 @@
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 90,
-      "checks": 50,
-      "wins": 20,
+      "seasonPts": 93,
+      "checks": 51,
+      "wins": 21,
       "draws": 30,
       "losses": 0,
       "recentForm": [
@@ -181,9 +181,9 @@
     "L12": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 150,
-      "checks": 50,
-      "wins": 50,
+      "seasonPts": 153,
+      "checks": 51,
+      "wins": 51,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -197,10 +197,10 @@
     "R": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service due to improvement works. Expected date of coming into servic",
-      "seasonPts": 50,
-      "checks": 50,
+      "seasonPts": 51,
+      "checks": 51,
       "wins": 0,
-      "draws": 50,
+      "draws": 51,
       "losses": 0,
       "recentForm": [
         "D",

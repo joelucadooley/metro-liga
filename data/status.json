@@ -1,93 +1,93 @@
 {
-  "matchday": 56,
-  "updated": "2026-05-18T14:20:57.581208+00:00",
+  "matchday": 57,
+  "updated": "2026-05-18T14:26:06.376221+00:00",
   "lines": {
     "L1": {
-      "severity": "incident",
-      "description": null,
-      "seasonPts": 56,
-      "checks": 56,
+      "severity": "minor",
+      "description": "Plaça de Sants · From · 27.04.2026 · , until · 27.03.2027 · Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work. The link must be made from the outside. · L2 · Paral·lel / Badalona Pompeu Fabra · Normal service · Disru",
+      "seasonPts": 57,
+      "checks": 57,
       "wins": 2,
-      "draws": 50,
+      "draws": 51,
       "losses": 4,
       "recentForm": [
         "D",
         "D",
         "D",
-        "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     "L2": {
-      "severity": "incident",
-      "description": null,
-      "seasonPts": 56,
-      "checks": 56,
+      "severity": "minor",
+      "description": "Monumental · From · 12.05.2026 · , until · 02.06.2026 · Until approximately June 2, the escalator that goes up from the platform towards Badalona Pompeu Fabra to the lobby of Monumental station will be out of service for improvement work. · L3 · Zona Universitària / Trinitat Nova · Normal service · ",
+      "seasonPts": 57,
+      "checks": 57,
       "wins": 2,
-      "draws": 50,
+      "draws": 51,
       "losses": 4,
       "recentForm": [
         "D",
         "D",
         "D",
-        "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     "L3": {
-      "severity": "incident",
-      "description": null,
-      "seasonPts": 56,
-      "checks": 56,
+      "severity": "minor",
+      "description": "Montbau · 18.05.2026 · From · 18.05.2026 · , until · 20.05.2026 · Until approximately May 20th, due to works, the Palau Olímpic access from Montbau station is closed. · To access it, you can use the Residencia Sanitària / Llars Mundet access. · Maria Cristina · From · 12.05.2026 · , until · 22.05.20",
+      "seasonPts": 57,
+      "checks": 57,
       "wins": 2,
-      "draws": 50,
+      "draws": 51,
       "losses": 4,
       "recentForm": [
         "D",
         "D",
         "D",
-        "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     "L4": {
-      "severity": "incident",
-      "description": null,
-      "seasonPts": 56,
-      "checks": 56,
+      "severity": "minor",
+      "description": "Verdaguer · From · 09.10.2025 · , until · 30.08.2026 · From 13/10/2025, and for approximately 12 months, the connecting passageway between lines L4 and L5 at Verdaguer station is closed for works. The link must be made from the outside. · More info: · Connection between L4 and L5 closed at Verdaguer",
+      "seasonPts": 57,
+      "checks": 57,
       "wins": 2,
-      "draws": 50,
+      "draws": 51,
       "losses": 4,
       "recentForm": [
         "D",
         "D",
         "D",
-        "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     "L5": {
-      "severity": "incident",
-      "description": null,
-      "seasonPts": 56,
-      "checks": 56,
+      "severity": "minor",
+      "description": "Badal · From · 12.05.2026 · , until · 09.06.2026 · Until approximately June 9th, the escalator that goes up from the platform towards Cornellà Centre to the lobby of the Carrer de Sants access, at Badal station, will be out of service for improvement work. · Sants Estació · From · 12.05.2026 · , unt",
+      "seasonPts": 57,
+      "checks": 57,
       "wins": 2,
-      "draws": 50,
+      "draws": 51,
       "losses": 4,
       "recentForm": [
         "D",
         "D",
         "D",
-        "D",
-        "L"
+        "L",
+        "D"
       ]
     },
     "L9N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 168,
-      "checks": 56,
-      "wins": 56,
+      "seasonPts": 171,
+      "checks": 57,
+      "wins": 57,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -101,9 +101,9 @@
     "L9S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 168,
-      "checks": 56,
-      "wins": 56,
+      "seasonPts": 171,
+      "checks": 57,
+      "wins": 57,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -117,9 +117,9 @@
     "L10N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 168,
-      "checks": 56,
-      "wins": 56,
+      "seasonPts": 171,
+      "checks": 57,
+      "wins": 57,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -133,9 +133,9 @@
     "L10S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 168,
-      "checks": 56,
-      "wins": 56,
+      "seasonPts": 171,
+      "checks": 57,
+      "wins": 57,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -147,19 +147,19 @@
       ]
     },
     "L11": {
-      "severity": "incident",
+      "severity": "clear",
       "description": null,
-      "seasonPts": 156,
-      "checks": 56,
-      "wins": 52,
+      "seasonPts": 159,
+      "checks": 57,
+      "wins": 53,
       "draws": 0,
       "losses": 4,
       "recentForm": [
         "W",
         "W",
         "W",
-        "W",
-        "L"
+        "L",
+        "W"
       ]
     }
   }
