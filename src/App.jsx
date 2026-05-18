@@ -53,19 +53,17 @@ const CITIES = {
       L7: { color: "#8DC63F", text: "#000" },
     },
   },
-  sevilla: {
-    id: "sevilla", name: "Sevilla", code: "SVQ", color: "#01820B",
-    statusUrl: "https://raw.githubusercontent.com/joelucadooley/metro-liga/main/data/sevilla_status.json",
+  segunda: {
+    id: "segunda", name: "Segunda", code: "2ª", color: "#888",
+    statusUrl: "https://raw.githubusercontent.com/joelucadooley/metro-liga/main/data/segunda_status.json",
+    // pip = what shows in the circle, label = city name shown next to it
     lines: {
-      L1: { color: "#01820B", text: "#fff" },
-    },
-  },
-  bilbao: {
-    id: "bilbao", name: "Bilbao", code: "BIL", color: "#EE1C25",
-    statusUrl: "https://raw.githubusercontent.com/joelucadooley/metro-liga/main/data/bilbao_status.json",
-    lines: {
-      L1: { color: "#EE1C25", text: "#fff" },
-      L2: { color: "#003082", text: "#fff" },
+      SVQ_L1: { color: "#01820B", text: "#fff", pip: "L1", label: "Sevilla" },
+      BIL_L1: { color: "#EE1C25", text: "#fff", pip: "L1", label: "Bilbao" },
+      BIL_L2: { color: "#003082", text: "#fff", pip: "L2", label: "Bilbao" },
+      MAL_L1: { color: "#009E3A", text: "#fff", pip: "L1", label: "Málaga" },
+      MAL_L2: { color: "#00AADF", text: "#fff", pip: "L2", label: "Málaga" },
+      PMI_M1: { color: "#F5A623", text: "#fff", pip: "M1", label: "Palma" },
     },
   },
 };
@@ -354,11 +352,18 @@ function Row({ s, pos, total, city }) {
   const nowCls = sev === "incident" ? "now-incident" : sev === "minor" ? "now-minor" : "now-clear";
   const nowLbl = sev === "incident" ? "INC" : sev === "minor" ? "ALT" : "OK";
   const maxPts = s.checks * 3;
+  const pipText   = meta.pip   || s.name;
+  const labelText = meta.label || null;
   return (
     <div className={`row ${zone}`}>
       <div className="col-pos">{pos + 1}</div>
       <div className="col-club">
-        <div className="pip" style={{ background: meta.color, color: meta.text }}>{s.name}</div>
+        <div className="pip" style={{ background: meta.color, color: meta.text }}>{pipText}</div>
+        {labelText && (
+          <div style={{ fontFamily: "'JetBrains Mono', monospace", fontSize: "0.52rem", color: "#555", whiteSpace: "nowrap" }}>
+            {labelText}
+          </div>
+        )}
       </div>
       <div className="col-pts-wrap">
         <div className="col-pts">{s.seasonPts}</div>
@@ -532,7 +537,7 @@ export default function App() {
       <div className="hdr">
         <div className="hdr-top">
           {/* Logo badge */}
-          <div className="hdr-badge" style={{ background: city.color }}>
+          <div className="hdr-badge" style={{ background: city.id === "segunda" ? "linear-gradient(135deg, #EE1C25, #003082)" : city.color }}>
             <div className="hdr-badge-sup">{city.code} Metro</div>
             <div className="hdr-badge-title">Liga</div>
           </div>
