@@ -89,6 +89,13 @@ function buildStandings(lines) {
 // ─────────────────────────────────────────────────────────────────────────────
 
 const CSS = `
+html, body, #root {
+  width: 100%;
+  max-width: 100%;
+  margin: 0;
+  padding: 0;
+  background: #08080b;
+}
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 .app { min-height: 100vh; background: #08080b; color: #ccc; font-family: 'Oswald', sans-serif; }
