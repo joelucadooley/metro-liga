@@ -1,0 +1,12 @@
+{
+    "matchday": 0,
+    "updated": null,
+    "lines": {
+      "SVQ_L1": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
+      "BIL_L1": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
+      "BIL_L2": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
+      "MAL_L1": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
+      "MAL_L2": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
+      "PMI_M1": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] }
+    }
+  }
