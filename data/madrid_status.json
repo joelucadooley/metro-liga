@@ -1,14 +1,14 @@
 {
-  "matchday": 135,
-  "updated": "2026-05-18T21:36:13.538882+00:00",
+  "matchday": 136,
+  "updated": "2026-05-18T21:41:28.266170+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos Out of service due to repair works. Expected date of coming into service: 18-05-2026 Escalat",
-      "seasonPts": 137,
-      "checks": 135,
+      "seasonPts": 138,
+      "checks": 136,
       "wins": 1,
-      "draws": 134,
+      "draws": 135,
       "losses": 0,
       "recentForm": [
         "D",
@@ -21,10 +21,10 @@
     "L2": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform hallways to platform in the direction of Cuatro Caminos Out of service due to check-up. Coming into service in the next hours. Services: Ac",
-      "seasonPts": 137,
-      "checks": 135,
+      "seasonPts": 138,
+      "checks": 136,
       "wins": 1,
-      "draws": 134,
+      "draws": 135,
       "losses": 0,
       "recentForm": [
         "D",
@@ -37,10 +37,10 @@
     "L3": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Moncada to lobby Out of service due to check-up. Coming into service in the next hours. Services: Accessible station Lifts Escalators Defib",
-      "seasonPts": 135,
-      "checks": 135,
+      "seasonPts": 136,
+      "checks": 136,
       "wins": 0,
-      "draws": 135,
+      "draws": 136,
       "losses": 0,
       "recentForm": [
         "D",
@@ -53,10 +53,10 @@
     "L4": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the direction of Moncloa Out of service due to check-up. C",
-      "seasonPts": 135,
-      "checks": 135,
+      "seasonPts": 136,
+      "checks": 136,
       "wins": 0,
-      "draws": 135,
+      "draws": 136,
       "losses": 0,
       "recentForm": [
         "D",
@@ -69,10 +69,10 @@
     "L5": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Waiting for information. Services: Escalators Moving walkway Defibrillator Mobile phone coverag",
-      "seasonPts": 135,
-      "checks": 135,
+      "seasonPts": 136,
+      "checks": 136,
       "wins": 0,
-      "draws": 135,
+      "draws": 136,
       "losses": 0,
       "recentForm": [
         "D",
@@ -85,9 +85,9 @@
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 405,
-      "checks": 135,
-      "wins": 135,
+      "seasonPts": 408,
+      "checks": 136,
+      "wins": 136,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -101,10 +101,10 @@
     "L7": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Out of service due to repair jobs. Expected date of coming into service: 18-05-2026 Services: Accessible station Li",
-      "seasonPts": 137,
-      "checks": 135,
+      "seasonPts": 138,
+      "checks": 136,
       "wins": 1,
-      "draws": 134,
+      "draws": 135,
       "losses": 0,
       "recentForm": [
         "D",
@@ -117,10 +117,10 @@
     "L8": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 and line 10 platform in the direction of Puerta del Sur Out of service due to check-up. Coming int",
-      "seasonPts": 135,
-      "checks": 135,
+      "seasonPts": 136,
+      "checks": 136,
       "wins": 0,
-      "draws": 135,
+      "draws": 136,
       "losses": 0,
       "recentForm": [
         "D",
@@ -133,10 +133,10 @@
     "L9": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms Out of service. We are examining the reasons for the stop. Services: Escalators Defibrillator Mobile phone coverage Access: V",
-      "seasonPts": 135,
-      "checks": 135,
+      "seasonPts": 136,
+      "checks": 136,
       "wins": 0,
-      "draws": 135,
+      "draws": 136,
       "losses": 0,
       "recentForm": [
         "D",
@@ -150,10 +150,10 @@
       "severity": "incident",
       "description": "Service suspended on Line 10 between Nuevos Ministerios and Cuzco stations, in both directions, due to renovation and accessibility works at Santiago Bernabéu station. A special replacement bus servic",
       "seasonPts": 3,
-      "checks": 135,
+      "checks": 136,
       "wins": 1,
       "draws": 0,
-      "losses": 134,
+      "losses": 135,
       "recentForm": [
         "L",
         "L",
@@ -165,10 +165,10 @@
     "L11": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera to hallway for platforms on line 6 and hallway platforms on line 11 Out of service. We are examining the reasons for the stop. F",
-      "seasonPts": 329,
-      "checks": 135,
+      "seasonPts": 330,
+      "checks": 136,
       "wins": 97,
-      "draws": 38,
+      "draws": 39,
       "losses": 0,
       "recentForm": [
         "D",
@@ -181,9 +181,9 @@
     "L12": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 405,
-      "checks": 135,
-      "wins": 135,
+      "seasonPts": 408,
+      "checks": 136,
+      "wins": 136,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -197,10 +197,10 @@
     "R": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service due to improvement works. Expected date of coming into servic",
-      "seasonPts": 135,
-      "checks": 135,
+      "seasonPts": 136,
+      "checks": 136,
       "wins": 0,
-      "draws": 135,
+      "draws": 136,
       "losses": 0,
       "recentForm": [
         "D",
