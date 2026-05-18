@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
 """
 Scrapes all small-city metro sites for the Segunda División combined league.
-Cities: Sevilla, Bilbao, Málaga, Palma de Mallorca.
+Cities: Sevilla, Bilbao, Málaga, Palma, Granada, Alicante.
 Updates data/segunda_status.json with city-prefixed line keys.
 
-Line keys: SVQ_L1, BIL_L1, BIL_L2, MAL_L1, MAL_L2, PMI_M1
+Line keys: SVQ_L1, BIL_L1, BIL_L2, MAL_L1, MAL_L2, PMI_M1, GRN_L1, ALC_L1
 """
 
 import json
@@ -14,32 +14,46 @@ from datetime import datetime, timezone
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 
-# ── Line definitions ──────────────────────────────────────────────────────────
-# key: data key  |  url: page to scrape  |  line_ids: line names to look for
 CITIES = [
     {
         "key_prefix": "SVQ",
         "city": "Sevilla",
         "url": "https://www.metro-sevilla.es/en/",
         "lines": ["L1"],
+        "wait": "domcontentloaded",
+        "extra_wait": 2000,
     },
     {
         "key_prefix": "BIL",
         "city": "Bilbao",
         "url": "https://www.metrobilbao.eus/en/map-and-network-status",
         "lines": ["L1", "L2"],
+        "wait": "domcontentloaded",
+        "extra_wait": 2000,
     },
     {
         "key_prefix": "MAL",
         "city": "Málaga",
         "url": "https://metromalaga.es/en/",
         "lines": ["L1", "L2"],
+        "wait": "domcontentloaded",
+        "extra_wait": 2000,
     },
     {
         "key_prefix": "PMI",
         "city": "Palma",
-        "url": "https://www.sfm.es/en/",
+        "url": "https://www.trensfm.com/en/",
         "lines": ["M1"],
+        "wait": "domcontentloaded",
+        "extra_wait": 2000,
+    },
+    {
+        "key_prefix": "GRN",
+        "city": "Granada",
+        "url": "https://metropolitanogranada.es/en/",
+        "lines": ["L1"],
+        "wait": "domcontentloaded",
+        "extra_wait": 2000,
     },
 ]
 
@@ -56,13 +70,15 @@ INCIDENT_KEYWORDS = [
     "service suspended", "service interrupted", "no service",
     "line closed", "not available", "suspended", "interruption",
     "out of service", "servicios interrumpidos", "interrupción",
-    "interrupció", "suspensió",
+    "interrupció", "suspensió", "servicio interrumpido",
+    "servicio suspendido", "sin servicio",
 ]
 MINOR_KEYWORDS = [
-    "escalator", "lift", "elevator", "ascensor",
+    "escalator", "lift", "elevator", "ascensor", "elevator failure",
     "works", "maintenance", "alteration", "out of service",
     "access", "improvement", "closed temporarily", "reduced",
-    "we regret to inform", "passage", "obras",
+    "we regret to inform", "passage", "obras", "accessibility notice",
+    "avaria", "failure", "avería",
 ]
 
 
@@ -89,18 +105,14 @@ def classify_text_for_line(text, line_id):
     """Find mentions of line_id and classify severity from surrounding text."""
     pattern = rf"\b{re.escape(line_id)}\b"
     matches = list(re.finditer(pattern, text, re.IGNORECASE))
-
     if not matches:
         return "clear", None
-
     worst = "clear"
     best_desc = None
-
     for m in matches:
         pos = m.start()
         snippet     = text[max(0, pos - 60): pos + 350]
         snippet_low = snippet.lower()
-
         if any(kw in snippet_low for kw in INCIDENT_KEYWORDS):
             if worst != "incident":
                 worst = "incident"
@@ -109,12 +121,11 @@ def classify_text_for_line(text, line_id):
             if worst == "clear":
                 worst = "minor"
                 best_desc = re.sub(r'\s+', ' ', snippet).strip()[:250]
-
     return worst, best_desc
 
 
 def classify_page_generic(text):
-    """If no line-specific search, classify the whole page."""
+    """Classify the whole page (for single-line cities)."""
     lower = text.lower()
     if any(kw in lower for kw in INCIDENT_KEYWORDS):
         for kw in INCIDENT_KEYWORDS:
@@ -125,7 +136,7 @@ def classify_page_generic(text):
         for kw in MINOR_KEYWORDS:
             idx = lower.find(kw)
             if idx != -1:
-                return "minor", re.sub(r'\s+', ' ', text[max(0,idx-30):idx+150]).strip()
+                return "minor", re.sub(r'\s+', ' ', text[max(0, idx-30):idx+150]).strip()
     return "clear", None
 
 
@@ -141,12 +152,14 @@ def scrape_all():
         page = context.new_page()
 
         for city in CITIES:
-            prefix = city["key_prefix"]
-            lines  = city["lines"]
+            prefix     = city["key_prefix"]
+            lines      = city["lines"]
+            extra_wait = city.get("extra_wait", 2000)
+            wait_until = city.get("wait", "domcontentloaded")
 
             try:
-                page.goto(city["url"], wait_until="domcontentloaded", timeout=25000)
-                page.wait_for_timeout(2000)
+                page.goto(city["url"], wait_until=wait_until, timeout=25000)
+                page.wait_for_timeout(extra_wait)
 
                 html = page.content()
                 soup = BeautifulSoup(html, "html.parser")
@@ -154,23 +167,19 @@ def scrape_all():
                     tag.decompose()
                 text = soup.get_text(separator="\n", strip=True)
 
-                print(f"  {city['city']}: {len(text)} chars | Traffic: {'Traffic' in text} | Normal: {'Normal service' in text or 'normal service' in text.lower()}")
+                print(f"  {city['city']}: {len(text)} chars")
 
                 for line_id in lines:
                     key = f"{prefix}_{line_id}"
-
                     if len(lines) == 1:
-                        # Single-line city — classify whole page
                         sev, desc = classify_page_generic(text)
                     else:
-                        # Multi-line city — search per line
                         sev, desc = classify_text_for_line(text, line_id)
-
                     status[key] = {"severity": sev, "description": desc}
                     print(f"    {key}: {sev} — {(desc or '')[:70]}")
 
             except Exception as e:
-                print(f"  {city['city']}: scrape failed ({e})")
+                print(f"  {city['city']}: failed ({e})")
 
         browser.close()
 
@@ -180,12 +189,18 @@ def scrape_all():
 def update_scores(existing, new_status):
     lines    = existing.get("lines", {})
     matchday = existing.get("matchday", 0) + 1
+
+    # Ensure all current keys exist (handles new cities being added)
+    for k in ALL_KEYS:
+        if k not in lines:
+            lines[k] = {"seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": []}
+
     for key in ALL_KEYS:
         s      = new_status.get(key, {"severity": "clear", "description": None})
         sev    = s["severity"]
         result = "L" if sev == "incident" else "D" if sev == "minor" else "W"
         pts    = POINTS[result]
-        prev   = lines.get(key, {"seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": []})
+        prev   = lines[key]
         lines[key] = {
             "severity": sev, "description": s["description"],
             "seasonPts":  prev.get("seasonPts", 0) + pts,
