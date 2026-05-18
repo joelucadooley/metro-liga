@@ -1,12 +1,78 @@
 {
-    "matchday": 0,
-    "updated": null,
-    "lines": {
-      "SVQ_L1": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "BIL_L1": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "BIL_L2": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "MAL_L1": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "MAL_L2": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "PMI_M1": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] }
+  "matchday": 1,
+  "updated": "2026-05-18T21:52:30.301904+00:00",
+  "lines": {
+    "SVQ_L1": {
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "recentForm": [
+        "W"
+      ]
+    },
+    "BIL_L1": {
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "recentForm": [
+        "W"
+      ]
+    },
+    "BIL_L2": {
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "recentForm": [
+        "W"
+      ]
+    },
+    "MAL_L1": {
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "recentForm": [
+        "W"
+      ]
+    },
+    "MAL_L2": {
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "recentForm": [
+        "W"
+      ]
+    },
+    "PMI_M1": {
+      "severity": "minor",
+      "description": "R BAG CAGES AND COMPLEMENTARY ACCESSORIES. Our manufacturing includes an extensive range of products, with a design of the highest quality. Our products are being used with high ef",
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "recentForm": [
+        "D"
+      ]
     }
   }
+}
