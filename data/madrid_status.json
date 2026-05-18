@@ -1,19 +1,162 @@
 {
-    "matchday": 0,
-    "updated": null,
-    "lines": {
-      "L1":  { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L2":  { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L3":  { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L4":  { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L5":  { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L6":  { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L7":  { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L8":  { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L9":  { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L10": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L11": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "L12": { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] },
-      "R":   { "severity": "clear", "description": null, "seasonPts": 0, "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": [] }
+  "matchday": 1,
+  "updated": "2026-05-18T09:01:01.801231+00:00",
+  "lines": {
+    "L1": {
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos Out of service. We are examining the reasons for the stop. Escalators From lobby to platform",
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "recentForm": [
+        "D"
+      ]
+    },
+    "L2": {
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform hallways to platform in the direction of Cuatro Caminos Out of service due to check-up. Coming into service in the next hours. Services: Ac",
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "recentForm": [
+        "D"
+      ]
+    },
+    "L3": {
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform 1 in the direction of Los Espartales Waiting for information. Services: Accessible station Lifts Escalators Defibrillator Mobile p",
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "recentForm": [
+        "D"
+      ]
+    },
+    "L4": {
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service. We are examining the reasons for the stop. Services: Accessible sta",
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "recentForm": [
+        "D"
+      ]
+    },
+    "L5": {
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Alameda de Osuna Out of service. We are examining the reasons for the stop. Services: Escalators Defibrillator Mo",
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "recentForm": [
+        "D"
+      ]
+    },
+    "L6": {
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "recentForm": [
+        "W"
+      ]
+    },
+    "L7": {
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Waiting for information. Services: Accessible station Lifts Escalators Defibrillator Mobile phone coverage Pay the ",
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "recentForm": [
+        "D"
+      ]
+    },
+    "L8": {
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 and line 10 platform in the direction of Puerta del Sur Out of service due to check-up. Coming int",
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "recentForm": [
+        "D"
+      ]
+    },
+    "L9": {
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming into service: 20-05-2026 Services: Escalators Defibrillator Mobil",
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "recentForm": [
+        "D"
+      ]
+    },
+    "L10": {
+      "severity": "incident",
+      "description": "Service suspended on Line 10 between Nuevos Ministerios and Cuzco stations, in both directions, due to renovation and accessibility works at Santiago Bernabéu station. A special replacement bus servic",
+      "seasonPts": 0,
+      "checks": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
+      "recentForm": [
+        "L"
+      ]
+    },
+    "L11": {
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 11 in the direction of La Fortuna to corridor leading on line 6 Out of service. We are examining the reasons for the stop. Services",
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "recentForm": [
+        "D"
+      ]
+    },
+    "L12": {
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
+      "draws": 0,
+      "losses": 0,
+      "recentForm": [
+        "W"
+      ]
+    },
+    "R": {
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service due to improvement works. Expected date of coming into servic",
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
+      "recentForm": [
+        "D"
+      ]
     }
   }
+}
