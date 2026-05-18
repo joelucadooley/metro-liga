@@ -6,10 +6,7 @@ import { useState, useEffect, useCallback, useRef } from "react";
 
 const CITIES = {
   barcelona: {
-    id:       "barcelona",
-    name:     "Barcelona",
-    code:     "BCN",
-    color:    "#E3000B",
+    id: "barcelona", name: "Barcelona", code: "BCN", color: "#E3000B",
     statusUrl: "https://raw.githubusercontent.com/joelucadooley/metro-liga/main/data/status.json",
     lines: {
       L1:   { color: "#E3000B", text: "#fff" },
@@ -25,10 +22,7 @@ const CITIES = {
     },
   },
   madrid: {
-    id:       "madrid",
-    name:     "Madrid",
-    code:     "MAD",
-    color:    "#003087",
+    id: "madrid", name: "Madrid", code: "MAD", color: "#003087",
     statusUrl: "https://raw.githubusercontent.com/joelucadooley/metro-liga/main/data/madrid_status.json",
     lines: {
       L1:  { color: "#00AADF", text: "#fff" },
@@ -46,6 +40,26 @@ const CITIES = {
       R:   { color: "#00AADF", text: "#fff" },
     },
   },
+  valencia: {
+    id: "valencia", name: "Valencia", code: "VLC", color: "#F5C400",
+    statusUrl: "https://raw.githubusercontent.com/joelucadooley/metro-liga/main/data/valencia_status.json",
+    lines: {
+      L1: { color: "#F5C400", text: "#000" },
+      L2: { color: "#E5007D", text: "#fff" },
+      L3: { color: "#EE1C25", text: "#fff" },
+      L4: { color: "#004B9D", text: "#fff" },
+      L5: { color: "#009A44", text: "#fff" },
+      L6: { color: "#F47920", text: "#fff" },
+      L7: { color: "#8DC63F", text: "#000" },
+    },
+  },
+  sevilla: {
+    id: "sevilla", name: "Sevilla", code: "SVQ", color: "#01820B",
+    statusUrl: "https://raw.githubusercontent.com/joelucadooley/metro-liga/main/data/sevilla_status.json",
+    lines: {
+      L1: { color: "#01820B", text: "#fff" },
+    },
+  },
 };
 
 const REFRESH_SEC = 300;
@@ -55,19 +69,19 @@ const REFRESH_SEC = 300;
 // ─────────────────────────────────────────────────────────────────────────────
 
 function buildStandings(lines) {
-  const rows = Object.entries(lines).map(([name, d]) => ({
-    name,
-    seasonPts:       d.seasonPts   ?? 0,
-    checks:          d.checks      ?? 0,
-    wins:            d.wins        ?? 0,
-    draws:           d.draws       ?? 0,
-    losses:          d.losses      ?? 0,
-    recentForm:      d.recentForm  ?? [],
-    currentSeverity: d.severity    ?? "clear",
-    currentDetail:   d.description ?? null,
-  }));
-  rows.sort((a, b) => b.seasonPts - a.seasonPts || b.wins - a.wins);
-  return rows;
+  return Object.entries(lines)
+    .map(([name, d]) => ({
+      name,
+      seasonPts:       d.seasonPts   ?? 0,
+      checks:          d.checks      ?? 0,
+      wins:            d.wins        ?? 0,
+      draws:           d.draws       ?? 0,
+      losses:          d.losses      ?? 0,
+      recentForm:      d.recentForm  ?? [],
+      currentSeverity: d.severity    ?? "clear",
+      currentDetail:   d.description ?? null,
+    }))
+    .sort((a, b) => b.seasonPts - a.seasonPts || b.wins - a.wins);
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
@@ -79,41 +93,28 @@ const CSS = `
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 .app { min-height: 100vh; background: #08080b; color: #ccc; font-family: 'Oswald', sans-serif; }
 
-/* ── Header ── */
 .hdr { background: #0c0c10; border-bottom: 1px solid #181820; }
 .hdr-top { display: flex; align-items: stretch; min-height: 64px; }
-.hdr-badge {
-  padding: 0.8rem 1rem;
-  display: flex; flex-direction: column; justify-content: center;
-  flex-shrink: 0; min-width: 80px; transition: background 0.3s;
-}
-.hdr-badge-sup { font-family: 'JetBrains Mono', monospace; font-size: 0.45rem; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(255,255,255,0.55); line-height: 1; }
+.hdr-badge { padding: 0.8rem 1rem; display: flex; flex-direction: column; justify-content: center; flex-shrink: 0; min-width: 80px; transition: background 0.3s; }
+.hdr-badge-sup { font-family: 'JetBrains Mono', monospace; font-size: 0.45rem; letter-spacing: 0.2em; text-transform: uppercase; color: rgba(255,255,255,0.6); line-height: 1; }
 .hdr-badge-title { font-size: 1.3rem; font-weight: 700; text-transform: uppercase; color: #fff; line-height: 1; }
 .hdr-mid { flex: 1; padding: 0.6rem 1rem; display: flex; flex-direction: column; justify-content: center; gap: 0.15rem; min-width: 0; }
 .hdr-season { font-family: 'JetBrains Mono', monospace; font-size: 0.48rem; letter-spacing: 0.12em; text-transform: uppercase; color: #333; }
 .hdr-info { font-size: 0.85rem; color: #666; font-weight: 300; line-height: 1.2; }
 .hdr-right { padding: 0.6rem 1rem; display: flex; flex-direction: column; align-items: flex-end; justify-content: center; gap: 0.35rem; flex-shrink: 0; }
-.hdr-time { font-family: 'JetBrains Mono', monospace; font-size: 0.5rem; color: #282828; text-align: right; line-height: 1.4; }
 .btn-refresh { background: #161620; border: 1px solid #242430; border-radius: 2px; padding: 0.3rem 0.7rem; color: #666; font-family: 'Oswald', sans-serif; font-size: 0.8rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; cursor: pointer; transition: all 0.15s; display: flex; align-items: center; gap: 0.3rem; white-space: nowrap; }
 .btn-refresh:hover { background: #1e1e2c; color: #bbb; }
 .btn-refresh:disabled { opacity: 0.35; cursor: wait; }
 .spin { animation: spin 0.9s linear infinite; display: inline-block; }
 @keyframes spin { to { transform: rotate(360deg); } }
 
-/* ── City tabs ── */
-.city-tabs { display: flex; border-bottom: 1px solid #181820; background: #0a0a0e; }
-.city-tab {
-  padding: 0.5rem 1.2rem;
-  font-family: 'Oswald', sans-serif; font-size: 0.85rem; font-weight: 600;
-  text-transform: uppercase; letter-spacing: 0.1em;
-  color: #333; cursor: pointer; border: none; background: none;
-  border-bottom: 2px solid transparent; margin-bottom: -1px;
-  transition: all 0.15s;
-}
+/* City tabs */
+.city-tabs { display: flex; border-bottom: 1px solid #181820; background: #0a0a0e; overflow-x: auto; }
+.city-tab { padding: 0.5rem 1rem; font-family: 'Oswald', sans-serif; font-size: 0.82rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.08em; color: #333; cursor: pointer; border: none; background: none; border-bottom: 2px solid transparent; margin-bottom: -1px; transition: all 0.15s; white-space: nowrap; flex-shrink: 0; }
 .city-tab:hover { color: #666; }
-.city-tab.active { color: #ccc; border-bottom-color: var(--city-color, #E3000B); }
+.city-tab.active { color: #ccc; }
 
-/* ── Countdown ── */
+/* Countdown */
 .countdown-wrap { background: #0c0c10; border-top: 1px solid #111116; }
 .countdown-inner { display: flex; align-items: center; gap: 0.8rem; padding: 0.28rem 1rem; }
 .cd-label { font-family: 'JetBrains Mono', monospace; font-size: 0.46rem; letter-spacing: 0.12em; text-transform: uppercase; color: #1e1e1e; flex-shrink: 0; }
@@ -121,11 +122,11 @@ const CSS = `
 .cd-fill { height: 2px; border-radius: 1px; transition: width 1s linear; opacity: 0.5; }
 .cd-num { font-family: 'JetBrains Mono', monospace; font-size: 0.46rem; color: #1e1e1e; flex-shrink: 0; min-width: 28px; text-align: right; }
 
-/* ── Ticker ── */
+/* Ticker */
 .ticker-wrap { background: #0a0a0d; border-bottom: 1px solid #181820; overflow: hidden; height: 26px; display: flex; align-items: center; }
 .ticker-label { font-family: 'JetBrains Mono', monospace; font-size: 0.48rem; letter-spacing: 0.12em; text-transform: uppercase; color: #886020; padding: 0 0.8rem; flex-shrink: 0; border-right: 1px solid #1e1e10; height: 100%; display: flex; align-items: center; background: #0a0a0d; z-index: 1; }
 .ticker-label.incident { color: #8a2020; border-right-color: #1e1010; }
-.ticker-track { flex: 1; overflow: hidden; position: relative; }
+.ticker-track { flex: 1; overflow: hidden; }
 .ticker-inner { display: flex; white-space: nowrap; animation: ticker-scroll 45s linear infinite; font-family: 'JetBrains Mono', monospace; font-size: 0.54rem; color: #555; }
 .ticker-inner:hover { animation-play-state: paused; }
 @keyframes ticker-scroll { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
@@ -133,10 +134,9 @@ const CSS = `
 .ticker-pip { font-size: 0.44rem; font-weight: 700; width: 18px; height: 18px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; }
 .ticker-sep { color: #2a2a2a; margin: 0 0.8rem; }
 
-/* ── Error ── */
 .err-box { padding: 0.5rem 1rem; background: #130808; border-bottom: 1px solid #2a0e0e; font-family: 'JetBrains Mono', monospace; font-size: 0.56rem; color: #6a3030; }
 
-/* ── Table ── */
+/* Table */
 .tbl-head { display: grid; grid-template-columns: 32px minmax(0,1fr) 52px 100px 80px 44px; padding: 0.4rem 1rem; border-bottom: 1px solid #111116; background: #0a0a0e; }
 .th { font-family: 'JetBrains Mono', monospace; font-size: 0.46rem; letter-spacing: 0.16em; text-transform: uppercase; color: #222; }
 .th.r { text-align: right; }
@@ -190,12 +190,14 @@ const CSS = `
 
 .footer { padding: 0.4rem 1rem; font-family: 'JetBrains Mono', monospace; font-size: 0.42rem; color: #161616; border-top: 1px solid #0e0e14; letter-spacing: 0.05em; }
 
+/* Single-line city message */
+.solo-champ { text-align: center; padding: 1.5rem 1rem; font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; color: #2a5a2a; letter-spacing: 0.1em; }
+
 @media (max-width: 480px) {
   .tbl-head, .row { grid-template-columns: 28px minmax(0,1fr) 44px 90px 0 36px; }
   .col-season, .th.season { display: none; }
-  .hdr-time { display: none; }
   .pip { width: 30px; height: 30px; font-size: 0.52rem; }
-  .city-tab { padding: 0.5rem 0.8rem; font-size: 0.75rem; }
+  .city-tab { padding: 0.5rem 0.7rem; font-size: 0.72rem; }
 }
 `;
 
@@ -256,7 +258,6 @@ function Row({ s, pos, total, city }) {
   const nowCls = sev === "incident" ? "now-incident" : sev === "minor" ? "now-minor" : "now-clear";
   const nowLbl = sev === "incident" ? "INC" : sev === "minor" ? "ALT" : "OK";
   const maxPts = s.checks * 3;
-
   return (
     <div className={`row ${zone}`}>
       <div className="col-pos">{pos + 1}</div>
@@ -281,16 +282,37 @@ function Row({ s, pos, total, city }) {
 
 function Table({ standings, city }) {
   const n = standings.length;
+
+  // Special case: single line city (Seville)
+  if (n === 1) {
+    return (
+      <div>
+        <div className="tbl-head">
+          <div className="th">#</div><div className="th">Line</div>
+          <div className="th r">Pts</div><div className="th c">Form</div>
+          <div className="th r season">Season</div><div className="th r">Now</div>
+        </div>
+        <div className="zone-sep top">Champions Metro Zone</div>
+        <Row s={standings[0]} pos={0} total={1} city={city} />
+        <div className="solo-champ">
+          🏆 Undefeated champions — no competition found
+        </div>
+        <div className="legend">
+          <div className="legend-item"><div className="legend-dot" style={{ background: "#2a7a2a" }} />W = clean run (3 pts)</div>
+          <div className="legend-item"><div className="legend-dot" style={{ background: "#7a6010" }} />D = station alterations (1 pt)</div>
+          <div className="legend-item"><div className="legend-dot" style={{ background: "#7a1a1a" }} />L = service incident (0 pts)</div>
+        </div>
+      </div>
+    );
+  }
+
   const relegStart = Math.max(n - 3, 3);
   return (
     <div>
       <div className="tbl-head">
-        <div className="th">#</div>
-        <div className="th">Line</div>
-        <div className="th r">Pts</div>
-        <div className="th c">Form</div>
-        <div className="th r season">Season</div>
-        <div className="th r">Now</div>
+        <div className="th">#</div><div className="th">Line</div>
+        <div className="th r">Pts</div><div className="th c">Form</div>
+        <div className="th r season">Season</div><div className="th r">Now</div>
       </div>
       {standings.map((s, i) => {
         const label =
@@ -314,7 +336,7 @@ function Table({ standings, city }) {
 }
 
 // ─────────────────────────────────────────────────────────────────────────────
-// CITY VIEW — one instance per city, manages its own data
+// CITY VIEW
 // ─────────────────────────────────────────────────────────────────────────────
 
 function CityView({ city }) {
@@ -349,9 +371,7 @@ function CityView({ city }) {
   }, [city.statusUrl]);
 
   useEffect(() => {
-    setData(null);
-    setLoading(true);
-    setErr(null);
+    setData(null); setLoading(true); setErr(null);
     fetchData();
     const tick = setInterval(() => {
       cdRef.current = Math.max(0, cdRef.current - 1);
@@ -361,18 +381,17 @@ function CityView({ city }) {
     return () => clearInterval(tick);
   }, [fetchData]);
 
-  const standings  = data?.lines ? buildStandings(data.lines) : null;
-  const matchday   = data?.matchday ?? 0;
-  const updated    = data?.updated ? new Date(data.updated) : null;
-  const pct        = (countdown / REFRESH_SEC) * 100;
-  const incCount   = standings?.filter(s => s.currentSeverity === "incident").length ?? 0;
-  const altCount   = standings?.filter(s => s.currentSeverity === "minor").length ?? 0;
-  const timeStr    = updated?.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit" }) ?? "—";
-  const dateStr    = updated?.toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short" }) ?? "—";
+  const standings = data?.lines ? buildStandings(data.lines) : null;
+  const matchday  = data?.matchday ?? 0;
+  const updated   = data?.updated ? new Date(data.updated) : null;
+  const pct       = (countdown / REFRESH_SEC) * 100;
+  const incCount  = standings?.filter(s => s.currentSeverity === "incident").length ?? 0;
+  const altCount  = standings?.filter(s => s.currentSeverity === "minor").length ?? 0;
+  const timeStr   = updated?.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit" }) ?? "—";
+  const dateStr   = updated?.toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short" }) ?? "—";
 
   return (
     <>
-      {/* Countdown */}
       <div className="countdown-wrap">
         <div className="countdown-inner">
           <div className="cd-label">Next reload</div>
@@ -396,8 +415,8 @@ function CityView({ city }) {
       ) : null}
 
       <div className="footer">
-        {city.name} · Data scraped every 5 min · Hosted free on GitHub Pages · W=3pts D=1pt L=0pts
-        {updated && ` · Last checked ${dateStr} ${timeStr}`}
+        {city.name} · Matchday {matchday} · Scraped every 5 min · GitHub Pages · W=3pts D=1pt L=0pts
+        {updated && ` · Checked ${dateStr} ${timeStr}`}
       </div>
     </>
   );
@@ -412,9 +431,8 @@ export default function App() {
   const city = CITIES[cityId];
 
   return (
-    <div className="app" style={{ "--city-color": city.color }}>
+    <div className="app">
       <style>{CSS}</style>
-
       <div className="hdr">
         <div className="hdr-top">
           <div className="hdr-badge" style={{ background: city.color }}>
@@ -426,17 +444,17 @@ export default function App() {
             <div className="hdr-info">{city.name} Metro Liga</div>
           </div>
           <div className="hdr-right">
-            <div className="hdr-time">{city.name}<br />Metro Liga</div>
+            <button className="btn-refresh" onClick={() => {}}>
+              ⟳ Refresh
+            </button>
           </div>
         </div>
-
-        {/* City selector tabs */}
         <div className="city-tabs">
           {Object.values(CITIES).map(c => (
             <button
               key={c.id}
               className={`city-tab ${cityId === c.id ? "active" : ""}`}
-              style={cityId === c.id ? { "--city-color": c.color, borderBottomColor: c.color, color: "#ccc" } : {}}
+              style={cityId === c.id ? { borderBottomColor: c.color, color: "#ccc" } : {}}
               onClick={() => setCityId(c.id)}
             >
               {c.name}
