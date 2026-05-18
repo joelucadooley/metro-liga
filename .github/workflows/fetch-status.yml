@@ -1,6 +1,8 @@
 name: Fetch Metro Status
 
 on:
+  repository_dispatch:
+    types: [fetch-status]
   schedule:
     - cron: '*/5 * * * *'
   workflow_dispatch:
