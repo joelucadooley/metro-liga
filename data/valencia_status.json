@@ -1,13 +1,13 @@
 {
-  "matchday": 57,
-  "updated": "2026-05-18T18:17:09.506832+00:00",
+  "matchday": 58,
+  "updated": "2026-05-18T18:22:12.356053+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 171,
-      "checks": 57,
-      "wins": 57,
+      "seasonPts": 174,
+      "checks": 58,
+      "wins": 58,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -21,9 +21,9 @@
     "L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 171,
-      "checks": 57,
-      "wins": 57,
+      "seasonPts": 174,
+      "checks": 58,
+      "wins": 58,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -37,9 +37,9 @@
     "L3": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 171,
-      "checks": 57,
-      "wins": 57,
+      "seasonPts": 174,
+      "checks": 58,
+      "wins": 58,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -53,9 +53,9 @@
     "L4": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 171,
-      "checks": 57,
-      "wins": 57,
+      "seasonPts": 174,
+      "checks": 58,
+      "wins": 58,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -69,9 +69,9 @@
     "L5": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 171,
-      "checks": 57,
-      "wins": 57,
+      "seasonPts": 174,
+      "checks": 58,
+      "wins": 58,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -85,9 +85,9 @@
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 171,
-      "checks": 57,
-      "wins": 57,
+      "seasonPts": 174,
+      "checks": 58,
+      "wins": 58,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -101,9 +101,9 @@
     "L7": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 171,
-      "checks": 57,
-      "wins": 57,
+      "seasonPts": 174,
+      "checks": 58,
+      "wins": 58,
       "draws": 0,
       "losses": 0,
       "recentForm": [
