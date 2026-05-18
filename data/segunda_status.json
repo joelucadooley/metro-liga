@@ -1,76 +1,82 @@
 {
-  "matchday": 1,
-  "updated": "2026-05-18T21:52:30.301904+00:00",
+  "matchday": 2,
+  "updated": "2026-05-18T21:59:20.823887+00:00",
   "lines": {
     "SVQ_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 3,
-      "checks": 1,
-      "wins": 1,
+      "seasonPts": 6,
+      "checks": 2,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W"
       ]
     },
     "BIL_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 3,
-      "checks": 1,
-      "wins": 1,
+      "seasonPts": 6,
+      "checks": 2,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W"
       ]
     },
     "BIL_L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 3,
-      "checks": 1,
-      "wins": 1,
+      "seasonPts": 6,
+      "checks": 2,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W"
       ]
     },
     "MAL_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 3,
-      "checks": 1,
-      "wins": 1,
+      "seasonPts": 6,
+      "checks": 2,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W"
       ]
     },
     "MAL_L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 3,
-      "checks": 1,
-      "wins": 1,
+      "seasonPts": 6,
+      "checks": 2,
+      "wins": 2,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W"
       ]
     },
     "PMI_M1": {
       "severity": "minor",
       "description": "R BAG CAGES AND COMPLEMENTARY ACCESSORIES. Our manufacturing includes an extensive range of products, with a design of the highest quality. Our products are being used with high ef",
-      "seasonPts": 1,
-      "checks": 1,
+      "seasonPts": 2,
+      "checks": 2,
       "wins": 0,
-      "draws": 1,
+      "draws": 2,
       "losses": 0,
       "recentForm": [
+        "D",
         "D"
       ]
     }
