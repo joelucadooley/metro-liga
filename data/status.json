@@ -1,14 +1,14 @@
 {
-  "matchday": 74,
-  "updated": "2026-05-18T15:50:50.648764+00:00",
+  "matchday": 75,
+  "updated": "2026-05-18T15:55:58.176035+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
       "description": "Plaça de Sants · From · 27.04.2026 · , until · 27.03.2027 · Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work. The link must be made from the outside. · L2 · Paral·lel / Badalona Pompeu Fabra · Normal service · Disru",
-      "seasonPts": 73,
-      "checks": 74,
+      "seasonPts": 74,
+      "checks": 75,
       "wins": 2,
-      "draws": 67,
+      "draws": 68,
       "losses": 5,
       "recentForm": [
         "D",
@@ -21,10 +21,10 @@
     "L2": {
       "severity": "minor",
       "description": "Monumental · From · 12.05.2026 · , until · 02.06.2026 · Until approximately June 2, the escalator that goes up from the platform towards Badalona Pompeu Fabra to the lobby of Monumental station will be out of service for improvement work. · L3 · Zona Universitària / Trinitat Nova · Normal service · ",
-      "seasonPts": 73,
-      "checks": 74,
+      "seasonPts": 74,
+      "checks": 75,
       "wins": 2,
-      "draws": 67,
+      "draws": 68,
       "losses": 5,
       "recentForm": [
         "D",
@@ -37,10 +37,10 @@
     "L3": {
       "severity": "minor",
       "description": "Montbau · 18.05.2026 · From · 18.05.2026 · , until · 20.05.2026 · Until approximately May 20th, due to works, the Palau Olímpic access from Montbau station is closed. · To access it, you can use the Residencia Sanitària / Llars Mundet access. · Maria Cristina · From · 12.05.2026 · , until · 22.05.20",
-      "seasonPts": 73,
-      "checks": 74,
+      "seasonPts": 74,
+      "checks": 75,
       "wins": 2,
-      "draws": 67,
+      "draws": 68,
       "losses": 5,
       "recentForm": [
         "D",
@@ -53,10 +53,10 @@
     "L4": {
       "severity": "minor",
       "description": "Verdaguer · From · 09.10.2025 · , until · 30.08.2026 · From 13/10/2025, and for approximately 12 months, the connecting passageway between lines L4 and L5 at Verdaguer station is closed for works. The link must be made from the outside. · More info: · Connection between L4 and L5 closed at Verdaguer",
-      "seasonPts": 73,
-      "checks": 74,
+      "seasonPts": 74,
+      "checks": 75,
       "wins": 2,
-      "draws": 67,
+      "draws": 68,
       "losses": 5,
       "recentForm": [
         "D",
@@ -69,10 +69,10 @@
     "L5": {
       "severity": "minor",
       "description": "Badal · From · 12.05.2026 · , until · 09.06.2026 · Until approximately June 9th, the escalator that goes up from the platform towards Cornellà Centre to the lobby of the Carrer de Sants access, at Badal station, will be out of service for improvement work. · Sants Estació · From · 12.05.2026 · , unt",
-      "seasonPts": 73,
-      "checks": 74,
+      "seasonPts": 74,
+      "checks": 75,
       "wins": 2,
-      "draws": 67,
+      "draws": 68,
       "losses": 5,
       "recentForm": [
         "D",
@@ -85,9 +85,9 @@
     "L9N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 222,
-      "checks": 74,
-      "wins": 74,
+      "seasonPts": 225,
+      "checks": 75,
+      "wins": 75,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -101,9 +101,9 @@
     "L9S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 222,
-      "checks": 74,
-      "wins": 74,
+      "seasonPts": 225,
+      "checks": 75,
+      "wins": 75,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -117,9 +117,9 @@
     "L10N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 222,
-      "checks": 74,
-      "wins": 74,
+      "seasonPts": 225,
+      "checks": 75,
+      "wins": 75,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -133,9 +133,9 @@
     "L10S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 222,
-      "checks": 74,
-      "wins": 74,
+      "seasonPts": 225,
+      "checks": 75,
+      "wins": 75,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -149,9 +149,9 @@
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 207,
-      "checks": 74,
-      "wins": 69,
+      "seasonPts": 210,
+      "checks": 75,
+      "wins": 70,
       "draws": 0,
       "losses": 5,
       "recentForm": [
