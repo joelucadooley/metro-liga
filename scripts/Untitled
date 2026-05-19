@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Scrapes Metro de Sevilla status and updates data/sevilla_status.json.
+Scrapes Metrovalencia service updates and updates data/valencia_status.json.
 Points awarded once per day only. Status updates every 5 minutes.
 """
 
@@ -11,16 +11,26 @@ from datetime import datetime, timezone, date as date_cls
 from playwright.sync_api import sync_playwright
 from bs4 import BeautifulSoup
 
-LINES = ["L1"]
+LINES = ["L1", "L2", "L3", "L4", "L5", "L6", "L7"]
 POINTS = {"W": 3, "D": 1, "L": 0}
-DATA_FILE = Path("data/sevilla_status.json")
-STATUS_URL = "https://www.metro-sevilla.es/en/"
+DATA_FILE = Path("data/valencia_status.json")
+STATUS_URL = "https://www.metrovalencia.es/en/service-updates/"
+
+STATION_TO_LINE = {
+    "empalme": "L1", "bétera": "L1", "seminari": "L1",
+    "llíria": "L2",
+    "rafelbunyol": "L3", "aeroport": "L3",
+    "dr. lluch": "L4", "faitanar": "L4",
+    "alameda": "L5", "maritim": "L5",
+    "tossal": "L6", "sagunt": "L6",
+    "la granja": "L7", "pont de fusta": "L7",
+}
 
 INCIDENT_KEYWORDS = ["service suspended", "service interrupted", "no service",
-                     "line closed", "not available", "incidencia", "interrupción",
-                     "suspended", "out of operation"]
-MINOR_KEYWORDS = ["escalator", "lift", "elevator", "ascensor", "works",
-                  "maintenance", "alteration", "out of service", "improvement"]
+                     "suspended between", "line closed", "interrupció", "suspensió"]
+MINOR_KEYWORDS = ["escalator", "lift", "elevator", "elevator failure", "ascensor",
+                  "passage", "access", "alteration", "works", "failure", "avaria",
+                  "accessibility", "out of service", "improvement work", "maintenance"]
 
 
 def load_existing():
@@ -30,47 +40,61 @@ def load_existing():
         except Exception:
             pass
     return {"matchday": 0, "updated": None, "lastMatchDate": None,
-            "lines": {"L1": {"severity": "clear", "description": None, "seasonPts": 0,
-                             "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": []}}}
+            "lines": {n: {"severity": "clear", "description": None, "seasonPts": 0,
+                          "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": []} for n in LINES}}
 
 
-def scrape_sevilla():
+def find_line_for_snippet(snippet):
+    low = snippet.lower()
+    for line in LINES:
+        if re.search(rf'\b{re.escape(line)}\b', snippet, re.IGNORECASE):
+            return line
+    for station, line in STATION_TO_LINE.items():
+        if station in low:
+            return line
+    return None
+
+
+def scrape_valencia():
+    status = {n: {"severity": "clear", "description": None} for n in LINES}
     with sync_playwright() as p:
         browser = p.chromium.launch()
         context = browser.new_context(locale="en-GB",
                                        extra_http_headers={"Accept-Language": "en-GB,en;q=0.9"})
         page = context.new_page()
         try:
-            page.goto(STATUS_URL, wait_until="domcontentloaded", timeout=25000)
-            page.wait_for_timeout(2000)
+            page.goto(STATUS_URL, wait_until="networkidle", timeout=35000)
+            page.wait_for_timeout(5000)
             html = page.content()
             soup = BeautifulSoup(html, "html.parser")
             for tag in soup(["script", "style", "noscript"]):
                 tag.decompose()
             text = soup.get_text(separator="\n", strip=True)
-            lower = text.lower()
-            print(f"  Sevilla: {len(text)} chars")
-            if any(kw in lower for kw in INCIDENT_KEYWORDS):
-                severity = "incident"
-                desc = "Service disruption reported"
-            elif any(kw in lower for kw in MINOR_KEYWORDS):
-                severity = "minor"
-                for kw in MINOR_KEYWORDS:
-                    idx = lower.find(kw)
-                    if idx != -1:
-                        desc = re.sub(r'\s+', ' ', text[max(0, idx-30):idx+150]).strip()
-                        break
-                else:
-                    desc = "Station alteration reported"
-            else:
-                severity, desc = "clear", None
-            print(f"  L1: {severity}")
-            return {"L1": {"severity": severity, "description": desc}}
+            print(f"  Page length: {len(text)} chars")
+            lines_text = text.split("\n")
+            i = 0
+            while i < len(lines_text):
+                chunk = lines_text[i].strip()
+                chunk_low = chunk.lower()
+                if any(kw in chunk_low for kw in INCIDENT_KEYWORDS + MINOR_KEYWORDS):
+                    window = "\n".join(lines_text[max(0, i-3): i+8])
+                    sev = "incident" if any(kw in chunk_low for kw in INCIDENT_KEYWORDS) else "minor"
+                    line = find_line_for_snippet(window)
+                    if line:
+                        current = status[line]["severity"]
+                        if sev == "incident" or current == "clear":
+                            desc = re.sub(r'\s+', ' ', window).strip()[:250]
+                            status[line] = {"severity": sev, "description": desc}
+                            print(f"  {line}: {sev} — {desc[:80]}")
+                i += 1
+            for line in LINES:
+                if status[line]["severity"] == "clear":
+                    print(f"  {line}: clear")
         except Exception as e:
             print(f"  Scrape failed: {e}")
-            return {"L1": {"severity": "clear", "description": None}}
         finally:
             browser.close()
+    return status
 
 
 def update_scores(existing, new_status):
@@ -109,11 +133,11 @@ def update_scores(existing, new_status):
 
 def main():
     DATA_FILE.parent.mkdir(exist_ok=True)
-    print("Loading existing Sevilla data...")
+    print("Loading existing Valencia data...")
     existing = load_existing()
-    print("Scraping Metro de Sevilla...")
+    print("Scraping Metrovalencia...")
     try:
-        new_status = scrape_sevilla()
+        new_status = scrape_valencia()
         result = update_scores(existing, new_status)
     except Exception as e:
         print(f"Scraping failed: {e}")
