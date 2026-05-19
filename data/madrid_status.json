@@ -1,14 +1,14 @@
 {
-  "matchday": 260,
-  "updated": "2026-05-19T08:06:33.629890+00:00",
+  "matchday": 261,
+  "updated": "2026-05-19T08:11:45.308895+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 10 in the direction Tres Olivos Out of service due to repair works. Expected date of coming into service: 19-05-2026 Servi",
-      "seasonPts": 370,
-      "checks": 260,
+      "seasonPts": 371,
+      "checks": 261,
       "wins": 55,
-      "draws": 205,
+      "draws": 206,
       "losses": 0,
       "recentForm": [
         "D",
@@ -21,10 +21,10 @@
     "L2": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform on line 2 in the direction of Las Rosas to platform on line 3 in the direction of Moncloa Out of service due to check-up. Coming into service in",
-      "seasonPts": 370,
-      "checks": 260,
+      "seasonPts": 371,
+      "checks": 261,
       "wins": 55,
-      "draws": 205,
+      "draws": 206,
       "losses": 0,
       "recentForm": [
         "D",
@@ -37,10 +37,10 @@
     "L3": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Waiting for information. Services: Accessible station Lifts Escalators Defibrillator Mobile phone cov",
-      "seasonPts": 368,
-      "checks": 260,
+      "seasonPts": 369,
+      "checks": 261,
       "wins": 54,
-      "draws": 206,
+      "draws": 207,
       "losses": 0,
       "recentForm": [
         "D",
@@ -53,10 +53,10 @@
     "L4": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to check-up. Coming into service in the next hours. Services: Ac",
-      "seasonPts": 368,
-      "checks": 260,
+      "seasonPts": 369,
+      "checks": 261,
       "wins": 54,
-      "draws": 206,
+      "draws": 207,
       "losses": 0,
       "recentForm": [
         "D",
@@ -69,10 +69,10 @@
     "L5": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Waiting for information. Services: Escalators Moving walkway Defibrillator Mobile phone coverag",
-      "seasonPts": 368,
-      "checks": 260,
+      "seasonPts": 369,
+      "checks": 261,
       "wins": 54,
-      "draws": 206,
+      "draws": 207,
       "losses": 0,
       "recentForm": [
         "D",
@@ -85,9 +85,9 @@
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 780,
-      "checks": 260,
-      "wins": 260,
+      "seasonPts": 783,
+      "checks": 261,
+      "wins": 261,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -101,10 +101,10 @@
     "L7": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Waiting for information. Services: Accessible station Lifts Escalators Defibrillator Mobile phone coverage Pay the ",
-      "seasonPts": 370,
-      "checks": 260,
+      "seasonPts": 371,
+      "checks": 261,
       "wins": 55,
-      "draws": 205,
+      "draws": 206,
       "losses": 0,
       "recentForm": [
         "D",
@@ -117,10 +117,10 @@
     "L8": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 and line 10 platform in the direction of Puerta del Sur Out of service due to check-up. Coming int",
-      "seasonPts": 368,
-      "checks": 260,
+      "seasonPts": 369,
+      "checks": 261,
       "wins": 54,
-      "draws": 206,
+      "draws": 207,
       "losses": 0,
       "recentForm": [
         "D",
@@ -133,10 +133,10 @@
     "L9": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform on line 1 in the direction of Pinar de Chamartín Out of service. We are examining the reasons for the stop. From lobby Caste",
-      "seasonPts": 356,
-      "checks": 260,
+      "seasonPts": 357,
+      "checks": 261,
       "wins": 48,
-      "draws": 212,
+      "draws": 213,
       "losses": 0,
       "recentForm": [
         "D",
@@ -150,10 +150,10 @@
       "severity": "incident",
       "description": "Service suspended on Line 10 between Nuevos Ministerios and Cuzco stations, in both directions, due to renovation and accessibility works at Santiago Bernabéu station. A special replacement bus servic",
       "seasonPts": 3,
-      "checks": 260,
+      "checks": 261,
       "wins": 1,
       "draws": 0,
-      "losses": 259,
+      "losses": 260,
       "recentForm": [
         "L",
         "L",
@@ -165,10 +165,10 @@
     "L11": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera to hallway for platforms on line 6 and hallway platforms on line 11 Out of service. We are examining the reasons for the stop. S",
-      "seasonPts": 562,
-      "checks": 260,
+      "seasonPts": 563,
+      "checks": 261,
       "wins": 151,
-      "draws": 109,
+      "draws": 110,
       "losses": 0,
       "recentForm": [
         "D",
@@ -181,9 +181,9 @@
     "L12": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 780,
-      "checks": 260,
-      "wins": 260,
+      "seasonPts": 783,
+      "checks": 261,
+      "wins": 261,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -197,15 +197,15 @@
     "R": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 372,
-      "checks": 260,
-      "wins": 56,
+      "seasonPts": 375,
+      "checks": 261,
+      "wins": 57,
       "draws": 204,
       "losses": 0,
       "recentForm": [
         "D",
         "D",
-        "D",
+        "W",
         "W",
         "W"
       ]
