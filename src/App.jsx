@@ -126,6 +126,31 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .city-tab:hover { color: #888; }
 .city-tab.active { color: #111; }
 
+/* ── Ticker ── */
+.ticker-wrap {
+  background: #fafafa; border-bottom: 1px solid #e0e0e6;
+  overflow: hidden; height: 28px; display: flex; align-items: center;
+}
+.ticker-label {
+  font-family: 'JetBrains Mono', monospace; font-size: 0.48rem;
+  letter-spacing: 0.12em; text-transform: uppercase;
+  padding: 0 1rem; flex-shrink: 0; border-right: 1px solid #e0e0e6;
+  height: 100%; display: flex; align-items: center; background: #fafafa; z-index: 1;
+  color: #e67e22;
+}
+.ticker-label.incident { color: #c0392b; }
+.ticker-track { flex: 1; overflow: hidden; }
+.ticker-inner {
+  display: flex; white-space: nowrap;
+  animation: ticker-scroll 45s linear infinite;
+  font-family: 'JetBrains Mono', monospace; font-size: 0.54rem; color: #999;
+}
+.ticker-inner:hover { animation-play-state: paused; }
+@keyframes ticker-scroll { 0% { transform: translateX(0); } 100% { transform: translateX(-50%); } }
+.ticker-item { padding: 0 1.5rem; display: inline-flex; align-items: center; gap: 0.4rem; flex-shrink: 0; }
+.ticker-pip { font-size: 0.44rem; font-weight: 700; width: 18px; height: 18px; border-radius: 50%; display: inline-flex; align-items: center; justify-content: center; flex-shrink: 0; }
+.ticker-sep { color: #ddd; margin: 0 0.8rem; }
+
 /* ── Error ── */
 .err-box { padding: 0.5rem 1.3rem; background: #fff0f0; border-bottom: 1px solid #ffc0c0; font-family: 'JetBrains Mono', monospace; font-size: 0.56rem; color: #c00; }
 
@@ -158,7 +183,7 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
   grid-template-columns: 40px minmax(0,1fr) 64px 120px 44px;
   padding: 0 1.3rem; border-bottom: 1px solid #ebebef;
   align-items: center; border-left: 3px solid transparent;
-  transition: background 0.1s; min-height: 54px;
+  transition: background 0.1s; height: 52px;
   background: #fff;
 }
 .row:hover { background: #f8f8fb; }
@@ -168,13 +193,28 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 
 .col-pos { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: #ccc; }
 
-.col-club { display: flex; align-items: center; gap: 0.6rem; min-width: 0; overflow: hidden; padding: 0.4rem 0; }
+.col-club { display: flex; align-items: center; gap: 0.6rem; min-width: 0; overflow: hidden; }
 .pip { width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.58rem; font-weight: 700; flex-shrink: 0; letter-spacing: -0.02em; }
-.club-info { display: flex; flex-direction: column; gap: 2px; min-width: 0; overflow: hidden; }
+.club-text { flex: 1; min-width: 0; overflow: hidden; display: flex; flex-direction: column; gap: 2px; }
 .club-label { font-family: 'JetBrains Mono', monospace; font-size: 0.5rem; color: #999; white-space: nowrap; }
-.club-desc { font-family: 'JetBrains Mono', monospace; font-size: 0.46rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; font-style: italic; }
+
+/* Scrolling description — scrolls inside the column, no extra height */
+.club-desc-wrap { overflow: hidden; position: relative; }
+.club-desc {
+  font-family: 'JetBrains Mono', monospace; font-size: 0.44rem;
+  white-space: nowrap; display: inline-block;
+  animation: scroll-desc 18s linear infinite;
+  font-style: italic;
+}
+.club-desc:hover { animation-play-state: paused; }
 .club-desc.minor    { color: #b07800; }
 .club-desc.incident { color: #c0392b; }
+@keyframes scroll-desc {
+  0%   { transform: translateX(0); }
+  20%  { transform: translateX(0); }
+  80%  { transform: translateX(-100%); }
+  100% { transform: translateX(-100%); }
+}
 
 .col-pts-wrap { text-align: right; }
 .col-pts { font-family: 'JetBrains Mono', monospace; font-size: 1.1rem; color: #222; line-height: 1; font-weight: 500; }
@@ -213,20 +253,47 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .footer a:hover { color: #555; }
 
 @media (max-width: 600px) {
-  .tbl-head, .row { grid-template-columns: 32px minmax(0,1fr) 50px 0 36px; }
-  .col-form, .th.c { display: none; }
+  .tbl-head, .row { grid-template-columns: 32px minmax(0,1fr) 50px 100px 36px; }
   .pip { width: 30px; height: 30px; font-size: 0.52rem; }
   .city-tab { padding: 0.5rem 0.7rem; font-size: 0.78rem; }
   .hdr-badge { min-width: 90px; }
   .hdr-badge-title { font-size: 1.4rem; }
   .hdr-time { display: none; }
-  .club-desc { font-size: 0.44rem; }
 }
 `;
 
 // ─────────────────────────────────────────────────────────────────────────────
 // COMPONENTS
 // ─────────────────────────────────────────────────────────────────────────────
+
+function Ticker({ standings, city }) {
+  const alerts = standings.filter(s => s.currentSeverity !== "clear" && s.currentDetail);
+  if (!alerts.length) return null;
+  const hasIncident = alerts.some(s => s.currentSeverity === "incident");
+  const items = [...alerts, ...alerts];
+  return (
+    <div className="ticker-wrap">
+      <div className={`ticker-label${hasIncident ? " incident" : ""}`}>
+        {hasIncident ? "⚠ Incident" : "~ Issues"}
+      </div>
+      <div className="ticker-track">
+        <div className="ticker-inner">
+          {items.map((s, i) => {
+            const meta = city.lines[s.name] || { color: "#999", text: "#fff" };
+            const pipText = meta.pip || s.name;
+            return (
+              <span key={i} className="ticker-item">
+                <span className="ticker-pip" style={{ background: meta.color, color: meta.text }}>{pipText}</span>
+                {s.currentDetail}
+                {i < items.length - 1 && <span className="ticker-sep">◆</span>}
+              </span>
+            );
+          })}
+        </div>
+      </div>
+    </div>
+  );
+}
 
 function Row({ s, pos, total, city }) {
   const meta    = city.lines[s.name] || { color: "#999", text: "#fff" };
@@ -239,9 +306,7 @@ function Row({ s, pos, total, city }) {
   const sev     = s.currentSeverity;
   const pipText = meta.pip   || s.name;
   const label   = meta.label || null;
-  const desc    = (sev !== "clear" && s.currentDetail)
-    ? truncate(s.currentDetail, 60)
-    : null;
+  const desc    = sev !== "clear" ? s.currentDetail : null;
 
   const nowSymbol = s.checks === 0 ? <span className="now-pending">—</span>
     : sev === "incident" ? <span className="now-incident" title="Service incident">✗</span>
@@ -253,12 +318,14 @@ function Row({ s, pos, total, city }) {
       <div className="col-pos">{pos + 1}</div>
       <div className="col-club">
         <div className="pip" style={{ background: meta.color, color: meta.text }}>{pipText}</div>
-        {(label || desc) && (
-          <div className="club-info">
-            {label && <div className="club-label">{label}</div>}
-            {desc  && <div className={`club-desc ${sev}`}>{desc}</div>}
-          </div>
-        )}
+        <div className="club-text">
+          {label && <div className="club-label">{label}</div>}
+          {desc && (
+            <div className="club-desc-wrap">
+              <span className={`club-desc ${sev}`}>{desc}</span>
+            </div>
+          )}
+        </div>
       </div>
       <div className="col-pts-wrap">
         <div className="col-pts">{s.seasonPts}</div>
@@ -426,6 +493,7 @@ export default function App() {
       </div>
 
       {err && <div className="err-box">⚠ {err}</div>}
+      {standings && <Ticker standings={standings} city={city} />}
 
       <div className="content-wrap">
         {loading ? (
