@@ -62,8 +62,8 @@ const CITIES = {
       BIL_L2: { color: "#003082", text: "#fff", pip: "L2", label: "Bilbao" },
       MAL_L1: { color: "#009E3A", text: "#fff", pip: "L1", label: "Málaga" },
       MAL_L2: { color: "#00AADF", text: "#fff", pip: "L2", label: "Málaga" },
-      PMI_M1: { color: "#F5A623", text: "#fff", pip: "M1", label: "Palma" },
       GRN_L1: { color: "#1FACA5", text: "#fff", pip: "L1", label: "Granada" },
+      PMI_M1: { color: "#F5A623", text: "#fff", pip: "M1", label: "Palma" },
     },
   },
 };
@@ -611,7 +611,7 @@ function AppInner({ city, cityId, setCityId, refreshKey, onRefresh, onShare }) {
 
         <div className="footer">
           <span>Metro Liga · Real-time Spanish metro reliability · W=3pts D=1pt L=0pts</span>
-          <a href={GITHUB_URL} target="_blank" rel="noopener noreferrer">GitHub ↗</a>
+          <span>Created by <a href={GITHUB_URL} target="_blank" rel="noopener noreferrer">Joe Luca Dooley</a></span>
           {updated && <span>Last updated {dateStr} {timeStr}</span>}
         </div>
       </div>
