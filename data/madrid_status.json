@@ -1,210 +1,211 @@
 {
-  "matchday": 270,
-  "updated": "2026-05-19T09:01:48.146592+00:00",
+  "matchday": 271,
+  "lastMatchDate": "2026-05-19",
+  "updated": "2026-05-19T09:11:34.956724+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 10 in the direction Tres Olivos Out of service due to repair works. Expected date of coming into service: 19-05-2026 From ",
-      "seasonPts": 382,
-      "checks": 270,
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 10 in the direction Tres Olivos Out of service due to repair works. Expe",
+      "seasonPts": 383,
+      "checks": 271,
       "wins": 56,
-      "draws": 214,
-      "losses": 0,
-      "recentForm": [
-        "D",
-        "D",
-        "D",
-        "W",
-        "D"
-      ]
-    },
-    "L2": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Felipe II esq. Alcalá of lobby Felipe II to platform on line 2 in the direction of Cuatro Caminos. There is another lift in the same location Waiting for informatio",
-      "seasonPts": 382,
-      "checks": 270,
-      "wins": 56,
-      "draws": 214,
-      "losses": 0,
-      "recentForm": [
-        "D",
-        "D",
-        "D",
-        "W",
-        "D"
-      ]
-    },
-    "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Waiting for information. Services: Accessible station Lifts Escalators Defibrillator Mobile phone cov",
-      "seasonPts": 380,
-      "checks": 270,
-      "wins": 55,
       "draws": 215,
       "losses": 0,
       "recentForm": [
         "D",
         "D",
+        "W",
+        "D",
+        "D"
+      ]
+    },
+    "L2": {
+      "severity": "incident",
+      "description": "Service disruption reported",
+      "seasonPts": 382,
+      "checks": 271,
+      "wins": 56,
+      "draws": 214,
+      "losses": 1,
+      "recentForm": [
+        "D",
         "D",
         "W",
+        "D",
+        "L"
+      ]
+    },
+    "L3": {
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Waiting for information. Services: Accessible stati",
+      "seasonPts": 381,
+      "checks": 271,
+      "wins": 55,
+      "draws": 216,
+      "losses": 0,
+      "recentForm": [
+        "D",
+        "D",
+        "W",
+        "D",
         "D"
       ]
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to check-up. Coming into service in the next hours. Services: Ac",
-      "seasonPts": 380,
-      "checks": 270,
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to check-up. C",
+      "seasonPts": 381,
+      "checks": 271,
       "wins": 55,
-      "draws": 215,
+      "draws": 216,
       "losses": 0,
       "recentForm": [
         "D",
         "D",
-        "D",
         "W",
+        "D",
         "D"
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Emilio Ferrari to platform on line 5 and corridor leading on line 7 Out of service. We are examining the reasons for the stop. From lobby Emilio Fe",
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 380,
-      "checks": 270,
+      "checks": 271,
       "wins": 55,
+      "draws": 215,
+      "losses": 1,
+      "recentForm": [
+        "D",
+        "D",
+        "W",
+        "D",
+        "L"
+      ]
+    },
+    "L6": {
+      "severity": "incident",
+      "description": "Service disruption reported",
+      "seasonPts": 810,
+      "checks": 271,
+      "wins": 270,
+      "draws": 0,
+      "losses": 1,
+      "recentForm": [
+        "W",
+        "W",
+        "W",
+        "W",
+        "L"
+      ]
+    },
+    "L7": {
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Waiting for information. Services: Accessible station Lifts Escal",
+      "seasonPts": 383,
+      "checks": 271,
+      "wins": 56,
       "draws": 215,
       "losses": 0,
       "recentForm": [
         "D",
         "D",
+        "W",
         "D",
-        "W",
-        "D"
-      ]
-    },
-    "L6": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 810,
-      "checks": 270,
-      "wins": 270,
-      "draws": 0,
-      "losses": 0,
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ]
-    },
-    "L7": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Waiting for information. Services: Accessible station Lifts Escalators Defibrillator Mobile phone coverage Pay the ",
-      "seasonPts": 382,
-      "checks": 270,
-      "wins": 56,
-      "draws": 214,
-      "losses": 0,
-      "recentForm": [
-        "D",
-        "D",
-        "D",
-        "W",
         "D"
       ]
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 and line 10 platform in the direction of Puerta del Sur Out of service due to check-up. Coming int",
-      "seasonPts": 380,
-      "checks": 270,
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 and line 10 platform in the direction of Puert",
+      "seasonPts": 381,
+      "checks": 271,
       "wins": 55,
-      "draws": 215,
+      "draws": 216,
       "losses": 0,
       "recentForm": [
         "D",
         "D",
-        "D",
         "W",
+        "D",
         "D"
       ]
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform on line 1 in the direction of Pinar de Chamartín Out of service. We are examining the reasons for the stop. From lobby Caste",
-      "seasonPts": 368,
-      "checks": 270,
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform on line 1 in the direction of Pinar de Chamartín Out of service. We are ex",
+      "seasonPts": 369,
+      "checks": 271,
       "wins": 49,
-      "draws": 221,
+      "draws": 222,
       "losses": 0,
       "recentForm": [
         "D",
         "D",
-        "D",
         "W",
+        "D",
         "D"
       ]
     },
     "L10": {
       "severity": "incident",
-      "description": "Service suspended on Line 10 between Nuevos Ministerios and Cuzco stations, in both directions, due to renovation and accessibility works at Santiago Bernabéu station. A special replacement bus servic",
+      "description": "Service disruption reported",
       "seasonPts": 6,
-      "checks": 270,
+      "checks": 271,
       "wins": 2,
       "draws": 0,
-      "losses": 268,
+      "losses": 269,
       "recentForm": [
         "L",
         "L",
-        "L",
         "W",
+        "L",
         "L"
       ]
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera to hallway for platforms on line 6 and hallway platforms on line 11 Out of service. We are examining the reasons for the stop. S",
-      "seasonPts": 574,
-      "checks": 270,
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera to hallway for platforms on line 6 and hallway platforms on line 11 Out of se",
+      "seasonPts": 575,
+      "checks": 271,
       "wins": 152,
-      "draws": 118,
+      "draws": 119,
       "losses": 0,
       "recentForm": [
         "D",
         "D",
-        "D",
         "W",
+        "D",
         "D"
       ]
     },
     "L12": {
-      "severity": "clear",
-      "description": null,
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 810,
-      "checks": 270,
+      "checks": 271,
       "wins": 270,
       "draws": 0,
-      "losses": 0,
+      "losses": 1,
       "recentForm": [
         "W",
         "W",
         "W",
         "W",
-        "W"
+        "L"
       ]
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Paseo de la Florida to lobby Paseo de la Florida Out of service. We are examining the reasons for the stop. Services: Accessible station Lifts E",
-      "seasonPts": 396,
-      "checks": 270,
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Paseo de la Florida to lobby Paseo de la Florida Out of service. We are examining the reasons",
+      "seasonPts": 397,
+      "checks": 271,
       "wins": 63,
-      "draws": 207,
+      "draws": 208,
       "losses": 0,
       "recentForm": [
         "W",
-        "W",
+        "D",
         "D",
         "D",
         "D"
