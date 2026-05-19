@@ -1,7 +1,7 @@
 {
   "matchday": 271,
   "lastMatchDate": "2026-05-19",
-  "updated": "2026-05-19T20:55:46.085296+00:00",
+  "updated": "2026-05-19T21:02:29.078130+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -101,7 +101,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Out of service due to check-up. Coming into service in the next h",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Out of service due to repair jobs. Expected date of coming into s",
       "seasonPts": 383,
       "checks": 271,
       "wins": 56,
@@ -133,7 +133,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Mirasierra to lobby Waiting for information. Services: Accessible station Lifts Escalator",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to corridor leading on line 1-9 y 10 Out of service due to repair works. Expected date",
       "seasonPts": 369,
       "checks": 271,
       "wins": 49,
@@ -165,7 +165,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera to hallway for platforms on line 6 and hallway platforms on line 11 Out of se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on Line 6 to platform 1 in the direction Usera Out of service due to ch",
       "seasonPts": 575,
       "checks": 271,
       "wins": 152,
