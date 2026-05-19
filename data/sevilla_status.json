@@ -1,13 +1,13 @@
 {
-  "matchday": 207,
-  "updated": "2026-05-19T06:56:45.749129+00:00",
+  "matchday": 208,
+  "updated": "2026-05-19T07:02:14.355981+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 621,
-      "checks": 207,
-      "wins": 207,
+      "seasonPts": 624,
+      "checks": 208,
+      "wins": 208,
       "draws": 0,
       "losses": 0,
       "recentForm": [
