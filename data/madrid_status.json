@@ -1,7 +1,7 @@
 {
   "matchday": 271,
   "lastMatchDate": "2026-05-19",
-  "updated": "2026-05-19T16:26:17.557447+00:00",
+  "updated": "2026-05-19T16:31:49.193171+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -69,7 +69,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Casa de Campo Out of service. We are examining the reasons for",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Casa de Campo Out of service due to check-up. Coming into servi",
       "seasonPts": 380,
       "checks": 271,
       "wins": 55,
@@ -101,7 +101,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Out of service due to repair jobs. Expected date of coming into s",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service. We are examining the r",
       "seasonPts": 383,
       "checks": 271,
       "wins": 56,
