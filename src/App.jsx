@@ -220,7 +220,7 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .col-pts { font-family: 'JetBrains Mono', monospace; font-size: 1.1rem; color: #222; line-height: 1; font-weight: 500; }
 .col-record { font-family: 'JetBrains Mono', monospace; font-size: 0.44rem; color: #ccc; margin-top: 1px; }
 
-.col-form { display: flex; align-items: center; justify-content: center; gap: 4px; }
+.col-form { display: flex; align-items: center; justify-content: center; gap: 4px; justify-self: center; width: 100%; }
 .fd { width: 13px; height: 13px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: 'JetBrains Mono', monospace; font-size: 0.38rem; font-weight: 500; }
 .fd.W    { background: #d4edda; color: #1a7a2a; }
 .fd.D    { background: #fff3cd; color: #856404; }
@@ -307,6 +307,8 @@ function Row({ s, pos, total, city }) {
   const pipText = meta.pip   || s.name;
   const label   = meta.label || null;
   const desc    = sev !== "clear" ? s.currentDetail : null;
+  // Speed: ~60px per second regardless of text length
+  const scrollDuration = desc ? Math.max(6, desc.length * 0.1) + 's' : '0s';
 
   const nowSymbol = s.checks === 0 ? <span className="now-pending">—</span>
     : sev === "incident" ? <span className="now-incident" title="Service incident">✗</span>
@@ -322,7 +324,7 @@ function Row({ s, pos, total, city }) {
           {label && <div className="club-label">{label}</div>}
           {desc && (
             <div className="club-desc-wrap">
-              <span className={`club-desc ${sev}`}>{desc}</span>
+              <span className={`club-desc ${sev}`} style={{ animationDuration: scrollDuration }}>{desc}</span>
             </div>
           )}
         </div>
@@ -493,7 +495,6 @@ export default function App() {
       </div>
 
       {err && <div className="err-box">⚠ {err}</div>}
-      {standings && <Ticker standings={standings} city={city} />}
 
       <div className="content-wrap">
         {loading ? (
