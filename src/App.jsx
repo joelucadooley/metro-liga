@@ -238,7 +238,9 @@ function Row({ s, pos, total, city }) {
   const sev     = s.currentSeverity;
   const pipText = meta.pip   || s.name;
   const label   = meta.label || null;
-  const desc    = sev !== "clear" ? truncate(s.currentDetail, 55) : null;
+  const desc    = (sev !== "clear" && s.currentDetail)
+    ? truncate(s.currentDetail, 60)
+    : null;
 
   const nowSymbol = s.checks === 0 ? <span className="now-pending">—</span>
     : sev === "incident" ? <span className="now-incident" title="Service incident">✗</span>
@@ -250,10 +252,12 @@ function Row({ s, pos, total, city }) {
       <div className="col-pos">{pos + 1}</div>
       <div className="col-club">
         <div className="pip" style={{ background: meta.color, color: meta.text }}>{pipText}</div>
-        <div className="club-info">
-          {label && <div className="club-label">{label}</div>}
-          {desc  && <div className={`club-desc ${sev}`}>{desc}</div>}
-        </div>
+        {(label || desc) && (
+          <div className="club-info">
+            {label && <div className="club-label">{label}</div>}
+            {desc  && <div className={`club-desc ${sev}`}>{desc}</div>}
+          </div>
+        )}
       </div>
       <div className="col-pts-wrap">
         <div className="col-pts">{s.seasonPts}</div>
@@ -381,6 +385,10 @@ export default function App() {
     ? "linear-gradient(135deg,#EE1C25,#003082)"
     : city.color;
 
+  const monthStr = updated
+    ? updated.toLocaleDateString("en-GB", { month: "long", year: "numeric" })
+    : new Date().toLocaleDateString("en-GB", { month: "long", year: "numeric" });
+
   return (
     <div className="app">
       <style>{CSS}</style>
@@ -392,7 +400,7 @@ export default function App() {
             <div className="hdr-badge-title">Liga</div>
           </div>
           <div className="hdr-mid">
-            <div className="hdr-matchday">{city.name} · Matchday {matchday} · W=3 D=1 L=0</div>
+            <div className="hdr-matchday">{city.name} · {monthStr} · W=3 D=1 L=0</div>
             <div className="hdr-info">{statusText}</div>
           </div>
           <div className="hdr-right">
