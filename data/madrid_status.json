@@ -1,7 +1,7 @@
 {
   "matchday": 271,
   "lastMatchDate": "2026-05-19",
-  "updated": "2026-05-19T09:36:37.961338+00:00",
+  "updated": "2026-05-19T09:43:04.313355+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -132,8 +132,8 @@
       ]
     },
     "L9": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to corridor leading on line 1-9 y 10 Out of service due to repair works. Expected date",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 369,
       "checks": 271,
       "wins": 49,
@@ -180,8 +180,8 @@
       ]
     },
     "L12": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 810,
       "checks": 271,
       "wins": 270,
