@@ -1,13 +1,13 @@
 {
-  "matchday": 115,
-  "updated": "2026-05-19T07:22:16.602298+00:00",
+  "matchday": 116,
+  "updated": "2026-05-19T07:27:22.889041+00:00",
   "lines": {
     "SVQ_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 345,
-      "checks": 115,
-      "wins": 115,
+      "seasonPts": 348,
+      "checks": 116,
+      "wins": 116,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -21,9 +21,9 @@
     "BIL_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 345,
-      "checks": 115,
-      "wins": 115,
+      "seasonPts": 348,
+      "checks": 116,
+      "wins": 116,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -37,9 +37,9 @@
     "BIL_L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 345,
-      "checks": 115,
-      "wins": 115,
+      "seasonPts": 348,
+      "checks": 116,
+      "wins": 116,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -53,9 +53,9 @@
     "MAL_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 345,
-      "checks": 115,
-      "wins": 115,
+      "seasonPts": 348,
+      "checks": 116,
+      "wins": 116,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -69,9 +69,9 @@
     "MAL_L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 345,
-      "checks": 115,
-      "wins": 115,
+      "seasonPts": 348,
+      "checks": 116,
+      "wins": 116,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -85,10 +85,10 @@
     "PMI_M1": {
       "severity": "minor",
       "description": "R BAG CAGES AND COMPLEMENTARY ACCESSORIES. Our manufacturing includes an extensive range of products, with a design of the highest quality. Our products are being used with high ef",
-      "seasonPts": 115,
-      "checks": 115,
+      "seasonPts": 116,
+      "checks": 116,
       "wins": 0,
-      "draws": 115,
+      "draws": 116,
       "losses": 0,
       "recentForm": [
         "D",
