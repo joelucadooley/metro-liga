@@ -221,7 +221,7 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .col-pts { font-family: 'JetBrains Mono', monospace; font-size: 1.1rem; color: #222; line-height: 1; font-weight: 500; }
 .col-record { font-family: 'JetBrains Mono', monospace; font-size: 0.44rem; color: #ccc; margin-top: 1px; }
 
-.col-form { display: flex; align-items: center; justify-content: center; gap: 4px; }
+.col-form { display: flex; align-items: center; justify-content: center; gap: 4px; padding: 0 8px; }
 .fd { width: 13px; height: 13px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: 'JetBrains Mono', monospace; font-size: 0.38rem; font-weight: 500; }
 .fd.W    { background: #d4edda; color: #1a7a2a; }
 .fd.D    { background: #fff3cd; color: #856404; }
@@ -307,8 +307,10 @@ function Row({ s, pos, total, city }) {
   const sev     = s.currentSeverity;
   const pipText = meta.pip   || s.name;
   const label   = meta.label || null;
-  const desc    = sev !== "clear" ? s.currentDetail : null;
-  const scrollDuration = '16s';
+  const desc    = sev !== "clear" && s.currentDetail
+    ? s.currentDetail.slice(0, 90) + (s.currentDetail.length > 90 ? '…' : '')
+    : null;
+  const scrollDuration = '20s';
 
   const nowSymbol = s.checks === 0 ? <span className="now-pending">—</span>
     : sev === "incident" ? <span className="now-incident" title="Service incident">✗</span>
