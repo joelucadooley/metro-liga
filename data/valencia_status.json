@@ -1,13 +1,13 @@
 {
-  "matchday": 241,
-  "updated": "2026-05-19T21:47:02.946800+00:00",
+  "matchday": 242,
+  "updated": "2026-05-19T21:52:03.317611+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 723,
-      "checks": 241,
-      "wins": 241,
+      "seasonPts": 726,
+      "checks": 242,
+      "wins": 242,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -21,9 +21,9 @@
     "L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 723,
-      "checks": 241,
-      "wins": 241,
+      "seasonPts": 726,
+      "checks": 242,
+      "wins": 242,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -37,9 +37,9 @@
     "L3": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 721,
-      "checks": 241,
-      "wins": 240,
+      "seasonPts": 724,
+      "checks": 242,
+      "wins": 241,
       "draws": 1,
       "losses": 0,
       "recentForm": [
@@ -53,9 +53,9 @@
     "L4": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 723,
-      "checks": 241,
-      "wins": 241,
+      "seasonPts": 726,
+      "checks": 242,
+      "wins": 242,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -69,9 +69,9 @@
     "L5": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 723,
-      "checks": 241,
-      "wins": 241,
+      "seasonPts": 726,
+      "checks": 242,
+      "wins": 242,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -85,9 +85,9 @@
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 723,
-      "checks": 241,
-      "wins": 241,
+      "seasonPts": 726,
+      "checks": 242,
+      "wins": 242,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -101,9 +101,9 @@
     "L7": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 723,
-      "checks": 241,
-      "wins": 241,
+      "seasonPts": 726,
+      "checks": 242,
+      "wins": 242,
       "draws": 0,
       "losses": 0,
       "recentForm": [
