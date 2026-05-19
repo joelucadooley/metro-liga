@@ -1,13 +1,13 @@
 {
-  "matchday": 197,
-  "updated": "2026-05-19T02:51:32.791958+00:00",
+  "matchday": 198,
+  "updated": "2026-05-19T02:56:27.045207+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 275,
-      "checks": 197,
-      "wins": 39,
+      "seasonPts": 278,
+      "checks": 198,
+      "wins": 40,
       "draws": 158,
       "losses": 0,
       "recentForm": [
@@ -21,9 +21,9 @@
     "L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 275,
-      "checks": 197,
-      "wins": 39,
+      "seasonPts": 278,
+      "checks": 198,
+      "wins": 40,
       "draws": 158,
       "losses": 0,
       "recentForm": [
@@ -37,9 +37,9 @@
     "L3": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 273,
-      "checks": 197,
-      "wins": 38,
+      "seasonPts": 276,
+      "checks": 198,
+      "wins": 39,
       "draws": 159,
       "losses": 0,
       "recentForm": [
@@ -53,9 +53,9 @@
     "L4": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 273,
-      "checks": 197,
-      "wins": 38,
+      "seasonPts": 276,
+      "checks": 198,
+      "wins": 39,
       "draws": 159,
       "losses": 0,
       "recentForm": [
@@ -69,9 +69,9 @@
     "L5": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 273,
-      "checks": 197,
-      "wins": 38,
+      "seasonPts": 276,
+      "checks": 198,
+      "wins": 39,
       "draws": 159,
       "losses": 0,
       "recentForm": [
@@ -85,9 +85,9 @@
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 591,
-      "checks": 197,
-      "wins": 197,
+      "seasonPts": 594,
+      "checks": 198,
+      "wins": 198,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -101,9 +101,9 @@
     "L7": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 275,
-      "checks": 197,
-      "wins": 39,
+      "seasonPts": 278,
+      "checks": 198,
+      "wins": 40,
       "draws": 158,
       "losses": 0,
       "recentForm": [
@@ -117,9 +117,9 @@
     "L8": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 273,
-      "checks": 197,
-      "wins": 38,
+      "seasonPts": 276,
+      "checks": 198,
+      "wins": 39,
       "draws": 159,
       "losses": 0,
       "recentForm": [
@@ -133,9 +133,9 @@
     "L9": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 261,
-      "checks": 197,
-      "wins": 32,
+      "seasonPts": 264,
+      "checks": 198,
+      "wins": 33,
       "draws": 165,
       "losses": 0,
       "recentForm": [
@@ -150,10 +150,10 @@
       "severity": "incident",
       "description": "Service suspended on Line 10 between Nuevos Ministerios and Cuzco stations, in both directions, due to renovation and accessibility works at Santiago Bernabéu station. A special replacement bus servic",
       "seasonPts": 3,
-      "checks": 197,
+      "checks": 198,
       "wins": 1,
       "draws": 0,
-      "losses": 196,
+      "losses": 197,
       "recentForm": [
         "L",
         "L",
@@ -165,9 +165,9 @@
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 467,
-      "checks": 197,
-      "wins": 135,
+      "seasonPts": 470,
+      "checks": 198,
+      "wins": 136,
       "draws": 62,
       "losses": 0,
       "recentForm": [
@@ -181,9 +181,9 @@
     "L12": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 591,
-      "checks": 197,
-      "wins": 197,
+      "seasonPts": 594,
+      "checks": 198,
+      "wins": 198,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -197,9 +197,9 @@
     "R": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 273,
-      "checks": 197,
-      "wins": 38,
+      "seasonPts": 276,
+      "checks": 198,
+      "wins": 39,
       "draws": 159,
       "losses": 0,
       "recentForm": [
