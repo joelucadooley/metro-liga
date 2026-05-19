@@ -160,7 +160,7 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 /* ── Table ── */
 .tbl-head {
   display: grid;
-  grid-template-columns: 40px minmax(0,1fr) 64px 120px 44px;
+  grid-template-columns: 40px minmax(0,1fr) 60px 90px 50px;
   padding: 0.45rem 1.3rem; border-bottom: 2px solid #e0e0e6; background: #fff;
 }
 .th { font-family: 'JetBrains Mono', monospace; font-size: 0.48rem; letter-spacing: 0.18em; text-transform: uppercase; color: #bbb; }
@@ -180,7 +180,7 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 
 .row {
   display: grid;
-  grid-template-columns: 40px minmax(0,1fr) 64px 120px 44px;
+  grid-template-columns: 40px minmax(0,1fr) 60px 90px 50px;
   padding: 0 1.3rem; border-bottom: 1px solid #ebebef;
   align-items: center; border-left: 3px solid transparent;
   transition: background 0.1s; height: 52px;
@@ -203,7 +203,8 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .club-desc {
   font-family: 'JetBrains Mono', monospace; font-size: 0.44rem;
   white-space: nowrap; display: inline-block;
-  animation: scroll-desc 18s linear infinite;
+  animation: scroll-desc linear infinite;
+  animation-delay: -2s;
   font-style: italic;
 }
 .club-desc:hover { animation-play-state: paused; }
@@ -211,8 +212,8 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .club-desc.incident { color: #c0392b; }
 @keyframes scroll-desc {
   0%   { transform: translateX(0); }
-  20%  { transform: translateX(0); }
-  80%  { transform: translateX(-100%); }
+  15%  { transform: translateX(0); }
+  85%  { transform: translateX(-100%); }
   100% { transform: translateX(-100%); }
 }
 
@@ -220,7 +221,7 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .col-pts { font-family: 'JetBrains Mono', monospace; font-size: 1.1rem; color: #222; line-height: 1; font-weight: 500; }
 .col-record { font-family: 'JetBrains Mono', monospace; font-size: 0.44rem; color: #ccc; margin-top: 1px; }
 
-.col-form { display: flex; align-items: center; justify-content: center; gap: 4px; justify-self: center; width: 100%; }
+.col-form { display: flex; align-items: center; justify-content: center; gap: 4px; }
 .fd { width: 13px; height: 13px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: 'JetBrains Mono', monospace; font-size: 0.38rem; font-weight: 500; }
 .fd.W    { background: #d4edda; color: #1a7a2a; }
 .fd.D    { background: #fff3cd; color: #856404; }
@@ -307,8 +308,7 @@ function Row({ s, pos, total, city }) {
   const pipText = meta.pip   || s.name;
   const label   = meta.label || null;
   const desc    = sev !== "clear" ? s.currentDetail : null;
-  // Speed: ~60px per second regardless of text length
-  const scrollDuration = desc ? Math.max(6, desc.length * 0.1) + 's' : '0s';
+  const scrollDuration = '16s';
 
   const nowSymbol = s.checks === 0 ? <span className="now-pending">—</span>
     : sev === "incident" ? <span className="now-incident" title="Service incident">✗</span>
