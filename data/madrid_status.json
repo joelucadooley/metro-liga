@@ -1,7 +1,7 @@
 {
   "matchday": 271,
   "lastMatchDate": "2026-05-19",
-  "updated": "2026-05-19T17:41:24.018724+00:00",
+  "updated": "2026-05-19T17:46:28.402191+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -21,7 +21,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 2 platform in the direction of Cuatro Caminos to hallway leading to line 7 platfo",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Felipe II esq. Alcalá of lobby Felipe II to platform on line 2 in the direction of Cuatro Caminos. There is anothe",
       "seasonPts": 382,
       "checks": 271,
       "wins": 56,
@@ -101,7 +101,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service. We are examining the r",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service due to check-up. Coming",
       "seasonPts": 383,
       "checks": 271,
       "wins": 56,
@@ -164,8 +164,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera to hallway for platforms on line 6 and hallway platforms on line 11 Out of se",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 575,
       "checks": 271,
       "wins": 152,
