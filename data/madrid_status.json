@@ -1,7 +1,7 @@
 {
   "matchday": 271,
   "lastMatchDate": "2026-05-19",
-  "updated": "2026-05-19T10:41:33.891552+00:00",
+  "updated": "2026-05-19T10:46:31.592062+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -164,8 +164,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera to hallway for platforms on line 6 and hallway platforms on line 11 Out of se",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 575,
       "checks": 271,
       "wins": 152,
