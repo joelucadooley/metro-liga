@@ -1,7 +1,7 @@
 {
   "matchday": 277,
   "lastMatchDate": "2026-05-19",
-  "updated": "2026-05-19T12:50:56.685470+00:00",
+  "updated": "2026-05-19T12:55:56.652165+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -37,7 +37,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "Montbau: Until approximately May 20th, due to works, the Palau Olímpic access from Montbau station is closed. · Maria Cristina: Until approximately May 22nd, the elevator that connects the platform towards Zona Universitària with the lobby of Maria Cristina station will be out of service for improvement works.",
+      "description": "Maria Cristina: Until approximately May 22nd, the elevator that connects the platform towards Zona Universitària with the lobby of Maria Cristina station will be out of service for improvement works.",
       "seasonPts": 263,
       "checks": 277,
       "wins": 2,
