@@ -97,15 +97,4 @@ python scripts/fetch_status_segunda.py  # Segunda División
     └── deploy.yml               # GitHub Pages deployment
 ```
 
----
-
-## Roadmap
-
-- [ ] Champions de España — top line from each liga in a pan-Spain super table
-- [ ] Monthly season reset with Farolillo Rojo (wooden spoon) award
-- [ ] London, Paris, Berlin expansion
-- [ ] About page
-
----
-
 Created by [Joe Luca Dooley](https://github.com/joelucadooley)
