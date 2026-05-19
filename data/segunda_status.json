@@ -1,13 +1,13 @@
 {
-  "matchday": 55,
-  "updated": "2026-05-19T02:22:07.434890+00:00",
+  "matchday": 56,
+  "updated": "2026-05-19T02:27:16.343093+00:00",
   "lines": {
     "SVQ_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 165,
-      "checks": 55,
-      "wins": 55,
+      "seasonPts": 168,
+      "checks": 56,
+      "wins": 56,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -21,9 +21,9 @@
     "BIL_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 165,
-      "checks": 55,
-      "wins": 55,
+      "seasonPts": 168,
+      "checks": 56,
+      "wins": 56,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -37,9 +37,9 @@
     "BIL_L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 165,
-      "checks": 55,
-      "wins": 55,
+      "seasonPts": 168,
+      "checks": 56,
+      "wins": 56,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -53,9 +53,9 @@
     "MAL_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 165,
-      "checks": 55,
-      "wins": 55,
+      "seasonPts": 168,
+      "checks": 56,
+      "wins": 56,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -69,9 +69,9 @@
     "MAL_L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 165,
-      "checks": 55,
-      "wins": 55,
+      "seasonPts": 168,
+      "checks": 56,
+      "wins": 56,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -85,10 +85,10 @@
     "PMI_M1": {
       "severity": "minor",
       "description": "R BAG CAGES AND COMPLEMENTARY ACCESSORIES. Our manufacturing includes an extensive range of products, with a design of the highest quality. Our products are being used with high ef",
-      "seasonPts": 55,
-      "checks": 55,
+      "seasonPts": 56,
+      "checks": 56,
       "wins": 0,
-      "draws": 55,
+      "draws": 56,
       "losses": 0,
       "recentForm": [
         "D",
