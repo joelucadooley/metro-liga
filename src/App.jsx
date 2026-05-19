@@ -213,13 +213,14 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .footer a:hover { color: #555; }
 
 @media (max-width: 600px) {
-  .tbl-head, .row { grid-template-columns: 32px minmax(0,1fr) 50px 100px 36px; }
+  .tbl-head, .row { grid-template-columns: 32px minmax(0,1fr) 50px 0 36px; }
+  .col-form, .th.c { display: none; }
   .pip { width: 30px; height: 30px; font-size: 0.52rem; }
   .city-tab { padding: 0.5rem 0.7rem; font-size: 0.78rem; }
   .hdr-badge { min-width: 90px; }
   .hdr-badge-title { font-size: 1.4rem; }
-  .club-desc { display: none; }
   .hdr-time { display: none; }
+  .club-desc { font-size: 0.44rem; }
 }
 `;
 
@@ -400,7 +401,7 @@ export default function App() {
             <div className="hdr-badge-title">Liga</div>
           </div>
           <div className="hdr-mid">
-            <div className="hdr-matchday">{city.name} · {monthStr} · W=3 D=1 L=0</div>
+            <div className="hdr-matchday">{city.name} · {monthStr}</div>
             <div className="hdr-info">{statusText}</div>
           </div>
           <div className="hdr-right">
@@ -439,7 +440,6 @@ export default function App() {
         <div className="footer">
           <span>Metro Liga · Spanish metro reliability league</span>
           <span>Created by <a href={GITHUB_URL} target="_blank" rel="noopener noreferrer">Joe Luca Dooley</a></span>
-          <span>Points awarded daily · W=3 D=1 L=0</span>
         </div>
       </div>
     </div>
