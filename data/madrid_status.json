@@ -1,18 +1,18 @@
 {
-  "matchday": 162,
-  "updated": "2026-05-18T23:56:14.763834+00:00",
+  "matchday": 163,
+  "updated": "2026-05-19T00:01:41.091448+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 170,
-      "checks": 162,
-      "wins": 4,
+      "seasonPts": 173,
+      "checks": 163,
+      "wins": 5,
       "draws": 158,
       "losses": 0,
       "recentForm": [
         "D",
-        "D",
+        "W",
         "W",
         "W",
         "W"
@@ -21,14 +21,14 @@
     "L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 170,
-      "checks": 162,
-      "wins": 4,
+      "seasonPts": 173,
+      "checks": 163,
+      "wins": 5,
       "draws": 158,
       "losses": 0,
       "recentForm": [
         "D",
-        "D",
+        "W",
         "W",
         "W",
         "W"
@@ -37,14 +37,14 @@
     "L3": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 168,
-      "checks": 162,
-      "wins": 3,
+      "seasonPts": 171,
+      "checks": 163,
+      "wins": 4,
       "draws": 159,
       "losses": 0,
       "recentForm": [
         "D",
-        "D",
+        "W",
         "W",
         "W",
         "W"
@@ -53,14 +53,14 @@
     "L4": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 168,
-      "checks": 162,
-      "wins": 3,
+      "seasonPts": 171,
+      "checks": 163,
+      "wins": 4,
       "draws": 159,
       "losses": 0,
       "recentForm": [
         "D",
-        "D",
+        "W",
         "W",
         "W",
         "W"
@@ -69,14 +69,14 @@
     "L5": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 168,
-      "checks": 162,
-      "wins": 3,
+      "seasonPts": 171,
+      "checks": 163,
+      "wins": 4,
       "draws": 159,
       "losses": 0,
       "recentForm": [
         "D",
-        "D",
+        "W",
         "W",
         "W",
         "W"
@@ -85,9 +85,9 @@
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 486,
-      "checks": 162,
-      "wins": 162,
+      "seasonPts": 489,
+      "checks": 163,
+      "wins": 163,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -101,14 +101,14 @@
     "L7": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 170,
-      "checks": 162,
-      "wins": 4,
+      "seasonPts": 173,
+      "checks": 163,
+      "wins": 5,
       "draws": 158,
       "losses": 0,
       "recentForm": [
         "D",
-        "D",
+        "W",
         "W",
         "W",
         "W"
@@ -117,14 +117,14 @@
     "L8": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 168,
-      "checks": 162,
-      "wins": 3,
+      "seasonPts": 171,
+      "checks": 163,
+      "wins": 4,
       "draws": 159,
       "losses": 0,
       "recentForm": [
         "D",
-        "D",
+        "W",
         "W",
         "W",
         "W"
@@ -132,11 +132,11 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service due to check-up. Coming into service in the next hours. Services: Accessible station Lifts Escalators Defibrilla",
-      "seasonPts": 162,
-      "checks": 162,
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service due to check-up. Coming into service in the next hours. Escalators From lobby to central platform Out of service",
+      "seasonPts": 163,
+      "checks": 163,
       "wins": 0,
-      "draws": 162,
+      "draws": 163,
       "losses": 0,
       "recentForm": [
         "D",
@@ -150,10 +150,10 @@
       "severity": "incident",
       "description": "Service suspended on Line 10 between Nuevos Ministerios and Cuzco stations, in both directions, due to renovation and accessibility works at Santiago Bernabéu station. A special replacement bus servic",
       "seasonPts": 3,
-      "checks": 162,
+      "checks": 163,
       "wins": 1,
       "draws": 0,
-      "losses": 161,
+      "losses": 162,
       "recentForm": [
         "L",
         "L",
@@ -165,14 +165,14 @@
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 362,
-      "checks": 162,
-      "wins": 100,
+      "seasonPts": 365,
+      "checks": 163,
+      "wins": 101,
       "draws": 62,
       "losses": 0,
       "recentForm": [
         "D",
-        "D",
+        "W",
         "W",
         "W",
         "W"
@@ -181,9 +181,9 @@
     "L12": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 486,
-      "checks": 162,
-      "wins": 162,
+      "seasonPts": 489,
+      "checks": 163,
+      "wins": 163,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -197,14 +197,14 @@
     "R": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 168,
-      "checks": 162,
-      "wins": 3,
+      "seasonPts": 171,
+      "checks": 163,
+      "wins": 4,
       "draws": 159,
       "losses": 0,
       "recentForm": [
         "D",
-        "D",
+        "W",
         "W",
         "W",
         "W"
