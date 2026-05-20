@@ -1,7 +1,7 @@
 {
   "matchday": 272,
   "lastMatchDate": "2026-05-20",
-  "updated": "2026-05-20T19:06:52.437044+00:00",
+  "updated": "2026-05-20T19:11:28.125600+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -52,8 +52,8 @@
       ]
     },
     "L4": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Alberto Aguilera to lobby Guzmán el Bueno Out of service due to check-up. Coming into service",
       "seasonPts": 384,
       "checks": 272,
       "wins": 56,
