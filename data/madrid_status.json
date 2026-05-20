@@ -1,7 +1,7 @@
 {
   "matchday": 272,
   "lastMatchDate": "2026-05-20",
-  "updated": "2026-05-20T16:36:35.404067+00:00",
+  "updated": "2026-05-20T16:43:36.745518+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -52,8 +52,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service. We are examining the reasons for the st",
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 384,
       "checks": 272,
       "wins": 56,
