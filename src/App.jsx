@@ -193,7 +193,8 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .col-pos       { width: 36px; flex-shrink: 0; font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: #ccc; }
 .col-club      { flex: 1; min-width: 0; overflow: hidden; display: flex; align-items: center; gap: 0.6rem; }
 .col-pts-wrap  { width: 60px; flex-shrink: 0; text-align: right; }
-.col-form      { width: 90px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; gap: 4px; }
+.col-form { width: 90px; flex-shrink: 0; display: flex; align-items: center; }
+.form-inner { display: flex; gap: 4px; align-items: center; margin: 0 auto; }
 .col-now       { width: 44px; flex-shrink: 0; font-size: 1rem; text-align: right; line-height: 1; }
 
 .pip { width: 34px; height: 34px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.56rem; font-weight: 700; flex-shrink: 0; letter-spacing: -0.02em; }
@@ -335,7 +336,9 @@ function Row({ s, pos, total, city }) {
         <div className="col-record">{s.checks > 0 ? `${s.wins}W ${s.draws}D ${s.losses}L` : "—"}</div>
       </div>
       <div className="col-form">
-        {form.map((r, i) => <div key={i} className={`fd ${r ?? "none"}`}>{r ?? ""}</div>)}
+        <div className="form-inner">
+          {form.map((r, i) => <div key={i} className={`fd ${r ?? "none"}`}>{r ?? ""}</div>)}
+        </div>
       </div>
       <div className="col-now">{nowSymbol}</div>
     </div>
