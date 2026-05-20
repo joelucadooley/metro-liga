@@ -1,7 +1,7 @@
 {
   "matchday": 272,
   "lastMatchDate": "2026-05-20",
-  "updated": "2026-05-20T21:11:23.424316+00:00",
+  "updated": "2026-05-20T21:16:34.240301+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -164,8 +164,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on Line 6 to platform 1 in the direction Usera Waiting for information.",
       "seasonPts": 578,
       "checks": 272,
       "wins": 153,
