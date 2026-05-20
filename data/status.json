@@ -1,7 +1,7 @@
 {
   "matchday": 278,
   "lastMatchDate": "2026-05-20",
-  "updated": "2026-05-20T11:35:53.218480+00:00",
+  "updated": "2026-05-20T11:41:30.956378+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -53,7 +53,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "Verdaguer: From 13/10/2025, and for approximately 12 months, the connecting passageway between lines L4 and L5 at Verdaguer station is closed for works.",
+      "description": "Joanic: Until approximately June 5th, the elevator that connects the lobby with the Escorial access of Joanic station will be out of service for improvement works. · Verdaguer: From 13/10/2025, and for approximately 12 months, the connecting passageway between lines L4 and L5 at Verdaguer station is closed for works.",
       "seasonPts": 264,
       "checks": 278,
       "wins": 2,
