@@ -159,11 +159,10 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 
 /* ── Table ── */
 .tbl-head {
-  display: grid;
-  grid-template-columns: 40px minmax(0,1fr) 60px 90px 50px;
+  display: flex; align-items: center;
   padding: 0.45rem 1.3rem; border-bottom: 2px solid #e0e0e6; background: #fff;
 }
-.th { font-family: 'JetBrains Mono', monospace; font-size: 0.48rem; letter-spacing: 0.18em; text-transform: uppercase; color: #bbb; }
+.th { font-family: 'JetBrains Mono', monospace; font-size: 0.48rem; letter-spacing: 0.18em; text-transform: uppercase; color: #bbb; flex-shrink: 0; }
 .th.r { text-align: right; }
 .th.c { text-align: center; }
 
@@ -179,10 +178,9 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .zone-sep.releg { color: #c0392b; border-left-color: #c0392b; background: #fff5f5; }
 
 .row {
-  display: grid;
-  grid-template-columns: 40px minmax(0,1fr) 60px 90px 50px;
+  display: flex; align-items: center;
   padding: 0 1.3rem; border-bottom: 1px solid #ebebef;
-  align-items: center; border-left: 3px solid transparent;
+  border-left: 3px solid transparent;
   transition: background 0.1s; height: 52px;
   background: #fff;
 }
@@ -191,20 +189,23 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .row.mid   { border-left-color: #ddd; }
 .row.releg { border-left-color: #c0392b; }
 
-.col-pos { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: #ccc; }
+/* Fixed-width columns */
+.col-pos       { width: 36px; flex-shrink: 0; font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: #ccc; }
+.col-club      { flex: 1; min-width: 0; overflow: hidden; display: flex; align-items: center; gap: 0.6rem; }
+.col-pts-wrap  { width: 60px; flex-shrink: 0; text-align: right; }
+.col-form      { width: 90px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; gap: 4px; }
+.col-now       { width: 44px; flex-shrink: 0; font-size: 1rem; text-align: right; line-height: 1; }
 
-.col-club { display: flex; align-items: center; gap: 0.6rem; min-width: 0; overflow: hidden; }
-.pip { width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.58rem; font-weight: 700; flex-shrink: 0; letter-spacing: -0.02em; }
+.pip { width: 34px; height: 34px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.56rem; font-weight: 700; flex-shrink: 0; letter-spacing: -0.02em; }
 .club-text { flex: 1; min-width: 0; overflow: hidden; display: flex; flex-direction: column; gap: 2px; }
 .club-label { font-family: 'JetBrains Mono', monospace; font-size: 0.5rem; color: #999; white-space: nowrap; }
 
-/* Scrolling description — scrolls inside the column, no extra height */
-.club-desc-wrap { overflow: hidden; position: relative; }
+/* Scrolling description */
+.club-desc-wrap { overflow: hidden; }
 .club-desc {
   font-family: 'JetBrains Mono', monospace; font-size: 0.44rem;
   white-space: nowrap; display: inline-block;
   animation: scroll-desc linear infinite;
-  animation-delay: -2s;
   font-style: italic;
 }
 .club-desc:hover { animation-play-state: paused; }
@@ -217,19 +218,15 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
   100% { transform: translateX(-100%); }
 }
 
-.col-pts-wrap { text-align: right; }
 .col-pts { font-family: 'JetBrains Mono', monospace; font-size: 1.1rem; color: #222; line-height: 1; font-weight: 500; }
 .col-record { font-family: 'JetBrains Mono', monospace; font-size: 0.44rem; color: #ccc; margin-top: 1px; }
 
-.col-form { display: flex; align-items: center; justify-content: center; gap: 4px; padding: 0 8px; }
 .fd { width: 13px; height: 13px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: 'JetBrains Mono', monospace; font-size: 0.38rem; font-weight: 500; }
 .fd.W    { background: #d4edda; color: #1a7a2a; }
 .fd.D    { background: #fff3cd; color: #856404; }
 .fd.L    { background: #f8d7da; color: #c0392b; }
 .fd.none { background: #eee; }
 
-/* Status symbol in NOW column */
-.col-now { font-size: 1rem; text-align: right; line-height: 1; }
 .now-clear    { color: #27ae60; }
 .now-minor    { color: #e67e22; }
 .now-incident { color: #c0392b; }
@@ -254,8 +251,11 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .footer a:hover { color: #555; }
 
 @media (max-width: 600px) {
-  .tbl-head, .row { grid-template-columns: 32px minmax(0,1fr) 50px 100px 36px; }
-  .pip { width: 30px; height: 30px; font-size: 0.52rem; }
+  .col-pos  { width: 28px; }
+  .col-pts-wrap { width: 52px; }
+  .col-form { width: 80px; }
+  .col-now  { width: 36px; }
+  .pip { width: 28px; height: 28px; font-size: 0.5rem; }
   .city-tab { padding: 0.5rem 0.7rem; font-size: 0.78rem; }
   .hdr-badge { min-width: 90px; }
   .hdr-badge-title { font-size: 1.4rem; }
@@ -307,10 +307,9 @@ function Row({ s, pos, total, city }) {
   const sev     = s.currentSeverity;
   const pipText = meta.pip   || s.name;
   const label   = meta.label || null;
-  const desc    = sev !== "clear" && s.currentDetail
-    ? s.currentDetail.slice(0, 90) + (s.currentDetail.length > 90 ? '…' : '')
-    : null;
-  const scrollDuration = '20s';
+  const desc    = sev !== "clear" ? s.currentDetail : null;
+  // Duration proportional to text length → consistent visual scroll speed
+  const scrollDuration = desc ? `${Math.max(6, desc.length * 0.15)}s` : '0s';
 
   const nowSymbol = s.checks === 0 ? <span className="now-pending">—</span>
     : sev === "incident" ? <span className="now-incident" title="Service incident">✗</span>
@@ -359,9 +358,11 @@ function Table({ standings, city }) {
     return (
       <div>
         <div className="tbl-head">
-          <div className="th">#</div><div className="th">Line</div>
-          <div className="th r">Pts</div><div className="th c">Form</div>
-          <div className="th r">Now</div>
+          <div className="th" style={{width:36,flexShrink:0}}>#</div>
+          <div className="th" style={{flex:1}}>Line</div>
+          <div className="th r" style={{width:60,flexShrink:0}}>Pts</div>
+          <div className="th c" style={{width:90,flexShrink:0}}>Form</div>
+          <div className="th r" style={{width:44,flexShrink:0}}>Now</div>
         </div>
         <div className="zone-sep top">Champions Metro Zone</div>
         <Row s={standings[0]} pos={0} total={1} city={city} />
@@ -374,9 +375,11 @@ function Table({ standings, city }) {
   return (
     <div>
       <div className="tbl-head">
-        <div className="th">#</div><div className="th">Line</div>
-        <div className="th r">Pts</div><div className="th c">Form</div>
-        <div className="th r">Now</div>
+        <div className="th" style={{width:36,flexShrink:0}}>#</div>
+        <div className="th" style={{flex:1}}>Line</div>
+        <div className="th r" style={{width:60,flexShrink:0}}>Pts</div>
+        <div className="th c" style={{width:90,flexShrink:0}}>Form</div>
+        <div className="th r" style={{width:44,flexShrink:0}}>Now</div>
       </div>
       {standings.map((s, i) => {
         const label =
