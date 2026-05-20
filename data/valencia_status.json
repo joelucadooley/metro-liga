@@ -1,13 +1,13 @@
 {
-  "matchday": 333,
-  "updated": "2026-05-20T05:36:58.912422+00:00",
+  "matchday": 334,
+  "updated": "2026-05-20T05:42:03.787267+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 999,
-      "checks": 333,
-      "wins": 333,
+      "seasonPts": 1002,
+      "checks": 334,
+      "wins": 334,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -21,9 +21,9 @@
     "L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 999,
-      "checks": 333,
-      "wins": 333,
+      "seasonPts": 1002,
+      "checks": 334,
+      "wins": 334,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -37,9 +37,9 @@
     "L3": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 997,
-      "checks": 333,
-      "wins": 332,
+      "seasonPts": 1000,
+      "checks": 334,
+      "wins": 333,
       "draws": 1,
       "losses": 0,
       "recentForm": [
@@ -53,9 +53,9 @@
     "L4": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 999,
-      "checks": 333,
-      "wins": 333,
+      "seasonPts": 1002,
+      "checks": 334,
+      "wins": 334,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -69,9 +69,9 @@
     "L5": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 999,
-      "checks": 333,
-      "wins": 333,
+      "seasonPts": 1002,
+      "checks": 334,
+      "wins": 334,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -85,9 +85,9 @@
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 999,
-      "checks": 333,
-      "wins": 333,
+      "seasonPts": 1002,
+      "checks": 334,
+      "wins": 334,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -101,9 +101,9 @@
     "L7": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 999,
-      "checks": 333,
-      "wins": 333,
+      "seasonPts": 1002,
+      "checks": 334,
+      "wins": 334,
       "draws": 0,
       "losses": 0,
       "recentForm": [
