@@ -1,11 +1,11 @@
 {
   "matchday": 272,
   "lastMatchDate": "2026-05-20",
-  "updated": "2026-05-20T08:36:24.772797+00:00",
+  "updated": "2026-05-20T08:43:57.280793+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform on line 1 in the direction of Valdecarros and central platform on line 4",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 386,
       "checks": 272,
       "wins": 57,
@@ -20,8 +20,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Marqués de Corbera to lobby Out of service. We are examining the reasons for the stop. S",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 385,
       "checks": 272,
       "wins": 57,
@@ -36,8 +36,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Out of service due to repair works. Expected date o",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 384,
       "checks": 272,
       "wins": 56,
@@ -52,8 +52,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to check-up. C",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 384,
       "checks": 272,
       "wins": 56,
@@ -68,8 +68,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 383,
       "checks": 272,
       "wins": 56,
