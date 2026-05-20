@@ -1,7 +1,7 @@
 {
   "matchday": 272,
   "lastMatchDate": "2026-05-20",
-  "updated": "2026-05-20T04:24:29.905072+00:00",
+  "updated": "2026-05-20T04:31:32.478474+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
@@ -84,8 +84,8 @@
       ]
     },
     "L6": {
-      "severity": "clear",
-      "description": null,
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 810,
       "checks": 272,
       "wins": 270,
@@ -116,8 +116,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform. There is another escalator in the same direction and location. Waiting",
       "seasonPts": 384,
       "checks": 272,
       "wins": 56,
@@ -148,8 +148,8 @@
       ]
     },
     "L10": {
-      "severity": "clear",
-      "description": null,
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 6,
       "checks": 272,
       "wins": 2,
@@ -180,8 +180,8 @@
       ]
     },
     "L12": {
-      "severity": "clear",
-      "description": null,
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 810,
       "checks": 272,
       "wins": 270,
