@@ -1,7 +1,7 @@
 {
   "matchday": 272,
   "lastMatchDate": "2026-05-20",
-  "updated": "2026-05-20T18:11:27.646594+00:00",
+  "updated": "2026-05-20T18:16:38.642533+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -164,8 +164,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Plaza Elíptica Out of service. We are examining the reasons for t",
       "seasonPts": 578,
       "checks": 272,
       "wins": 153,
