@@ -1,7 +1,7 @@
 {
   "matchday": 272,
   "lastMatchDate": "2026-05-20",
-  "updated": "2026-05-20T06:37:28.496042+00:00",
+  "updated": "2026-05-20T06:42:44.887471+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -196,8 +196,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Paseo de la Florida to platform 2 on line 6 in the direction of Argüelles and platform on line 10",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 400,
       "checks": 272,
       "wins": 64,
