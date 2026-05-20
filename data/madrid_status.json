@@ -1,7 +1,7 @@
 {
   "matchday": 272,
   "lastMatchDate": "2026-05-20",
-  "updated": "2026-05-20T05:41:28.130601+00:00",
+  "updated": "2026-05-20T05:46:24.289640+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -21,7 +21,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From Platforms on line 9 to platform direction Paco de Lucia Out of service. We are ex",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 2 platform in the direction of Cuatro Caminos to hallway leading to line 7 platfo",
       "seasonPts": 385,
       "checks": 272,
       "wins": 57,
