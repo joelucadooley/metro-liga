@@ -73,11 +73,10 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 
 /* ── Table ── */
 .tbl-head {
-  display: grid;
-  grid-template-columns: 40px minmax(0,1fr) 60px 90px 50px;
+  display: flex; align-items: center;
   padding: 0.45rem 1.3rem; border-bottom: 2px solid #e0e0e6; background: #fff;
 }
-.th { font-family: 'JetBrains Mono', monospace; font-size: 0.48rem; letter-spacing: 0.18em; text-transform: uppercase; color: #bbb; }
+.th { font-family: 'JetBrains Mono', monospace; font-size: 0.48rem; letter-spacing: 0.18em; text-transform: uppercase; color: #bbb; flex-shrink: 0; }
 .th.r { text-align: right; }
 .th.c { text-align: center; }
 
@@ -93,10 +92,9 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .zone-sep.releg { color: #c0392b; border-left-color: #c0392b; background: #fff5f5; }
 
 .row {
-  display: grid;
-  grid-template-columns: 40px minmax(0,1fr) 60px 90px 50px;
+  display: flex; align-items: center;
   padding: 0 1.3rem; border-bottom: 1px solid #ebebef;
-  align-items: center; border-left: 3px solid transparent;
+  border-left: 3px solid transparent;
   transition: background 0.1s; height: 52px;
   background: #fff;
 }
@@ -105,20 +103,23 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .row.mid   { border-left-color: #ddd; }
 .row.releg { border-left-color: #c0392b; }
 
-.col-pos { font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: #ccc; }
+/* Fixed-width columns */
+.col-pos       { width: 36px; flex-shrink: 0; font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: #ccc; }
+.col-club      { flex: 1; min-width: 0; overflow: hidden; display: flex; align-items: center; gap: 0.6rem; }
+.col-pts-wrap  { width: 60px; flex-shrink: 0; text-align: right; }
+.col-form      { width: 90px; flex-shrink: 0; display: flex; align-items: center; justify-content: center; gap: 4px; }
+.col-now       { width: 44px; flex-shrink: 0; font-size: 1rem; text-align: right; line-height: 1; }
 
-.col-club { display: flex; align-items: center; gap: 0.6rem; min-width: 0; overflow: hidden; }
-.pip { width: 36px; height: 36px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.58rem; font-weight: 700; flex-shrink: 0; letter-spacing: -0.02em; }
+.pip { width: 34px; height: 34px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.56rem; font-weight: 700; flex-shrink: 0; letter-spacing: -0.02em; }
 .club-text { flex: 1; min-width: 0; overflow: hidden; display: flex; flex-direction: column; gap: 2px; }
 .club-label { font-family: 'JetBrains Mono', monospace; font-size: 0.5rem; color: #999; white-space: nowrap; }
 
-/* Scrolling description — scrolls inside the column, no extra height */
-.club-desc-wrap { overflow: hidden; position: relative; }
+/* Scrolling description */
+.club-desc-wrap { overflow: hidden; }
 .club-desc {
   font-family: 'JetBrains Mono', monospace; font-size: 0.44rem;
   white-space: nowrap; display: inline-block;
   animation: scroll-desc linear infinite;
-  animation-delay: -2s;
   font-style: italic;
 }
 .club-desc:hover { animation-play-state: paused; }
@@ -131,19 +132,15 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
   100% { transform: translateX(-100%); }
 }
 
-.col-pts-wrap { text-align: right; }
 .col-pts { font-family: 'JetBrains Mono', monospace; font-size: 1.1rem; color: #222; line-height: 1; font-weight: 500; }
 .col-record { font-family: 'JetBrains Mono', monospace; font-size: 0.44rem; color: #ccc; margin-top: 1px; }
 
-.col-form { display: flex; align-items: center; justify-content: center; gap: 4px; padding: 0 8px; }
 .fd { width: 13px; height: 13px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: 'JetBrains Mono', monospace; font-size: 0.38rem; font-weight: 500; }
 .fd.W    { background: #d4edda; color: #1a7a2a; }
 .fd.D    { background: #fff3cd; color: #856404; }
 .fd.L    { background: #f8d7da; color: #c0392b; }
 .fd.none { background: #eee; }
 
-/* Status symbol in NOW column */
-.col-now { font-size: 1rem; text-align: right; line-height: 1; }
 .now-clear    { color: #27ae60; }
 .now-minor    { color: #e67e22; }
 .now-incident { color: #c0392b; }
@@ -168,11 +165,14 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .footer a:hover { color: #555; }
 
 @media (max-width: 600px) {
-  .tbl-head, .row { grid-template-columns: 32px minmax(0,1fr) 50px 100px 36px; }
-  .pip { width: 30px; height: 30px; font-size: 0.52rem; }
+  .col-pos  { width: 28px; }
+  .col-pts-wrap { width: 52px; }
+  .col-form { width: 80px; }
+  .col-now  { width: 36px; }
+  .pip { width: 28px; height: 28px; font-size: 0.5rem; }
   .city-tab { padding: 0.5rem 0.7rem; font-size: 0.78rem; }
   .hdr-badge { min-width: 90px; }
   .hdr-badge-title { font-size: 1.4rem; }
   .hdr-time { display: none; }
 }
-`;function v({s:e,pos:t,total:n,city:r}){let i=r.lines[e.name]||{color:`#999`,text:`#fff`},a=t<3,o=t>=n-3,s=a?`top`:o?`releg`:`mid`,c=[...[,,,,,]].map((t,n)=>{let r=5-e.recentForm.length;return n>=r?e.recentForm[n-r]:null}),l=e.currentSeverity,u=i.pip||e.name,d=i.label||null,p=l!==`clear`&&e.currentDetail?e.currentDetail.slice(0,90)+(e.currentDetail.length>90?`…`:``):null,m=e.checks===0?(0,f.jsx)(`span`,{className:`now-pending`,children:`—`}):l===`incident`?(0,f.jsx)(`span`,{className:`now-incident`,title:`Service incident`,children:`✗`}):l===`minor`?(0,f.jsx)(`span`,{className:`now-minor`,title:`Station issues`,children:`!`}):(0,f.jsx)(`span`,{className:`now-clear`,title:`All clear`,children:`✓`});return(0,f.jsxs)(`div`,{className:`row ${s}`,children:[(0,f.jsx)(`div`,{className:`col-pos`,children:t+1}),(0,f.jsxs)(`div`,{className:`col-club`,children:[(0,f.jsx)(`div`,{className:`pip`,style:{background:i.color,color:i.text},children:u}),(0,f.jsxs)(`div`,{className:`club-text`,children:[d&&(0,f.jsx)(`div`,{className:`club-label`,children:d}),p&&(0,f.jsx)(`div`,{className:`club-desc-wrap`,children:(0,f.jsx)(`span`,{className:`club-desc ${l}`,style:{animationDuration:`20s`},children:p})})]})]}),(0,f.jsxs)(`div`,{className:`col-pts-wrap`,children:[(0,f.jsx)(`div`,{className:`col-pts`,children:e.seasonPts}),(0,f.jsx)(`div`,{className:`col-record`,children:e.checks>0?`${e.wins}W ${e.draws}D ${e.losses}L`:`—`})]}),(0,f.jsx)(`div`,{className:`col-form`,children:c.map((e,t)=>(0,f.jsx)(`div`,{className:`fd ${e??`none`}`,children:e??``},t))}),(0,f.jsx)(`div`,{className:`col-now`,children:m})]})}function y(){return(0,f.jsxs)(`div`,{className:`legend`,children:[(0,f.jsxs)(`div`,{className:`legend-item`,children:[(0,f.jsx)(`span`,{style:{color:`#27ae60`,fontSize:`1rem`},children:`✓`}),` Clean run (3 pts)`]}),(0,f.jsxs)(`div`,{className:`legend-item`,children:[(0,f.jsx)(`span`,{style:{color:`#e67e22`,fontSize:`1rem`},children:`!`}),` Station issues (1 pt)`]}),(0,f.jsxs)(`div`,{className:`legend-item`,children:[(0,f.jsx)(`span`,{style:{color:`#c0392b`,fontSize:`1rem`},children:`✗`}),` Service incident (0 pts)`]})]})}function b({standings:e,city:t}){let n=e.length;if(n===1)return(0,f.jsxs)(`div`,{children:[(0,f.jsxs)(`div`,{className:`tbl-head`,children:[(0,f.jsx)(`div`,{className:`th`,children:`#`}),(0,f.jsx)(`div`,{className:`th`,children:`Line`}),(0,f.jsx)(`div`,{className:`th r`,children:`Pts`}),(0,f.jsx)(`div`,{className:`th c`,children:`Form`}),(0,f.jsx)(`div`,{className:`th r`,children:`Now`})]}),(0,f.jsx)(`div`,{className:`zone-sep top`,children:`Champions Metro Zone`}),(0,f.jsx)(v,{s:e[0],pos:0,total:1,city:t}),(0,f.jsx)(`div`,{className:`solo-champ`,children:`🏆 Undefeated champions — no competition found`}),(0,f.jsx)(y,{})]});let r=Math.max(n-3,3);return(0,f.jsxs)(`div`,{children:[(0,f.jsxs)(`div`,{className:`tbl-head`,children:[(0,f.jsx)(`div`,{className:`th`,children:`#`}),(0,f.jsx)(`div`,{className:`th`,children:`Line`}),(0,f.jsx)(`div`,{className:`th r`,children:`Pts`}),(0,f.jsx)(`div`,{className:`th c`,children:`Form`}),(0,f.jsx)(`div`,{className:`th r`,children:`Now`})]}),e.map((e,i)=>{let a=i===0?{txt:`Champions Metro Zone`,cls:`top`}:i===3?{txt:`Mid-table`,cls:`mid`}:i===r?{txt:`Relegation Zone`,cls:`releg`}:null;return(0,f.jsxs)(`div`,{children:[a&&(0,f.jsx)(`div`,{className:`zone-sep ${a.cls}`,children:a.txt}),(0,f.jsx)(v,{s:e,pos:i,total:n,city:t})]},e.name)}),(0,f.jsx)(y,{})]})}function x(){let[e,t]=(0,l.useState)(`barcelona`),[n,r]=(0,l.useState)(null),[i,a]=(0,l.useState)(!0),[o,s]=(0,l.useState)(null),c=(0,l.useRef)(m),u=(0,l.useRef)(!1),d=p[e],v=(0,l.useCallback)(async()=>{if(!u.current){u.current=!0;try{let e=await fetch(`${d.statusUrl}?t=${Date.now()}`);if(!e.ok)throw Error(`HTTP ${e.status}`);r(await e.json()),s(null)}catch(e){s(e.message)}finally{a(!1),u.current=!1}}},[d.statusUrl]);(0,l.useEffect)(()=>{r(null),a(!0),s(null),c.current=m,v();let e=setInterval(()=>{c.current=Math.max(0,c.current-1),c.current<=0&&(c.current=m,v())},1e3);return()=>clearInterval(e)},[v]);let y=n?.lines?g(n.lines):null,x=n?.matchday??0,ee=n?.updated?new Date(n.updated):null,S=y?.filter(e=>e.currentSeverity===`incident`).length??0,C=y?.filter(e=>e.currentSeverity===`minor`).length??0,te=ee?.toLocaleTimeString(`en-GB`,{hour:`2-digit`,minute:`2-digit`})??`—`,ne=ee?.toLocaleDateString(`en-GB`,{weekday:`short`,day:`numeric`,month:`short`})??`—`,re=i?`Loading…`:o?`Could not load data`:S>0?`${S} service incident${S>1?`s`:``}`:C>0?`All running · ${C} with station issues`:x===0?`Waiting for first data…`:`All lines clear`,w=d.id===`segunda`?`linear-gradient(135deg,#EE1C25,#003082)`:d.color,ie=ee?ee.toLocaleDateString(`en-GB`,{month:`long`,year:`numeric`}):new Date().toLocaleDateString(`en-GB`,{month:`long`,year:`numeric`});return(0,f.jsxs)(`div`,{className:`app`,children:[(0,f.jsx)(`style`,{children:_}),(0,f.jsxs)(`div`,{className:`hdr`,children:[(0,f.jsxs)(`div`,{className:`hdr-top`,children:[(0,f.jsxs)(`div`,{className:`hdr-badge`,style:{background:w},children:[(0,f.jsxs)(`div`,{className:`hdr-badge-sup`,children:[d.code,` Metro`]}),(0,f.jsx)(`div`,{className:`hdr-badge-title`,children:`Liga`})]}),(0,f.jsxs)(`div`,{className:`hdr-mid`,children:[(0,f.jsxs)(`div`,{className:`hdr-matchday`,children:[d.name,` · `,ie]}),(0,f.jsx)(`div`,{className:`hdr-info`,children:re})]}),(0,f.jsx)(`div`,{className:`hdr-right`,children:ee&&(0,f.jsxs)(`div`,{className:`hdr-time`,children:[`Updated`,(0,f.jsx)(`br`,{}),ne,` `,te]})})]}),(0,f.jsx)(`div`,{className:`city-tabs`,children:Object.values(p).map(n=>(0,f.jsx)(`button`,{className:`city-tab ${e===n.id?`active`:``}`,style:e===n.id?{borderBottomColor:n.color,color:`#111`}:{},onClick:()=>t(n.id),children:n.name},n.id))})]}),o&&(0,f.jsxs)(`div`,{className:`err-box`,children:[`⚠ `,o]}),(0,f.jsxs)(`div`,{className:`content-wrap`,children:[i?(0,f.jsxs)(`div`,{className:`state`,children:[(0,f.jsx)(`div`,{className:`state-ico`,children:`🚇`}),(0,f.jsxs)(`div`,{className:`state-msg`,children:[`Loading `,d.name,` metro liga…`]})]}):y?(0,f.jsx)(b,{standings:y,city:d}):null,(0,f.jsxs)(`div`,{className:`footer`,children:[(0,f.jsx)(`span`,{children:`Metro Liga · Spanish metro reliability league`}),(0,f.jsxs)(`span`,{children:[`Created by `,(0,f.jsx)(`a`,{href:h,target:`_blank`,rel:`noopener noreferrer`,children:`Joe Luca Dooley`})]})]})]})]})}(0,u.createRoot)(document.getElementById(`root`)).render((0,f.jsx)(l.StrictMode,{children:(0,f.jsx)(x,{})}));
+`;function v({s:e,pos:t,total:n,city:r}){let i=r.lines[e.name]||{color:`#999`,text:`#fff`},a=t<3,o=t>=n-3,s=a?`top`:o?`releg`:`mid`,c=[...[,,,,,]].map((t,n)=>{let r=5-e.recentForm.length;return n>=r?e.recentForm[n-r]:null}),l=e.currentSeverity,u=i.pip||e.name,d=i.label||null,p=l===`clear`?null:e.currentDetail,m=p?`${Math.max(6,p.length*.15)}s`:`0s`,h=e.checks===0?(0,f.jsx)(`span`,{className:`now-pending`,children:`—`}):l===`incident`?(0,f.jsx)(`span`,{className:`now-incident`,title:`Service incident`,children:`✗`}):l===`minor`?(0,f.jsx)(`span`,{className:`now-minor`,title:`Station issues`,children:`!`}):(0,f.jsx)(`span`,{className:`now-clear`,title:`All clear`,children:`✓`});return(0,f.jsxs)(`div`,{className:`row ${s}`,children:[(0,f.jsx)(`div`,{className:`col-pos`,children:t+1}),(0,f.jsxs)(`div`,{className:`col-club`,children:[(0,f.jsx)(`div`,{className:`pip`,style:{background:i.color,color:i.text},children:u}),(0,f.jsxs)(`div`,{className:`club-text`,children:[d&&(0,f.jsx)(`div`,{className:`club-label`,children:d}),p&&(0,f.jsx)(`div`,{className:`club-desc-wrap`,children:(0,f.jsx)(`span`,{className:`club-desc ${l}`,style:{animationDuration:m},children:p})})]})]}),(0,f.jsxs)(`div`,{className:`col-pts-wrap`,children:[(0,f.jsx)(`div`,{className:`col-pts`,children:e.seasonPts}),(0,f.jsx)(`div`,{className:`col-record`,children:e.checks>0?`${e.wins}W ${e.draws}D ${e.losses}L`:`—`})]}),(0,f.jsx)(`div`,{className:`col-form`,children:c.map((e,t)=>(0,f.jsx)(`div`,{className:`fd ${e??`none`}`,children:e??``},t))}),(0,f.jsx)(`div`,{className:`col-now`,children:h})]})}function y(){return(0,f.jsxs)(`div`,{className:`legend`,children:[(0,f.jsxs)(`div`,{className:`legend-item`,children:[(0,f.jsx)(`span`,{style:{color:`#27ae60`,fontSize:`1rem`},children:`✓`}),` Clean run (3 pts)`]}),(0,f.jsxs)(`div`,{className:`legend-item`,children:[(0,f.jsx)(`span`,{style:{color:`#e67e22`,fontSize:`1rem`},children:`!`}),` Station issues (1 pt)`]}),(0,f.jsxs)(`div`,{className:`legend-item`,children:[(0,f.jsx)(`span`,{style:{color:`#c0392b`,fontSize:`1rem`},children:`✗`}),` Service incident (0 pts)`]})]})}function b({standings:e,city:t}){let n=e.length;if(n===1)return(0,f.jsxs)(`div`,{children:[(0,f.jsxs)(`div`,{className:`tbl-head`,children:[(0,f.jsx)(`div`,{className:`th`,style:{width:36,flexShrink:0},children:`#`}),(0,f.jsx)(`div`,{className:`th`,style:{flex:1},children:`Line`}),(0,f.jsx)(`div`,{className:`th r`,style:{width:60,flexShrink:0},children:`Pts`}),(0,f.jsx)(`div`,{className:`th c`,style:{width:90,flexShrink:0},children:`Form`}),(0,f.jsx)(`div`,{className:`th r`,style:{width:44,flexShrink:0},children:`Now`})]}),(0,f.jsx)(`div`,{className:`zone-sep top`,children:`Champions Metro Zone`}),(0,f.jsx)(v,{s:e[0],pos:0,total:1,city:t}),(0,f.jsx)(`div`,{className:`solo-champ`,children:`🏆 Undefeated champions — no competition found`}),(0,f.jsx)(y,{})]});let r=Math.max(n-3,3);return(0,f.jsxs)(`div`,{children:[(0,f.jsxs)(`div`,{className:`tbl-head`,children:[(0,f.jsx)(`div`,{className:`th`,style:{width:36,flexShrink:0},children:`#`}),(0,f.jsx)(`div`,{className:`th`,style:{flex:1},children:`Line`}),(0,f.jsx)(`div`,{className:`th r`,style:{width:60,flexShrink:0},children:`Pts`}),(0,f.jsx)(`div`,{className:`th c`,style:{width:90,flexShrink:0},children:`Form`}),(0,f.jsx)(`div`,{className:`th r`,style:{width:44,flexShrink:0},children:`Now`})]}),e.map((e,i)=>{let a=i===0?{txt:`Champions Metro Zone`,cls:`top`}:i===3?{txt:`Mid-table`,cls:`mid`}:i===r?{txt:`Relegation Zone`,cls:`releg`}:null;return(0,f.jsxs)(`div`,{children:[a&&(0,f.jsx)(`div`,{className:`zone-sep ${a.cls}`,children:a.txt}),(0,f.jsx)(v,{s:e,pos:i,total:n,city:t})]},e.name)}),(0,f.jsx)(y,{})]})}function x(){let[e,t]=(0,l.useState)(`barcelona`),[n,r]=(0,l.useState)(null),[i,a]=(0,l.useState)(!0),[o,s]=(0,l.useState)(null),c=(0,l.useRef)(m),u=(0,l.useRef)(!1),d=p[e],v=(0,l.useCallback)(async()=>{if(!u.current){u.current=!0;try{let e=await fetch(`${d.statusUrl}?t=${Date.now()}`);if(!e.ok)throw Error(`HTTP ${e.status}`);r(await e.json()),s(null)}catch(e){s(e.message)}finally{a(!1),u.current=!1}}},[d.statusUrl]);(0,l.useEffect)(()=>{r(null),a(!0),s(null),c.current=m,v();let e=setInterval(()=>{c.current=Math.max(0,c.current-1),c.current<=0&&(c.current=m,v())},1e3);return()=>clearInterval(e)},[v]);let y=n?.lines?g(n.lines):null,x=n?.matchday??0,ee=n?.updated?new Date(n.updated):null,S=y?.filter(e=>e.currentSeverity===`incident`).length??0,C=y?.filter(e=>e.currentSeverity===`minor`).length??0,te=ee?.toLocaleTimeString(`en-GB`,{hour:`2-digit`,minute:`2-digit`})??`—`,ne=ee?.toLocaleDateString(`en-GB`,{weekday:`short`,day:`numeric`,month:`short`})??`—`,re=i?`Loading…`:o?`Could not load data`:S>0?`${S} service incident${S>1?`s`:``}`:C>0?`All running · ${C} with station issues`:x===0?`Waiting for first data…`:`All lines clear`,w=d.id===`segunda`?`linear-gradient(135deg,#EE1C25,#003082)`:d.color,ie=ee?ee.toLocaleDateString(`en-GB`,{month:`long`,year:`numeric`}):new Date().toLocaleDateString(`en-GB`,{month:`long`,year:`numeric`});return(0,f.jsxs)(`div`,{className:`app`,children:[(0,f.jsx)(`style`,{children:_}),(0,f.jsxs)(`div`,{className:`hdr`,children:[(0,f.jsxs)(`div`,{className:`hdr-top`,children:[(0,f.jsxs)(`div`,{className:`hdr-badge`,style:{background:w},children:[(0,f.jsxs)(`div`,{className:`hdr-badge-sup`,children:[d.code,` Metro`]}),(0,f.jsx)(`div`,{className:`hdr-badge-title`,children:`Liga`})]}),(0,f.jsxs)(`div`,{className:`hdr-mid`,children:[(0,f.jsxs)(`div`,{className:`hdr-matchday`,children:[d.name,` · `,ie]}),(0,f.jsx)(`div`,{className:`hdr-info`,children:re})]}),(0,f.jsx)(`div`,{className:`hdr-right`,children:ee&&(0,f.jsxs)(`div`,{className:`hdr-time`,children:[`Updated`,(0,f.jsx)(`br`,{}),ne,` `,te]})})]}),(0,f.jsx)(`div`,{className:`city-tabs`,children:Object.values(p).map(n=>(0,f.jsx)(`button`,{className:`city-tab ${e===n.id?`active`:``}`,style:e===n.id?{borderBottomColor:n.color,color:`#111`}:{},onClick:()=>t(n.id),children:n.name},n.id))})]}),o&&(0,f.jsxs)(`div`,{className:`err-box`,children:[`⚠ `,o]}),(0,f.jsxs)(`div`,{className:`content-wrap`,children:[i?(0,f.jsxs)(`div`,{className:`state`,children:[(0,f.jsx)(`div`,{className:`state-ico`,children:`🚇`}),(0,f.jsxs)(`div`,{className:`state-msg`,children:[`Loading `,d.name,` metro liga…`]})]}):y?(0,f.jsx)(b,{standings:y,city:d}):null,(0,f.jsxs)(`div`,{className:`footer`,children:[(0,f.jsx)(`span`,{children:`Metro Liga · Spanish metro reliability league`}),(0,f.jsxs)(`span`,{children:[`Created by `,(0,f.jsx)(`a`,{href:h,target:`_blank`,rel:`noopener noreferrer`,children:`Joe Luca Dooley`})]})]})]})]})}(0,u.createRoot)(document.getElementById(`root`)).render((0,f.jsx)(l.StrictMode,{children:(0,f.jsx)(x,{})}));
