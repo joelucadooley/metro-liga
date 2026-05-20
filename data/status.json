@@ -1,7 +1,7 @@
 {
   "matchday": 278,
   "lastMatchDate": "2026-05-20",
-  "updated": "2026-05-20T17:27:29.923650+00:00",
+  "updated": "2026-05-20T17:31:38.291599+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -37,7 +37,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "Sants Estació: Until approximately June 4th, the escalator that goes up from the lobby to the Dolors Batlle i Sunyer access of Sants Estació station will be out of service for improvement work. · Montbau: Until approximately May 20th, due to works, the access to the Palau Olímpic from Montbau station will be closed.",
+      "description": "Sants Estació: Until approximately June 4th, the escalator that goes up from the lobby to the Dolors Batlle i Sunyer access of Sants Estació station will be out of service for improvement work. · Maria Cristina: Until approximately May 22nd, the elevator that connects the platform towards Zona Universitària with the lobby of Maria Cristina station will be out of service for improvement works.",
       "seasonPts": 264,
       "checks": 278,
       "wins": 2,
