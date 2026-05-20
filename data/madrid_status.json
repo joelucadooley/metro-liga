@@ -1,7 +1,7 @@
 {
   "matchday": 272,
   "lastMatchDate": "2026-05-20",
-  "updated": "2026-05-20T19:11:28.125600+00:00",
+  "updated": "2026-05-20T19:16:34.677548+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -21,7 +21,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Cuatro Caminos Out of service. We are examining the reasons for t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform on line 2 in the direction of Las Rosas to platform on line 3 in the direction of Moncloa Out",
       "seasonPts": 385,
       "checks": 272,
       "wins": 57,
@@ -53,7 +53,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Alberto Aguilera to lobby Guzmán el Bueno Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service. We are examining the reasons for the st",
       "seasonPts": 384,
       "checks": 272,
       "wins": 56,
@@ -133,7 +133,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to corridor leading on line 1-9 y 10 Out of service due to repair works. Expected date",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Out of service due to check-up. Coming int",
       "seasonPts": 370,
       "checks": 272,
       "wins": 49,
