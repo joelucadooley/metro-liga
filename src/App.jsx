@@ -179,7 +179,6 @@ thead th {
 th.col-num  { width: 36px; padding-left: 1.1rem; text-align: left; }
 th.col-line { text-align: left; padding-left: .5rem; }
 th.col-pts  { width: 58px; text-align: right; }
-th.col-form { width: 90px; text-align: center; }
 th.col-now  { width: 44px; text-align: right; padding-right: 1.1rem; }
 
 tbody tr { height: 46px; border-bottom: 1px solid #f2f2f6; }
@@ -225,8 +224,9 @@ tr.zone-sep.releg td { color: #c0392b; border-left-color: #c0392b; background: #
   letter-spacing: -.02em;
 }
 .line-info {
-  flex: 1; min-width: 0;
-  display: flex; flex-direction: column; gap: 1px;
+  flex: 1; min-width: 0; overflow: hidden;
+  display: flex; flex-direction: column;
+  justify-content: center; gap: 2px;
 }
 .line-city {
   font-family: 'JetBrains Mono', monospace; font-size: .46rem; color: #999;
@@ -304,16 +304,13 @@ tr.zone-sep.releg td { color: #c0392b; border-left-color: #c0392b; background: #
 
 /* Mobile: hide form column */
 @media (max-width: 600px) {
-  th.col-form, td.col-form { display: none; }
   .hdr-time { display: none; }
   .city-tab { padding: .42rem .6rem; font-size: .72rem; }
   .hdr-badge { min-width: 90px; }
   .hdr-badge-title { font-size: 1.35rem; }
   .card { margin: 0; border-radius: 0; box-shadow: none; }
-  th.col-num  { padding-left: .8rem; }
-  td.col-num  { padding-left: .8rem; }
-  th.col-now  { padding-right: .8rem; }
-  td.col-now  { padding-right: .8rem; }
+  th.col-num, td.col-num { padding-left: .8rem; }
+  th.col-now, td.col-now { padding-right: .8rem; }
   .hdr-top    { max-width: 100%; }
   .city-tabs  { max-width: 100%; padding: 0 .6rem; }
 }
@@ -354,7 +351,12 @@ function Row({ s, pos, total, city }) {
           </div>
           <div className="line-info">
             {label && <div className="line-city">{label}</div>}
-            {desc  && (
+            <div className="form-dots">
+              {form.map((r,i) => (
+                <div key={i} className={`fd ${r ?? "none"}`}>{r ?? ""}</div>
+              ))}
+            </div>
+            {desc && (
               <div className="desc-wrap">
                 <span className={`desc-text ${sev}`} style={{ animationDuration: dur }}>
                   {desc}
@@ -368,13 +370,6 @@ function Row({ s, pos, total, city }) {
         <div className="pts-num">{s.seasonPts}</div>
         <div className="pts-rec">
           {s.checks > 0 ? `${s.wins}W ${s.draws}D ${s.losses}L` : "—"}
-        </div>
-      </td>
-      <td className="col-form">
-        <div className="form-dots">
-          {form.map((r,i) => (
-            <div key={i} className={`fd ${r ?? "none"}`}>{r ?? ""}</div>
-          ))}
         </div>
       </td>
       <td className="col-now">{nowEl}</td>
@@ -394,7 +389,6 @@ function Table({ standings, city }) {
         <th className="col-num">#</th>
         <th className="col-line">Line</th>
         <th className="col-pts">Pts</th>
-        <th className="col-form">Form</th>
         <th className="col-now">Now</th>
       </tr>
     </thead>
@@ -402,9 +396,9 @@ function Table({ standings, city }) {
 
   const rows = [];
   standings.forEach((s, i) => {
-    if (i === 0)          rows.push(<tr key="z0" className="zone-sep top"><td colSpan={5}>Champions Metro Zone</td></tr>);
-    if (i === 3)          rows.push(<tr key="z1" className="zone-sep mid"><td colSpan={5}>Mid-table</td></tr>);
-    if (i === relegStart) rows.push(<tr key="z2" className="zone-sep releg"><td colSpan={5}>Relegation Zone</td></tr>);
+    if (i === 0)          rows.push(<tr key="z0" className="zone-sep top"><td colSpan={4}>Champions Metro Zone</td></tr>);
+    if (i === 3)          rows.push(<tr key="z1" className="zone-sep mid"><td colSpan={4}>Mid-table</td></tr>);
+    if (i === relegStart) rows.push(<tr key="z2" className="zone-sep releg"><td colSpan={4}>Relegation Zone</td></tr>);
     rows.push(<Row key={s.name} s={s} pos={i} total={n} city={city} />);
   });
 
