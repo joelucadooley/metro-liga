@@ -2,7 +2,7 @@
   "matchday": 0,
   "lastMatchDate": "2026-05-21",
   "lastResetMonth": "",
-  "updated": "2026-05-21T17:56:19.683501+00:00",
+  "updated": "2026-05-21T18:01:44.184275+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -26,7 +26,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Moncada to lobby Out of service due to repair works. Expected date of coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway to platforms in lobby Renfe to platform in the direction of El Casar. There is another esc",
       "seasonPts": 0,
       "checks": 0,
       "wins": 0,
