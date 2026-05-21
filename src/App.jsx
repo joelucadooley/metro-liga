@@ -242,8 +242,8 @@ tr.zone-sep.releg td { color: #c0392b; border-left-color: #c0392b; background: #
 .desc-text.minor    { color: #a06000; }
 .desc-text.incident { color: #c0392b; }
 @keyframes marquee {
-  0%,15% { transform: translateX(0); }
-  85%,100% { transform: translateX(-100%); }
+  0%   { transform: translateX(0); }
+  100% { transform: translateX(-50%); }
 }
 
 /* Points cell */
@@ -360,7 +360,7 @@ function Row({ s, pos, total, city }) {
             {desc && (
               <div className="desc-wrap">
                 <span className={`desc-text ${sev}`} style={{ animationDuration: dur }}>
-                  {desc}
+                  {desc}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{desc}
                 </span>
               </div>
             )}
