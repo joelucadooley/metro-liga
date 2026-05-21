@@ -254,8 +254,8 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 @media (max-width: 600px) {
   .col-pos  { width: 28px; }
   .col-pts-wrap { width: 52px; }
-  .col-form { width: 80px; }
-  .col-now  { width: 36px; }
+  .col-form, .th-form { display: none; }
+  .col-now  { width: 40px; }
   .pip { width: 28px; height: 28px; font-size: 0.5rem; }
   .city-tab { padding: 0.5rem 0.7rem; font-size: 0.78rem; }
   .hdr-badge { min-width: 90px; }
@@ -364,7 +364,7 @@ function Table({ standings, city }) {
           <div className="th" style={{width:36,flexShrink:0}}>#</div>
           <div className="th" style={{flex:1}}>Line</div>
           <div className="th r" style={{width:60,flexShrink:0}}>Pts</div>
-          <div className="th c" style={{width:90,flexShrink:0}}>Form</div>
+          <div className="th c th-form" style={{width:90,flexShrink:0}}>Form</div>
           <div className="th r" style={{width:44,flexShrink:0}}>Now</div>
         </div>
         <div className="zone-sep top">Champions Metro Zone</div>
@@ -381,7 +381,7 @@ function Table({ standings, city }) {
         <div className="th" style={{width:36,flexShrink:0}}>#</div>
         <div className="th" style={{flex:1}}>Line</div>
         <div className="th r" style={{width:60,flexShrink:0}}>Pts</div>
-        <div className="th c" style={{width:90,flexShrink:0}}>Form</div>
+        <div className="th c th-form" style={{width:90,flexShrink:0}}>Form</div>
         <div className="th r" style={{width:44,flexShrink:0}}>Now</div>
       </div>
       {standings.map((s, i) => {
