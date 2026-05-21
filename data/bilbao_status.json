@@ -1,7 +1,7 @@
 {
   "matchday": 0,
   "lastMatchDate": "2026-05-21",
-  "updated": "2026-05-21T13:57:18.761778+00:00",
+  "updated": "2026-05-21T14:12:54.748964+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
@@ -23,6 +23,5 @@
       "losses": 0,
       "recentForm": []
     }
-  },
-  "lastResetMonth": ""
+  }
 }

@@ -1,7 +1,8 @@
 {
   "matchday": 0,
   "lastMatchDate": "2026-05-21",
-  "updated": "2026-05-21T13:56:34.642103+00:00",
+  "lastResetMonth": "",
+  "updated": "2026-05-21T14:11:26.849914+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,8 +55,8 @@
       "recentForm": []
     },
     "L6": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 0,
       "checks": 0,
       "wins": 0,
@@ -65,7 +66,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Waiting for information. Services: Accessible station Lifts Escal",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Guernica and Avda. San Sebastián to lobby Out of service due to check-up. Coming into se",
       "seasonPts": 0,
       "checks": 0,
       "wins": 0,
@@ -114,8 +115,8 @@
       "recentForm": []
     },
     "L12": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 0,
       "checks": 0,
       "wins": 0,
@@ -133,6 +134,5 @@
       "losses": 0,
       "recentForm": []
     }
-  },
-  "lastResetMonth": ""
+  }
 }
