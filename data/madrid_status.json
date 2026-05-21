@@ -2,7 +2,7 @@
   "matchday": 0,
   "lastMatchDate": "2026-05-21",
   "lastResetMonth": "",
-  "updated": "2026-05-21T16:11:34.725627+00:00",
+  "updated": "2026-05-21T16:16:30.782725+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -16,7 +16,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 7 and line 2 platforms to lobby Las Rosas Out of service. We are examining the re",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Preciados to lobby Preciados Waiting for information. Services: Accessible station Lifts",
       "seasonPts": 0,
       "checks": 0,
       "wins": 0,
