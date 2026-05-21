@@ -1,7 +1,7 @@
 {
   "matchday": 273,
   "lastMatchDate": "2026-05-21",
-  "updated": "2026-05-21T09:11:25.838509+00:00",
+  "updated": "2026-05-21T09:16:31.509027+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -37,7 +37,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Moncada to lobby Out of service. We are examining the reasons for the stop. Services: Acc",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Moncada to lobby Out of service due to repair works. Expected date of coming into service",
       "seasonPts": 387,
       "checks": 273,
       "wins": 57,
@@ -69,7 +69,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service. We are examining the reasons for the st",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to repair works. Expected date of co",
       "seasonPts": 386,
       "checks": 273,
       "wins": 57,
@@ -101,7 +101,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Waiting for information. From entrance Plaza Guernica to lobby Ou",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Waiting for information. From entrance Plaza Guernica to lobby Wa",
       "seasonPts": 389,
       "checks": 273,
       "wins": 58,
