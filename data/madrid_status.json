@@ -1,7 +1,7 @@
 {
   "matchday": 273,
   "lastMatchDate": "2026-05-21",
-  "updated": "2026-05-21T08:41:31.771635+00:00",
+  "updated": "2026-05-21T08:46:29.198631+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -21,7 +21,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Mayor and platform on line 2 in the direction of Cuatro Caminos to hallway leading on lines and p",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform on line 2 in the direction of Las Rosas to platform on line 3 in the direction of Moncloa Out",
       "seasonPts": 388,
       "checks": 273,
       "wins": 58,
@@ -53,7 +53,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 and corridor leading on line 3 to platform 2 on line 6 in the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service. We are examining",
       "seasonPts": 387,
       "checks": 273,
       "wins": 57,
@@ -69,7 +69,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Del Velero to lobby Out of service. We are examining the reasons for the stop. Services: Acces",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service. We are examining the reasons for the st",
       "seasonPts": 386,
       "checks": 273,
       "wins": 57,
