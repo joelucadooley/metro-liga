@@ -2,7 +2,7 @@
   "matchday": 0,
   "lastMatchDate": "2026-05-21",
   "lastResetMonth": "",
-  "updated": "2026-05-21T20:11:31.724306+00:00",
+  "updated": "2026-05-21T20:15:59.600128+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -16,7 +16,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Preciados to lobby Preciados Waiting for information. Services: Accessible station Lifts",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Guadalajara to lobby Waiting for information. Services: Accessible station Lifts",
       "seasonPts": 0,
       "checks": 0,
       "wins": 0,
@@ -26,7 +26,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Valle de Tobalina to lobby Out of service. We are examining the reasons for the stop. Services",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway to platforms in lobby Renfe to platform in the direction of El Casar. There is another esc",
       "seasonPts": 0,
       "checks": 0,
       "wins": 0,
