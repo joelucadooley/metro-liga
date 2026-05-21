@@ -56,8 +56,8 @@ def scrape_valencia():
         context = browser.new_context(locale="en-GB",extra_http_headers={"Accept-Language":"en-GB,en;q=0.9"})
         page = context.new_page()
         try:
-            page.goto(STATUS_URL, wait_until="networkidle", timeout=35000)
-            page.wait_for_timeout(5000)
+            page.goto(STATUS_URL, wait_until="domcontentloaded", timeout=30000)
+            page.wait_for_timeout(8000)
             html = page.content()
             soup = BeautifulSoup(html,"html.parser")
             for tag in soup(["script","style","noscript"]): tag.decompose()
