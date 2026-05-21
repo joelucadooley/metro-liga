@@ -1,7 +1,7 @@
 {
   "matchday": 273,
   "lastMatchDate": "2026-05-21",
-  "updated": "2026-05-21T08:56:32.871579+00:00",
+  "updated": "2026-05-21T09:01:47.670608+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -21,7 +21,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform on line 2 in the direction of Las Rosas to platform on line 3 in the direction of Moncloa Out",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Paseo de Ginebra to lobby Out of service due to check-up. Coming into service in the next hour",
       "seasonPts": 388,
       "checks": 273,
       "wins": 58,
@@ -101,7 +101,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Out of service. We are examining the reasons for the stop. From e",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Waiting for information. From entrance Plaza Guernica to lobby Ou",
       "seasonPts": 389,
       "checks": 273,
       "wins": 58,
