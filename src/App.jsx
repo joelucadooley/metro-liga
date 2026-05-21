@@ -336,11 +336,9 @@ function Row({ s, pos, total, city }) {
   const desc    = sev !== "clear" ? s.currentDetail : null;
   const dur     = desc ? `${Math.max(5, desc.length * 0.13)}s` : "0s";
 
-  const nowEl = s.checks === 0
-    ? <span className="now-na">—</span>
-    : sev === "incident" ? <span className="now-inc">✗</span>
-    : sev === "minor"    ? <span className="now-alt">!</span>
-    :                      <span className="now-ok">✓</span>;
+  const nowEl = sev === "incident" ? <span className="now-inc">✗</span>
+    : sev === "minor" ? <span className="now-alt">!</span>
+    :                   <span className="now-ok">✓</span>;
 
   return (
     <tr className={cls}>
