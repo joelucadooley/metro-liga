@@ -459,12 +459,11 @@ export default function App() {
     : err ? "Could not load data"
     : (() => {
         if (!standings) return "Waiting for first data…";
+        if (incCount === 0 && altCount === 0) return "All lines clear";
         const parts = [];
-        const clearCount = standings.filter(s => s.currentSeverity === "clear").length;
-        if (incCount > 0) parts.push(`${incCount} incident${incCount > 1 ? "s" : ""}`);
+        if (incCount > 0) parts.push(`${incCount} service incident${incCount > 1 ? "s" : ""}`);
         if (altCount > 0) parts.push(`${altCount} with station issues`);
-        if (clearCount > 0) parts.push(`${clearCount} clear`);
-        return parts.length > 0 ? parts.join(" · ") : "All lines clear";
+        return parts.join(" · ");
       })();
 
   const badgeBg = city.id === "segunda"
