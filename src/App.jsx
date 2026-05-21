@@ -95,14 +95,14 @@ html, body, #root {
 .hdr-top {
   display: flex;
   align-items: stretch;
-  min-height: 60px;
+  min-height: 80px;
   max-width: 900px;
   margin: 0 auto;
 }
 .hdr-badge {
-  padding: .75rem 1.1rem;
+  padding: .75rem 1rem;
   display: flex; flex-direction: column; justify-content: center;
-  flex-shrink: 0; min-width: 105px;
+  flex-shrink: 0; width: 80px; min-width: 80px;
   transition: background .3s;
 }
 .hdr-badge-sup {
@@ -232,7 +232,7 @@ tr.zone-sep.releg td { color: #c0392b; border-left-color: #c0392b; background: #
   font-family: 'JetBrains Mono', monospace; font-size: .46rem; color: #999;
   white-space: nowrap;
 }
-.desc-wrap { overflow: hidden; flex: 1; min-width: 0; }
+.desc-wrap { overflow: hidden; flex: 1; min-width: 0; display: flex; align-items: center; }
 .desc-text {
   font-family: 'JetBrains Mono', monospace; font-size: .42rem;
   white-space: nowrap; display: inline-block; font-style: italic;
