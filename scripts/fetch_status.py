@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Scrapes TMB Barcelona metro status and updates data/status.json.
-Points awarded once per day only. Status updates every 5 minutes.
+Points awarded once per day. Resets on 1st of each month.
 """
 
 import json
@@ -24,9 +24,14 @@ def load_existing():
             return json.loads(DATA_FILE.read_text())
         except Exception:
             pass
-    return {"matchday": 0, "updated": None, "lastMatchDate": None,
+    return {"matchday": 0, "updated": None, "lastMatchDate": None, "lastResetMonth": None,
             "lines": {n: {"severity": "clear", "description": None, "seasonPts": 0,
                           "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": []} for n in LINES}}
+
+
+def blank_line():
+    return {"severity": "clear", "description": None, "seasonPts": 0,
+            "checks": 0, "wins": 0, "draws": 0, "losses": 0, "recentForm": []}
 
 
 def dismiss_cookies(page):
@@ -75,12 +80,9 @@ def extract_clean_description(section):
     got_description = False
     station_count = 0
     for line in raw_lines:
-        if line in LINES:
-            break
-        if station_count >= 2:
-            break
-        if line in SKIP_LINES or DATE_LINE.match(line) or line.startswith("More info"):
-            continue
+        if line in LINES: break
+        if station_count >= 2: break
+        if line in SKIP_LINES or DATE_LINE.match(line) or line.startswith("More info"): continue
         if line.startswith("Until") or line.startswith("From "):
             if current_station and not got_description:
                 sentence = line.split(".")[0] + "."
@@ -122,39 +124,46 @@ def scrape_pages():
             page.wait_for_timeout(2000)
             html = page.content()
             soup = BeautifulSoup(html, "html.parser")
-            for tag in soup(["script", "style", "noscript"]):
-                tag.decompose()
+            for tag in soup(["script", "style", "noscript"]): tag.decompose()
             text = soup.get_text(separator="\n", strip=True)
-            print(f"  Page length: {len(text)} chars")
+            print(f"  Page: {len(text)} chars")
             sections = find_real_sections(text)
-            print(f"  Found real sections for: {list(sections.keys())}")
+            print(f"  Sections: {list(sections.keys())}")
             for line, section in sections.items():
                 severity, desc = classify_section(section)
                 status[line] = {"severity": severity, "description": desc}
-                print(f"  {line}: {severity} — {(desc or '')[:80]}")
-            missing = [l for l in LINES if l not in sections]
-            if missing:
-                print(f"  Clean lines (not on page): {missing}")
+                print(f"  {line}: {severity}")
+            print(f"  Clean: {[l for l in LINES if l not in sections]}")
         except Exception as e:
-            print(f"  Warning: scrape failed: {e}")
+            print(f"  Scrape failed: {e}")
         finally:
             browser.close()
     return status
 
 
 def update_scores(existing, new_status):
-    today = date_cls.today().isoformat()
-    last_date = existing.get("lastMatchDate", "")
-    award_points = (today != last_date)
+    today      = date_cls.today()
+    today_str  = today.isoformat()
+    this_month = today.strftime("%Y-%m")
+    last_date  = existing.get("lastMatchDate", "")
+    last_reset = existing.get("lastResetMonth", "")
 
-    lines = existing.get("lines", {})
+    lines    = existing.get("lines", {})
     matchday = existing.get("matchday", 0)
 
+    # Monthly reset on the 1st
+    if today.day == 1 and last_reset != this_month:
+        print(f"  Monthly reset — new season: {this_month}")
+        lines    = {n: blank_line() for n in LINES}
+        matchday = 0
+        last_reset = this_month
+
+    award_points = (today_str != last_date)
+
     for name in LINES:
-        s = new_status.get(name, {"severity": "clear", "description": None})
+        s   = new_status.get(name, {"severity": "clear", "description": None})
         sev = s["severity"]
-        prev = lines.get(name, {"seasonPts": 0, "checks": 0, "wins": 0,
-                                 "draws": 0, "losses": 0, "recentForm": []})
+        prev = lines.get(name, blank_line())
         if award_points:
             result = "L" if sev == "incident" else "D" if sev == "minor" else "W"
             pts = POINTS[result]
@@ -169,7 +178,7 @@ def update_scores(existing, new_status):
             }
         else:
             updated = dict(prev)
-            updated["severity"] = sev
+            updated["severity"]    = sev
             updated["description"] = s["description"]
             lines[name] = updated
 
@@ -177,21 +186,22 @@ def update_scores(existing, new_status):
         matchday += 1
 
     return {
-        "matchday": matchday,
-        "lastMatchDate": today,
-        "updated": datetime.now(timezone.utc).isoformat(),
-        "lines": lines,
+        "matchday":      matchday,
+        "lastMatchDate": today_str,
+        "lastResetMonth": last_reset,
+        "updated":       datetime.now(timezone.utc).isoformat(),
+        "lines":         lines,
     }
 
 
 def main():
     DATA_FILE.parent.mkdir(exist_ok=True)
-    print("Loading existing data...")
+    print("Loading existing Barcelona data...")
     existing = load_existing()
     print("Scraping TMB Barcelona...")
     try:
         new_status = scrape_pages()
-        result = update_scores(existing, new_status)
+        result     = update_scores(existing, new_status)
     except Exception as e:
         print(f"Scraping failed: {e}")
         result = existing
