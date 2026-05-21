@@ -1,7 +1,7 @@
 {
   "matchday": 273,
   "lastMatchDate": "2026-05-21",
-  "updated": "2026-05-21T04:56:21.524818+00:00",
+  "updated": "2026-05-21T05:01:36.348121+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -53,7 +53,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 4 in the direction of Pinar de Chamartín to platform on line 8 in the direction",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
       "seasonPts": 387,
       "checks": 273,
       "wins": 57,
@@ -69,7 +69,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Waiting for information. Services: Escalators",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
       "seasonPts": 386,
       "checks": 273,
       "wins": 57,
