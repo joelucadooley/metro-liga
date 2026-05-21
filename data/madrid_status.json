@@ -2,7 +2,7 @@
   "matchday": 0,
   "lastMatchDate": "2026-05-21",
   "lastResetMonth": "",
-  "updated": "2026-05-21T19:56:22.346052+00:00",
+  "updated": "2026-05-21T20:01:51.460167+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -26,7 +26,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway to platforms in lobby Renfe to platform in the direction of El Casar. There is another esc",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Valle de Tobalina to lobby Out of service. We are examining the reasons for the stop. Services",
       "seasonPts": 0,
       "checks": 0,
       "wins": 0,
@@ -86,7 +86,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to corridor leading on line 1-9 y 10 Out of service due to repair works. Expected date",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Arganda del Rey to hallway leading Out of service due to check-up. Coming into serv",
       "seasonPts": 0,
       "checks": 0,
       "wins": 0,
@@ -106,7 +106,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service due to check-up. Coming into s",
       "seasonPts": 0,
       "checks": 0,
       "wins": 0,
