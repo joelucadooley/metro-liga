@@ -12,6 +12,7 @@ Error generating stack: `+e.message+`
 html, body, #root {
   margin: 0; padding: 0; width: 100%;
   background: #23232f;
+  overflow-x: hidden;
 }
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -102,6 +103,7 @@ html, body, #root {
 table {
   width: 100%;
   border-collapse: collapse;
+  table-layout: fixed;
 }
 thead th {
   font-family: 'JetBrains Mono', monospace;
@@ -150,7 +152,7 @@ tr.zone-sep.releg td { color: #c0392b; border-left-color: #c0392b; background: #
 /* Line cell */
 .line-cell {
   display: flex; align-items: center; gap: .5rem;
-  overflow: hidden;
+  overflow: hidden; width: 100%; max-width: 100%;
 }
 .pip {
   width: 30px; height: 30px; border-radius: 50%;
