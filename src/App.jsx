@@ -93,6 +93,9 @@ html,body,#root{margin:0;padding:0;background:#1e1e2a;width:100%;}
 /* Error */
 .err-box{padding:.4rem 1.2rem;background:#fff0f0;border-bottom:1px solid #ffc0c0;font-family:'JetBrains Mono',monospace;font-size:.52rem;color:#c00;}
 
+/* Content container */
+.content-wrap{max-width:900px;margin:0 auto;box-shadow:0 4px 24px rgba(0,0,0,0.3);}
+
 /* Table — using real HTML table for guaranteed alignment */
 .liga-table{width:100%;border-collapse:collapse;background:#fff;}
 .liga-table th{font-family:'JetBrains Mono',monospace;font-size:.46rem;letter-spacing:.16em;text-transform:uppercase;color:#bbb;padding:.4rem 0;border-bottom:2px solid #e8e8ee;font-weight:400;}
@@ -360,13 +363,14 @@ export default function App() {
           <div className="state-msg">Loading {city.name} metro liga…</div>
         </div>
       ) : standings ? (
-        <Table standings={standings} city={city} />
+        <div className="content-wrap">
+          <Table standings={standings} city={city} />
+          <div className="footer">
+            <span>Metro Liga · Spanish metro reliability league</span>
+            <span>Created by <a href={GITHUB_URL} target="_blank" rel="noopener noreferrer">Joe Luca Dooley</a></span>
+          </div>
+        </div>
       ) : null}
-
-      <div className="footer">
-        <span>Metro Liga · Spanish metro reliability league</span>
-        <span>Created by <a href={GITHUB_URL} target="_blank" rel="noopener noreferrer">Joe Luca Dooley</a></span>
-      </div>
     </div>
   );
 }
