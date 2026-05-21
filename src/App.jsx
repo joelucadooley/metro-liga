@@ -94,13 +94,13 @@ function truncate(str, n) {
 
 const CSS = `
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;600;700&family=JetBrains+Mono:wght@400;500&display=swap');
-html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
+html, body, #root { margin: 0; padding: 0; background: #dcdce4; width: 100%; }
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-.app { min-height: 100vh; background: #f4f4f6; color: #111; font-family: 'Oswald', sans-serif; }
+.app { min-height: 100vh; background: #dcdce4; color: #111; font-family: 'Oswald', sans-serif; }
 
 /* ── Header ── */
 .hdr { background: #fff; border-bottom: 1px solid #e0e0e6; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
-.hdr-top { display: flex; align-items: stretch; min-height: 72px; }
+.hdr-top { display: flex; align-items: stretch; min-height: 64px; }
 .hdr-badge {
   padding: 0.9rem 1.3rem;
   display: flex; flex-direction: column; justify-content: center;
@@ -181,7 +181,7 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
   display: flex; align-items: center;
   padding: 0 1.3rem; border-bottom: 1px solid #ebebef;
   border-left: 3px solid transparent;
-  transition: background 0.1s; height: 52px;
+  transition: background 0.1s; height: 46px;
   background: #fff;
 }
 .row:hover { background: #f8f8fb; }
@@ -193,11 +193,11 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .col-pos       { width: 36px; flex-shrink: 0; font-family: 'JetBrains Mono', monospace; font-size: 0.8rem; color: #ccc; }
 .col-club      { flex: 1; min-width: 0; overflow: hidden; display: flex; align-items: center; gap: 0.6rem; }
 .col-pts-wrap  { width: 60px; flex-shrink: 0; text-align: right; }
-.col-form { width: 90px; flex-shrink: 0; display: flex; align-items: center; }
-.form-inner { display: flex; gap: 4px; align-items: center; margin: 0 auto; }
+.col-form { width: 90px; flex-shrink: 0; display: grid; place-items: center; }
+.form-inner { display: flex; gap: 3px; align-items: center; }
 .col-now       { width: 44px; flex-shrink: 0; font-size: 1rem; text-align: right; line-height: 1; }
 
-.pip { width: 34px; height: 34px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.56rem; font-weight: 700; flex-shrink: 0; letter-spacing: -0.02em; }
+.pip { width: 30px; height: 30px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 0.52rem; font-weight: 700; flex-shrink: 0; letter-spacing: -0.02em; }
 .club-text { flex: 1; min-width: 0; overflow: hidden; display: flex; flex-direction: column; gap: 2px; }
 .club-label { font-family: 'JetBrains Mono', monospace; font-size: 0.5rem; color: #999; white-space: nowrap; }
 
@@ -222,7 +222,7 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .col-pts { font-family: 'JetBrains Mono', monospace; font-size: 1.1rem; color: #222; line-height: 1; font-weight: 500; }
 .col-record { font-family: 'JetBrains Mono', monospace; font-size: 0.44rem; color: #ccc; margin-top: 1px; }
 
-.fd { width: 13px; height: 13px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: 'JetBrains Mono', monospace; font-size: 0.38rem; font-weight: 500; }
+.fd { width: 11px; height: 11px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-family: 'JetBrains Mono', monospace; font-size: 0.34rem; font-weight: 500; }
 .fd.W    { background: #d4edda; color: #1a7a2a; }
 .fd.D    { background: #fff3cd; color: #856404; }
 .fd.L    { background: #f8d7da; color: #c0392b; }
@@ -237,7 +237,7 @@ html, body, #root { margin: 0; padding: 0; background: #f4f4f6; width: 100%; }
 .state-ico { font-size: 2.5rem; }
 .state-msg { font-size: 0.66rem; color: #aaa; max-width: 340px; line-height: 1.9; }
 
-.legend { display: flex; gap: 1.2rem; padding: 0.7rem 1.3rem; border-top: 1px solid #ebebef; align-items: center; flex-wrap: wrap; background: #fff; }
+.legend { display: flex; gap: 1rem; padding: 0.5rem 1.3rem; border-top: 1px solid #ebebef; align-items: center; flex-wrap: wrap; background: #fff; }
 .legend-item { display: flex; align-items: center; gap: 0.4rem; font-family: 'JetBrains Mono', monospace; font-size: 0.48rem; color: #aaa; }
 
 .solo-champ { text-align: center; padding: 1.5rem; font-family: 'JetBrains Mono', monospace; font-size: 0.6rem; color: #2a7a2a; letter-spacing: 0.1em; background: #fff; }
