@@ -2,11 +2,11 @@
   "matchday": 0,
   "lastMatchDate": "2026-05-21",
   "lastResetMonth": "",
-  "updated": "2026-05-21T21:31:10.658201+00:00",
+  "updated": "2026-05-21T21:35:48.497619+00:00",
   "lines": {
     "L1": {
-      "severity": "incident",
-      "description": null,
+      "severity": "minor",
+      "description": "Arc de Triomf: Until approximately June 2nd, the escalator that goes up from the lobby to the Avda. · Plaça de Sants: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work.",
       "seasonPts": 0,
       "checks": 0,
       "wins": 0,
@@ -15,8 +15,8 @@
       "recentForm": []
     },
     "L2": {
-      "severity": "incident",
-      "description": null,
+      "severity": "minor",
+      "description": "Monumental: Until approximately June 2, the escalator that goes up from the platform towards Badalona Pompeu Fabra to the lobby of Monumental station will be out of service for improvement work.",
       "seasonPts": 0,
       "checks": 0,
       "wins": 0,
@@ -25,8 +25,8 @@
       "recentForm": []
     },
     "L3": {
-      "severity": "incident",
-      "description": null,
+      "severity": "minor",
+      "description": "Sants Estació: Until approximately June 4th, the escalator that goes up from the lobby to the Dolors Batlle i Sunyer access of Sants Estació station will be out of service for improvement work. · Maria Cristina: Until approximately May 22nd, the elevator that connects the platform towards Zona Universitària with the lobby of Maria Cristina station will be out of service for improvement works.",
       "seasonPts": 0,
       "checks": 0,
       "wins": 0,
@@ -35,8 +35,8 @@
       "recentForm": []
     },
     "L4": {
-      "severity": "incident",
-      "description": null,
+      "severity": "minor",
+      "description": "Joanic: Until approximately June 5th, the elevator that connects the lobby with the Escorial access of Joanic station will be out of service for improvement works. · Verdaguer: From 13/10/2025, and for approximately 12 months, the connecting passageway between lines L4 and L5 at Verdaguer station is closed for works.",
       "seasonPts": 0,
       "checks": 0,
       "wins": 0,
@@ -45,8 +45,8 @@
       "recentForm": []
     },
     "L5": {
-      "severity": "incident",
-      "description": null,
+      "severity": "minor",
+      "description": "Badal: Until approximately June 9th, the escalator that goes up from the platform towards Cornellà Centre to the lobby of the Carrer de Sants access, at Badal station, will be out of service for improvement work. · Sants Estació: Until approximately May 24th, the elevator that connects the platform towards Cornellà Center with the passage under the platform, at Sants Estació station, will be out of service for improvement works.",
       "seasonPts": 0,
       "checks": 0,
       "wins": 0,
@@ -95,7 +95,7 @@
       "recentForm": []
     },
     "L11": {
-      "severity": "incident",
+      "severity": "clear",
       "description": null,
       "seasonPts": 0,
       "checks": 0,
