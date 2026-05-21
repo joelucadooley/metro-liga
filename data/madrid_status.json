@@ -1,7 +1,7 @@
 {
   "matchday": 273,
   "lastMatchDate": "2026-05-21",
-  "updated": "2026-05-21T08:21:32.872356+00:00",
+  "updated": "2026-05-21T08:31:32.191255+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -133,7 +133,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Out of service. We are examining the reas",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Out of service due to check-up. Coming in",
       "seasonPts": 371,
       "checks": 273,
       "wins": 49,
