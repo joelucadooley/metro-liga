@@ -455,11 +455,15 @@ export default function App() {
   const timeStr   = updated?.toLocaleTimeString("en-GB", { hour:"2-digit", minute:"2-digit" }) ?? "";
   const dateStr   = updated?.toLocaleDateString("en-GB", { weekday:"short", day:"numeric", month:"short" }) ?? "";
 
-  const statusText = loading    ? "Loading…"
-    : err           ? "Could not load data"
-    : incCount > 0  ? `${incCount} service incident${incCount > 1 ? "s" : ""}`
-    : altCount > 0  ? `All running · ${altCount} with station issues`
-    : "All lines clear";
+  const statusText = loading ? "Loading…"
+    : err ? "Could not load data"
+    : (() => {
+        if (!standings) return "Waiting for first data…";
+        const parts = [];
+        if (incCount > 0) parts.push(`${incCount} service incident${incCount > 1 ? "s" : ""}`);
+        if (altCount > 0) parts.push(`${altCount} with station issues`);
+        return parts.length > 0 ? parts.join(" · ") : "All lines clear";
+      })();
 
   const badgeBg = city.id === "segunda"
     ? "linear-gradient(135deg,#EE1C25,#003082)"
