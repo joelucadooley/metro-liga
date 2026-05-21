@@ -30,27 +30,26 @@ html, body, #root {
 .hdr-top {
   display: flex;
   align-items: stretch;
-  min-height: 80px;
-  max-width: 900px;
+  max-width: 1200px;
   margin: 0 auto;
 }
 .hdr-badge {
-  padding: .75rem 1rem;
-  display: flex; flex-direction: column; justify-content: center;
-  flex-shrink: 0; width: 80px; min-width: 80px;
+  padding: 0;
+  display: flex; flex-direction: column; justify-content: center; align-items: center;
+  flex-shrink: 0; width: 90px; min-width: 90px; min-height: 90px;
   transition: background .3s;
 }
 .hdr-badge-sup {
   font-family: 'JetBrains Mono', monospace;
   font-size: .44rem; letter-spacing: .2em; text-transform: uppercase;
-  color: rgba(255,255,255,.65); line-height: 1; margin-bottom: .15rem;
+  color: rgba(255,255,255,.65); line-height: 1; margin-bottom: .2rem;
 }
 .hdr-badge-title {
-  font-size: 1.5rem; font-weight: 700; text-transform: uppercase;
+  font-size: 1.7rem; font-weight: 700; text-transform: uppercase;
   color: #fff; line-height: .95;
 }
 .hdr-mid {
-  flex: 1; padding: .6rem 1.1rem;
+  flex: 1; padding: .6rem 1.2rem;
   display: flex; flex-direction: column; justify-content: center; gap: .1rem;
   min-width: 0;
 }
@@ -59,27 +58,30 @@ html, body, #root {
   font-size: .46rem; letter-spacing: .12em; text-transform: uppercase; color: #bbb;
 }
 .hdr-status {
-  font-size: .85rem; color: #777; font-weight: 300;
+  font-size: .88rem; color: #777; font-weight: 300;
 }
 .hdr-time {
-  padding: .6rem 1.1rem;
+  padding: .6rem 1.2rem;
   font-family: 'JetBrains Mono', monospace;
   font-size: .44rem; color: #ccc; text-align: right;
   display: flex; align-items: center;
 }
 
-/* ── City tabs (full width, white) ── */
+/* ── City tabs ── */
 .city-tabs {
   display: flex; background: #fff;
   border-bottom: 1px solid #e8e8ee;
   overflow-x: auto;
-  padding: 0 1.1rem;
-  max-width: 900px;
+  padding: 0 1.2rem;
+  max-width: 1200px;
   margin: 0 auto;
+  /* hide scrollbar */
+  scrollbar-width: none;
 }
+.city-tabs::-webkit-scrollbar { display: none; }
 .city-tab {
-  padding: .42rem .85rem;
-  font-family: 'Oswald', sans-serif; font-size: .8rem; font-weight: 600;
+  padding: .42rem .9rem;
+  font-family: 'Oswald', sans-serif; font-size: .82rem; font-weight: 600;
   text-transform: uppercase; letter-spacing: .08em;
   color: #bbb; cursor: pointer; border: none; background: none;
   border-bottom: 2px solid transparent; margin-bottom: -1px;
@@ -90,12 +92,12 @@ html, body, #root {
 
 /* ── Card wrapper ── */
 .card {
-  max-width: 900px;
+  max-width: 1200px;
   margin: 1rem auto;
   background: #fff;
   border-radius: 4px;
   overflow: hidden;
-  box-shadow: 0 2px 20px rgba(0,0,0,.25);
+  box-shadow: 0 2px 24px rgba(0,0,0,.3);
 }
 
 /* ── HTML Table ── */
@@ -241,7 +243,7 @@ tr.zone-sep.releg td { color: #c0392b; border-left-color: #c0392b; background: #
 @media (max-width: 600px) {
   .hdr-time { display: none; }
   .city-tab { padding: .42rem .6rem; font-size: .72rem; }
-  .hdr-badge { min-width: 90px; }
+  .hdr-badge { width: 70px; min-width: 70px; min-height: 70px; }
   .hdr-badge-title { font-size: 1.35rem; }
   .card { margin: 0; border-radius: 0; box-shadow: none; }
   th.col-num, td.col-num { padding-left: .8rem; }
