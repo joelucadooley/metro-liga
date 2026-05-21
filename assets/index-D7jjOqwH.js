@@ -161,14 +161,14 @@ tr.zone-sep.releg td { color: #c0392b; border-left-color: #c0392b; background: #
 }
 .line-info {
   flex: 1; min-width: 0; overflow: hidden;
-  display: flex; flex-direction: column;
-  justify-content: center; gap: 2px;
+  display: flex; flex-direction: row;
+  align-items: center; gap: 6px;
 }
 .line-city {
   font-family: 'JetBrains Mono', monospace; font-size: .46rem; color: #999;
   white-space: nowrap;
 }
-.desc-wrap { overflow: hidden; }
+.desc-wrap { overflow: hidden; flex: 1; min-width: 0; }
 .desc-text {
   font-family: 'JetBrains Mono', monospace; font-size: .42rem;
   white-space: nowrap; display: inline-block; font-style: italic;
