@@ -75,16 +75,15 @@ const CSS = `
 
 html, body, #root {
   margin: 0; padding: 0; width: 100%;
-  background: #23232f;
   overflow-x: hidden;
 }
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
 .app {
   min-height: 100vh;
-  background: #23232f;
   font-family: 'Oswald', sans-serif;
   color: #111;
+  transition: background 0.4s;
 }
 
 /* ── Header (full width, white) ── */
@@ -466,8 +465,13 @@ export default function App() {
     ? "linear-gradient(135deg,#EE1C25,#003082)"
     : city.color;
 
+  // Darken the city colour for the background
+  const appBg = city.id === "segunda"
+    ? "linear-gradient(160deg,#1a0608,#050818)"
+    : `color-mix(in srgb, ${city.color} 35%, #111)`;
+
   return (
-    <div className="app">
+    <div className="app" style={{ background: appBg }}>
       <style>{CSS}</style>
 
       {/* Header */}
