@@ -2,7 +2,7 @@
   "matchday": 0,
   "lastMatchDate": "2026-05-21",
   "lastResetMonth": "",
-  "updated": "2026-05-21T15:26:35.916719+00:00",
+  "updated": "2026-05-21T15:31:46.301322+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -106,7 +106,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Plaza Elíptica Out of service due to check-up. Coming into servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Carabanchel Alto to lobby Out of service due to check-up. Coming into service in the nex",
       "seasonPts": 0,
       "checks": 0,
       "wins": 0,
