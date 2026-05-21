@@ -1,7 +1,7 @@
 {
   "matchday": 273,
   "lastMatchDate": "2026-05-21",
-  "updated": "2026-05-21T09:56:21.621952+00:00",
+  "updated": "2026-05-21T10:01:45.736735+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -101,7 +101,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Waiting for information. From entrance Plaza Guernica to lobby Wa",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Out of service due to check-up. Coming into service in the next h",
       "seasonPts": 389,
       "checks": 273,
       "wins": 58,
