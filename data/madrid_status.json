@@ -1,7 +1,7 @@
 {
   "matchday": 273,
   "lastMatchDate": "2026-05-21",
-  "updated": "2026-05-21T08:11:30.497019+00:00",
+  "updated": "2026-05-21T08:21:32.872356+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -53,7 +53,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service. We are examining",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 and corridor leading on line 3 to platform 2 on line 6 in the",
       "seasonPts": 387,
       "checks": 273,
       "wins": 57,
@@ -69,7 +69,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service. We are examining the reasons for the st",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Del Velero to lobby Out of service. We are examining the reasons for the stop. Services: Acces",
       "seasonPts": 386,
       "checks": 273,
       "wins": 57,
@@ -164,8 +164,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service due to check-up. Coming into s",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 581,
       "checks": 273,
       "wins": 154,
@@ -196,8 +196,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 403,
       "checks": 273,
       "wins": 65,
