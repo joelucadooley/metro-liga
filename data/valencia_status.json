@@ -1,118 +1,77 @@
 {
-  "matchday": 704,
+  "matchday": 0,
   "updated": "2026-05-21T13:57:10.301955+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 2112,
-      "checks": 704,
-      "wins": 704,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
       "draws": 0,
       "losses": 0,
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ]
+      "recentForm": []
     },
     "L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 2112,
-      "checks": 704,
-      "wins": 704,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
       "draws": 0,
       "losses": 0,
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ]
+      "recentForm": []
     },
     "L3": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 2110,
-      "checks": 704,
-      "wins": 703,
-      "draws": 1,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
+      "draws": 0,
       "losses": 0,
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ]
+      "recentForm": []
     },
     "L4": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 2112,
-      "checks": 704,
-      "wins": 704,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
       "draws": 0,
       "losses": 0,
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ]
+      "recentForm": []
     },
     "L5": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 2112,
-      "checks": 704,
-      "wins": 704,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
       "draws": 0,
       "losses": 0,
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ]
+      "recentForm": []
     },
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 2112,
-      "checks": 704,
-      "wins": 704,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
       "draws": 0,
       "losses": 0,
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ]
+      "recentForm": []
     },
     "L7": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 2112,
-      "checks": 704,
-      "wins": 704,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
       "draws": 0,
       "losses": 0,
-      "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
-      ]
+      "recentForm": []
     }
-  }
+  },
+  "lastResetMonth": ""
 }

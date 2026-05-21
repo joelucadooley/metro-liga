@@ -1,215 +1,138 @@
 {
-  "matchday": 273,
+  "matchday": 0,
   "lastMatchDate": "2026-05-21",
   "updated": "2026-05-21T13:56:34.642103+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos Out of service due to repair works. Expect",
-      "seasonPts": 389,
-      "checks": 273,
-      "wins": 58,
-      "draws": 215,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
+      "draws": 0,
       "losses": 0,
-      "recentForm": [
-        "W",
-        "D",
-        "D",
-        "W",
-        "W"
-      ]
+      "recentForm": []
     },
     "L2": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 7 and line 2 platforms to lobby Las Rosas Out of service. We are examining the re",
-      "seasonPts": 388,
-      "checks": 273,
-      "wins": 58,
-      "draws": 214,
-      "losses": 1,
-      "recentForm": [
-        "W",
-        "D",
-        "L",
-        "W",
-        "W"
-      ]
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "recentForm": []
     },
     "L3": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
-      "seasonPts": 387,
-      "checks": 273,
-      "wins": 57,
-      "draws": 216,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
+      "draws": 0,
       "losses": 0,
-      "recentForm": [
-        "W",
-        "D",
-        "D",
-        "W",
-        "W"
-      ]
+      "recentForm": []
     },
     "L4": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
-      "seasonPts": 387,
-      "checks": 273,
-      "wins": 57,
-      "draws": 216,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
+      "draws": 0,
       "losses": 0,
-      "recentForm": [
-        "W",
-        "D",
-        "D",
-        "W",
-        "W"
-      ]
+      "recentForm": []
     },
     "L5": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service due to repair works. Expected",
-      "seasonPts": 386,
-      "checks": 273,
-      "wins": 57,
-      "draws": 215,
-      "losses": 1,
-      "recentForm": [
-        "W",
-        "D",
-        "L",
-        "W",
-        "W"
-      ]
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
+      "draws": 0,
+      "losses": 0,
+      "recentForm": []
     },
     "L6": {
       "severity": "incident",
       "description": "Service disruption reported",
-      "seasonPts": 810,
-      "checks": 273,
-      "wins": 270,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
       "draws": 0,
-      "losses": 3,
-      "recentForm": [
-        "W",
-        "W",
-        "L",
-        "L",
-        "L"
-      ]
+      "losses": 0,
+      "recentForm": []
     },
     "L7": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Waiting for information. Services: Accessible station Lifts Escal",
-      "seasonPts": 389,
-      "checks": 273,
-      "wins": 58,
-      "draws": 215,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
+      "draws": 0,
       "losses": 0,
-      "recentForm": [
-        "W",
-        "D",
-        "D",
-        "W",
-        "W"
-      ]
+      "recentForm": []
     },
     "L8": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform 1 on line 6 in the direction of Cuatro Caminos to hallway leading to platforms to line 6",
-      "seasonPts": 387,
-      "checks": 273,
-      "wins": 57,
-      "draws": 216,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
+      "draws": 0,
       "losses": 0,
-      "recentForm": [
-        "W",
-        "D",
-        "D",
-        "W",
-        "W"
-      ]
+      "recentForm": []
     },
     "L9": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to corridor leading on line 1-9 y 10 Out of service due to repair works. Expected date",
-      "seasonPts": 371,
-      "checks": 273,
-      "wins": 49,
-      "draws": 224,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
+      "draws": 0,
       "losses": 0,
-      "recentForm": [
-        "W",
-        "D",
-        "D",
-        "D",
-        "D"
-      ]
+      "recentForm": []
     },
     "L10": {
       "severity": "incident",
       "description": "Service disruption reported",
-      "seasonPts": 6,
-      "checks": 273,
-      "wins": 2,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
       "draws": 0,
-      "losses": 271,
-      "recentForm": [
-        "W",
-        "L",
-        "L",
-        "L",
-        "L"
-      ]
+      "losses": 0,
+      "recentForm": []
     },
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 581,
-      "checks": 273,
-      "wins": 154,
-      "draws": 119,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
+      "draws": 0,
       "losses": 0,
-      "recentForm": [
-        "W",
-        "D",
-        "D",
-        "W",
-        "W"
-      ]
+      "recentForm": []
     },
     "L12": {
       "severity": "incident",
       "description": "Service disruption reported",
-      "seasonPts": 810,
-      "checks": 273,
-      "wins": 270,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
       "draws": 0,
-      "losses": 3,
-      "recentForm": [
-        "W",
-        "W",
-        "L",
-        "L",
-        "L"
-      ]
+      "losses": 0,
+      "recentForm": []
     },
     "R": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 403,
-      "checks": 273,
-      "wins": 65,
-      "draws": 208,
+      "seasonPts": 0,
+      "checks": 0,
+      "wins": 0,
+      "draws": 0,
       "losses": 0,
-      "recentForm": [
-        "D",
-        "D",
-        "D",
-        "W",
-        "W"
-      ]
+      "recentForm": []
     }
-  }
+  },
+  "lastResetMonth": ""
 }
