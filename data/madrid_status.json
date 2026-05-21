@@ -2,7 +2,7 @@
   "matchday": 0,
   "lastMatchDate": "2026-05-21",
   "lastResetMonth": "",
-  "updated": "2026-05-21T14:26:28.331096+00:00",
+  "updated": "2026-05-21T14:31:40.118992+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -66,7 +66,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Guernica and Avda. San Sebastián to lobby Out of service due to check-up. Coming into se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Guernica and Avda. San Sebastián to lobby Out of service. We are examining the reasons f",
       "seasonPts": 0,
       "checks": 0,
       "wins": 0,
