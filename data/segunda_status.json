@@ -1,78 +1,92 @@
 {
-  "matchday": 0,
-  "lastMatchDate": "2026-05-21",
+  "matchday": 1,
+  "lastMatchDate": "2026-05-22",
   "lastResetMonth": "",
-  "updated": "2026-05-21T23:58:04.801925+00:00",
+  "updated": "2026-05-22T00:03:55.578824+00:00",
   "lines": {
     "SVQ_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     },
     "BIL_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     },
     "BIL_L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     },
     "MAL_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     },
     "MAL_L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     },
     "PMI_M1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     },
     "GRN_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     }
   }
 }

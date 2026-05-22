@@ -1,138 +1,164 @@
 {
-  "matchday": 0,
-  "lastMatchDate": "2026-05-21",
+  "matchday": 1,
+  "lastMatchDate": "2026-05-22",
   "lastResetMonth": "",
-  "updated": "2026-05-21T23:55:56.884050+00:00",
+  "updated": "2026-05-22T00:01:44.707949+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     },
     "L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     },
     "L3": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     },
     "L4": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     },
     "L5": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     },
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     },
     "L7": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     },
     "L8": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service due to check-up. Coming into service in the next hours. Servic",
-      "seasonPts": 0,
-      "checks": 0,
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service due to check-up. Coming into service in the next hours. Escala",
+      "seasonPts": 1,
+      "checks": 1,
       "wins": 0,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "D"
+      ]
     },
     "L10": {
       "severity": "incident",
       "description": "Service disruption reported",
       "seasonPts": 0,
-      "checks": 0,
+      "checks": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 0,
-      "recentForm": []
+      "losses": 1,
+      "recentForm": [
+        "L"
+      ]
     },
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     },
     "L12": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     },
     "R": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 0,
-      "checks": 0,
-      "wins": 0,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
-      "recentForm": []
+      "recentForm": [
+        "W"
+      ]
     }
   }
 }
