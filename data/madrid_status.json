@@ -2,11 +2,11 @@
   "matchday": 1,
   "lastMatchDate": "2026-05-22",
   "lastResetMonth": "",
-  "updated": "2026-05-22T04:21:32.269255+00:00",
+  "updated": "2026-05-22T04:26:20.304582+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos Out of service. We are examining the reaso",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -17,8 +17,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Cuatro Caminos Out of service. We are examining the reasons for t",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -29,8 +29,8 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Puerta del Sol to platform on line 1 in the direction of Valdecarros Waiting for information",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -41,8 +41,8 @@
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -53,8 +53,8 @@
       ]
     },
     "L5": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of line 5 and line 6 platforms to platform 2 on line 6 in the direction of Avda. de América Out of servic",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -77,8 +77,8 @@
       ]
     },
     "L7": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Waiting for information. Services: Accessible station Lifts Escal",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -89,8 +89,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 8 in the directio of Aeropuerto T4 to entrance Renfe to line 10 hallway and plat",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -101,8 +101,8 @@
       ]
     },
     "L9": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to corridor leading on line 1-9 y 10 Out of service due to repair works. Expected date",
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
@@ -113,8 +113,8 @@
       ]
     },
     "L10": {
-      "severity": "clear",
-      "description": null,
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 0,
       "checks": 1,
       "wins": 0,
@@ -125,8 +125,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 11 in the direction of La Fortuna to corridor leading on line 6 Out of service. W",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
