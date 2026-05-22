@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-05-22",
   "lastResetMonth": "",
-  "updated": "2026-05-22T05:56:32.668019+00:00",
+  "updated": "2026-05-22T06:01:49.941241+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Alameda de Osuna Out of service due to check-up. Coming into se",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Alameda de Osuna Out of service. We are examining the reasons f",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
