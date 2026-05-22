@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-05-22",
   "lastResetMonth": "",
-  "updated": "2026-05-22T16:26:20.739147+00:00",
+  "updated": "2026-05-22T16:31:40.285137+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -30,7 +30,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Villaverde Alto Out of service due to check-up. Coming into",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 2 platforms to hallway of line 10 platforms and lobby Conde de Toreno Out of servi",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
