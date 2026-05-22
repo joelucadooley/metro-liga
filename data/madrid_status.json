@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-05-22",
   "lastResetMonth": "",
-  "updated": "2026-05-22T14:26:20.269212+00:00",
+  "updated": "2026-05-22T14:31:38.797605+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -18,7 +18,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Arriaga to lobby Out of service. We are examining the reasons for the stop. Services: Acc",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Arriaga to lobby Waiting for information. Services: Accessible station Lifts Escalators D",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
