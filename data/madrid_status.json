@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-05-22",
   "lastResetMonth": "",
-  "updated": "2026-05-22T08:56:17.714766+00:00",
+  "updated": "2026-05-22T09:01:46.494433+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Casa de Campo to lobby A. López Casero Out of service. We are examining the reasons",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service due to repair works. Expected",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -78,7 +78,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Doctor Fleming together Parque Doctor Fleming to lobby Out of service. We are examining the re",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gonzalo de Córdoba to lobby Out of service due to check-up. Coming into service in the ne",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
