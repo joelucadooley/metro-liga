@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-05-22",
   "lastResetMonth": "",
-  "updated": "2026-05-22T19:26:29.364221+00:00",
+  "updated": "2026-05-22T19:31:36.770944+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -30,7 +30,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Perla to lobby Out of service due to check-up. Coming into service in the next h",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
