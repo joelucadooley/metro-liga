@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-05-23",
   "lastResetMonth": "",
-  "updated": "2026-05-23T21:11:29.272279+00:00",
+  "updated": "2026-05-23T21:16:30.905915+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -84,7 +84,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Doctor Fleming together Parque Doctor Fleming to lobby Out of service due to repair works. Exp",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Hospital del Henares Out of service. We are examining the reasons",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
