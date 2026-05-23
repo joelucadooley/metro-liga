@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-05-23",
   "lastResetMonth": "",
-  "updated": "2026-05-23T15:26:15.586163+00:00",
+  "updated": "2026-05-23T15:31:42.294525+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -19,7 +19,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in the next",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 7 and line 2 platforms to lobby Las Rosas Out of service due to repair works. Exp",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -32,7 +32,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Argumosa to lobby Out of service. We are examining the reasons for the stop. Services: Ac",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -135,8 +135,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Elíptica esq. Avda. de Oporto to lobby Vía Lusitana Out of service. We are examining the",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
