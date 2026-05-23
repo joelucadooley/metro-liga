@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-05-23",
   "lastResetMonth": "",
-  "updated": "2026-05-23T22:11:22.038502+00:00",
+  "updated": "2026-05-23T22:16:22.393566+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -19,7 +19,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby and hallway of line 2 platforms to hallway for line 9 platforms and platform in the directio",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway for platforms on line 9 Out of service due to check-up. Coming into service in t",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -58,7 +58,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service due to repair works. Expected",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Canillejas to hallway leading to platforms Out of service. We are examining the reasons for the stop. Servi",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
