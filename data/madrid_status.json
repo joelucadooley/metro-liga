@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-05-23",
   "lastResetMonth": "",
-  "updated": "2026-05-23T15:41:25.022146+00:00",
+  "updated": "2026-05-23T15:46:25.947680+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -135,8 +135,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Elíptica esq. Avda. de Oporto to lobby Vía Lusitana Out of service. We are examining the",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
