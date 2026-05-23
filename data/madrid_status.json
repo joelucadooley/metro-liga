@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-05-23",
   "lastResetMonth": "",
-  "updated": "2026-05-23T23:26:15.414737+00:00",
+  "updated": "2026-05-23T23:30:34.502763+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -32,7 +32,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of El Casar Out of service due to check-up. Coming into service in t",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -58,7 +58,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service due to repair works. Expected",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From corridor leading from to central platform on line 7 to lobby Emilio Ferrari Out of service due to ch",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -84,7 +84,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Doctor Fleming together Parque Doctor Fleming to lobby Out of service due to repair works. Exp",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gonzalo de Córdoba to lobby Out of service due to check-up. Coming into service in the ne",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
