@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-05-24",
   "lastResetMonth": "",
-  "updated": "2026-05-24T05:11:25.769153+00:00",
+  "updated": "2026-05-24T05:16:21.464277+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -20,7 +20,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Avda. Marqués de Corbera Out of service due to check-up. Coming into service in",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 7 and line 2 platforms to lobby Las Rosas Out of service due to repair works. Exp",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -104,7 +104,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to entrances Centro Comercial and Renfe Out of service due to check-up. Coming into se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 and line 10 platform in the direction of Puert",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
