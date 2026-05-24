@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-05-24",
   "lastResetMonth": "",
-  "updated": "2026-05-24T13:10:58.994862+00:00",
+  "updated": "2026-05-24T13:15:53.159308+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -61,7 +61,7 @@
       ]
     },
     "L5": {
-      "severity": "incident",
+      "severity": "minor",
       "description": "Badal: Until approximately June 9th, the escalator that goes up from the platform towards Cornellà Centre to the lobby of the Carrer de Sants access, at Badal station, will be out of service for improvement work. · Sants Estació: Until approximately May 24th, the elevator that connects the platform towards Cornellà Center with the passage under the platform, at Sants Estació station, will be out of service for improvement works.",
       "seasonPts": 3,
       "checks": 3,
