@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-05-24",
   "lastResetMonth": "",
-  "updated": "2026-05-24T09:26:20.308459+00:00",
+  "updated": "2026-05-24T09:31:31.485353+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -145,8 +145,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Marcelo Usera esq. Paseo de Santa Maria de la Cabeza to lobby Marcelo Usera Out of service. We",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
