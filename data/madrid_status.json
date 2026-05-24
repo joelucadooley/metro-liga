@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-05-24",
   "lastResetMonth": "",
-  "updated": "2026-05-24T21:11:34.891093+00:00",
+  "updated": "2026-05-24T21:16:26.798156+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -34,7 +34,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 6 platforms to platform 1 on line 6 in the direction of Arganzuela-Planetario Out",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 6 platforms to platform 1 on line 6 in the direction of Arganzuela-Planetario Wai",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
