@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-05-25",
   "lastResetMonth": "",
-  "updated": "2026-05-25T12:41:38.413320+00:00",
+  "updated": "2026-05-25T12:46:26.884669+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -111,7 +111,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to entrances Centro Comercial and Renfe Out of service due to check-up. Coming into se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 and line 10 platform in the direction of Puert",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
