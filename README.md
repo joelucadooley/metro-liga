@@ -4,7 +4,8 @@ A football-style league table ranking Spanish metro lines by reliability. Update
 
 **Live site:** [joelucadooley.github.io/metro-liga](https://joelucadooley.github.io/metro-liga)
 
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/joelucadooley?style=social)](https://github.com/joelucadooley) [![Ko-fi](https://img.shields.io/badge/Ko--fi-F16061?logo=ko-fi&logoColor=white)](https://ko-fi.com/joelucadooley)
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on-GitHub-black?logo=github&style=for-the-badge)](https://github.com/joelucadooley)
+[![Support me on Ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/joelucadooley)
 
 ---
 
