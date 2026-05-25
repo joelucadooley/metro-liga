@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-05-25",
   "lastResetMonth": "",
-  "updated": "2026-05-25T04:56:27.376746+00:00",
+  "updated": "2026-05-25T05:01:36.807776+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -111,7 +111,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial corridor line 6 to platform 2 line 6 in the direction of Republica Argentina Out",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to entrances Centro Comercial and Renfe Out of service due to check-up. Coming into se",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
