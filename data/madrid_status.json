@@ -2,11 +2,11 @@
   "matchday": 4,
   "lastMatchDate": "2026-05-25",
   "lastResetMonth": "",
-  "updated": "2026-05-25T12:31:38.118974+00:00",
+  "updated": "2026-05-25T12:37:01.189073+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 10 in the direction Tres Olivos Out of service due to repair works. Expe",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
