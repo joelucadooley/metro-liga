@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-05-25",
   "lastResetMonth": "",
-  "updated": "2026-05-25T17:26:20.814263+00:00",
+  "updated": "2026-05-25T17:31:30.858230+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -36,7 +36,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway to platforms in lobby Renfe to platform in the direction of Moncloa Out of service. We are",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway to platforms in lobby Renfe to platform in the direction of Moncloa Out of service due to",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
