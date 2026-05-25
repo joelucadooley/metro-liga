@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-05-25",
   "lastResetMonth": "",
-  "updated": "2026-05-25T07:26:17.114294+00:00",
+  "updated": "2026-05-25T07:31:45.057810+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -185,8 +185,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza de Isabel II to lobby Out of service. We are examining the reasons for the stop. Service",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
