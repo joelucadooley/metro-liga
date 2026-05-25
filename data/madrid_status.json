@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-05-25",
   "lastResetMonth": "",
-  "updated": "2026-05-25T16:56:15.341553+00:00",
+  "updated": "2026-05-25T17:01:38.550723+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -36,7 +36,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Embajadores of lobby Acacias to lobby Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 and corridor leading on line 3 to platform 2 on line 6 in the",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
