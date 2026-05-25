@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-05-25",
   "lastResetMonth": "",
-  "updated": "2026-05-25T06:11:38.854395+00:00",
+  "updated": "2026-05-25T06:16:25.358852+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -96,7 +96,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Doctor Fleming together Parque Doctor Fleming to lobby Out of service due to repair works. Exp",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Guernica and Avda. San Sebastián to lobby Out of service due to check-up. Coming into se",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
