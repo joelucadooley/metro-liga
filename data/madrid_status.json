@@ -2,7 +2,7 @@
   "matchday": 5,
   "lastMatchDate": "2026-05-26",
   "lastResetMonth": "",
-  "updated": "2026-05-26T18:41:26.381241+00:00",
+  "updated": "2026-05-26T18:46:28.224123+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. de Córdoba mezzanine and lobby Out of service. We are examining the reasons for the stop",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Argumosa to lobby Out of service due to check-up. Coming into service in the next hours.",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
