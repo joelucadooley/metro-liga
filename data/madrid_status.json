@@ -2,7 +2,7 @@
   "matchday": 5,
   "lastMatchDate": "2026-05-26",
   "lastResetMonth": "",
-  "updated": "2026-05-26T19:26:22.315995+00:00",
+  "updated": "2026-05-26T19:31:32.889859+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Conde de Toreno to platform on line 10 in the direction of Tres Olivos Out of service due t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
