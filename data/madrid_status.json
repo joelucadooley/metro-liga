@@ -2,7 +2,7 @@
   "matchday": 5,
   "lastMatchDate": "2026-05-26",
   "lastResetMonth": "",
-  "updated": "2026-05-26T06:41:25.258479+00:00",
+  "updated": "2026-05-26T06:46:26.967280+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. de Córdoba in Gta. de Málaga to lobby Out of service. We are examining the reasons for t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. de Andalucía and San Dalmacio to lobby Out of service due to check-up. Coming into servi",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza de Isabel II to lobby Out of service. We are examining the reasons for the stop. Service",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
