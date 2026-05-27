@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-05-27",
   "lastResetMonth": "",
-  "updated": "2026-05-27T09:41:32.226557+00:00",
+  "updated": "2026-05-27T09:46:22.487203+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform in the direction of Moncloa to lobby Waiting for information. Services: Accessible stati",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Argumosa to lobby Out of service. We are examining the reasons for the stop. Escalators From p",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
