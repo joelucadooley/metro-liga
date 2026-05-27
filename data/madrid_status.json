@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-05-27",
   "lastResetMonth": "",
-  "updated": "2026-05-27T15:11:35.727771+00:00",
+  "updated": "2026-05-27T15:16:35.294345+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service due to repair works. Expected",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Alameda de Osuna Out of service due to check-up. Coming into serv",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
