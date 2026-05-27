@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-05-27",
   "lastResetMonth": "",
-  "updated": "2026-05-27T17:11:46.020775+00:00",
+  "updated": "2026-05-27T17:16:26.986007+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Guadalajara to lobby Out of service due to repair works. Expected date of coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Cuatro Caminos Out of service due to check-up. Coming into servic",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Casa de Campo Out of service. We are examining the reasons for",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Casa De Campo Out of service. We are examining the reasons for th",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
