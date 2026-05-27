@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-05-27",
   "lastResetMonth": "",
-  "updated": "2026-05-27T09:56:20.342261+00:00",
+  "updated": "2026-05-27T10:01:40.052721+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. Carabanchel Alto to lobby Waiting for information. Services: Accessible station Lif",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. Carabanchel Alto to lobby Out of service. We are examining the reasons for the stop",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
