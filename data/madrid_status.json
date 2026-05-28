@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-05-28",
   "lastResetMonth": "",
-  "updated": "2026-05-28T10:56:32.615329+00:00",
+  "updated": "2026-05-28T11:01:49.987150+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 and corridor leading on line 3 to platform 2 on line 6 in the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform on line 1 in the direction Pinar de Chamartin Out of service due to check-up. C",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
