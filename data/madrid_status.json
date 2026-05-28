@@ -2,11 +2,11 @@
   "matchday": 7,
   "lastMatchDate": "2026-05-28",
   "lastResetMonth": "",
-  "updated": "2026-05-28T09:11:25.933795+00:00",
+  "updated": "2026-05-28T09:16:52.521317+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos Out of service due to repair works. Expect",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 10 in the direction Puerta del Sur Out of service due to repair works. E",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Alameda de Osuna Out of service due to check-up. Coming into serv",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Alameda de Osuna Out of service due to repair works. Expected dat",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Mondariz to hallway leading to platforms Out of service due to check-up. Coming into service in the n",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Mondariz to hallway leading to platforms Out of service due to repair works. Expected date of coming",
       "seasonPts": 7,
       "checks": 7,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Abrantes to lobby Out of service due to check-up. Coming into service in the next hours.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor of Line 6 to platform Line 11 in the direction of La Fortuna Out of service. We are examining",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
