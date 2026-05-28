@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-05-28",
   "lastResetMonth": "",
-  "updated": "2026-05-28T10:11:38.178325+00:00",
+  "updated": "2026-05-28T10:16:25.784843+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Conde de Toreno to platform on line 10 in the direction of Puerta del Sur Out of service due",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway to central platform Out of service due to check-up. Coming into service in the next hours.",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
