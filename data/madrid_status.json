@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-05-28",
   "lastResetMonth": "",
-  "updated": "2026-05-28T08:26:17.209008+00:00",
+  "updated": "2026-05-28T08:31:36.074632+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Estadio Metropolitano Out of service. We are examining the reason",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
