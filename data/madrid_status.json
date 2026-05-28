@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-05-28",
   "lastResetMonth": "",
-  "updated": "2026-05-28T13:11:28.250107+00:00",
+  "updated": "2026-05-28T13:16:31.481937+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Emilio Ferrari to central platform on line 7 Out of service. We are examining th",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Casa de Campo Out of service due to check-up. Coming into servi",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Melchor Fernández Almagro to hallway leading to platforms Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Mondariz to hallway leading to platforms Out of service due to repair works. Expected date of coming",
       "seasonPts": 7,
       "checks": 7,
       "wins": 0,
