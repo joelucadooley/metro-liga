@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-05-29",
   "lastResetMonth": "",
-  "updated": "2026-05-29T16:26:28.220119+00:00",
+  "updated": "2026-05-29T16:31:42.466606+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Abrantes to lobby Out of service due to check-up. Coming into service in the next hours.",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
