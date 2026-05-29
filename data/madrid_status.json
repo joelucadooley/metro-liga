@@ -2,11 +2,11 @@
   "matchday": 8,
   "lastMatchDate": "2026-05-29",
   "lastResetMonth": "",
-  "updated": "2026-05-29T05:11:26.129176+00:00",
+  "updated": "2026-05-29T05:16:31.848414+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Arturo Soria to lobby Out of service. We are examining the reasons for the stop. Services",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Arturo Soria to lobby Waiting for information. Services: Accessible station Lifts Escalat",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Puerta del Sol to lobby Mayor Out of service. We are examining the reasons for the stop. Servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Mayor to hallway leading on lines and platform on line 3 in the direction of Moncloa Out of servi",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Paco de Lucía to hallway leading to platform to line 9, to",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of lobby Sánchez Pacheco to platform in the direction of Puerta de Arganda Out of service due to check-up",
       "seasonPts": 8,
       "checks": 8,
       "wins": 0,
