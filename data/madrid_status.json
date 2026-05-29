@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-05-29",
   "lastResetMonth": "",
-  "updated": "2026-05-29T18:56:21.859688+00:00",
+  "updated": "2026-05-29T19:01:57.129351+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform 2 direction Moncloa Out of service. We are examining the reasons for the stop. S",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Arcipreste de Hita to lobby Arcipreste de Hita Out of service due to check-up. Coming int",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
