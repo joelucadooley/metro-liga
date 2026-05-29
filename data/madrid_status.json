@@ -2,11 +2,11 @@
   "matchday": 8,
   "lastMatchDate": "2026-05-29",
   "lastResetMonth": "",
-  "updated": "2026-05-29T09:41:32.918517+00:00",
+  "updated": "2026-05-29T09:46:27.081046+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 10 in the direction Puerta del Sur Out of service. We are examining the",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance General Martínez Campos to lobby Martínez Campos Out of service due to repair works. Expected date of coming into",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
