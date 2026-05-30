@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-05-30",
   "lastResetMonth": "",
-  "updated": "2026-05-30T12:56:20.172464+00:00",
+  "updated": "2026-05-30T13:01:49.626216+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform on line 7. There is another escalator in the same direction and location",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Estadio Metropolitano to hallway leading to platforms of lobby Castillo de Uclés Out",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
