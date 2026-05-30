@@ -2,11 +2,11 @@
   "matchday": 9,
   "lastMatchDate": "2026-05-30",
   "lastResetMonth": "",
-  "updated": "2026-05-30T18:56:19.694793+00:00",
+  "updated": "2026-05-30T19:01:59.885694+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Cañada del Santísimo to lobby Waiting for information. Services: Accessible station Lifts",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Puerta de Arganda to hallway leading to platforms to line",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Estadio Metropolitano to hallway leading to platforms of lobby Castillo de Uclés Out",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Pitis to hallway leading to platforms of lobby Castillo de Uclés Out of service. We",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of lobby Plaza de Cataluña to platform in the direction of Paco de Lucía Waiting for information. Servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Puerta de Arganda to hallway leading to platforms to line",
       "seasonPts": 9,
       "checks": 9,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Abrantes to lobby Out of service. We are examining the reasons for the stop. Services: A",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service due to check-up. Coming into servi",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
