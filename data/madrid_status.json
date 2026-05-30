@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-05-30",
   "lastResetMonth": "",
-  "updated": "2026-05-30T14:56:19.303533+00:00",
+  "updated": "2026-05-30T15:01:44.670045+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of El Casar Out of service. We are examining the reasons for the sto",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 3 platform in the direction of El Casar to lobby Arcipestre de Hita Out of service due to che",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
