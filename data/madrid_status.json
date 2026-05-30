@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-05-30",
   "lastResetMonth": "",
-  "updated": "2026-05-30T17:26:21.067082+00:00",
+  "updated": "2026-05-30T17:31:30.304395+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Santa Petronila to lobby Out of service due to check-up. Coming into service in the next",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Plaza de Callao to corridor leading on line 3 y line 5 to platform on line 5 in the direction of",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
