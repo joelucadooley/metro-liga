@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-05-30",
   "lastResetMonth": "",
-  "updated": "2026-05-30T13:56:15.788428+00:00",
+  "updated": "2026-05-30T14:00:06.102328+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Preciados to platform on line 3 in the direction of Moncloa Waiting for information. From en",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Paseo Gigantes y Cabezudos to lobby Waiting for information. From entrance Paseo Gigantes",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
