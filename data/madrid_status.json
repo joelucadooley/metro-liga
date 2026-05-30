@@ -2,11 +2,11 @@
   "matchday": 9,
   "lastMatchDate": "2026-05-30",
   "lastResetMonth": "",
-  "updated": "2026-05-30T20:11:29.885541+00:00",
+  "updated": "2026-05-30T20:16:26.343137+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Puerta de Arganda to hallway leading to platforms to line",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Cañada del Santísimo to lobby Waiting for information. Services: Accessible station Lifts",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level of line 6 platforms to platform 1 on line 6 in the direction of Argüelles Out o",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. del Casar to lobby Out of service. We are examining the reasons for the stop. Servi",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Puerta de Arganda to hallway leading to platforms to line",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of lobby Plaza de Cataluña to platform in the direction of Paco de Lucía Waiting for information. Servic",
       "seasonPts": 9,
       "checks": 9,
       "wins": 0,
