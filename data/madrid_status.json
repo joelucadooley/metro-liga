@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-05-31",
   "lastResetMonth": "",
-  "updated": "2026-05-31T04:56:21.780159+00:00",
+  "updated": "2026-05-31T05:01:41.858265+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Argüelles Out of service. We are examining the reasons for t",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways lobby Out of service. We are examining the reasons for the stop. Services: Escalators Defibrill",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Honduras to lobby Out of service. We are examining the reasons for the stop. From lobby t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Honduras to lobby Out of service. We are examining the reasons for the stop. Services: Ac",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
