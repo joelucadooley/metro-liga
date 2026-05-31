@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-05-31",
   "lastResetMonth": "",
-  "updated": "2026-05-31T14:56:17.948665+00:00",
+  "updated": "2026-05-31T15:01:36.983132+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Paseo de Ginebra to lobby Out of service. We are examining the reasons for the stop. Serv",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Paseo Gigantes y Cabezudos to lobby Waiting for information. Services: Accessible station",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of lines 4, 6, 7 and 9 platforms to lobby Avda. de América Out of service. We are examinin",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service. We are examining the reasons",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 7b Hospital del Henares Out of service due to check-up. Coming into service in t",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 and line 10 platform in the direction of Puert",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of lobby Plaza de Cataluña to platform in the direction of Paco de Lucía Waiting for information. Servic",
       "seasonPts": 10,
       "checks": 10,
       "wins": 0,
@@ -149,8 +149,8 @@
       ]
     },
     "L10": {
-      "severity": "clear",
-      "description": null,
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 0,
       "checks": 10,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Abrantes to lobby Out of service due to check-up. Coming into service in the next hours.",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
