@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-05-31",
   "lastResetMonth": "",
-  "updated": "2026-05-31T05:11:17.221128+00:00",
+  "updated": "2026-05-31T05:16:39.110255+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. de los Poblados to lobby Out of service due to check-up. Coming into service in the next",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Abrantes to lobby Out of service due to check-up. Coming into service in the next hours.",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
