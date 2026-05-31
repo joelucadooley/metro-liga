@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-05-31",
   "lastResetMonth": "",
-  "updated": "2026-05-31T16:11:18.337845+00:00",
+  "updated": "2026-05-31T16:16:21.831069+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of lobby Plaza de Cataluña to platform in the direction of Paco de Lucía Waiting for information. Servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Out of service due to check-up. Coming int",
       "seasonPts": 10,
       "checks": 10,
       "wins": 0,
