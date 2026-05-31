@@ -2,11 +2,11 @@
   "matchday": 10,
   "lastMatchDate": "2026-05-31",
   "lastResetMonth": "",
-  "updated": "2026-05-31T11:56:16.073584+00:00",
+  "updated": "2026-05-31T12:01:50.899785+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Cañada del Santísimo to lobby Waiting for information. Services: Accessible station Lifts",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
