@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-06-01",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-01T11:26:24.723783+00:00",
+  "updated": "2026-06-01T11:31:47.854228+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -126,7 +126,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Abrantes to lobby Out of service due to repair works. Expected date of coming into servi",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
