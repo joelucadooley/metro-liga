@@ -2,11 +2,11 @@
   "matchday": 1,
   "lastMatchDate": "2026-06-01",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-01T04:11:21.436733+00:00",
+  "updated": "2026-06-01T04:16:31.631642+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level platform emerging form platform hallway on line 10 to line 1 platform in the di",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -17,8 +17,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Guadalajara to lobby Out of service due to repair works. Expected date of coming",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -29,8 +29,8 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Out of service due to check-up. Coming into service",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -41,8 +41,8 @@
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 4 and line 5 and corridor of line 10 platforms to platform in the direction of Tres Olivos Out o",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -53,8 +53,8 @@
       ]
     },
     "L5": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Casa de Campo Out of service. We are examining the reasons for",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -77,8 +77,8 @@
       ]
     },
     "L7": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service due to check-up. Coming",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -89,8 +89,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 and line 10 platform in the direction of Puert",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -101,8 +101,8 @@
       ]
     },
     "L9": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Ventisquero de la Condesa esq. Mirador de la Infanta to lobby Waiting for information. From lo",
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
@@ -125,8 +125,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 11 in the direction of La Fortuna to corridor leading on line 6 Out of service du",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
