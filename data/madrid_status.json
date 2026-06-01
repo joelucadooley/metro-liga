@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-06-01",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-01T21:41:18.592793+00:00",
+  "updated": "2026-06-01T21:46:29.988740+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -42,7 +42,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 y on line 4 to platform 1 on line 6 in the direction of Prínc",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -90,7 +90,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From hallway of Renfe to hallway leading to line 6 platforms Out of service due to check-up. Coming into",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Orense to hallway leading to line 6 platforms and platform 1 on line 6 in the di",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -126,7 +126,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Abrantes to lobby Out of service due to repair works. Expected date of coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
