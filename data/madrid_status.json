@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-06-01",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-01T09:41:21.788433+00:00",
+  "updated": "2026-06-01T09:46:30.375745+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -78,7 +78,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service. We are examining the r",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service due to check-up. Coming",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -102,7 +102,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Ventisquero de la Condesa esq. Mirador de la Infanta to lobby Waiting for information. From lo",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Pío XII to hallway leading to platforms Out of service. We are examining the reasons for the stop. Services",
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
