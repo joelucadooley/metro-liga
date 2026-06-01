@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-06-01",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-01T10:26:24.891195+00:00",
+  "updated": "2026-06-01T10:31:40.765104+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -89,8 +89,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana to lobby Castellana. There is another lift in the same location Waiting for informa",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
