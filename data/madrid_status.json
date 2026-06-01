@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-06-01",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-01T16:41:38.206046+00:00",
+  "updated": "2026-06-01T16:46:32.014365+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -42,7 +42,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby and hallway of line XX platforms to hallway in the direction of Argüelles Out of service due to check-up. C",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platform and hallway of line 6 platforms to platform 1 on line 6 in the direction of Manuel Be",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -54,7 +54,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service due to repair works. Expected",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platform and hallway of line 6 platforms to platform 1 on line 6 in the direction of Manuel Be",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -90,7 +90,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Orense to lobby Orense Out of service. We are examining the reasons for the stop. Walkway",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From hallway Renfe to hallway leading to line 10 in the direction of Tres Olivos and line 8 in the dire",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
