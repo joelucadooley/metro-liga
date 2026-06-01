@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-06-01",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-01T17:26:30.266918+00:00",
+  "updated": "2026-06-01T17:31:48.984801+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -18,7 +18,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Las Rosas Out of service due to check-up. Coming into servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Guadalajara to lobby Out of service due to repair works. Expected date of coming",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -90,7 +90,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 4 in the direction of Pinar de Chamartín to platform on line 8 in the direction",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform line 4 in the direction of Pinar de Chamartín to platform line 8 in the direction of Aeropuert",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
