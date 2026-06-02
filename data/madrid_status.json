@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-06-02",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-02T19:26:25.189292+00:00",
+  "updated": "2026-06-02T19:31:33.837321+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -32,7 +32,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From Renfe Interchange to platform on line 3 in the direction of El Casar Out of service due to repair works",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Gitanilla to lobby Out of service due to repair works. Expected date of coming into service: 0",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
