@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-06-02",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-02T11:56:24.579440+00:00",
+  "updated": "2026-06-02T12:02:00.277040+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -110,7 +110,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Plaza de Castilla to platform on line 1 in the direction of Valdecarros to corridor leading to li",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service due to repair works. Expected",
       "seasonPts": 2,
       "checks": 2,
       "wins": 0,
