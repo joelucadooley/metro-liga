@@ -2,11 +2,11 @@
   "matchday": 2,
   "lastMatchDate": "2026-06-02",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-02T15:11:29.113001+00:00",
+  "updated": "2026-06-02T15:16:36.678597+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Bambú to lobby Out of service. We are examining the reasons for the stop. Services: Accessible",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line ML1 in the direction of Las Tablas Out of service. We are examining the reasons",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
