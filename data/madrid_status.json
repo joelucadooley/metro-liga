@@ -2,11 +2,11 @@
   "matchday": 2,
   "lastMatchDate": "2026-06-02",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-02T22:51:21.193608+00:00",
+  "updated": "2026-06-02T22:56:22.128090+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line corridors to Interchange lobby Out of service due to check-up. Coming into service in the nex",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -18,8 +18,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Guadalajara to lobby Out of service due to repair works. Expected date of coming",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -31,8 +31,8 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 3 in the direction of El Casar to hallway leading to platforms to line 6 Out of",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -44,8 +44,8 @@
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 y on line 4 to platform 1 on line 6 in the direction of Prínc",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -57,8 +57,8 @@
       ]
     },
     "L5": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From corridor of lobby Emilio Ferrari to central platform on line 7 Out of service due to check-up. Comin",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -83,8 +83,8 @@
       ]
     },
     "L7": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Waiting for information. Services: Acce",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -96,8 +96,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial corridor line 6 to platform 2 line 6 in the direction of Republica Argentina Out",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -109,8 +109,8 @@
       ]
     },
     "L9": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line corridors to Interchange lobby Out of service due to check-up. Coming into service in the nex",
       "seasonPts": 2,
       "checks": 2,
       "wins": 0,
@@ -122,8 +122,8 @@
       ]
     },
     "L10": {
-      "severity": "clear",
-      "description": null,
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 0,
       "checks": 2,
       "wins": 0,
@@ -135,8 +135,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -161,8 +161,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 5 in the direction of Casa de Campo Out of service due to check-up. Comi",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
