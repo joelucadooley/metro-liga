@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-06-02",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-02T06:41:27.837984+00:00",
+  "updated": "2026-06-02T06:46:25.340048+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -110,7 +110,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Mirasierra to lobby Waiting for information. From entrance Mirasierra to lobby Waiting fo",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Plaza de Castilla to hallway and line 1 platform in the direction Valdecarros and lobby Bra",
       "seasonPts": 2,
       "checks": 2,
       "wins": 0,
