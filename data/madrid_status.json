@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-06-02",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-02T16:11:32.028557+00:00",
+  "updated": "2026-06-02T16:16:37.066073+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -45,7 +45,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on line 6 y on line 4 to platform on line 3 in the direction of El Casa",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways lobby Out of service due to check-up. Coming into service in the next hours. Services: Escalato",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -84,7 +84,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Guernica and Avda. San Sebastián to lobby Out of service due to check-up. Coming into se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service. We are examining the re",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -97,7 +97,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gran Vía de Hortaleza to lobby Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gran Vía de Hortaleza to lobby Waiting for information. Services: Accessible station Lift",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
