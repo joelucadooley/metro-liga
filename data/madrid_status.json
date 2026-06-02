@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-06-02",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-02T21:41:24.352734+00:00",
+  "updated": "2026-06-02T21:46:31.397124+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -45,7 +45,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to check-up. C",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -97,7 +97,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gran Vía de Hortaleza to lobby Waiting for information. Services: Accessible station Lift",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial corridor line 6 to platform 2 line 6 in the direction of Republica Argentina Out",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -136,7 +136,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Abrantes to lobby Out of service due to repair works. Expected date of coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
