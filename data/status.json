@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-06-03",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-03T04:45:58.486052+00:00",
+  "updated": "2026-06-03T04:50:54.650609+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -61,7 +61,7 @@
       ]
     },
     "L5": {
-      "severity": "minor",
+      "severity": "incident",
       "description": "Vilapicina: Until June 4th, from 9 a. · Badal: Until approximately June 9th, the escalator that goes up from the platform towards Cornellà Centre to the lobby of the Carrer de Sants access, at Badal station, will be out of service for improvement work.",
       "seasonPts": 3,
       "checks": 3,
