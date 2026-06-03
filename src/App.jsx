@@ -65,7 +65,7 @@ function buildStandings(lines) {
       currentSeverity:d.severity??"clear",
       currentDetail:d.description??null,
     }))
-    .sort((a,b) => b.seasonPts-a.seasonPts || b.wins-a.wins);
+    .sort((a,b) => b.seasonPts-a.seasonPts || b.wins-a.wins || a.name.localeCompare(b.name));
 }
 
 // ── Styles ───────────────────────────────────────────────────────────────────
@@ -231,7 +231,7 @@ tr.zone-sep.releg td { color: #c0392b; border-left-color: #c0392b; background: #
 }
 .line-city {
   font-family: 'JetBrains Mono', monospace; font-size: .46rem; color: #999;
-  white-space: nowrap;
+  white-space: nowrap; min-width: 50px;
 }
 .desc-wrap { overflow: hidden; flex: 1; min-width: 0; display: flex; align-items: center; }
 .desc-text {
@@ -322,7 +322,7 @@ tr.zone-sep.releg td { color: #c0392b; border-left-color: #c0392b; background: #
 function Row({ s, pos, total, city }) {
   const meta    = city.lines[s.name] || { color:"#999", text:"#fff" };
   const isTop   = pos < 3;
-  const isReleg = pos >= total - 3;
+  const isReleg = total > 6 && pos >= total - 3;
   const cls     = isTop ? "top" : isReleg ? "releg" : "mid";
 
   const form = [...Array(5)].map((_,i) => {
@@ -380,7 +380,6 @@ function Row({ s, pos, total, city }) {
 
 function Table({ standings, city }) {
   const n = standings.length;
-  const relegStart = Math.max(n - 3, 3);
 
   const thead = (
     <thead>
@@ -394,10 +393,13 @@ function Table({ standings, city }) {
   );
 
   const rows = [];
+  // Relegation zone only shown if it doesn't overlap mid-table (need >6 lines)
+  const showReleg  = n > 6;
+  const relegStart = n - 3;
   standings.forEach((s, i) => {
-    if (i === 0)          rows.push(<tr key="z0" className="zone-sep top"><td colSpan={4}>Champions Metro Zone</td></tr>);
-    if (i === 3)          rows.push(<tr key="z1" className="zone-sep mid"><td colSpan={4}>Mid-table</td></tr>);
-    if (i === relegStart) rows.push(<tr key="z2" className="zone-sep releg"><td colSpan={4}>Relegation Zone</td></tr>);
+    if (i === 0)                      rows.push(<tr key="z0" className="zone-sep top"><td colSpan={4}>Champions Metro Zone</td></tr>);
+    if (i === 3 && n > 3)             rows.push(<tr key="z1" className="zone-sep mid"><td colSpan={4}>Mid-table</td></tr>);
+    if (showReleg && i === relegStart) rows.push(<tr key="z2" className="zone-sep releg"><td colSpan={4}>Relegation Zone</td></tr>);
     rows.push(<Row key={s.name} s={s} pos={i} total={n} city={city} />);
   });
 
