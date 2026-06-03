@@ -2,11 +2,11 @@
   "matchday": 3,
   "lastMatchDate": "2026-06-03",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-03T09:11:27.364361+00:00",
+  "updated": "2026-06-03T09:16:35.259760+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Valdecarros Waiting for information. Services: Accessible st",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos Out of service. We are examining the reaso",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -90,7 +90,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service due to check-up. Coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service due to repair works. Exp",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -104,7 +104,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gran Vía de Hortaleza to lobby Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gran Vía de Hortaleza to lobby Out of service due to repair works. Expected date of comin",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
