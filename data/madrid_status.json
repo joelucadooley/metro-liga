@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-06-03",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-03T11:26:27.809166+00:00",
+  "updated": "2026-06-03T11:31:41.440856+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -48,7 +48,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Mota del Cuervo Out of service due to improvement works. Expected date of coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 4 in the direction of Pinar de Chamartín to hallway leading Out of service due t",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -118,7 +118,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Paco",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 4 in the direction of Pinar de Chamartín to hallway leading Out of service due t",
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
@@ -145,8 +145,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service. We are examining the reasons",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
