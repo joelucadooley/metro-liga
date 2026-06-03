@@ -2,11 +2,11 @@
   "matchday": 3,
   "lastMatchDate": "2026-06-03",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-03T06:41:29.126765+00:00",
+  "updated": "2026-06-03T06:46:38.057758+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Doctor Esquerdo to hallway leading to platforms on line 6 Out of service due to repair works. Exp",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line ML1 in the direction of Las Tablas Out of service. We are examining the reasons",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -34,7 +34,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Perla to lobby Out of service due to check-up. Coming into service in the next hours. Se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform 1 in the direction of Los Espartales Out of service. We are examining the reason",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -62,7 +62,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service due to repair works. Expected",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrances Plaza Marqués de Salamanca and aparcamiento of lobby Marqués de Salamanca to lobby Out of service due t",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -118,7 +118,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service due to repair works. Expected",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrances Plaza Marqués de Salamanca and aparcamiento of lobby Marqués de Salamanca to lobby Out of service due t",
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
