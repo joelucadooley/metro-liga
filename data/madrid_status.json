@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-06-03",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-03T04:56:17.462561+00:00",
+  "updated": "2026-06-03T05:01:38.035485+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -20,7 +20,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Guadalajara to lobby Out of service due to repair works. Expected date of coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Paseo de Ginebra to lobby Out of service. We are examining the reasons for the stop. Services:",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -34,7 +34,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. del Casar to lobby Out of service due to check-up. Coming into service in the next",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From Renfe Interchange to platform on line 3 in the direction of El Casar Out of service due to repair works",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -104,7 +104,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Paseo de la Castellana pares to lobby Castellana Out of service due to check-up.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to check-up. Coming into se",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -173,8 +173,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
