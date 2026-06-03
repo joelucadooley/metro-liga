@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-06-03",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-03T23:26:18.433818+00:00",
+  "updated": "2026-06-03T23:31:53.087422+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -34,7 +34,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Waiting for information. Services: Accessible stati",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Santiago Amón to lobby Out of service due to check-up. Coming into service in the next ho",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
