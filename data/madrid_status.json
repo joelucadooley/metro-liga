@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-06-04",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-04T16:26:23.760689+00:00",
+  "updated": "2026-06-04T16:31:41.211636+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -96,7 +96,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Doctor Fleming to lobby Out of service. We are examining the reasons for the stop. Servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform on line 7. There is another escalator in the same direction and location",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
