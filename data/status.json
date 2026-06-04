@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-06-04",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-04T21:55:55.784532+00:00",
+  "updated": "2026-06-04T22:01:17.443252+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -36,7 +36,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "Sants Estació: Until approximately June 4th, the escalator that goes up from the lobby to the Dolors Batlle i Sunyer access of Sants Estació station will be out of service for improvement work. · Poble Sec: Until approximately July 3rd, due to construction, the Parlament entrance of Poble Sec station will be closed.",
+      "description": "Poble Sec: Until approximately July 3rd, due to construction, the Parlament entrance of Poble Sec station will be closed.",
       "seasonPts": 4,
       "checks": 4,
       "wins": 0,
