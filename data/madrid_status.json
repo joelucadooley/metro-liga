@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-06-04",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-04T19:41:30.755487+00:00",
+  "updated": "2026-06-04T19:46:28.415959+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -126,7 +126,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Costa Brava to lobby Waiting for information. Services: Accessible station Lifts Escalato",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Costa Brava to lobby Out of service. We are examining the reasons for the stop. Escalators Fro",
       "seasonPts": 4,
       "checks": 4,
       "wins": 0,
