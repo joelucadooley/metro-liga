@@ -2,11 +2,11 @@
   "matchday": 5,
   "lastMatchDate": "2026-06-05",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-05T05:50:56.985904+00:00",
+  "updated": "2026-06-05T05:55:57.020076+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "Plaça de Sants: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work.",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 4,
       "checks": 5,
       "wins": 0,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "Poble Sec: Until approximately July 3rd, due to construction, the Parlament entrance of Poble Sec station will be closed.",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 4,
       "checks": 5,
       "wins": 0,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "Joanic: Until approximately June 5th, the elevator that connects the lobby with the Escorial access of Joanic station will be out of service for improvement works. · Verdaguer: From 13/10/2025, and for approximately 12 months, the connecting passageway between lines L4 and L5 at Verdaguer station is closed for works.",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 4,
       "checks": 5,
       "wins": 0,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "Badal: Until approximately June 9th, the escalator that goes up from the platform towards Cornellà Centre to the lobby of the Carrer de Sants access, at Badal station, will be out of service for improvement work. · Plaça de Sants: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work.",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 4,
       "checks": 5,
       "wins": 0,
