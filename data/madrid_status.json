@@ -2,11 +2,11 @@
   "matchday": 5,
   "lastMatchDate": "2026-06-05",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-05T10:26:28.631236+00:00",
+  "updated": "2026-06-05T10:31:48.927057+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Pinar de Chamartín Out of service due to repair works. Expec",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos Out of service due to repair works. Expect",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. del Casar to lobby Out of service due to repair works. Expected date of coming into",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Gitanilla to lobby Out of service due to check-up. Coming into service in the next hours. Esca",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Santa Bárbara to hallway for platforms on line 5 and hallway for platforms on line 10 Out of service due to",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 4 and line 5 and hallway from line 10 platforms to line 10 platform in the direction of Puerta d",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Tres Olivos Out of service.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway in interchange lobby and line 10 platforms to line 10 platform in the direction of Tres Ol",
       "seasonPts": 5,
       "checks": 5,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
