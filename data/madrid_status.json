@@ -2,7 +2,7 @@
   "matchday": 5,
   "lastMatchDate": "2026-06-05",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-05T22:41:26.585756+00:00",
+  "updated": "2026-06-05T22:46:34.546571+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Santa Petronila to lobby Out of service. We are examining the reasons for the stop. Servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 3 platforms and lobby Leganitos-Reyes and corridor leading to line 10 platforms.",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
