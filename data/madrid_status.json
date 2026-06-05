@@ -2,7 +2,7 @@
   "matchday": 5,
   "lastMatchDate": "2026-06-05",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-05T16:41:36.566027+00:00",
+  "updated": "2026-06-05T16:46:30.305567+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Santa Bárbara to hallway for platforms on line 5 and hallway for platforms on line 10 Out of service due to",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Mota del Cuervo Out of service due to improvement works. Expected date of coming",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Paco",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms on lines 8 and 9 Out of service due to check-up. Coming int",
       "seasonPts": 5,
       "checks": 5,
       "wins": 0,
