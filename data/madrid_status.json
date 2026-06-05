@@ -2,7 +2,7 @@
   "matchday": 5,
   "lastMatchDate": "2026-06-05",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-05T07:56:32.572107+00:00",
+  "updated": "2026-06-05T08:01:53.594792+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Out of service due to check-up. Coming int",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Waiting for information. Services: Accessi",
       "seasonPts": 5,
       "checks": 5,
       "wins": 0,
