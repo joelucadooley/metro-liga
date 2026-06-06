@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-06-06",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-06T23:26:24.780452+00:00",
+  "updated": "2026-06-06T23:31:41.762320+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform on line 7. There is another escalator in the same direction and location",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Algorta to lobby Out of service due to check-up. Coming into service in the next hours. S",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line corridors to Interchange lobby Out of service due to check-up. Coming into service in the nex",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Herrera Oria to hallway leading to platforms Out of service due to check-up. Coming into service in the nex",
       "seasonPts": 6,
       "checks": 6,
       "wins": 0,
