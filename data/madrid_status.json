@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-06-06",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-06T10:41:32.086368+00:00",
+  "updated": "2026-06-06T10:46:29.832761+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Interchange to platform on line 4 in the direction of Pinar de Chamartin and platform on line 6 i",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms on lines 8 and 9 Out of service. We are examining the reaso",
       "seasonPts": 6,
       "checks": 6,
       "wins": 0,
