@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-06-06",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-06T12:11:27.151291+00:00",
+  "updated": "2026-06-06T12:16:34.231696+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Santa Bárbara to hallway for platforms on line 5 and hallway for platforms on line 10 Waiting for informati",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Santa Bárbara to hallway for platforms on line 5 and hallway for platforms on line 10 Out of service. We ar",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform on line 7. There is another escalator in the same direction and location",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Pitis to hallway leading to platforms Out of service. We are examining the reasons",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms on lines 8 and 9 Out of service due to check-up. Coming int",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms on lines 8 and 9 Out of service. We are examining the reaso",
       "seasonPts": 6,
       "checks": 6,
       "wins": 0,
