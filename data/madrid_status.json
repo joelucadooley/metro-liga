@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-06-06",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-06T19:41:35.963219+00:00",
+  "updated": "2026-06-06T19:46:29.650647+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Castillo de Uclés to hallway leading to platforms Out of service due to check-up. Coming into service in t",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Pitis to hallway leading to platforms Out of service. We are examining the reasons",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
