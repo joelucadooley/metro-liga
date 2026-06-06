@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-06-06",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-06T11:56:23.621121+00:00",
+  "updated": "2026-06-06T12:01:38.752938+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Maria de Molina to Interchange Levels 5 and 6 and to platform 1 of Line 6. There is another eleva",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms on lines 8 and 9 Out of service due to check-up. Coming int",
       "seasonPts": 6,
       "checks": 6,
       "wins": 0,
