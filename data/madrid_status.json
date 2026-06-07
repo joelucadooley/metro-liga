@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-06-07",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-07T11:26:36.256315+00:00",
+  "updated": "2026-06-07T11:31:41.188107+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza del Callao of lobby Callao to lobby Out of service due to check-up. Coming into ser",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 3 platform in the direction of El Casar to lobby Arcipestre de Hita Out of service due to che",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Maria de Molina to Interchange Levels 5 and 6 and to platform 1 of Line 6. There is another eleva",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Santa Bárbara to hallway for platforms on line 5 and hallway for platforms on line 10 Out of service due to",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Out of service due to check-up. Coming int",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Maria de Molina to Interchange Levels 5 and 6 and to platform 1 of Line 6. There is another eleva",
       "seasonPts": 7,
       "checks": 7,
       "wins": 0,
