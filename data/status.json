@@ -1,95 +1,95 @@
 {
-  "matchday": 6,
-  "lastMatchDate": "2026-06-06",
+  "matchday": 7,
+  "lastMatchDate": "2026-06-07",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-06T23:56:00.073191+00:00",
+  "updated": "2026-06-07T00:01:16.437252+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
       "description": "Plaça de Sants: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work.",
-      "seasonPts": 5,
-      "checks": 6,
+      "seasonPts": 6,
+      "checks": 7,
       "wins": 0,
-      "draws": 5,
+      "draws": 6,
       "losses": 1,
       "recentForm": [
         "D",
         "D",
-        "D",
         "L",
+        "D",
         "D"
       ]
     },
     "L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 11,
-      "checks": 6,
-      "wins": 3,
+      "seasonPts": 14,
+      "checks": 7,
+      "wins": 4,
       "draws": 2,
       "losses": 1,
       "recentForm": [
-        "D",
         "W",
         "W",
         "L",
+        "W",
         "W"
       ]
     },
     "L3": {
       "severity": "minor",
       "description": "Poble Sec: Until approximately July 3rd, due to construction, the Parlament entrance of Poble Sec station will be closed.",
-      "seasonPts": 5,
-      "checks": 6,
+      "seasonPts": 6,
+      "checks": 7,
       "wins": 0,
-      "draws": 5,
+      "draws": 6,
       "losses": 1,
       "recentForm": [
         "D",
         "D",
-        "D",
         "L",
+        "D",
         "D"
       ]
     },
     "L4": {
       "severity": "minor",
       "description": "Verdaguer: From 13/10/2025, and for approximately 12 months, the connecting passageway between lines L4 and L5 at Verdaguer station is closed for works.",
-      "seasonPts": 5,
-      "checks": 6,
+      "seasonPts": 6,
+      "checks": 7,
       "wins": 0,
-      "draws": 5,
+      "draws": 6,
       "losses": 1,
       "recentForm": [
         "D",
         "D",
-        "D",
         "L",
+        "D",
         "D"
       ]
     },
     "L5": {
       "severity": "minor",
       "description": "Badal: Until approximately June 9th, the escalator that goes up from the platform towards Cornellà Centre to the lobby of the Carrer de Sants access, at Badal station, will be out of service for improvement work. · Plaça de Sants: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work.",
-      "seasonPts": 5,
-      "checks": 6,
+      "seasonPts": 6,
+      "checks": 7,
       "wins": 0,
-      "draws": 5,
+      "draws": 6,
       "losses": 1,
       "recentForm": [
         "D",
         "D",
-        "D",
         "L",
+        "D",
         "D"
       ]
     },
     "L9N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 18,
-      "checks": 6,
-      "wins": 6,
+      "seasonPts": 21,
+      "checks": 7,
+      "wins": 7,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -103,9 +103,9 @@
     "L9S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 18,
-      "checks": 6,
-      "wins": 6,
+      "seasonPts": 21,
+      "checks": 7,
+      "wins": 7,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -119,9 +119,9 @@
     "L10N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 18,
-      "checks": 6,
-      "wins": 6,
+      "seasonPts": 21,
+      "checks": 7,
+      "wins": 7,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -135,9 +135,9 @@
     "L10S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 18,
-      "checks": 6,
-      "wins": 6,
+      "seasonPts": 21,
+      "checks": 7,
+      "wins": 7,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -151,16 +151,16 @@
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 15,
-      "checks": 6,
-      "wins": 5,
+      "seasonPts": 18,
+      "checks": 7,
+      "wins": 6,
       "draws": 0,
       "losses": 1,
       "recentForm": [
         "W",
         "W",
-        "W",
         "L",
+        "W",
         "W"
       ]
     }
