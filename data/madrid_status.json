@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-06-07",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-07T10:11:28.758486+00:00",
+  "updated": "2026-06-07T10:16:29.789136+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Goya of lobby Conde de Peñalver to platform on line 4 in the direction of Pinar de Chamartín. There is another lif",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Maria de Molina to Interchange Levels 5 and 6 and to platform 1 of Line 6. There is another eleva",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
