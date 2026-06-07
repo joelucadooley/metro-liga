@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-06-07",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-07T14:56:27.340176+00:00",
+  "updated": "2026-06-07T15:01:44.096754+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Carabanchel Alto to lobby Out of service. We are examining the reasons for the stop. Ser",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
