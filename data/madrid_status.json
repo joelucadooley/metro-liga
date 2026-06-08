@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-06-08",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-08T09:41:34.001006+00:00",
+  "updated": "2026-06-08T09:46:42.823852+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform in the direction of Moncloa to lobby Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Paseo de Gigantes y Cabezudos to lobby Out of service. We are examining the reasons for the st",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to check-up. C",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Maria de Molina to Interchange Levels 5 and 6 and to platform 1 of Line 6. There is another eleva",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
