@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-06-08",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-08T08:26:26.138519+00:00",
+  "updated": "2026-06-08T08:31:39.711381+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Costa Brava to lobby Out of service. We are examining the reasons for the stop. Services:",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Maria de Molina to Interchange Levels 5 and 6 and to platform 1 of Line 6. There is another eleva",
       "seasonPts": 8,
       "checks": 8,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Elíptica esq. Avda. de Oporto to lobby Vía Lusitana Out of service. We are examining the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Vía Lusitana to platform line 11 in the direction of La Fortuna Out of service. We are examining",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
