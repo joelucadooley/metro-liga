@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-06-09",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-09T05:56:24.978707+00:00",
+  "updated": "2026-06-09T06:01:46.451650+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Santa Petronila to lobby Out of service. We are examining the reasons for the stop. Escalators",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Santa Petronila to lobby Out of service. We are examining the reasons for the stop. Services:",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Waiting for information. Services: Access",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Out of service. We are examining the reas",
       "seasonPts": 9,
       "checks": 9,
       "wins": 0,
