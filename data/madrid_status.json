@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-06-09",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-09T15:11:52.739787+00:00",
+  "updated": "2026-06-09T15:16:37.988670+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Velero of lobby Velero to lobby Out of service due to check-up. Coming into service in th",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Canillejas to hallway leading to platforms Out of service. We are examining the reasons for the stop. Servi",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Waiting for information. Services: Accessi",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Herrera Oria to hallway leading to platforms Out of service due to check-up. Coming into service in the nex",
       "seasonPts": 9,
       "checks": 9,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service. We are examining the reasons",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Paseo de la Florida to platform 2 on line 6 in the direction of Argüelles and platform on line 10",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
