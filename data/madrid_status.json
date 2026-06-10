@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-06-10",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-10T17:26:21.649384+00:00",
+  "updated": "2026-06-10T17:31:42.453808+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway for platforms Waiting for information. From lobby to platform in the direction o",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway for platforms Waiting for information. Services: Accessible station Lifts Escala",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
