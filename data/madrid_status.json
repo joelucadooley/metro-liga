@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-06-10",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-10T10:41:36.740543+00:00",
+  "updated": "2026-06-10T10:46:38.052807+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Cuatro Caminos Out of service. We are examining the reasons",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Guadalajara to lobby Out of service due to repair works. Expected date of coming",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to check-up. C",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on line 6 y on line 4 to platform on line 3 in the direction of El Casa",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Costa Brava to lobby Out of service due to check-up. Coming into service in the next hour",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Herrera Oria to hallway leading to platforms Out of service. We are examining the reasons for the stop. Ser",
       "seasonPts": 10,
       "checks": 10,
       "wins": 0,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Cuatro Caminos and platform on line 5 in the direction",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
