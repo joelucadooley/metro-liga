@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-06-10",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-10T19:26:29.408293+00:00",
+  "updated": "2026-06-10T19:31:51.478717+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Jacometrezo to corridor leading to platforms on line on line 5 and platform on line 5 in the dire",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Out of service. We are examining the reasons for th",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Canillejas to hallway leading to platforms Out of service due to check-up. Coming into service in the next",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Del Velero to lobby Out of service due to check-up. Coming into service in the next hours. Ser",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
