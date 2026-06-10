@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-06-10",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-10T13:11:27.113816+00:00",
+  "updated": "2026-06-10T13:16:47.321672+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de los Poblados impares to lobby Out of service due to check-up. Coming into servic",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
