@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-06-10",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-10T19:56:34.909394+00:00",
+  "updated": "2026-06-10T20:01:52.944213+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Jacometrezo to corridor leading to platforms on line on line 5 and platform on line 5 in the dire",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Legazpi to hallway platforms on line 6 Out of service. We are examining the reasons for the",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
