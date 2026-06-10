@@ -2,10 +2,10 @@
   "matchday": 10,
   "lastMatchDate": "2026-06-10",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-10T21:11:11.618173+00:00",
+  "updated": "2026-06-10T21:15:57.086007+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
+      "severity": "incident",
       "description": null,
       "seasonPts": 9,
       "checks": 10,
@@ -21,7 +21,7 @@
       ]
     },
     "L2": {
-      "severity": "clear",
+      "severity": "incident",
       "description": null,
       "seasonPts": 23,
       "checks": 10,
@@ -37,7 +37,7 @@
       ]
     },
     "L3": {
-      "severity": "clear",
+      "severity": "incident",
       "description": null,
       "seasonPts": 9,
       "checks": 10,
@@ -53,7 +53,7 @@
       ]
     },
     "L4": {
-      "severity": "clear",
+      "severity": "incident",
       "description": null,
       "seasonPts": 9,
       "checks": 10,
@@ -69,7 +69,7 @@
       ]
     },
     "L5": {
-      "severity": "clear",
+      "severity": "incident",
       "description": null,
       "seasonPts": 9,
       "checks": 10,
@@ -149,7 +149,7 @@
       ]
     },
     "L11": {
-      "severity": "clear",
+      "severity": "incident",
       "description": null,
       "seasonPts": 27,
       "checks": 10,
