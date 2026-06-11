@@ -2,11 +2,11 @@
   "matchday": 11,
   "lastMatchDate": "2026-06-11",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-11T15:41:28.656858+00:00",
+  "updated": "2026-06-11T15:46:38.613351+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Valdecarros Out of service due to check-up. Coming into serv",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform in the direction of Valdecarros to lobbys Out of service. We are examining the reasons f",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza de Legazpi of lobby Legazpi to lobby Out of service due to repair works. Expected d",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway to central platform Out of service due to check-up. Coming into service in the next hours.",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Waiting for information. Services: Accessi",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Príncipe de Vergara to hallway leading to platforms Waiting for information. Services: Escalators Defibrill",
       "seasonPts": 11,
       "checks": 11,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Elíptica esq. Avda. de Oporto to lobby Vía Lusitana Out of service. We are examining the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Abrantes esq. Papagayo and Alfonso Martínez Conde to lobby Out of service due to check-up. Com",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
