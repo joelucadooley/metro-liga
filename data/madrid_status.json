@@ -2,7 +2,7 @@
   "matchday": 11,
   "lastMatchDate": "2026-06-11",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-11T20:51:32.636617+00:00",
+  "updated": "2026-06-11T20:56:38.793982+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Príncipe de Vergara to hallway leading to platforms Waiting for information. Services: Escalators Defibrill",
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 11,
       "checks": 11,
       "wins": 0,
