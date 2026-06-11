@@ -2,7 +2,7 @@
   "matchday": 11,
   "lastMatchDate": "2026-06-11",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-11T09:26:34.940767+00:00",
+  "updated": "2026-06-11T09:31:54.062286+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Cuatro Caminos Out of service. We are examining the reasons",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Cuatro Caminos Waiting for information. Services: Accessible",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. del Casar to lobby Waiting for information. Escalators From lobby to entrance Gitanilla",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. del Casar to lobby Waiting for information. Services: Accessible station Lifts Escalator",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Waiting for information. Services: Access",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Out of service. We are examining the reas",
       "seasonPts": 11,
       "checks": 11,
       "wins": 0,
@@ -198,7 +198,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway and line 2 platform in the direction of Las Rosas Out of service due to check-up",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza de Isabel II to lobby Out of service. We are examining the reasons for the stop. Escalat",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
