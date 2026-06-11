@@ -2,7 +2,7 @@
   "matchday": 11,
   "lastMatchDate": "2026-06-11",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-11T07:41:34.910641+00:00",
+  "updated": "2026-06-11T07:46:32.292467+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. del Casar to lobby Waiting for information. Escalators From lobby to platform 2 in the d",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. del Casar to lobby Waiting for information. Services: Accessible station Lifts Escalator",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
