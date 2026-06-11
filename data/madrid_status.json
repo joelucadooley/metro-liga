@@ -2,7 +2,7 @@
   "matchday": 11,
   "lastMatchDate": "2026-06-11",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-11T11:26:23.900875+00:00",
+  "updated": "2026-06-11T11:31:52.935939+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 7 and line 2 platforms to lobby Las Rosas Out of service due to repair works. Exp",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform 1 of Line 7 to the interchange corridor of Line 9 Out of service due to repair works. Expected",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Santa Bárbara to hallway for platforms on line 5 and hallway for platforms on line 10 Out of service due to",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
