@@ -2,7 +2,7 @@
   "matchday": 11,
   "lastMatchDate": "2026-06-11",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-11T04:26:23.185339+00:00",
+  "updated": "2026-06-11T04:31:44.782058+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Herrera Oria to hallway leading to platforms Out of service due to check-up. Coming into service in the nex",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform 1 of Line 7 to the interchange corridor of Line 9 Out of service due to check-up. Coming into",
       "seasonPts": 11,
       "checks": 11,
       "wins": 0,
