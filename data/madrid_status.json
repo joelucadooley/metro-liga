@@ -2,7 +2,7 @@
   "matchday": 12,
   "lastMatchDate": "2026-06-12",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-12T18:56:28.014819+00:00",
+  "updated": "2026-06-12T19:02:06.672107+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service. We are examining the reasons for the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Paseo de las Delicias to lobby Out of service. We are examining the reasons for the stop. Serv",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
