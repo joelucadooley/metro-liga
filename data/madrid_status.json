@@ -2,7 +2,7 @@
   "matchday": 12,
   "lastMatchDate": "2026-06-12",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-12T12:11:43.549079+00:00",
+  "updated": "2026-06-12T12:16:31.860483+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From corridor of line 11 platforms to corridor leading to line 6 platforms Out of service due to check-up",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From corridor of line 11 platforms to corridor leading to line 6 platforms Out of service. We are examini",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
