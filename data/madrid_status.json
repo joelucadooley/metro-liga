@@ -2,11 +2,11 @@
   "matchday": 12,
   "lastMatchDate": "2026-06-12",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-12T15:21:29.917200+00:00",
+  "updated": "2026-06-12T15:26:22.148600+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 1 platforms of lobby Plaza de Castilla to hallway leading to lines and lobbies Out",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby and hallway of line 2 platforms to hallway for line 9 platforms and platform in the directio",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of El Casar Out of service. We are examining the reasons for the sto",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 4 in the direction of Pinar de Chamartín to corridor leading to plaform to lines",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Canillejas to hallway leading to platforms Out of service. We are examining the reasons for the stop. Servi",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Algorta to lobby Out of service due to repair works. Expected date of coming into service",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to improvement works. Expec",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 1 platforms of lobby Plaza de Castilla to hallway leading to lines and lobbies Out",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 12,
       "checks": 12,
       "wins": 0,
@@ -149,8 +149,8 @@
       ]
     },
     "L10": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 0,
       "checks": 12,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Abrantes esq. Papagayo and Alfonso Martínez Conde to lobby Out of service. We are examining th",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
