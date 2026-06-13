@@ -1,15 +1,15 @@
 {
-  "matchday": 12,
-  "lastMatchDate": "2026-06-12",
+  "matchday": 13,
+  "lastMatchDate": "2026-06-13",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-12T23:56:56.814886+00:00",
+  "updated": "2026-06-13T00:02:17.049343+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 36,
-      "checks": 12,
-      "wins": 12,
+      "seasonPts": 39,
+      "checks": 13,
+      "wins": 13,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -23,9 +23,9 @@
     "L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 36,
-      "checks": 12,
-      "wins": 12,
+      "seasonPts": 39,
+      "checks": 13,
+      "wins": 13,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -39,9 +39,9 @@
     "L3": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 36,
-      "checks": 12,
-      "wins": 12,
+      "seasonPts": 39,
+      "checks": 13,
+      "wins": 13,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -55,9 +55,9 @@
     "L4": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 36,
-      "checks": 12,
-      "wins": 12,
+      "seasonPts": 39,
+      "checks": 13,
+      "wins": 13,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -71,9 +71,9 @@
     "L5": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 36,
-      "checks": 12,
-      "wins": 12,
+      "seasonPts": 39,
+      "checks": 13,
+      "wins": 13,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -87,9 +87,9 @@
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 36,
-      "checks": 12,
-      "wins": 12,
+      "seasonPts": 39,
+      "checks": 13,
+      "wins": 13,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -103,9 +103,9 @@
     "L7": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 36,
-      "checks": 12,
-      "wins": 12,
+      "seasonPts": 39,
+      "checks": 13,
+      "wins": 13,
       "draws": 0,
       "losses": 0,
       "recentForm": [
