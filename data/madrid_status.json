@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-06-13",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-13T20:56:35.493492+00:00",
+  "updated": "2026-06-13T21:01:59.777027+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From corridor of line 11 platforms to corridor leading to line 6 platforms Out of service due to check-up",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
