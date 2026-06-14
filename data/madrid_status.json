@@ -2,7 +2,7 @@
   "matchday": 14,
   "lastMatchDate": "2026-06-14",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-14T08:11:32.054568+00:00",
+  "updated": "2026-06-14T08:16:37.566499+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Glorieta de Málaga to lobby Out of service. We are examining the reasons for the stop. Se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Perla to lobby Out of service. We are examining the reasons for the stop. Services: Acce",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
