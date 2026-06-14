@@ -2,7 +2,7 @@
   "matchday": 14,
   "lastMatchDate": "2026-06-14",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-14T18:41:39.191063+00:00",
+  "updated": "2026-06-14T18:46:42.604259+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Glorieta de Málaga to lobby Waiting for information. Services: Accessible station Lifts E",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
