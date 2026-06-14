@@ -2,7 +2,7 @@
   "matchday": 14,
   "lastMatchDate": "2026-06-14",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-14T05:41:36.578480+00:00",
+  "updated": "2026-06-14T05:46:42.142620+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 4 and line 5 and corridor of line 10 platforms to platform in the direction of Tres Olivos Out o",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 4 in the direction of Argüelles to hallway leading Waiting for information. Serv",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Plaza Elíptica Out of service due to check-up. Coming into servic",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
