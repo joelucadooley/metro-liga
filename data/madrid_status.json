@@ -2,7 +2,7 @@
   "matchday": 15,
   "lastMatchDate": "2026-06-15",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-15T04:26:37.632694+00:00",
+  "updated": "2026-06-15T04:32:05.276141+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 and line 10 platform in the direction of Puert",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Agustín de Betancourt and Orense to lobby Orense Out of service. We are examining the re",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
@@ -198,7 +198,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service. We are exa",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 2 platform in the direction of Cuatro Caminos and from platform Ramal to line 5",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
