@@ -2,7 +2,7 @@
   "matchday": 15,
   "lastMatchDate": "2026-06-15",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-15T15:56:34.510781+00:00",
+  "updated": "2026-06-15T16:01:55.710547+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. del Casar to lobby Out of service. We are examining the reasons for the stop. Servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Waiting for information. Services: Accessible stati",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
