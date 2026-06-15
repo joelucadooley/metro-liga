@@ -2,7 +2,7 @@
   "matchday": 15,
   "lastMatchDate": "2026-06-15",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-15T09:26:35.526074+00:00",
+  "updated": "2026-06-15T09:31:56.753395+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Glorieta de Málaga to lobby Out of service due to repair works. Expected date of coming i",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Paseo de Gigantes y Cabezudos to lobby Out of service. We are examining the reasons for the st",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Avda. Carabanchel Alto Out of service due to check-up. Coming into service in th",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
