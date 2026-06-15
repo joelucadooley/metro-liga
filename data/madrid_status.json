@@ -2,11 +2,11 @@
   "matchday": 15,
   "lastMatchDate": "2026-06-15",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-15T23:41:43.750545+00:00",
+  "updated": "2026-06-15T23:46:41.324246+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line corridors to Interchange lobby Out of service due to check-up. Coming into service in the nex",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in the next",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Waiting for information. Services: Accessible stati",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 y on line 4 to platform 1 on line 6 in the direction of Prínc",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform hallways to platform in the direction of Casa de Campo Waiting for information. Services:",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gonzalo de Córdoba to lobby Out of service due to check-up. Coming into service in the ne",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial-Renfe to hallway leading to platforms on line 6. There is another lift in the sa",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Out of service due to check-up. Coming int",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service due to check-up. Coming into service in the next hours. Servic",
       "seasonPts": 15,
       "checks": 15,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
