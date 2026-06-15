@@ -2,7 +2,7 @@
   "matchday": 15,
   "lastMatchDate": "2026-06-15",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-15T13:26:03.129691+00:00",
+  "updated": "2026-06-15T13:31:31.518312+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "Monumental: Until approximately July 9th, the escalator leading from the platform toward Paral·lel to the Monumental station concourse will be out of service due to renovation work.",
       "seasonPts": 38,
       "checks": 15,
       "wins": 12,
