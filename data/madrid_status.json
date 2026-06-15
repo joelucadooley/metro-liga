@@ -2,11 +2,11 @@
   "matchday": 15,
   "lastMatchDate": "2026-06-15",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-15T20:26:53.016679+00:00",
+  "updated": "2026-06-15T20:31:44.877083+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 1 in the direction of Pinar de Chamartín to intermediate level leading to hallw",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on lines 6-8-10 y Renfe to platform line 10 in the direction of Puerta del Sur Out of",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to improvement works. Expec",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
