@@ -2,7 +2,7 @@
   "matchday": 15,
   "lastMatchDate": "2026-06-15",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-15T19:11:48.664639+00:00",
+  "updated": "2026-06-15T19:16:48.478886+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Príncipe de Vergara to hallway leading to platforms Out of service due to repair works. Expected date of co",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of lobby Plaza de Cataluña to platform in the direction of Puerta de Arganda Out of service due to check",
       "seasonPts": 15,
       "checks": 15,
       "wins": 0,
