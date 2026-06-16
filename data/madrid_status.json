@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-06-16",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-16T04:26:34.893926+00:00",
+  "updated": "2026-06-16T04:31:41.116405+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platform and hallway of line 6 platforms to platform 1 on line 6 in the direction of Manuel Be",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Pitis Out of service due to check-up. Coming into service in the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gonzalo de Córdoba to lobby Out of service due to check-up. Coming into service in the ne",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
