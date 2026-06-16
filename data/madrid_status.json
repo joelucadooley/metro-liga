@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-06-16",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-16T15:27:00.569541+00:00",
+  "updated": "2026-06-16T15:31:57.021727+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Waiting for information. From entrance Santa Petron",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Waiting for information. Services: Accessible stati",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
