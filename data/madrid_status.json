@@ -2,11 +2,11 @@
   "matchday": 16,
   "lastMatchDate": "2026-06-16",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-16T09:16:42.848062+00:00",
+  "updated": "2026-06-16T09:21:35.224383+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Puerta de Arganda to hallway leading to platform to line 9",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Paseo de Ginebra to lobby Out of service. We are examining the reasons for the stop. Serv",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Waiting for information. Services: Accessible stati",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of lobby Alberto Aguilera and platforms on line 4 to platform 1 on line 6 in the direction",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Canillejas to hallway leading to platforms Out of service due to repair works. Expected date of coming into",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform on line 7. There is another escalator in the same direction and location",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial corridor line 6 to platform 2 line 6 in the direction of Republica Argentina Out",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Puerta de Arganda to hallway leading to platform to line 9",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 16,
       "checks": 16,
       "wins": 0,
@@ -149,8 +149,8 @@
       ]
     },
     "L10": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 0,
       "checks": 16,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
