@@ -2,11 +2,11 @@
   "matchday": 16,
   "lastMatchDate": "2026-06-16",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-16T06:56:32.002252+00:00",
+  "updated": "2026-06-16T07:02:02.609502+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Puerta de Arganda to hallway leading to platform to line 9",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform on line 1 in the direction of Pinar de Chamartín Out of service due to che",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platform and hallway of line 6 platforms to platform 1 on line 6 in the direction of Manuel Be",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Puerta de Arganda to hallway leading to platform to line 9",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform on line 1 in the direction of Pinar de Chamartín Out of service due to che",
       "seasonPts": 16,
       "checks": 16,
       "wins": 0,
