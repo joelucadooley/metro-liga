@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-06-16",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-16T12:11:34.906670+00:00",
+  "updated": "2026-06-16T12:16:39.494835+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform on line 7. There is another escalator in the same direction and location",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Guernica and Avda. San Sebastián to lobby Out of service. We are examining the reasons f",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on lines 6-8-10 y Renfe to platform line 10 in the direction of Puerta del Sur Out of",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to improvement works. Expec",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
