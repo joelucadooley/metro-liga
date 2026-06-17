@@ -2,7 +2,7 @@
   "matchday": 17,
   "lastMatchDate": "2026-06-17",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-17T20:11:42.497320+00:00",
+  "updated": "2026-06-17T20:16:47.001544+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Out of service due to repair works. Expected date o",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Out of service due to check-up. Coming into service",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms Out of service due to improvement works. Expected date of coming into serv",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform 2 of Line 7 to the interchange corridor of Line 9 and to platform 1 of Line 9 Out of service.",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Paco",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform 2 of Line 7 to the interchange corridor of Line 9 and to platform 1 of Line 9 Out of service.",
       "seasonPts": 17,
       "checks": 17,
       "wins": 0,
