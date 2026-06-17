@@ -2,7 +2,7 @@
   "matchday": 17,
   "lastMatchDate": "2026-06-17",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-17T09:11:38.583395+00:00",
+  "updated": "2026-06-17T09:16:56.735812+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange to lobby Waiting for information. Services: Accessible station Lifts Escalato",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange to lobby Out of service due to repair works. Expected date of coming into ser",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of El Casar Out of service. We are examining the reasons for the sto",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of El Casar Out of service due to repair works. Expected date of com",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Agustín de Betancourt and Orense to lobby Orense Out of service due to check-up. Coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to improvement works. Expec",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of lobby Príncipe de Vergara to platform in the direction of Puerta de Arganda Out of service due to che",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Paco",
       "seasonPts": 17,
       "checks": 17,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for the s",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
