@@ -2,11 +2,11 @@
   "matchday": 17,
   "lastMatchDate": "2026-06-17",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-17T04:11:35.967769+00:00",
+  "updated": "2026-06-17T04:16:36.635389+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 10 in the direction Puerta del Sur Out of service due to check-up. Comin",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange to lobby Waiting for information. Services: Accessible station Lifts Escalato",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Waiting for information. Services: Accessible stati",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platform and hallway of line 6 platforms to platform 1 on line 6 in the direction of Manuel Be",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Casa de Campo Waiting for information. Services: Escalators Def",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service due to check-up. Coming",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform line 8 in the direction of Aeropuerto T4 and platform line 10 in the direc",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to line 6, lobby Francisco Silvela and hallway lead",
       "seasonPts": 17,
       "checks": 17,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platforms on li",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
