@@ -2,7 +2,7 @@
   "matchday": 17,
   "lastMatchDate": "2026-06-17",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-17T10:11:40.181631+00:00",
+  "updated": "2026-06-17T10:16:44.295505+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platform and hallway of line 6 platforms to platform 1 on line 6 in the direction of Manuel Be",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms Out of service due to improvement works. Expected date of coming into serv",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platform and hallway of line 6 platforms to platform 1 on line 6 in the direction of Manuel Be",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Paco",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Agustín de Betancourt to lobby Orense Waiting for information. From entrances Centro Come",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to improvement works. Expec",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
