@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-06-18",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-18T07:51:38.028699+00:00",
+  "updated": "2026-06-18T07:56:31.567795+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Príncipe de Vergara to hallway leading to platforms Out of service. We are examining the reasons for the st",
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 18,
       "checks": 18,
       "wins": 0,
