@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-06-18",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-18T12:26:34.169186+00:00",
+  "updated": "2026-06-18T12:31:40.757688+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of El Casar Out of service due to repair works. Expected date of com",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. de Córdoba in Gta. de Málaga to lobby Out of service. We are examining the reasons for t",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
