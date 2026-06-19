@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-06-19",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-19T10:41:39.103159+00:00",
+  "updated": "2026-06-19T10:46:34.506994+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Casa de Campo to lobby A. López Casero Waiting for information. Services: Escalator",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Casa de Campo to lobby A. López Casero Out of service due to check-up. Coming into",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
