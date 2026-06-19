@@ -2,11 +2,11 @@
   "matchday": 19,
   "lastMatchDate": "2026-06-19",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-19T07:56:36.026458+00:00",
+  "updated": "2026-06-19T08:02:17.996217+00:00",
   "lines": {
     "L1": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Paco de Lucía to hallway leading to platform to line 9, to",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gonzalo de Córdoba to lobby Out of service. We are examining the reasons for the stop. Se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gonzalo de Córdoba to lobby Waiting for information. Services: Accessible station Lifts E",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Bravo Murillo to hallway leading to platform of line 1 in the direction of Vald",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Paco de Lucía to hallway leading to platform to line 9, to",
       "seasonPts": 19,
       "checks": 19,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Abrantes esq. Papagayo and Alfonso Martínez Conde to lobby Out of service due to check-up. Com",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Abrantes esq. Papagayo and Alfonso Martínez Conde to lobby Out of service. We are examining th",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -198,7 +198,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 1 on line 6 in the direction of Puerta del Ángel and platform on line 10 in the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
