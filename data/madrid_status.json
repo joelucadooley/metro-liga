@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-06-19",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-19T10:26:23.325652+00:00",
+  "updated": "2026-06-19T10:31:55.570973+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Waiting for information. From lobby to platform in t",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Casa de Campo to lobby A. López Casero Out of service due to check-up. Coming into",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Casa de Campo to lobby A. López Casero Waiting for information. Services: Escalator",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
