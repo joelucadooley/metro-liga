@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-06-19",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-19T15:41:35.352598+00:00",
+  "updated": "2026-06-19T15:46:50.230013+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms Out of service due to improvement works. Expected date of coming into serv",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance General Díaz Porlier to lobby Out of service due to check-up. Coming into service in the next hours. Services: Acc",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
