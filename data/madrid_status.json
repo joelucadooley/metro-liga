@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-06-20",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-20T20:26:24.406798+00:00",
+  "updated": "2026-06-20T20:31:53.819041+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Glorieta de Málaga to lobby Waiting for information. Services: Accessible station Lifts E",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform 2 in the direction of Juan de la Cierva Out of service due to check-up. Coming i",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms Out of service due to improvement works. Expected date of coming into serv",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways lobby Out of service. We are examining the reasons for the stop. From lobby to hallway leading",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
