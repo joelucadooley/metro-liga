@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-06-20",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-20T23:51:34.985123+00:00",
+  "updated": "2026-06-20T23:55:04.650940+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service due to check-up. Coming into service in the next hours. Servic",
       "seasonPts": 20,
       "checks": 20,
       "wins": 0,
@@ -149,8 +149,8 @@
       ]
     },
     "L10": {
-      "severity": "clear",
-      "description": null,
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 0,
       "checks": 20,
       "wins": 0,
