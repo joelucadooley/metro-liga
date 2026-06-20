@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-06-20",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-20T17:11:35.335670+00:00",
+  "updated": "2026-06-20T17:16:48.893746+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platform and hallway of line 6 platforms to platform 1 on line 6 in the direction of Manuel Be",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms Out of service due to improvement works. Expected date of coming into serv",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platform and hallway of line 6 platforms to platform 1 on line 6 in the direction of Manuel Be",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Paco",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
