@@ -2,11 +2,11 @@
   "matchday": 20,
   "lastMatchDate": "2026-06-20",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-20T07:16:36.394861+00:00",
+  "updated": "2026-06-20T07:21:36.409625+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Interchange to hallway for lines 1, 9 and 10 Out of service due to check-up. Coming into servi",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange to lobby Waiting for information. Services: Accessible station Lifts Escalato",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Glorieta de Málaga to lobby Waiting for information. Services: Accessible station Lifts E",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 and corridor leading on line 3 to platform 2 on line 6 in the",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Casa de Campo Out of service. We are examining the reasons for",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 7b Hospital del Henares Out of service due to check-up. Coming into service in t",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to entrances Centro Comercial and Renfe Out of service. We are examining the reasons f",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Out of service due to check-up. Coming int",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 20,
       "checks": 20,
       "wins": 0,
@@ -149,8 +149,8 @@
       ]
     },
     "L10": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 0,
       "checks": 20,
       "wins": 0,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza de Isabel II to lobby Out of service. We are examining the reasons for the stop. Service",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
