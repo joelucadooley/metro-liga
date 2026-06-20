@@ -2,11 +2,11 @@
   "matchday": 20,
   "lastMatchDate": "2026-06-20",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-20T04:26:38.189267+00:00",
+  "updated": "2026-06-20T04:31:51.627103+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 10 in the direction Puerta del Sur Out of service due to check-up. Comin",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform 2 in the direction of Juan de la Cierva Out of service due to check-up. Coming i",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service. We are examining the reasons for the",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to improvement works. Expec",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to entrances Centro Comercial and Renfe Out of service. We are examining the reasons f",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to platform on line 10 in the direction of Puerta del Sur and platform 1 on line 6 in",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
