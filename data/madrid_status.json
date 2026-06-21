@@ -2,7 +2,7 @@
   "matchday": 21,
   "lastMatchDate": "2026-06-21",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-21T17:41:40.766194+00:00",
+  "updated": "2026-06-21T17:46:40.589732+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of lobby Pío XII to platform in the direction of Paco de Lucía Out of service. We are examining the reaso",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Paco de Lucía Out of service due to check-up. Coming into servi",
       "seasonPts": 21,
       "checks": 21,
       "wins": 0,
