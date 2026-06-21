@@ -2,7 +2,7 @@
   "matchday": 21,
   "lastMatchDate": "2026-06-21",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-21T22:56:25.851638+00:00",
+  "updated": "2026-06-21T23:01:49.495542+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Waiting for information. Services: Accessible statio",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Waiting for information. Services: Accessible station Lifts",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Paco",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
