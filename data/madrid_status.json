@@ -2,7 +2,7 @@
   "matchday": 21,
   "lastMatchDate": "2026-06-21",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-21T23:11:36.103329+00:00",
+  "updated": "2026-06-21T23:16:44.879198+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Waiting for information. Services: Accessible station Lifts",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Waiting for information. Services: Accessible stati",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on Line 6 to platform 1 in the direction Usera Out of service. We are e",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
