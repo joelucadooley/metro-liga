@@ -2,11 +2,11 @@
   "matchday": 21,
   "lastMatchDate": "2026-06-21",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-21T06:26:29.185734+00:00",
+  "updated": "2026-06-21T06:31:48.535881+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway in Interchange lobby and line 10 platforms to line 10 platform in the direction of Puerta",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to entrances Centro Comercial and Renfe Out of service. We are examining the reasons f",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to entrances Centro Comercial and Renfe Out of service due to check-up. Coming into se",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Paco",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway in Interchange lobby and line 10 platforms to line 10 platform in the direction of Puerta",
       "seasonPts": 21,
       "checks": 21,
       "wins": 0,
