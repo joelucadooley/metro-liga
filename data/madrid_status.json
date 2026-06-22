@@ -2,7 +2,7 @@
   "matchday": 22,
   "lastMatchDate": "2026-06-22",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-22T07:11:37.511733+00:00",
+  "updated": "2026-06-22T07:16:39.724586+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to check-up. C",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor or lobby Alberto Aguilera to platform on line 4 in the direction of Pinar de Chamartín Out of",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Alameda de Osuna Out of service. We are examining the reason",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Alameda de Osuna Out of service due to check-up. Coming into",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
