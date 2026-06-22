@@ -2,7 +2,7 @@
   "matchday": 22,
   "lastMatchDate": "2026-06-22",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-22T09:41:34.254970+00:00",
+  "updated": "2026-06-22T09:46:44.082555+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 9 platforms to platform on line 9 in the direction of Paco de Lucía Out of service",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms Out of service due to improvement works. Expected date of coming into serv",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 7b Hospital del Henares Out of service due to check-up. Coming into service in t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service. We are examining the re",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
