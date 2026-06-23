@@ -1,16 +1,16 @@
 {
-  "matchday": 22,
-  "lastMatchDate": "2026-06-22",
+  "matchday": 23,
+  "lastMatchDate": "2026-06-23",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-22T23:55:57.100888+00:00",
+  "updated": "2026-06-23T00:01:24.367316+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
       "description": "Plaça de Sants: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work.",
-      "seasonPts": 21,
-      "checks": 22,
+      "seasonPts": 22,
+      "checks": 23,
       "wins": 0,
-      "draws": 21,
+      "draws": 22,
       "losses": 1,
       "recentForm": [
         "D",
@@ -23,10 +23,10 @@
     "L2": {
       "severity": "minor",
       "description": "Monumental: Until approximately July 9th, the escalator leading from the platform toward Paral·lel to the Monumental station concourse will be out of service due to renovation work.",
-      "seasonPts": 45,
-      "checks": 22,
+      "seasonPts": 46,
+      "checks": 23,
       "wins": 12,
-      "draws": 9,
+      "draws": 10,
       "losses": 1,
       "recentForm": [
         "D",
@@ -39,10 +39,10 @@
     "L3": {
       "severity": "minor",
       "description": "Poble Sec: Until approximately July 3rd, due to construction, the Parlament entrance of Poble Sec station will be closed. · Sants Estació: Until approximately June 30th, the escalator that goes up from the platform towards Trinitat Nova to the lower lobby of Sants Estació station will be out of service for improvement work.",
-      "seasonPts": 21,
-      "checks": 22,
+      "seasonPts": 22,
+      "checks": 23,
       "wins": 0,
-      "draws": 21,
+      "draws": 22,
       "losses": 1,
       "recentForm": [
         "D",
@@ -55,10 +55,10 @@
     "L4": {
       "severity": "minor",
       "description": "Joanic: Until approximately July 7th, the escalator that goes up from the platform towards Trinitat Nova to the lobby of Joanic station will be out of service for improvement work. · Verdaguer: From 13/10/2025, and for approximately 12 months, the connecting passageway between lines L4 and L5 at Verdaguer station is closed for works.",
-      "seasonPts": 21,
-      "checks": 22,
+      "seasonPts": 22,
+      "checks": 23,
       "wins": 0,
-      "draws": 21,
+      "draws": 22,
       "losses": 1,
       "recentForm": [
         "D",
@@ -71,10 +71,10 @@
     "L5": {
       "severity": "minor",
       "description": "Plaça de Sants: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work. · Verdaguer: From 13/10/2025, and for approximately 12 months, the connecting passageway between lines L4 and L5 at Verdaguer station is closed for works.",
-      "seasonPts": 21,
-      "checks": 22,
+      "seasonPts": 22,
+      "checks": 23,
       "wins": 0,
-      "draws": 21,
+      "draws": 22,
       "losses": 1,
       "recentForm": [
         "D",
@@ -87,9 +87,9 @@
     "L9N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 66,
-      "checks": 22,
-      "wins": 22,
+      "seasonPts": 69,
+      "checks": 23,
+      "wins": 23,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -103,9 +103,9 @@
     "L9S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 66,
-      "checks": 22,
-      "wins": 22,
+      "seasonPts": 69,
+      "checks": 23,
+      "wins": 23,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -119,9 +119,9 @@
     "L10N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 66,
-      "checks": 22,
-      "wins": 22,
+      "seasonPts": 69,
+      "checks": 23,
+      "wins": 23,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -135,9 +135,9 @@
     "L10S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 66,
-      "checks": 22,
-      "wins": 22,
+      "seasonPts": 69,
+      "checks": 23,
+      "wins": 23,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -151,9 +151,9 @@
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 63,
-      "checks": 22,
-      "wins": 21,
+      "seasonPts": 66,
+      "checks": 23,
+      "wins": 22,
       "draws": 0,
       "losses": 1,
       "recentForm": [
