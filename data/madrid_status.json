@@ -2,7 +2,7 @@
   "matchday": 23,
   "lastMatchDate": "2026-06-23",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-23T10:41:40.454744+00:00",
+  "updated": "2026-06-23T10:46:38.146949+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Corbeta to lobby Waiting for information. Services: Accessible station Lifts Escalators D",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Velero of lobby Velero to lobby Out of service due to check-up. Coming into service in th",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Out of service due to check-up. Coming into service in the next h",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Waiting for information. Services: Acce",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Vía Lusitana to platform line 11 in the direction of La Fortuna Out of service. We are examining",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
