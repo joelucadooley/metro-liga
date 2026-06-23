@@ -2,7 +2,7 @@
   "matchday": 23,
   "lastMatchDate": "2026-06-23",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-23T06:11:37.566939+00:00",
+  "updated": "2026-06-23T06:16:35.053766+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service. We are examining the reasons for the st",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms on lines 8 and 9 Waiting for information. Services: Accessi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Mirasierra to lobby Out of service due to check-up. Coming into service in the next hours",
       "seasonPts": 23,
       "checks": 23,
       "wins": 0,
