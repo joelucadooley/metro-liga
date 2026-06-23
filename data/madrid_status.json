@@ -2,7 +2,7 @@
   "matchday": 23,
   "lastMatchDate": "2026-06-23",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-23T06:26:26.322028+00:00",
+  "updated": "2026-06-23T06:31:47.625081+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 7b Hospital del Henares Out of service due to check-up. Coming into service in t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Honduras to lobby Out of service. We are examining the reasons for the stop. Services: Ac",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Mirasierra to lobby Out of service due to check-up. Coming into service in the next hours",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms on lines 8 and 9 Waiting for information. Services: Accessi",
       "seasonPts": 23,
       "checks": 23,
       "wins": 0,
