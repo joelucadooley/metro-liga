@@ -2,7 +2,7 @@
   "matchday": 23,
   "lastMatchDate": "2026-06-23",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-23T14:11:46.981363+00:00",
+  "updated": "2026-06-23T14:16:38.439899+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Vía Lusitana to platform line 11 in the direction of La Fortuna Waiting for information. From ent",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
