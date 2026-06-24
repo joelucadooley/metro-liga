@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-06-24",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-24T10:26:31.215853+00:00",
+  "updated": "2026-06-24T10:31:55.470718+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of lobby Alberto Aguilera and platforms on line 4 to platform 1 on line 6 in the direction",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Pinos de Osuna to lobby Pinos de Osuna Waiting for information. From lobby to platform in",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Pinos de Osuna to lobby Pinos de Osuna Waiting for information. Services: Accessible stat",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Honduras to lobby Out of service. We are examining the reasons for the stop. Services: Ac",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Honduras to lobby Waiting for information. Services: Accessible station Lifts Escalators",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
