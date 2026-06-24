@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-06-24",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-24T18:11:31.516064+00:00",
+  "updated": "2026-06-24T18:16:42.245389+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform 1 direction Moncloa Waiting for information. Services: Accessible station Lifts",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Valle de Tobalina to lobby Out of service due to check-up. Coming into service in the next hou",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
