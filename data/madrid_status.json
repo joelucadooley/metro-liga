@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-06-24",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-24T06:11:41.573132+00:00",
+  "updated": "2026-06-24T06:16:33.415831+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Estadio Metropolitano Waiting for information. From lobby to plat",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 7b Hospital del Henares Out of service due to check-up. Coming into service in t",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
