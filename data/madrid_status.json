@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-06-24",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-24T15:11:31.507694+00:00",
+  "updated": "2026-06-24T15:16:29.334878+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Puerta de Arganda to hallway leading to platforms to lobby Herrera Oria Out of serv",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Herrera Oria to hallway leading to platforms Out of service. We are examining the reasons for the stop. Ser",
       "seasonPts": 24,
       "checks": 24,
       "wins": 0,
