@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-06-24",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-24T04:36:29.131344+00:00",
+  "updated": "2026-06-24T04:42:34.971664+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service. We are examining the reasons for the st",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service. We are examining the reasons for the st",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Estadio Metropolitano Out of service due to check-up. Coming into",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 7b Hospital del Henares Out of service due to check-up. Coming into service in t",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
