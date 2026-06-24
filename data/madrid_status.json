@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-06-24",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-24T23:11:40.909764+00:00",
+  "updated": "2026-06-24T23:16:41.500918+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Honduras to lobby Waiting for information. Services: Accessible station Lifts Escalators",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gonzalo de Córdoba to lobby Out of service due to check-up. Coming into service in the ne",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
