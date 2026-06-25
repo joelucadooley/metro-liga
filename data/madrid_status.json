@@ -2,11 +2,11 @@
   "matchday": 25,
   "lastMatchDate": "2026-06-25",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-25T20:26:23.966757+00:00",
+  "updated": "2026-06-25T20:31:50.728704+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange Surface to lobby Plaza de Castilla Waiting for information. Services: Accessi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange Surface to lobby Plaza de Castilla Waiting for information. Walkways From lob",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From corridor leading on lines to platform 1 on Line 1 direction Valdecarros Out of service. We are examining the reasons for th",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Pinar de Chamartín to hallway leading to platforms Out of service. We are examining",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange Surface to lobby Plaza de Castilla Waiting for information. Services: Accessi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange Surface to lobby Plaza de Castilla Waiting for information. Walkways From lob",
       "seasonPts": 25,
       "checks": 25,
       "wins": 0,
