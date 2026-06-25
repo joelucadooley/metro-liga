@@ -2,11 +2,11 @@
   "matchday": 25,
   "lastMatchDate": "2026-06-25",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-25T04:56:26.258957+00:00",
+  "updated": "2026-06-25T05:01:46.882651+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange Surface to lobby Plaza de Castilla Out of service due to check-up. Coming int",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
