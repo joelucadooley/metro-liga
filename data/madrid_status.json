@@ -2,7 +2,7 @@
   "matchday": 25,
   "lastMatchDate": "2026-06-25",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-25T19:56:33.791906+00:00",
+  "updated": "2026-06-25T20:01:47.717092+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of El Casar Out of service. We are examining the reasons for the sto",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Legazpi to hallway platforms on line 6 Out of service due to check-up. Coming into service i",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
