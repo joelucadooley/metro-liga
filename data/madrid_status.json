@@ -2,7 +2,7 @@
   "matchday": 25,
   "lastMatchDate": "2026-06-25",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-25T11:02:03.723305+00:00",
+  "updated": "2026-06-25T11:06:42.902205+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 7b Hospital del Henares Out of service due to check-up. Coming into service in t",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
