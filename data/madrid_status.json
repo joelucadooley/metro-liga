@@ -2,7 +2,7 @@
   "matchday": 26,
   "lastMatchDate": "2026-06-26",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-26T20:56:39.137600+00:00",
+  "updated": "2026-06-26T20:59:19.615871+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service. We are examining",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform 1 of Line 7 to the interchange corridor of Line 9 Waiting for information. Escalators From cen",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
