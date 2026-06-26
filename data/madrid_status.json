@@ -2,7 +2,7 @@
   "matchday": 26,
   "lastMatchDate": "2026-06-26",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-26T10:56:35.162032+00:00",
+  "updated": "2026-06-26T11:01:51.738658+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby and hallway of line XX platforms to hallway in the direction of Argüelles Out of service due to check-up. C",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Pinar de Chamartín to hallway leading to platforms Out of service due to repair wor",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
