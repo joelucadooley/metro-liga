@@ -2,7 +2,7 @@
   "matchday": 26,
   "lastMatchDate": "2026-06-26",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-26T04:56:33.777698+00:00",
+  "updated": "2026-06-26T05:01:59.800502+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. La Peseta to lobby Out of service due to check-up. Coming into service in the next",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
