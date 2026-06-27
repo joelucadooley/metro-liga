@@ -2,7 +2,7 @@
   "matchday": 27,
   "lastMatchDate": "2026-06-27",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-27T04:26:24.850478+00:00",
+  "updated": "2026-06-27T04:31:54.397368+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Andalucía pares to lobby Out of service due to check-up. Coming into service in",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Legazpi to hallway platforms on line 6 Waiting for information. Services: Accessible station",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 4 and line 5 and corridor of line 10 platforms to platform in the direction of Tres Olivos Out o",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform 1 of Line 7 to the interchange corridor of Line 9 Waiting for information. Escalators From cen",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service due to check-up. Coming into servi",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
