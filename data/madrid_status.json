@@ -2,7 +2,7 @@
   "matchday": 28,
   "lastMatchDate": "2026-06-28",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-28T06:41:28.045189+00:00",
+  "updated": "2026-06-28T06:46:33.394411+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to entrances Centro Comercial and Renfe Out of service due to check-up. Coming into se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to improvement works. Expec",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
