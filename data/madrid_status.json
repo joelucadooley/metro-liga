@@ -2,11 +2,11 @@
   "matchday": 28,
   "lastMatchDate": "2026-06-28",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-28T13:41:38.012879+00:00",
+  "updated": "2026-06-28T13:46:33.385609+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos, to mezzanine and platform on line 1 in th",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Agustín de Foxá to lobby Out of service. We are examining the reasons for the stop. From lobby",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 7b Hospital del Henares Out of service due to check-up. Coming into service in t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service. We are examining the re",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance San José semiesq. del Carmen to lobby Out of service. We are examining the reasons for the sto",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
