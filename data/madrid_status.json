@@ -2,7 +2,7 @@
   "matchday": 29,
   "lastMatchDate": "2026-06-29",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-29T09:56:37.447093+00:00",
+  "updated": "2026-06-29T10:02:04.132157+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Casa de Campo Out of service due to repair works. Expected d",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Velero of lobby Velero to lobby Out of service. We are examining the reasons for the stop",
       "seasonPts": 87,
       "checks": 29,
       "wins": 29,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service. We are examining the re",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Waiting for information. From lobby to",
       "seasonPts": 87,
       "checks": 29,
       "wins": 29,
