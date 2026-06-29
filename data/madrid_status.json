@@ -2,7 +2,7 @@
   "matchday": 29,
   "lastMatchDate": "2026-06-29",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-29T22:26:23.504639+00:00",
+  "updated": "2026-06-29T22:31:41.287027+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 y on line 4 to platform 1 on line 6 in the direction of Prínc",
       "seasonPts": 87,
       "checks": 29,
       "wins": 29,
