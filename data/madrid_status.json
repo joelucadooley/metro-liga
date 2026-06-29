@@ -2,7 +2,7 @@
   "matchday": 29,
   "lastMatchDate": "2026-06-29",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-29T02:41:31.563705+00:00",
+  "updated": "2026-06-29T02:46:33.416431+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
@@ -149,8 +149,8 @@
       ]
     },
     "L10": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 0,
       "checks": 29,
       "wins": 0,
