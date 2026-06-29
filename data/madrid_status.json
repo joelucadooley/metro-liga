@@ -2,7 +2,7 @@
   "matchday": 29,
   "lastMatchDate": "2026-06-29",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-29T06:56:36.807018+00:00",
+  "updated": "2026-06-29T07:02:03.712069+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform hallways to platform in the direction of Casa de Campo Out of service. We are examining t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Casa de Campo Waiting for information. Services: Accessible",
       "seasonPts": 87,
       "checks": 29,
       "wins": 29,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 1 platforms of lobby Plaza de Castilla to hallway leading to lines and lobbies Wai",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway in Interchange lobby and line 10 platforms to line 10 platform in the direction of Puerta",
       "seasonPts": 29,
       "checks": 29,
       "wins": 0,
