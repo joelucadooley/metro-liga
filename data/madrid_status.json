@@ -2,7 +2,7 @@
   "matchday": 30,
   "lastMatchDate": "2026-06-30",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-30T12:11:31.506951+00:00",
+  "updated": "2026-06-30T12:16:27.116611+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Santiago Amón to lobby Waiting for information. Services: Accessible station Lifts Escala",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
