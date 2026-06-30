@@ -2,7 +2,7 @@
   "matchday": 30,
   "lastMatchDate": "2026-06-30",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-30T15:56:29.517753+00:00",
+  "updated": "2026-06-30T15:59:59.974501+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Ventisquero de la Condesa esq. Mirador de la Infanta to lobby Waiting for information. From lo",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Ventisquero de la Condesa esq. Mirador de la Infanta to lobby Waiting for information. Escalat",
       "seasonPts": 30,
       "checks": 30,
       "wins": 0,
