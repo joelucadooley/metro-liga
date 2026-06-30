@@ -2,11 +2,11 @@
   "matchday": 30,
   "lastMatchDate": "2026-06-30",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-30T17:51:02.302125+00:00",
+  "updated": "2026-06-30T17:56:05.982646+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "Plaça de Sants: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work.",
+      "description": "Florida: Until approximately July 10th, the elevator connecting the lobby to the platform for trains heading toward Fondo at Florida Station will be out of service due to maintenance work. · Plaça de Sants: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work.",
       "seasonPts": 29,
       "checks": 30,
       "wins": 0,
