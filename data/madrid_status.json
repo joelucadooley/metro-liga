@@ -2,7 +2,7 @@
   "matchday": 30,
   "lastMatchDate": "2026-06-30",
   "lastResetMonth": "2026-06",
-  "updated": "2026-06-30T08:26:29.919396+00:00",
+  "updated": "2026-06-30T08:31:43.918427+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service due to check-up. Coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Waiting for information. Services: Acc",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
