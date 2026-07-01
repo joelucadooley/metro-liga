@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-07-01",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-01T18:56:25.004860+00:00",
+  "updated": "2026-07-01T19:01:51.954828+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -126,7 +126,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Abrantes esq. Papagayo and Alfonso Martínez Conde to lobby Out of service. We are examining th",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service. We are examining the reasons",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
