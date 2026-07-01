@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-07-01",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-01T22:11:30.447962+00:00",
+  "updated": "2026-07-01T22:16:40.782061+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -150,7 +150,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway and line 2 platform in the direction of Las Rosas Out of service. We are examini",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway and line 2 platform in the direction of Las Rosas Waiting for information. From",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
