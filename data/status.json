@@ -1,166 +1,126 @@
 {
-  "matchday": 30,
-  "lastMatchDate": "2026-06-30",
-  "lastResetMonth": "2026-06",
-  "updated": "2026-06-30T23:55:55.062472+00:00",
+  "matchday": 1,
+  "lastMatchDate": "2026-07-01",
+  "lastResetMonth": "2026-07",
+  "updated": "2026-07-01T00:01:30.095202+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
       "description": "Florida: Until approximately July 10th, the elevator connecting the lobby to the platform for trains heading toward Fondo at Florida Station will be out of service due to maintenance work. · Plaça de Sants: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work.",
-      "seasonPts": 29,
-      "checks": 30,
+      "seasonPts": 1,
+      "checks": 1,
       "wins": 0,
-      "draws": 29,
-      "losses": 1,
+      "draws": 1,
+      "losses": 0,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
         "D"
       ]
     },
     "L2": {
       "severity": "minor",
       "description": "Monumental: Until approximately July 9th, the escalator leading from the platform toward Paral·lel to the Monumental station concourse will be out of service due to renovation work. · Monumental: Until approximately July 22nd, one of the escalators that goes up from the platform towards Badalona Pompeu Fabra to the lobby of Monumental station will be out of service for improvement work.",
-      "seasonPts": 53,
-      "checks": 30,
-      "wins": 12,
-      "draws": 17,
-      "losses": 1,
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
         "D"
       ]
     },
     "L3": {
       "severity": "minor",
       "description": "Poble Sec: Until approximately July 3rd, due to construction, the Parlament entrance of Poble Sec station will be closed. · Sants Estació: Until approximately June 30th, the escalator that goes up from the platform towards Zona Universitària to the lower lobby of Sants Estació station will be out of service for improvement work.",
-      "seasonPts": 29,
-      "checks": 30,
+      "seasonPts": 1,
+      "checks": 1,
       "wins": 0,
-      "draws": 29,
-      "losses": 1,
+      "draws": 1,
+      "losses": 0,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
         "D"
       ]
     },
     "L4": {
       "severity": "minor",
       "description": "Joanic: Until approximately July 7th, the escalator that goes up from the platform towards Trinitat Nova to the lobby of Joanic station will be out of service for improvement work. · Verdaguer: From 13/10/2025, and for approximately 12 months, the connecting passageway between lines L4 and L5 at Verdaguer station is closed for works.",
-      "seasonPts": 29,
-      "checks": 30,
+      "seasonPts": 1,
+      "checks": 1,
       "wins": 0,
-      "draws": 29,
-      "losses": 1,
+      "draws": 1,
+      "losses": 0,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
         "D"
       ]
     },
     "L5": {
       "severity": "minor",
       "description": "Plaça de Sants: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work. · Verdaguer: From 13/10/2025, and for approximately 12 months, the connecting passageway between lines L4 and L5 at Verdaguer station is closed for works.",
-      "seasonPts": 29,
-      "checks": 30,
+      "seasonPts": 1,
+      "checks": 1,
       "wins": 0,
-      "draws": 29,
-      "losses": 1,
+      "draws": 1,
+      "losses": 0,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
         "D"
       ]
     },
     "L9N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 90,
-      "checks": 30,
-      "wins": 30,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     },
     "L9S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 90,
-      "checks": 30,
-      "wins": 30,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     },
     "L10N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 90,
-      "checks": 30,
-      "wins": 30,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     },
     "L10S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 90,
-      "checks": 30,
-      "wins": 30,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     },
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 87,
-      "checks": 30,
-      "wins": 29,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
-      "losses": 1,
+      "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     }

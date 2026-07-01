@@ -1,38 +1,30 @@
 {
-  "matchday": 40,
-  "lastMatchDate": "2026-06-30",
-  "lastResetMonth": "",
-  "updated": "2026-06-30T23:56:59.470841+00:00",
+  "matchday": 1,
+  "lastMatchDate": "2026-07-01",
+  "lastResetMonth": "2026-07",
+  "updated": "2026-07-01T00:02:37.913850+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 120,
-      "checks": 40,
-      "wins": 40,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     },
     "L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 120,
-      "checks": 40,
-      "wins": 40,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     }
