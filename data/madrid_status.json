@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-07-01",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-01T10:56:35.316715+00:00",
+  "updated": "2026-07-01T11:01:54.101802+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -78,7 +78,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service due to repair works. Ex",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service due to repair works. Exp",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
