@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-07-01",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-01T14:56:27.059048+00:00",
+  "updated": "2026-07-01T15:01:57.490215+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -42,7 +42,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 4 Out of service due to check-up. Coming into service in the next hours.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform hallways to platform in the direction of Pinar de Chamartín Out of service due to repair",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
