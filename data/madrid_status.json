@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-07-01",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-01T04:41:41.611960+00:00",
+  "updated": "2026-07-01T04:46:28.217218+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -42,7 +42,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Santa Bárbara to hallway for platforms on line 5 and hallway for platforms on line 10 Out of service due to",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Juan Bravo to hallway for lines 4, 5 and 6 Waiting for information. From lobby Alcántara to hallway leadin",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
