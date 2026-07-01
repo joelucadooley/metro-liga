@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-07-01",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-01T07:26:33.334280+00:00",
+  "updated": "2026-07-01T07:31:46.891238+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Velero of lobby Velero to lobby Out of service. We are examining the reasons for the stop",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Velero of lobby Velero to lobby Waiting for information. Services: Accessible station Lif",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -126,7 +126,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service due to check-up. Coming into servi",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
