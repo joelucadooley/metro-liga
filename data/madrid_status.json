@@ -2,11 +2,11 @@
   "matchday": 1,
   "lastMatchDate": "2026-07-01",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-01T16:41:40.377344+00:00",
+  "updated": "2026-07-01T16:46:26.087612+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line ML1 in the direction of Las Tablas Out of service. We are examining the reasons",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos, to mezzanine and platform on line 1 in th",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -42,7 +42,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 4 Out of service due to check-up. Coming into service in the next hours.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 4 Waiting for information. Services: Accessible station Lifts Escalators",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -78,7 +78,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service. We are examining the re",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service due to check-up. Coming",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
