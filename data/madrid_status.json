@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-07-02",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-02T04:56:21.771512+00:00",
+  "updated": "2026-07-02T05:01:55.443048+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -45,7 +45,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to line 6 and hallway leading to line 7 Out of servi",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of line 5 and line 6 platforms to platform 2 on line 6 in the direction of Avda. de América Out of servic",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
