@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-07-02",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-02T05:41:37.604114+00:00",
+  "updated": "2026-07-02T05:45:40.506149+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -136,7 +136,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From corridor of line 11 platforms to corridor leading to line 6 platforms Out of service due to check-up",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Abrantes esq. Papagayo and Alfonso Martínez Conde to lobby Out of service due to check-up. Com",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
