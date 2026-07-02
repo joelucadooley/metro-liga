@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-07-02",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-02T13:46:00.402989+00:00",
+  "updated": "2026-07-02T13:51:10.425673+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -19,7 +19,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "Monumental: Until approximately July 9th, the escalator leading from the platform toward Paral·lel to the Monumental station concourse will be out of service due to renovation work. · Monumental: Until approximately July 22nd, one of the escalators that goes up from the platform towards Badalona Pompeu Fabra to the lobby of Monumental station will be out of service for improvement work.",
+      "description": "Sagrada Família: From 02/07/2026 the Sagrada Família station of (L2) Metro line is closed for works. · Monumental: Until approximately July 9th, the escalator leading from the platform toward Paral·lel to the Monumental station concourse will be out of service due to renovation work.",
       "seasonPts": 2,
       "checks": 2,
       "wins": 0,
