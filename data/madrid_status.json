@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-07-02",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-02T19:41:34.909250+00:00",
+  "updated": "2026-07-02T19:46:31.301205+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -162,7 +162,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza de Isabel II to lobby Out of service due to check-up. Coming into service in the next ho",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service due to impr",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
