@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-07-03",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-03T21:11:34.037928+00:00",
+  "updated": "2026-07-03T21:16:39.770647+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -34,7 +34,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Valle de Tobalina to lobby Out of service due to repair works. Expected date of coming in",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Tertulia to lobby Out of service due to repair works. Expected date of coming into servic",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
