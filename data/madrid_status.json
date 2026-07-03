@@ -2,11 +2,11 @@
   "matchday": 3,
   "lastMatchDate": "2026-07-03",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-03T23:41:35.891911+00:00",
+  "updated": "2026-07-03T23:46:40.521319+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos, to mezzanine and platform on line 1 in th",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -19,8 +19,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange to lobby Out of service. We are examining the reasons for the stop. Services:",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -33,8 +33,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Tertulia to lobby Out of service due to repair works. Expected date of coming into servic",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -47,8 +47,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Felipe II esq. Alcalá of lobby Felipe II to platform on line 2 in the direction of Cuatro Caminos. There is anothe",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -61,8 +61,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Casa de Campo Out of service due to check-up. Coming into servi",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -89,8 +89,8 @@
       ]
     },
     "L7": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Waiting for information. Services: Acc",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -103,8 +103,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 8 in the directio of Aeropuerto T4 to entrance Renfe to line 10 hallway and plat",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -118,7 +118,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Herrera Oria to hallway leading to platforms Out of service. We are examining the reasons for the stop. Ser",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Puerta de Arganda Out of service due to check-up. Coming into ser",
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
@@ -173,8 +173,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service due to impr",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
