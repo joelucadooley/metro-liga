@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-07-03",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-03T10:16:28.872022+00:00",
+  "updated": "2026-07-03T10:21:45.704758+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -47,8 +47,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Alfonso XIII to hallway leading to platfom and lobby Out of service due to check-up",
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
