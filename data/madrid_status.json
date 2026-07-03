@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-07-03",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-03T20:10:40.218959+00:00",
+  "updated": "2026-07-03T20:16:32.081781+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -145,8 +145,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service due to check-up. Coming into servi",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
