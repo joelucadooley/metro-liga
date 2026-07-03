@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-07-03",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-03T15:26:32.600441+00:00",
+  "updated": "2026-07-03T15:31:42.141150+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -62,7 +62,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Casa de Campo Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Casa de Campo Out of service due to repair works. Expected d",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
