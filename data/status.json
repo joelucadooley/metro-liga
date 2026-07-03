@@ -2,11 +2,11 @@
   "matchday": 3,
   "lastMatchDate": "2026-07-03",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-03T14:31:14.077947+00:00",
+  "updated": "2026-07-03T14:35:50.364362+00:00",
   "lines": {
     "L1": {
-      "severity": "incident",
-      "description": null,
+      "severity": "minor",
+      "description": "Florida: Until approximately July 10th, the elevator connecting the lobby to the platform for trains heading toward Fondo at Florida Station will be out of service due to maintenance work. · Plaça de Sants: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work.",
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
@@ -19,8 +19,8 @@
       ]
     },
     "L2": {
-      "severity": "incident",
-      "description": null,
+      "severity": "minor",
+      "description": "Monumental: Until approximately July 9th, the escalator leading from the platform toward Paral·lel to the Monumental station concourse will be out of service due to renovation work. · Monumental: Until approximately July 22nd, one of the escalators that goes up from the platform towards Badalona Pompeu Fabra to the lobby of Monumental station will be out of service for improvement work.",
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
@@ -33,8 +33,8 @@
       ]
     },
     "L3": {
-      "severity": "incident",
-      "description": null,
+      "severity": "minor",
+      "description": "Sants Estació: Until approximately June 30th, the escalator that goes up from the platform towards Zona Universitària to the lower lobby of Sants Estació station will be out of service for improvement work.",
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
@@ -47,8 +47,8 @@
       ]
     },
     "L4": {
-      "severity": "incident",
-      "description": null,
+      "severity": "minor",
+      "description": "Joanic: Until approximately July 7th, the escalator that goes up from the platform towards Trinitat Nova to the lobby of Joanic station will be out of service for improvement work. · Verdaguer: From 13/10/2025, and for approximately 12 months, the connecting passageway between lines L4 and L5 at Verdaguer station is closed for works.",
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
@@ -61,8 +61,8 @@
       ]
     },
     "L5": {
-      "severity": "incident",
-      "description": null,
+      "severity": "minor",
+      "description": "Plaça de Sants: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work. · Verdaguer: From 13/10/2025, and for approximately 12 months, the connecting passageway between lines L4 and L5 at Verdaguer station is closed for works.",
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
@@ -131,7 +131,7 @@
       ]
     },
     "L11": {
-      "severity": "incident",
+      "severity": "clear",
       "description": null,
       "seasonPts": 9,
       "checks": 3,
