@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-07-03",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-03T22:11:29.021404+00:00",
+  "updated": "2026-07-03T22:16:25.724884+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -20,7 +20,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange to lobby Out of service due to repair works. Expected date of coming into ser",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange to lobby Out of service. We are examining the reasons for the stop. Services:",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -104,7 +104,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Príncipe de Vergara impares y pares, Plaza República Dominicana to lobby Out of service d",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 8 in the directio of Aeropuerto T4 to entrance Renfe to line 10 hallway and plat",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
