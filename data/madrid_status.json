@@ -2,11 +2,11 @@
   "matchday": 3,
   "lastMatchDate": "2026-07-03",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-03T05:56:28.288313+00:00",
+  "updated": "2026-07-03T06:02:00.463780+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos, to mezzanine and platform on line 1 in th",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Agustín de Foxá to lobby Out of service. We are examining the reasons for the stop. From lobby",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
