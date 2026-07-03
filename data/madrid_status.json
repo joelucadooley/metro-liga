@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-07-03",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-03T09:11:42.712053+00:00",
+  "updated": "2026-07-03T09:16:48.818797+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -20,7 +20,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Paseo de Ginebra to lobby Waiting for information. Services: Accessible station Lifts Esc",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Paseo de Ginebra to lobby Out of service due to repair works. Expected date of coming int",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -34,7 +34,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Valle de Tobalina to lobby Waiting for information. Services: Accessible station Lifts Es",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Valle de Tobalina to lobby Out of service due to repair works. Expected date of coming in",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -48,7 +48,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From corridor leading on lines to platform 2 on Line 1 direction Pinar de Chamartin Out of service. We are examining the reasons",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Alfonso XIII to hallway leading to platfom and lobby Out of service due to check-up",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -104,7 +104,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Príncipe de Vergara impares y pares, Plaza República Dominicana to lobby Waiting for info",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Príncipe de Vergara impares y pares, Plaza República Dominicana to lobby Out of service d",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
