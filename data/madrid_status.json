@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-07-04",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-04T20:41:29.638788+00:00",
+  "updated": "2026-07-04T20:46:27.638410+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -36,7 +36,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Tertulia to lobby Out of service due to repair works. Expected date of coming into servic",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
@@ -51,7 +51,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform hallways to platform in the direction of Pinar de Chamartín Out of service due to repair",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
