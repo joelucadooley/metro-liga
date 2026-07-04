@@ -1,18 +1,19 @@
 {
-  "matchday": 3,
-  "lastMatchDate": "2026-07-03",
+  "matchday": 4,
+  "lastMatchDate": "2026-07-04",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-03T23:57:25.267783+00:00",
+  "updated": "2026-07-04T00:02:56.435132+00:00",
   "lines": {
     "SVQ_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 9,
-      "checks": 3,
-      "wins": 3,
+      "seasonPts": 12,
+      "checks": 4,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W",
         "W",
         "W"
@@ -21,12 +22,13 @@
     "BIL_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 9,
-      "checks": 3,
-      "wins": 3,
+      "seasonPts": 12,
+      "checks": 4,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W",
         "W",
         "W"
@@ -35,12 +37,13 @@
     "BIL_L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 9,
-      "checks": 3,
-      "wins": 3,
+      "seasonPts": 12,
+      "checks": 4,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W",
         "W",
         "W"
@@ -49,12 +52,13 @@
     "MAL_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 9,
-      "checks": 3,
-      "wins": 3,
+      "seasonPts": 12,
+      "checks": 4,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W",
         "W",
         "W"
@@ -63,12 +67,13 @@
     "MAL_L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 9,
-      "checks": 3,
-      "wins": 3,
+      "seasonPts": 12,
+      "checks": 4,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W",
         "W",
         "W"
@@ -77,12 +82,13 @@
     "GRN_L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 9,
-      "checks": 3,
-      "wins": 3,
+      "seasonPts": 12,
+      "checks": 4,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W",
         "W",
         "W"
@@ -91,12 +97,13 @@
     "PMI_M1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 9,
-      "checks": 3,
-      "wins": 3,
+      "seasonPts": 12,
+      "checks": 4,
+      "wins": 4,
       "draws": 0,
       "losses": 0,
       "recentForm": [
+        "W",
         "W",
         "W",
         "W"
