@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-07-04",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-04T04:26:22.313849+00:00",
+  "updated": "2026-07-04T04:31:44.330755+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -36,7 +36,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Andalucía pares to lobby Out of service due to check-up. Coming into service in",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Tertulia to lobby Out of service due to repair works. Expected date of coming into servic",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
@@ -51,7 +51,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 4 and line 5 and corridor of line 10 platforms to platform in the direction of Tres Olivos Out o",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform hallways to platform in the direction of Pinar de Chamartín Out of service due to repair",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
@@ -156,7 +156,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Avda. Carabanchel Alto Out of service due to check-up. Coming into service in th",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
