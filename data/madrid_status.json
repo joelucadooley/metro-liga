@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-07-04",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-04T11:10:43.221300+00:00",
+  "updated": "2026-07-04T11:16:26.376170+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -111,7 +111,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Aeropuerto T4 Out of service. We are examining the reasons f",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms on lines 8 and 9 Out of service due to check-up. Coming int",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
