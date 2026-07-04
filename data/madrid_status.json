@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-07-04",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-04T11:56:27.981080+00:00",
+  "updated": "2026-07-04T12:01:54.144828+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -186,7 +186,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service due to impr",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
