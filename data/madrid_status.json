@@ -2,11 +2,11 @@
   "matchday": 5,
   "lastMatchDate": "2026-07-05",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-05T07:26:14.430103+00:00",
+  "updated": "2026-07-05T07:31:39.157323+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Arturo Soria to lobby Out of service due to check-up. Coming into service in the next hou",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Paseo de Ginebra to lobby Waiting for information. Services: Accessible station Lifts Esc",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Tertulia to lobby Out of service due to repair works. Expected date of coming into servic",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform 1 of Line 7 to the interchange corridor of Line 9 Out of service. We are examining the reasons",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Alameda de Osuna Out of service due to check-up. Coming into se",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Waiting for information. Services: Acc",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Aeropuerto T4 Waiting for information. Services: Accessible",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Mirasierra to lobby Out of service due to check-up. Coming into service in the next hours",
       "seasonPts": 5,
       "checks": 5,
       "wins": 0,
@@ -149,8 +149,8 @@
       ]
     },
     "L10": {
-      "severity": "clear",
-      "description": null,
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 0,
       "checks": 5,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Avda. Carabanchel Alto Out of service due to check-up. Coming into service in th",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service due to impr",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
