@@ -2,7 +2,7 @@
   "matchday": 5,
   "lastMatchDate": "2026-07-05",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-05T11:41:42.877583+00:00",
+  "updated": "2026-07-05T11:46:44.459709+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 9 in the direction of Puerta de Arganda. There is a",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform on line 1 in the direction of Pinar de Chamartín Out of service. We are ex",
       "seasonPts": 5,
       "checks": 5,
       "wins": 0,
