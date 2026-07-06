@@ -1,15 +1,15 @@
 {
-  "matchday": 5,
-  "lastMatchDate": "2026-07-05",
+  "matchday": 6,
+  "lastMatchDate": "2026-07-06",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-05T23:56:21.569128+00:00",
+  "updated": "2026-07-06T00:01:56.797015+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 15,
-      "checks": 5,
-      "wins": 5,
+      "seasonPts": 18,
+      "checks": 6,
+      "wins": 6,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -23,9 +23,9 @@
     "L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 15,
-      "checks": 5,
-      "wins": 5,
+      "seasonPts": 18,
+      "checks": 6,
+      "wins": 6,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -39,9 +39,9 @@
     "L3": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 15,
-      "checks": 5,
-      "wins": 5,
+      "seasonPts": 18,
+      "checks": 6,
+      "wins": 6,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -55,9 +55,9 @@
     "L4": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 15,
-      "checks": 5,
-      "wins": 5,
+      "seasonPts": 18,
+      "checks": 6,
+      "wins": 6,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -69,11 +69,11 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Alameda de Osuna Out of service due to check-up. Coming into se",
-      "seasonPts": 15,
-      "checks": 5,
-      "wins": 5,
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 18,
+      "checks": 6,
+      "wins": 6,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -87,9 +87,9 @@
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 15,
-      "checks": 5,
-      "wins": 5,
+      "seasonPts": 18,
+      "checks": 6,
+      "wins": 6,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -103,9 +103,9 @@
     "L7": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 15,
-      "checks": 5,
-      "wins": 5,
+      "seasonPts": 18,
+      "checks": 6,
+      "wins": 6,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -119,9 +119,9 @@
     "L8": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 15,
-      "checks": 5,
-      "wins": 5,
+      "seasonPts": 18,
+      "checks": 6,
+      "wins": 6,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -134,11 +134,11 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Puerta de Arganda Out of service due to check-up. Coming into ser",
-      "seasonPts": 5,
-      "checks": 5,
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service due to check-up. Coming into service in the next hours. Servic",
+      "seasonPts": 6,
+      "checks": 6,
       "wins": 0,
-      "draws": 5,
+      "draws": 6,
       "losses": 0,
       "recentForm": [
         "D",
@@ -152,10 +152,10 @@
       "severity": "incident",
       "description": "Service disruption reported",
       "seasonPts": 0,
-      "checks": 5,
+      "checks": 6,
       "wins": 0,
       "draws": 0,
-      "losses": 5,
+      "losses": 6,
       "recentForm": [
         "L",
         "L",
@@ -167,9 +167,9 @@
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 15,
-      "checks": 5,
-      "wins": 5,
+      "seasonPts": 18,
+      "checks": 6,
+      "wins": 6,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -183,9 +183,9 @@
     "L12": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 15,
-      "checks": 5,
-      "wins": 5,
+      "seasonPts": 18,
+      "checks": 6,
+      "wins": 6,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -199,9 +199,9 @@
     "R": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 15,
-      "checks": 5,
-      "wins": 5,
+      "seasonPts": 18,
+      "checks": 6,
+      "wins": 6,
       "draws": 0,
       "losses": 0,
       "recentForm": [
