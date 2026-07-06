@@ -2,11 +2,11 @@
   "matchday": 6,
   "lastMatchDate": "2026-07-06",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-06T02:55:55.191885+00:00",
+  "updated": "2026-07-06T03:01:29.645145+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "Florida: Until approximately July 10th, the elevator connecting the lobby to the platform for trains heading toward Fondo at Florida Station will be out of service due to maintenance work. · Catalunya: From 06/07/2026 the connection halls between the L1, L3 and L1, L3 Metro lines at Catalunya, Catalunya station are closed for works.",
+      "description": "Florida: Until approximately July 10th, the elevator connecting the lobby to the platform for trains heading toward Fondo at Florida Station will be out of service due to maintenance work. · Torras i Bages: Until approximately July 15th, the Palomar/Costat Mar entrance at the Torras i Bages station will be closed due to improvement work.",
       "seasonPts": 6,
       "checks": 6,
       "wins": 0,
