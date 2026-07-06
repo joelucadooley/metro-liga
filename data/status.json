@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-07-06",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-06T08:21:02.024837+00:00",
+  "updated": "2026-07-06T08:25:53.732840+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "Joanic: Until approximately July 7th, the escalator that goes up from the platform towards Trinitat Nova to the lobby of Joanic station will be out of service for improvement work. · Verdaguer: From 13/10/2025, and for approximately 12 months, the connecting passageway between lines L4 and L5 at Verdaguer station is closed for works.",
+      "description": "Joanic: Until approximately July 7th, the escalator that goes up from the platform towards Trinitat Nova to the lobby of Joanic station will be out of service for improvement work.",
       "seasonPts": 6,
       "checks": 6,
       "wins": 0,
