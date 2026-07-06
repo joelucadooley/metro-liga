@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-07-06",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-06T16:56:25.179717+00:00",
+  "updated": "2026-07-06T17:01:56.964035+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Mayor and platform on line 2 in the direction of Cuatro Caminos to hallway leading on lines and p",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Felipe II esq. Alcalá of lobby Felipe II to platform on line 2 in the direction of Cuatro Caminos. There is anothe",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 4 in the direction of Pinar de Chamartín to platform on line 8 in the direction",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Felipe II esq. Alcalá of lobby Felipe II to platform on line 2 in the direction of Cuatro Caminos. There is anothe",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service due to repair works. Ex",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Hospital del Henares to lobby Waiting for information. From lobby to platform in the dire",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Puerta de Arganda to hallway leading to platform to line 9",
       "seasonPts": 6,
       "checks": 6,
       "wins": 0,
