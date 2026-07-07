@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-07-07",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-07T15:41:33.559022+00:00",
+  "updated": "2026-07-07T15:46:26.566481+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Maria de Molina to Interchange Levels 5 and 6 and to platform 1 of Line 6. There is another eleva",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of line 5 and line 6 platforms to platform 2 on line 6 in the direction of Avda. de América Out of servic",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
