@@ -2,11 +2,11 @@
   "matchday": 7,
   "lastMatchDate": "2026-07-07",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-07T14:25:59.564244+00:00",
+  "updated": "2026-07-07T14:31:17.166615+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "Florida: Until approximately July 10th, the elevator connecting the lobby to the platform for trains heading toward Fondo at Florida Station will be out of service due to maintenance work. · Torras i Bages: Until approximately July 15th, the Palomar/Costat Mar entrance at the Torras i Bages station will be closed due to improvement work.",
+      "severity": "incident",
+      "description": null,
       "seasonPts": 7,
       "checks": 7,
       "wins": 0,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "Monumental: Until approximately July 9th, the escalator leading from the platform toward Paral·lel to the Monumental station concourse will be out of service due to renovation work. · Monumental: Until approximately July 22nd, one of the escalators that goes up from the platform towards Badalona Pompeu Fabra to the lobby of Monumental station will be out of service for improvement work.",
+      "severity": "incident",
+      "description": null,
       "seasonPts": 7,
       "checks": 7,
       "wins": 0,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "Sants Estació: Until approximately June 30th, the escalator that goes up from the platform towards Zona Universitària to the lower lobby of Sants Estació station will be out of service for improvement work. · Catalunya: From 06/07/2026 the connection halls between the L1, L3 and L1, L3 Metro lines at Catalunya, Catalunya station are closed for works.",
+      "severity": "incident",
+      "description": null,
       "seasonPts": 7,
       "checks": 7,
       "wins": 0,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "Joanic: Until approximately July 7th, the escalator that goes up from the platform towards Trinitat Nova to the lobby of Joanic station will be out of service for improvement work.",
+      "severity": "incident",
+      "description": null,
       "seasonPts": 7,
       "checks": 7,
       "wins": 0,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "Vall d'Hebron: Until August 16 d'agost, aproximately, the escalator at the Avinguda Jordà access at Vall d'Hebron station, is out of service due to maintenance works. · Plaça de Sants: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work.",
+      "severity": "incident",
+      "description": null,
       "seasonPts": 7,
       "checks": 7,
       "wins": 0,
@@ -149,7 +149,7 @@
       ]
     },
     "L11": {
-      "severity": "clear",
+      "severity": "incident",
       "description": null,
       "seasonPts": 21,
       "checks": 7,
