@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-07-07",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-07T09:56:25.762152+00:00",
+  "updated": "2026-07-07T10:01:51.702934+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Ramón and Cajal pares e impares to lobby Out of service due to check-up. Coming into service in the next",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Juan Bravo to hallway for lines 4, 5 and 6 Out of service. We are examining the reasons for the stop. Serv",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service due to repair works. Expected",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Juan Bravo to hallway for lines 4, 5 and 6 Out of service. We are examining the reasons for the stop. Serv",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
