@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-07-07",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-07T13:26:24.052594+00:00",
+  "updated": "2026-07-07T13:31:43.151118+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Casa de Campo Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Emilio Ferrari to platform on line 5 Out of service. We are examining the reasons for the stop. S",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Pabellones Pares to lobby Out of service. We are examining the reasons for the stop. Services:",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Pabellones Pares to lobby Waiting for information. Services: Accessible station Lifts Escalato",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Avda. Carabanchel Alto Out of service due to repair works. Expected date of comi",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
