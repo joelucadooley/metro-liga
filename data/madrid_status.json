@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-07-07",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-07T17:56:20.447592+00:00",
+  "updated": "2026-07-07T18:02:00.095684+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Emilio Ferrari to platform on line 5 Out of service. We are examining the reasons for the stop. S",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Alameda de Osuna Out of service. We are examining the reasons f",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,

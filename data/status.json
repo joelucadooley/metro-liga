@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-07-07",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-07T17:55:51.308156+00:00",
+  "updated": "2026-07-07T18:01:29.708674+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "Joanic: Until approximately July 7th, the escalator that goes up from the platform towards Trinitat Nova to the lobby of Joanic station will be out of service for improvement work.",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 7,
       "checks": 7,
       "wins": 0,
