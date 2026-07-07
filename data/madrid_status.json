@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-07-07",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-07T21:26:28.352539+00:00",
+  "updated": "2026-07-07T21:44:42.827262+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Avda. Marqués de Corbera Out of service. We are examining the reasons for the st",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Paseo de Ginebra to lobby Out of service. We are examining the reasons for the stop. Services:",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 4 and line 5 and hallway from line 10 platforms to line 10 platform in the direction of Puerta d",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana to lobby Castellana. There is another lift in the same location Waiting for informa",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial corridor line 6 to platform 2 line 6 in the direction of Republica Argentina Out",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Paco de Lucía to hallway leading to platforms to lobby Melchor Fernández Almagro Ou",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Puerta de Arganda to hallway leading to platform to line 9",
       "seasonPts": 7,
       "checks": 7,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 11 in the direction of La Fortuna to corridor leading on line 6 Out of service du",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on Line 6 to platform 1 in the direction Usera Out of service. We are e",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
