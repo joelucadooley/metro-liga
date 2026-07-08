@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-07-08",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-08T22:11:36.227712+00:00",
+  "updated": "2026-07-08T22:16:42.601422+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Alameda de Osuna Out of service. We are examining the reasons f",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Herrera Oria to hallway leading to platforms Out of service due to repair works. Expected date of coming in",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Herrera Oria to hallway leading to platforms Waiting for information. Services: Escalators Defibrillator Mo",
       "seasonPts": 8,
       "checks": 8,
       "wins": 0,
@@ -198,7 +198,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service due to impr",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Waiting for information. S",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
