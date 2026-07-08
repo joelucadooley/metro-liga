@@ -2,11 +2,11 @@
   "matchday": 8,
   "lastMatchDate": "2026-07-08",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-08T05:42:17.463834+00:00",
+  "updated": "2026-07-08T05:47:04.297088+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "N DATA Issue: Due to technical reasons, delays in L1. Search Search home Metro Bilbao network Map and network status Map of the network status Lines and zone maps Use the map to find out about the stations, lines and areas of the network of Metro Bil",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
