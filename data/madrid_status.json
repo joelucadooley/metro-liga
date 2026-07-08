@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-07-08",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-08T20:26:39.092211+00:00",
+  "updated": "2026-07-08T20:31:47.569451+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service due to repair works. Expected",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Alameda de Osuna Out of service due to check-up. Coming into se",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Paseo de la Castellana pares to line 8 platform in the direction of Aeropuerto T4 Out of ser",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
