@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-07-08",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-08T16:41:35.418555+00:00",
+  "updated": "2026-07-08T16:46:28.943978+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From hallway Renfe to hallway leading to line 10 in the direction of Tres Olivos and line 8 in the dire",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
