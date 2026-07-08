@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-07-08",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-08T06:55:51.714376+00:00",
+  "updated": "2026-07-08T07:01:20.095592+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "Maragall: Until August 4th, the escalator connecting the lobby and the Trinitat Nova plattform, at Maragall station, out of service due to improvement works.",
       "seasonPts": 10,
       "checks": 8,
       "wins": 1,
