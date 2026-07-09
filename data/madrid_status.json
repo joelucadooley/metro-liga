@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-07-09",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-09T17:26:27.228136+00:00",
+  "updated": "2026-07-09T17:31:53.764768+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Glorieta Mar de Cristal Out of service due to check-up. Coming into service in t",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
