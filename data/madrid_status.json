@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-07-09",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-09T11:06:21.866691+00:00",
+  "updated": "2026-07-09T11:16:37.767398+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform hallways to platform in the direction of Cuatro Caminos Waiting for information. Service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Las Rosas Out of service due to check-up. Coming into servic",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Plaza de Callao to platform on line 5 in the direction of Casa de Campo Out of service. We are ex",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Casa de Campo Out of service due to check-up. Coming into se",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
