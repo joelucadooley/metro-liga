@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-07-09",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-09T06:26:26.989316+00:00",
+  "updated": "2026-07-09T06:31:55.208622+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Mayor and platform on line 2 in the direction of Cuatro Caminos to hallway leading on lines and p",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Paseo de Ginebra to lobby Out of service. We are examining the reasons for the stop. Serv",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service. We are examining the reasons f",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
