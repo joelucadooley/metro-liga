@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-07-09",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-09T08:11:51.088820+00:00",
+  "updated": "2026-07-09T08:21:47.101355+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Interchange to platform on line 4 in the direction of Pinar de Chamartin and platform on line 6 i",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Arturo Soria to hallway leading to platforms Out of service due to check-up. Coming into service in the nex",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service due to repair works. Expected",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Plaza de Callao to platform on line 5 in the direction of Casa de Campo Out of service. We are ex",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance San José to lobby Out of service due to check-up. Coming into service in the next hours.",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
