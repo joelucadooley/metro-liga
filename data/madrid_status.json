@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-07-10",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-10T06:26:33.415820+00:00",
+  "updated": "2026-07-10T06:31:45.635416+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Preciados to platform on line 3 in the direction of El Casar Out of service due to check-up.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Agustín de Betancourt and Orense to lobby Orense Out of service due to check-up. Coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Aeropuerto T4 Out of service. We are examining the reasons f",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
