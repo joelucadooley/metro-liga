@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-07-10",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-10T17:56:31.400008+00:00",
+  "updated": "2026-07-10T18:02:03.020113+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms on line 6 Out of service. We are examining the reasons for the stop. Servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Pinar de Chamartín Out of service due to repair works. Expected",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Maria de Molina to Interchange Levels 5 and 6 and to platform 1 of Line 6. There is another eleva",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -198,7 +198,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service due to impr",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
