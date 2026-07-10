@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-07-10",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-10T04:56:19.963149+00:00",
+  "updated": "2026-07-10T05:01:54.033630+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Aeropuerto T4 Out of service. We are examining the reasons f",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Agustín de Betancourt and Orense to lobby Orense Out of service due to check-up. Coming",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
