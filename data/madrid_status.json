@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-07-10",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-10T04:26:25.806263+00:00",
+  "updated": "2026-07-10T04:32:20.970037+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Paseo de Ginebra to lobby Out of service due to check-up. Coming into service in the next",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Mayor and platform on line 2 in the direction of Cuatro Caminos to hallway leading on lines and p",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Pedro de Valdivia to lobby Francisco Silvela Out of service due to check-up. Coming into",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 6 to hallway of line 7 Out of service. We are examining the reasons for the stop.",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 8 in the direction of Colombia to entrance Renfe and corridor leading to line 6",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Orense to lobby Orense Out of service due to check-up. Coming into service in the next ho",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Puerta de Arganda to hallway leading to platform to line 9",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Mondariz to hallway leading to platforms Out of service due to check-up. Coming into service in the n",
       "seasonPts": 10,
       "checks": 10,
       "wins": 0,
