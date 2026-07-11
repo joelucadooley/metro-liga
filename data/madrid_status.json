@@ -2,7 +2,7 @@
   "matchday": 11,
   "lastMatchDate": "2026-07-11",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-11T05:56:30.286536+00:00",
+  "updated": "2026-07-11T06:01:59.971142+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Plaza de Callao to platform on line 5 in the direction of Casa de Campo Out of service due to rep",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Canillejas to hallway leading to platforms Out of service. We are examining the reasons for the stop. Servi",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
