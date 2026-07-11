@@ -2,7 +2,7 @@
   "matchday": 11,
   "lastMatchDate": "2026-07-11",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-11T05:41:39.734011+00:00",
+  "updated": "2026-07-11T05:46:34.955962+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service due to check-up. Coming into s",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Plaza de Callao to platform on line 5 in the direction of Casa de Campo Out of service due to rep",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Mondariz to hallway leading to platforms Waiting for information. From lobby Plaza Mondariz to hallwa",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Mondariz to hallway leading to platforms Waiting for information. Services: Escalators Defibrillator",
       "seasonPts": 11,
       "checks": 11,
       "wins": 0,
