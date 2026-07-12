@@ -2,11 +2,11 @@
   "matchday": 12,
   "lastMatchDate": "2026-07-12",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-12T06:26:23.813416+00:00",
+  "updated": "2026-07-12T06:31:53.110718+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Pinar de Chamartín Out of service due to check-up. Coming in",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Pinar de Chamartín Out of service. We are examining the reas",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -198,7 +198,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service due to impr",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 5 in the direction of Casa de Campo Waiting for information. From lobby",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
