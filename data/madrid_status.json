@@ -2,7 +2,7 @@
   "matchday": 12,
   "lastMatchDate": "2026-07-12",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-12T19:41:41.711300+00:00",
+  "updated": "2026-07-12T19:46:28.321091+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platform 1 on l",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Plaza Elíptica Waiting for information. Services: Accessible stat",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
