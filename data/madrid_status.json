@@ -2,7 +2,7 @@
   "matchday": 12,
   "lastMatchDate": "2026-07-12",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-12T08:26:19.779586+00:00",
+  "updated": "2026-07-12T08:31:47.876897+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Plaza de Callao to platform on line 5 in the direction of Casa de Campo Out of service due to rep",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From platform on line 5 in the direction of Alameda de Osuna to hallway leading to platforms to line 7 O",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
