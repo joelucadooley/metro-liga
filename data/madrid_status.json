@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-07-13",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-13T05:11:36.900355+00:00",
+  "updated": "2026-07-13T05:16:32.842969+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Las Rosas Out of service due to check-up. Coming into servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Paseo de Ginebra to lobby Out of service. We are examining the reasons for the stop. Services:",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
