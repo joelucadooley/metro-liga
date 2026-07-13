@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-07-13",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-13T08:56:23.538295+00:00",
+  "updated": "2026-07-13T09:01:58.758099+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform 2 of Line 7 to the interchange corridor of Line 9 and to platform 1 of Line 9 Out of service.",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Felipe II esq. Alcalá of lobby Felipe II to platform on line 2 in the direction of Cuatro Caminos. There is anothe",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service. We are examining the reasons",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service due to check-up. Coming into s",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
