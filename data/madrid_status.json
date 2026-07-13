@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-07-13",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-13T12:41:41.069793+00:00",
+  "updated": "2026-07-13T12:46:31.528342+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera to hallway for platforms on line 6 and hallway platforms on line 11 Out of se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Waiting for information. Services: Accessible sta",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
