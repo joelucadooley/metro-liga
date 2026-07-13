@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-07-13",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-13T13:26:23.596425+00:00",
+  "updated": "2026-07-13T13:32:09.009702+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrances Plaza Marqués de Salamanca and aparcamiento of lobby Marqués de Salamanca to lobby Out of service. We a",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Plaza de Callao to platform on line 5 in the direction of Casa de Campo Out of service due to rep",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
@@ -198,7 +198,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service due to impr",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
