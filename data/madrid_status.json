@@ -2,7 +2,7 @@
   "matchday": 14,
   "lastMatchDate": "2026-07-14",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-14T05:56:26.195051+00:00",
+  "updated": "2026-07-14T06:02:02.387978+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Orense to hallway leading to line 6 platforms and platform 2 on line 6 in the di",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Agustín de Betancourt and Orense to lobby Orense Out of service due to check-up. Coming",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Plaza de Castilla to hallway and line 1 platform in the direction Valdecarros and lobby Bra",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Paco de Lucía Out of service due to repair works. Expected date",
       "seasonPts": 14,
       "checks": 14,
       "wins": 0,
