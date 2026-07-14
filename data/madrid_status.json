@@ -2,7 +2,7 @@
   "matchday": 14,
   "lastMatchDate": "2026-07-14",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-14T21:41:43.038986+00:00",
+  "updated": "2026-07-14T21:46:35.970722+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Agustín de Betancourt and Orense to lobby Orense Out of service due to repair works. Exp",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial corridor line 6 to platform 2 line 6 in the direction of Republica Argentina Out",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From corridor of line 11 platforms to corridor leading to line 6 platforms Out of service due to check-up",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platforms on li",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
