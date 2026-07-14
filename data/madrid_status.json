@@ -2,7 +2,7 @@
   "matchday": 14,
   "lastMatchDate": "2026-07-14",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-14T17:56:42.214632+00:00",
+  "updated": "2026-07-14T18:02:21.140345+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana to lobby Castellana Out of service. We are examining the reasons for the stop. Serv",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Paco de Lucía Out of service due to repair works. Expected date",
       "seasonPts": 14,
       "checks": 14,
       "wins": 0,
