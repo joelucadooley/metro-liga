@@ -2,7 +2,7 @@
   "matchday": 14,
   "lastMatchDate": "2026-07-14",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-14T22:41:39.015578+00:00",
+  "updated": "2026-07-14T22:46:30.339658+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Pinos de Osuna to lobby Pinos de Osuna Waiting for information. From entrance Pinos de Os",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Pinos de Osuna to lobby Pinos de Osuna Waiting for information. Services: Accessible stat",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
