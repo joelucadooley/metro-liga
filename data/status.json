@@ -2,11 +2,11 @@
   "matchday": 14,
   "lastMatchDate": "2026-07-14",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-14T07:06:04.537072+00:00",
+  "updated": "2026-07-14T07:11:15.825608+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "Torras i Bages: Until approximately July 15th, the Palomar/Costat Mar entrance at the Torras i Bages station will be closed due to improvement work. · Catalunya: From 06/07/2026 the connection halls between the L1, L3 and L1, L3 Metro lines at Catalunya, Catalunya station are closed for works.",
+      "description": "Torras i Bages: Until approximately August 15th, the Palomar/Costat Mar entrance at the Torras i Bages station will be closed due to improvement work. · Catalunya: From 06/07/2026 the connection halls between the L1, L3 and L1, L3 Metro lines at Catalunya, Catalunya station are closed for works.",
       "seasonPts": 14,
       "checks": 14,
       "wins": 0,
