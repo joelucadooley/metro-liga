@@ -2,7 +2,7 @@
   "matchday": 15,
   "lastMatchDate": "2026-07-15",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-15T14:26:30.619989+00:00",
+  "updated": "2026-07-15T14:32:06.293140+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to corridor leading on line 1-9 y 10 Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange Surface to lobby Plaza de Castilla Out of service. We are examining the reaso",
       "seasonPts": 15,
       "checks": 15,
       "wins": 0,
