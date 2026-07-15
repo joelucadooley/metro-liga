@@ -2,7 +2,7 @@
   "matchday": 15,
   "lastMatchDate": "2026-07-15",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-15T19:26:53.056926+00:00",
+  "updated": "2026-07-15T19:32:05.632354+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance San José to lobby Out of service. We are examining the reasons for the stop. Services: Ac",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
