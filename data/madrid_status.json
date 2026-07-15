@@ -2,11 +2,11 @@
   "matchday": 15,
   "lastMatchDate": "2026-07-15",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-15T17:41:43.203980+00:00",
+  "updated": "2026-07-15T17:46:30.711445+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 10 in the direction Tres Olivos Out of service due to repair works. Expe",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos, to mezzanine and platform on line 1 in th",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service due to check-up. Coming into s",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Antonio Palacios to Museum Out of service. We are examining the reasons for the stop. Servic",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
