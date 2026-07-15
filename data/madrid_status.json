@@ -2,7 +2,7 @@
   "matchday": 15,
   "lastMatchDate": "2026-07-15",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-15T08:56:23.480493+00:00",
+  "updated": "2026-07-15T09:02:08.587373+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana to lobby Castellana. There is another lift in the same location Waiting for informa",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Agustín de Betancourt and Orense to lobby Orense Out of service due to check-up. Coming",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
