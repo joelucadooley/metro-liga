@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-07-16",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-16T14:41:43.432674+00:00",
+  "updated": "2026-07-16T14:46:48.674747+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 4 in the direction of Argüelles to platform on line 8 in the direction of Aeropu",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
