@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-07-16",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-16T05:26:25.907769+00:00",
+  "updated": "2026-07-16T05:31:51.449444+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Herrera Oria to hallway leading to platforms Out of service. We are examining the reasons for the stop. Ser",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Costa Brava to lobby Out of service. We are examining the reasons for the stop. Services: Acce",
       "seasonPts": 16,
       "checks": 16,
       "wins": 0,
