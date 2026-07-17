@@ -2,7 +2,7 @@
   "matchday": 17,
   "lastMatchDate": "2026-07-17",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-17T07:02:44.743486+00:00",
+  "updated": "2026-07-17T07:06:37.122471+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Paco de Lucía Out of service due to repair works. Expected date",
       "seasonPts": 17,
       "checks": 17,
       "wins": 0,
