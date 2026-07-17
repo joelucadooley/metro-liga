@@ -2,7 +2,7 @@
   "matchday": 17,
   "lastMatchDate": "2026-07-17",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-17T22:56:30.334575+00:00",
+  "updated": "2026-07-17T23:01:55.365248+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Velero of lobby Velero to lobby Out of service due to check-up. Coming into service in th",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Antonio Palacios to Museum Out of service. We are examining the reasons for the stop. Servic",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
