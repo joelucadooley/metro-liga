@@ -2,7 +2,7 @@
   "matchday": 17,
   "lastMatchDate": "2026-07-17",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-17T18:11:37.118768+00:00",
+  "updated": "2026-07-17T18:16:27.460308+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 6 platforms to platform 1 on line 6 in the direction of Arganzuela-Planetario Out",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 10 platforms to platform on line 10 in the direction of Puerta del Sur Out of serv",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Arturo Soria to hallway leading to platforms Out of service. We are examining the reasons for the stop. Fro",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 7 to hallway leading to line 7 and hallway leading to line 6 Out of servi",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
