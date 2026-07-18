@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-07-18",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-18T20:41:24.746601+00:00",
+  "updated": "2026-07-18T20:46:30.207019+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Antonio Palacios to Museum Out of service. We are examining the reasons for the stop. Servic",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
