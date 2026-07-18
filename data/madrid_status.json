@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-07-18",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-18T11:26:30.512362+00:00",
+  "updated": "2026-07-18T11:31:46.574853+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Glorieta de Bilbao semiesq. Luchana to lobby central Out of service due to check-up. Coming into service in the ne",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Pinar de Chamartín Out of service due to repair works. Expected",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
