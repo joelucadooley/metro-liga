@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-07-18",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-18T20:56:20.936347+00:00",
+  "updated": "2026-07-18T21:02:03.927081+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Antonio Palacios to Museum Out of service. We are examining the reasons for the stop. Servic",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform on line 5 in the direction of Alameda de Osuna to hallway leading to platforms to line 5 and hallway le",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
