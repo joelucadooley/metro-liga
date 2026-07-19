@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-07-19",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-19T20:26:29.393481+00:00",
+  "updated": "2026-07-19T20:29:58.095007+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Glorieta Mar de Cristal Out of service due to check-up. Coming into service in t",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From corridor of line 11 platforms to corridor leading to line 6 platforms Out of service due to check-up",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Avda. Carabanchel Alto Out of service. We are examining the reasons for the stop",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
