@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-07-19",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-19T20:11:35.758742+00:00",
+  "updated": "2026-07-19T20:16:46.252366+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Waiting for information. S",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Guadalajara to lobby Waiting for information. Services: Accessible station Lifts",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
