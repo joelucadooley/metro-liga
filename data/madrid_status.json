@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-07-19",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-19T11:41:26.744467+00:00",
+  "updated": "2026-07-19T11:46:22.102271+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 4 and line 5 and corridor of line 10 platforms to platform in the direction of Tres Olivos Out o",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
