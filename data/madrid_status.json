@@ -2,11 +2,11 @@
   "matchday": 19,
   "lastMatchDate": "2026-07-19",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-19T10:56:18.597917+00:00",
+  "updated": "2026-07-19T11:01:43.117459+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform on line 1 in the direction of Valdecarros and central platform on line 4",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby central to hallway leading to platforms on line 6. There is another lift in the same location Out",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
