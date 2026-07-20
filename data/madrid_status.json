@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-07-20",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-20T10:11:29.128283+00:00",
+  "updated": "2026-07-20T10:16:27.393620+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of lobby Manuel Montilla to platform in the direction of Puerta de Arganda Out of service due to check-up",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of lobby Manuel Montilla to platform in the direction of Paco de Lucía Out of service due to check-up. Co",
       "seasonPts": 20,
       "checks": 20,
       "wins": 0,
