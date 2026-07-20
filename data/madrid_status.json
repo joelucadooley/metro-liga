@@ -2,11 +2,11 @@
   "matchday": 20,
   "lastMatchDate": "2026-07-20",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-20T15:56:33.645205+00:00",
+  "updated": "2026-07-20T16:03:20.065798+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line ML1 in the direction of Las Tablas Out of service. We are examining the reasons",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to repair works. Expected date of co",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
