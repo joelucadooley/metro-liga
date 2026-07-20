@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-07-20",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-20T16:56:30.021476+00:00",
+  "updated": "2026-07-20T17:01:45.428255+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Alameda de Osuna to lobby A. López Casero Out of service. We are examining the reas",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to repair works. Expected date of co",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
