@@ -2,7 +2,7 @@
   "matchday": 21,
   "lastMatchDate": "2026-07-21",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-21T19:06:24.294167+00:00",
+  "updated": "2026-07-21T19:11:50.148576+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Gitanilla to lobby Waiting for information. Escalators From entrance Avda. del Casar to lobby",
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
