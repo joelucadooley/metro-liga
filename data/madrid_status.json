@@ -2,7 +2,7 @@
   "matchday": 21,
   "lastMatchDate": "2026-07-21",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-21T11:56:24.468722+00:00",
+  "updated": "2026-07-21T12:02:02.890516+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Paco de Lucía to hallway leading to platforms to lobby Herrera Oria Out of service.",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Avda. de Asturias to lobby Out of service. We are examining the reasons for the stop. Services: Escalato",
       "seasonPts": 21,
       "checks": 21,
       "wins": 0,
