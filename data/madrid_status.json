@@ -2,7 +2,7 @@
   "matchday": 21,
   "lastMatchDate": "2026-07-21",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-21T04:41:30.928605+00:00",
+  "updated": "2026-07-21T04:46:39.999975+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform line 8 in the direction of Aeropuerto T4 and platform line 10 in the direc",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
