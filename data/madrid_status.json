@@ -2,11 +2,11 @@
   "matchday": 22,
   "lastMatchDate": "2026-07-22",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-22T12:11:52.302029+00:00",
+  "updated": "2026-07-22T12:16:31.451418+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 1 in the direction of Valdecarros to hallway leading to lines and lobby Bravo Mur",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service due to impr",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Casa de Campo Out of service due to check-up. Coming into se",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
