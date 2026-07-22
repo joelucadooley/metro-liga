@@ -2,11 +2,11 @@
   "matchday": 22,
   "lastMatchDate": "2026-07-22",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-22T23:41:36.761191+00:00",
+  "updated": "2026-07-22T23:46:30.228388+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central on line 1 in the direction of Valdecarros and platform central on line 4 in t",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in the next",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. del Casar to lobby Out of service due to improvement works. Expected date of coming",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 y on line 4 to platform 1 on line 6 in the direction of Prínc",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service due to repair works. Ex",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial corridor line 6 to platform 2 line 6 in the direction of Republica Argentina Out",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Fermín Caballero to hallway leading to platforms Waiting for information. Services: Escalators Defibrillato",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service due to check-up. Coming into service in the next hours. Servic",
       "seasonPts": 22,
       "checks": 22,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service due to impr",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
