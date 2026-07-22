@@ -2,11 +2,11 @@
   "matchday": 22,
   "lastMatchDate": "2026-07-22",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-22T07:56:25.654965+00:00",
+  "updated": "2026-07-22T08:01:45.599270+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Pinar de Chamartín Out of service. We are examining the reas",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 1 in the direction of Valdecarros to hallway leading to lines and lobby Bravo Mur",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service due to impr",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform on line 1 in the direction of Valdecarros Out of service. We are examining the",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service due to impr",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Juan Bravo to hallway for platforms on line 5 Out of service. We are examining the reasons for the stop. Se",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
