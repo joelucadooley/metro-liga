@@ -2,7 +2,7 @@
   "matchday": 23,
   "lastMatchDate": "2026-07-23",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-23T12:26:22.761568+00:00",
+  "updated": "2026-07-23T12:31:43.420905+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Arriaga esq. Francisco Largo Caballero to lobby Out of service. We are examining the reasons f",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Waiting for information. S",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
