@@ -2,7 +2,7 @@
   "matchday": 23,
   "lastMatchDate": "2026-07-23",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-23T04:40:29.379102+00:00",
+  "updated": "2026-07-23T04:46:26.944228+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Velero of lobby Velero to lobby Out of service due to check-up. Coming into service in th",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform on line 5 in the direction of Casa de Campo to hallway leading to platforms to line 5 and hallway lead",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby of Via Lusitana to Interchange, intermediate level of hallway leading to platforms on line 1",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service due to improvement works. Expected",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
