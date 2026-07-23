@@ -2,7 +2,7 @@
   "matchday": 23,
   "lastMatchDate": "2026-07-23",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-23T07:11:29.941898+00:00",
+  "updated": "2026-07-23T07:16:28.660875+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Fermín Caballero to hallway leading to platforms Waiting for information. From platform in the direction of",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Fermín Caballero to hallway leading to platforms Waiting for information. Services: Escalators Defibrillato",
       "seasonPts": 23,
       "checks": 23,
       "wins": 0,
