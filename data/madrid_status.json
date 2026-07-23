@@ -2,11 +2,11 @@
   "matchday": 23,
   "lastMatchDate": "2026-07-23",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-23T06:26:19.871145+00:00",
+  "updated": "2026-07-23T06:31:37.757193+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central on line 1 in the direction of Valdecarros and platform central on line 4 in t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos, to mezzanine and platform on line 1 in th",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms Out of service. We are examining the reasons for the stop. Services: Escal",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
