@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-07-24",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-24T10:26:20.363098+00:00",
+  "updated": "2026-07-24T10:31:45.590031+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 4 and line 5 and corridor of line 10 platforms to platform in the direction of Tres Olivos Waiti",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 4 and line 5 and corridor of line 10 platforms to platform in the direction of Tres Olivos Out o",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza de Cataluña to hallway leading to platforms Out of service. We are examining the reasons for the stop",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of lobby Sánchez Pacheco to platform in the direction of Paco de Lucía Out of service. We are examining t",
       "seasonPts": 24,
       "checks": 24,
       "wins": 0,
