@@ -2,11 +2,11 @@
   "matchday": 24,
   "lastMatchDate": "2026-07-24",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-24T22:11:39.519645+00:00",
+  "updated": "2026-07-24T22:16:37.239104+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby central to hallway leading to platforms on line 6. There is another lift in the same location Out",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line corridors to Interchange lobby Out of service due to check-up. Coming into service in the nex",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of lobby Sánchez Pacheco to platform in the direction of Paco de Lucía Out of service. We are examining t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line corridors to Interchange lobby Out of service due to check-up. Coming into service in the nex",
       "seasonPts": 24,
       "checks": 24,
       "wins": 0,
