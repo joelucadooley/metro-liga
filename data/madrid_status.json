@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-07-24",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-24T05:26:34.701068+00:00",
+  "updated": "2026-07-24T05:31:40.657647+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to check-up. C",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 and corridor leading on line 3 to platform 2 on line 6 in the",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Interchange to hallway for lines 1, 9 and 10 Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza de Cataluña to hallway leading to platforms Out of service due to check-up. Coming into service in th",
       "seasonPts": 24,
       "checks": 24,
       "wins": 0,
