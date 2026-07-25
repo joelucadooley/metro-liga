@@ -2,7 +2,7 @@
   "matchday": 25,
   "lastMatchDate": "2026-07-25",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-25T11:56:54.801581+00:00",
+  "updated": "2026-07-25T12:01:49.906238+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of line 5 and line 6 platforms to platform 2 on line 6 in the direction of Avda. de América Out of servic",
+      "description": "We regret to inform you of alterations in the operation of escalators: Walkways From hallway of line 9 platforms to hallway of line 5 platforms Out of service. We are examining the reasons for the sto",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Colombia to lobby Out of service. We are examining the reasons for the stop. Services: Accessi",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
