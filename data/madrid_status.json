@@ -2,7 +2,7 @@
   "matchday": 25,
   "lastMatchDate": "2026-07-25",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-25T21:56:25.857167+00:00",
+  "updated": "2026-07-25T22:01:50.763204+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 8 in the direction of Aeropuerto T4 to entrance Renfe to hallway on line 6 and",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
