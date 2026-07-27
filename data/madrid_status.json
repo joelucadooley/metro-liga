@@ -2,11 +2,11 @@
   "matchday": 27,
   "lastMatchDate": "2026-07-27",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-27T06:41:30.922467+00:00",
+  "updated": "2026-07-27T06:46:33.947313+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 10 in the direction Puerta del Sur Out of service due to check-up. Comin",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby central to hallway leading to platforms on line 6. There is another lift in the same location Out",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Waiting for information. S",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
