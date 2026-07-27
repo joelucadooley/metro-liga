@@ -2,7 +2,7 @@
   "matchday": 27,
   "lastMatchDate": "2026-07-27",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-27T11:05:50.888103+00:00",
+  "updated": "2026-07-27T11:10:54.882643+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "Poble Sec: Until approximately August 27th, due to works, the Teodor Bonaplata access of Poble Sec station is closed. · Catalunya: From 06/07/2026 the connection halls between the L1, L3 and L1, L3 Metro lines at Catalunya, Catalunya station are closed for works.",
+      "description": "Sants Estació: Until approximately August 18th, the escalator that goes up from the lower lobby to the main lobby of Sants Estació station will be out of service for improvement work. · Poble Sec: Until approximately August 27th, due to works, the Teodor Bonaplata access of Poble Sec station is closed.",
       "seasonPts": 27,
       "checks": 27,
       "wins": 0,
