@@ -2,7 +2,7 @@
   "matchday": 27,
   "lastMatchDate": "2026-07-27",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-27T22:26:22.862750+00:00",
+  "updated": "2026-07-27T22:31:50.147342+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 y on line 4 to platform 1 on line 6 in the direction of Prínc",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 and corridor leading on line 3 to platform 2 on line 6 in the",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
