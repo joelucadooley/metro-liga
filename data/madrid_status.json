@@ -2,7 +2,7 @@
   "matchday": 28,
   "lastMatchDate": "2026-07-28",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-28T15:11:53.529331+00:00",
+  "updated": "2026-07-28T15:16:32.845453+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Casa de Campo Out of service due to check-up. Coming into se",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
