@@ -2,11 +2,11 @@
   "matchday": 28,
   "lastMatchDate": "2026-07-28",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-28T04:26:30.372962+00:00",
+  "updated": "2026-07-28T04:32:01.161677+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level platform emerging form platform hallway on line 10 to line 1 platform in the di",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 10 in the direction of Puerta del Sur to intermediate level and hallway leading",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. Carabanchel Alto to lobby Out of service due to check-up. Coming into service in th",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service due to improvement works. Expected",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
