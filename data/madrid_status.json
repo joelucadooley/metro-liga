@@ -2,7 +2,7 @@
   "matchday": 28,
   "lastMatchDate": "2026-07-28",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-28T18:56:32.300907+00:00",
+  "updated": "2026-07-28T19:01:54.515039+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Preciados to lobby Preciados Out of service due to repair works. Expected date of coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Preciados to platform on line 3 in the direction of El Casar Out of service. We are examinin",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
