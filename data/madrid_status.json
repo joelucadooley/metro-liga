@@ -2,7 +2,7 @@
   "matchday": 28,
   "lastMatchDate": "2026-07-28",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-28T19:41:37.165847+00:00",
+  "updated": "2026-07-28T19:46:37.923152+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Paco de Lucía to hallway of line 8 Out of service. We a",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Nuevos Ministerios Out of service due to check-up. Coming in",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
