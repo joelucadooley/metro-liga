@@ -2,7 +2,7 @@
   "matchday": 29,
   "lastMatchDate": "2026-07-29",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-29T11:26:36.981147+00:00",
+  "updated": "2026-07-29T11:31:55.475092+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor leading from to central platform on line 7 to lobby Emilio Ferrari Out of service. We are",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 87,
       "checks": 29,
       "wins": 29,
