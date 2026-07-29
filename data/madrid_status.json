@@ -2,7 +2,7 @@
   "matchday": 29,
   "lastMatchDate": "2026-07-29",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-29T10:56:20.381196+00:00",
+  "updated": "2026-07-29T11:01:56.267709+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From lobby to platform in the direction of Cuatro Caminos Out of service. We are examining the reasons for the stop. Services: A",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Las Rosas Out of service. We are examining the reasons for the st",
       "seasonPts": 87,
       "checks": 29,
       "wins": 29,
