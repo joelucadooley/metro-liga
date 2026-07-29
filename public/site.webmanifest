@@ -1,0 +1,25 @@
+{
+  "name": "Metro Liga",
+  "short_name": "Metro Liga",
+  "description": "Spanish metro lines ranked like a football league table.",
+  "start_url": "/metro-liga/",
+  "scope": "/metro-liga/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#4A0709",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "/metro-liga/web-app-manifest-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/metro-liga/web-app-manifest-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
