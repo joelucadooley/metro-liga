@@ -2,7 +2,7 @@
   "matchday": 30,
   "lastMatchDate": "2026-07-30",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-30T14:41:38.125413+00:00",
+  "updated": "2026-07-30T14:46:42.785082+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Aeropuerto T4. There is another lift in the same location Out of",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
