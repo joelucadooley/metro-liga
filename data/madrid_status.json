@@ -2,7 +2,7 @@
   "matchday": 30,
   "lastMatchDate": "2026-07-30",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-30T10:41:38.644307+00:00",
+  "updated": "2026-07-30T10:46:38.003802+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Waiting for information. Services: Accessible sta",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Elíptica esq. Avda. de Oporto to lobby Vía Lusitana Out of service due to check-up. Comi",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
