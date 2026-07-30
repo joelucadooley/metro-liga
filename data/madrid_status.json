@@ -2,7 +2,7 @@
   "matchday": 30,
   "lastMatchDate": "2026-07-30",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-30T20:41:25.777525+00:00",
+  "updated": "2026-07-30T20:46:27.933624+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 4 in the direction of Pinar de Chamartín to platform on line 8 in the direction",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 8 in the directio of Aeropuerto T4 to entrance Renfe to line 10 hallway and plat",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
