@@ -2,11 +2,11 @@
   "matchday": 30,
   "lastMatchDate": "2026-07-30",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-30T21:06:24.751289+00:00",
+  "updated": "2026-07-30T21:11:57.517845+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos, to mezzanine and platform on line 1 in th",
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
