@@ -2,7 +2,7 @@
   "matchday": 30,
   "lastMatchDate": "2026-07-30",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-30T10:11:38.424688+00:00",
+  "updated": "2026-07-30T10:16:29.108797+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Puerta del Sol to lobby Mayor Out of service. We are examining the reasons for the stop. Escal",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Preciados to lobby Preciados Out of service due to repair works. Expected date of coming",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platform and hallway of line 6 platforms to platform 1 on line 6 in the direction of Manuel Be",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways lobby Out of service. We are examining the reasons for the stop. Services: Escalators Defibrill",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Waiting for information. Services: Accessible",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
