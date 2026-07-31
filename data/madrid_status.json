@@ -2,7 +2,7 @@
   "matchday": 31,
   "lastMatchDate": "2026-07-31",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-31T11:11:27.305969+00:00",
+  "updated": "2026-07-31T11:16:41.502517+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platform and hallway of line 6 platforms to platform 1 on line 6 in the direction of Manuel Be",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on line 6 y on line 4 to platform on line 3 in the direction of El Casa",
       "seasonPts": 93,
       "checks": 31,
       "wins": 31,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platform and hallway of line 6 platforms to platform 1 on line 6 in the direction of Manuel Be",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Puert",
       "seasonPts": 93,
       "checks": 31,
       "wins": 31,
