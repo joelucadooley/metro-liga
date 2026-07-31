@@ -2,7 +2,7 @@
   "matchday": 31,
   "lastMatchDate": "2026-07-31",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-31T12:11:50.402633+00:00",
+  "updated": "2026-07-31T12:16:32.898613+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From hallway of Renfe to hallway leading to line 6 platforms Out of service due to check-up. Coming into",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 93,
       "checks": 31,
       "wins": 31,
