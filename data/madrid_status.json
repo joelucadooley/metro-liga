@@ -2,11 +2,11 @@
   "matchday": 31,
   "lastMatchDate": "2026-07-31",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-31T18:26:31.907029+00:00",
+  "updated": "2026-07-31T18:31:46.730399+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos Out of service due to check-up. Coming int",
       "seasonPts": 93,
       "checks": 31,
       "wins": 31,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 8 to platform on line 9 in the direction of Arganda del Rey Out of service due to",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Agustín de Betancourt and Orense to lobby Orense Out of service due to check-up. Coming",
       "seasonPts": 93,
       "checks": 31,
       "wins": 31,
