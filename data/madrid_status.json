@@ -1,15 +1,15 @@
 {
-  "matchday": 30,
-  "lastMatchDate": "2026-07-30",
+  "matchday": 31,
+  "lastMatchDate": "2026-07-31",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-30T23:56:20.868590+00:00",
+  "updated": "2026-07-31T00:01:46.465153+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 90,
-      "checks": 30,
-      "wins": 30,
+      "seasonPts": 93,
+      "checks": 31,
+      "wins": 31,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -23,9 +23,9 @@
     "L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 90,
-      "checks": 30,
-      "wins": 30,
+      "seasonPts": 93,
+      "checks": 31,
+      "wins": 31,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -39,9 +39,9 @@
     "L3": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 90,
-      "checks": 30,
-      "wins": 30,
+      "seasonPts": 93,
+      "checks": 31,
+      "wins": 31,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -55,9 +55,9 @@
     "L4": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 90,
-      "checks": 30,
-      "wins": 30,
+      "seasonPts": 93,
+      "checks": 31,
+      "wins": 31,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -71,9 +71,9 @@
     "L5": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 90,
-      "checks": 30,
-      "wins": 30,
+      "seasonPts": 93,
+      "checks": 31,
+      "wins": 31,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -87,9 +87,9 @@
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 90,
-      "checks": 30,
-      "wins": 30,
+      "seasonPts": 93,
+      "checks": 31,
+      "wins": 31,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -103,9 +103,9 @@
     "L7": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 90,
-      "checks": 30,
-      "wins": 30,
+      "seasonPts": 93,
+      "checks": 31,
+      "wins": 31,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -119,9 +119,9 @@
     "L8": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 90,
-      "checks": 30,
-      "wins": 30,
+      "seasonPts": 93,
+      "checks": 31,
+      "wins": 31,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -136,10 +136,10 @@
       "severity": "incident",
       "description": "Service disruption reported",
       "seasonPts": 25,
-      "checks": 30,
+      "checks": 31,
       "wins": 0,
       "draws": 25,
-      "losses": 5,
+      "losses": 6,
       "recentForm": [
         "L",
         "L",
@@ -152,10 +152,10 @@
       "severity": "incident",
       "description": "Service disruption reported",
       "seasonPts": 0,
-      "checks": 30,
+      "checks": 31,
       "wins": 0,
       "draws": 0,
-      "losses": 30,
+      "losses": 31,
       "recentForm": [
         "L",
         "L",
@@ -167,9 +167,9 @@
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 90,
-      "checks": 30,
-      "wins": 30,
+      "seasonPts": 93,
+      "checks": 31,
+      "wins": 31,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -183,9 +183,9 @@
     "L12": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 90,
-      "checks": 30,
-      "wins": 30,
+      "seasonPts": 93,
+      "checks": 31,
+      "wins": 31,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -199,9 +199,9 @@
     "R": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 90,
-      "checks": 30,
-      "wins": 30,
+      "seasonPts": 93,
+      "checks": 31,
+      "wins": 31,
       "draws": 0,
       "losses": 0,
       "recentForm": [
