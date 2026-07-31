@@ -2,7 +2,7 @@
   "matchday": 31,
   "lastMatchDate": "2026-07-31",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-31T22:41:47.560383+00:00",
+  "updated": "2026-07-31T22:46:37.414341+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
       "seasonPts": 93,
       "checks": 31,
       "wins": 31,
