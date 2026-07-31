@@ -2,7 +2,7 @@
   "matchday": 31,
   "lastMatchDate": "2026-07-31",
   "lastResetMonth": "2026-07",
-  "updated": "2026-07-31T22:06:32.952930+00:00",
+  "updated": "2026-07-31T22:12:28.475752+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on Line 6 to platform 2 in the direction Opañel Out of service. We are",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Marcelo Usera esq. Paseo de Santa Maria de la Cabeza to lobby Marcelo Usera Out of service. We",
       "seasonPts": 93,
       "checks": 31,
       "wins": 31,
