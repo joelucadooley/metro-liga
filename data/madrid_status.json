@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-08-01",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-01T09:56:25.764789+00:00",
+  "updated": "2026-08-01T10:01:51.236168+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Casa de Campo Waiting for information. From platform hallways t",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Puert",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
