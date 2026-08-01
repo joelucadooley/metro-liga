@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-08-01",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-01T16:11:40.755472+00:00",
+  "updated": "2026-08-01T16:16:49.324193+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Canillejas to hallway leading to platforms Out of service. We are examining the reasons for the stop. Servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Casa de Campo Waiting for information. Services: Accessible",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
