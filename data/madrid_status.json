@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-08-02",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-02T22:41:42.806818+00:00",
+  "updated": "2026-08-02T22:46:32.089980+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -162,7 +162,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Paseo de la Florida to platform 2 on line 6 in the direction of Argüelles and platform on line 10",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 5 in the direction of Casa de Campo Out of service. We are examining the",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
