@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-08-02",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-02T19:26:28.282123+00:00",
+  "updated": "2026-08-02T19:31:49.576891+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -19,7 +19,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 2 platform in the direction of Cuatro Caminos and from platform Ramal to line 5",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Bravo Murillo to lobby Waiting for information. Services: Accessible station Lifts Escalators",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -162,7 +162,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 2 platform in the direction of Cuatro Caminos and from platform Ramal to line 5",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Paseo de la Florida to platform 2 on line 6 in the direction of Argüelles and platform on line 10",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
