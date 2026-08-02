@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-08-02",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-02T12:11:35.977024+00:00",
+  "updated": "2026-08-02T12:16:44.574878+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -19,7 +19,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 2 platform in the direction of Cuatro Caminos and from platform Ramal to line 5",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Las Rosas Out of service due to check-up. Coming into servic",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
