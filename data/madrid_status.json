@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-08-02",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-02T16:41:46.746683+00:00",
+  "updated": "2026-08-02T16:46:54.422761+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -19,7 +19,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Principe de Vergara of lobby Principe de Vergara to corridor leading of Lines 2 and 9. There i",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Bravo Murillo to lobby Waiting for information. Services: Accessible station Lifts Escalators",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
