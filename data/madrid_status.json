@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-08-02",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-02T16:26:34.309479+00:00",
+  "updated": "2026-08-02T16:31:50.641739+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -19,7 +19,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Las Rosas Out of service due to check-up. Coming into servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Principe de Vergara of lobby Principe de Vergara to corridor leading of Lines 2 and 9. There i",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
