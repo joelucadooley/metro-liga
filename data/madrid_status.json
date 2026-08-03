@@ -2,11 +2,11 @@
   "matchday": 3,
   "lastMatchDate": "2026-08-03",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-03T21:11:34.146089+00:00",
+  "updated": "2026-08-03T21:16:53.627706+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Interchange to hallway for lines 1, 9 and 10 Out of service due to check-up. Coming into servi",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -62,7 +62,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Pinos de Osuna to lobby Pinos de Osuna Out of service due to check-up. Coming into servic",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Puert",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
