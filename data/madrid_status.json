@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-08-03",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-03T14:41:49.674199+00:00",
+  "updated": "2026-08-03T14:46:36.890340+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -103,8 +103,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to check-up. Coming into se",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
