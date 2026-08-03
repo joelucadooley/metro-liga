@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-08-03",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-03T08:56:24.141000+00:00",
+  "updated": "2026-08-03T09:01:58.592833+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -20,7 +20,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Bravo Murillo to lobby Waiting for information. Services: Accessible station Lifts Escalators",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Preciados to platform on line 3 in the direction of El Casar Out of service. We are examinin",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -62,7 +62,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Velero of lobby Velero to lobby Out of service. We are examining the reasons for the stop",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Velero of lobby Velero to lobby Out of service due to check-up. Coming into service in th",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
