@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-08-03",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-03T07:41:35.355591+00:00",
+  "updated": "2026-08-03T07:46:58.959341+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -20,7 +20,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Bravo Murillo to lobby Waiting for information. From lobby to platform on line 2 in the direct",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Bravo Murillo to lobby Waiting for information. Services: Accessible station Lifts Escalators",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -174,7 +174,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Paseo de la Florida to platform 2 on line 6 in the direction of Argüelles and platform on line 10",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to platform on line 10 in the direction of Hospital Infanta Sofía and platform 2 on li",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
