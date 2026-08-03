@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-08-03",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-03T20:56:27.161165+00:00",
+  "updated": "2026-08-03T21:02:17.882748+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -104,7 +104,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 4 in the direction of Argüelles to platform on line 8 in the direction of Aeropu",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gran Vía de Hortaleza to lobby Out of service due to check-up. Coming into service in the",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
