@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-08-03",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-03T08:11:37.830003+00:00",
+  "updated": "2026-08-03T08:16:41.714127+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -20,7 +20,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Bravo Murillo to lobby Waiting for information. From lobby to platform on line 2 in the direct",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Bravo Murillo to lobby Waiting for information. Services: Accessible station Lifts Escalators",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
