@@ -2,11 +2,11 @@
   "matchday": 4,
   "lastMatchDate": "2026-08-04",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-04T04:36:26.481404+00:00",
+  "updated": "2026-08-04T04:46:46.355878+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange Surface to lobby Plaza de Castilla Out of service due to check-up. Coming int",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
@@ -111,7 +111,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Orense to lobby Orense Out of service. We are examining the reasons for the stop. From lo",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Orense to lobby Orense Out of service. We are examining the reasons for the stop. Service",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
@@ -186,7 +186,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to platform on line 10 in the direction of Hospital Infanta Sofía and platform 2 on li",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Paseo de la Florida to platform 2 on line 6 in the direction of Argüelles and platform on line 10",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
