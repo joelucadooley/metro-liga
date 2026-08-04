@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-08-04",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-04T12:41:58.134012+00:00",
+  "updated": "2026-08-04T12:46:31.253767+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -21,7 +21,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Bravo Murillo to lobby Out of service due to improvement works. Expected date of coming into s",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
@@ -111,7 +111,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 4 in the direction of Argüelles to platform on line 8 in the direction of Aeropu",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 8 in the direction of Colombia to entrance Renfe and corridor leading to line 6",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
@@ -186,7 +186,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Paseo de la Florida to platform 2 on line 6 in the direction of Argüelles and platform on line 10",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
