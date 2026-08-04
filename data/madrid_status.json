@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-08-04",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-04T10:21:37.796554+00:00",
+  "updated": "2026-08-04T10:31:50.382149+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -21,7 +21,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Waiting for information. Services: Accessible station Lifts",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
@@ -66,7 +66,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Casa de Campo Out of service due to check-up. Coming into se",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platform and hallway of line 6 platforms to platform 1 on line 6 in the direction of Manuel Be",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
