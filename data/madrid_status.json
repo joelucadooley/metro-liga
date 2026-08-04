@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-08-04",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-04T17:56:55.314909+00:00",
+  "updated": "2026-08-04T18:02:00.439189+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -66,7 +66,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrances Plaza Marqués de Salamanca and aparcamiento of lobby Marqués de Salamanca to lobby Waiting for informat",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Puert",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
