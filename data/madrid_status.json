@@ -2,11 +2,11 @@
   "matchday": 4,
   "lastMatchDate": "2026-08-04",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-04T19:41:44.917911+00:00",
+  "updated": "2026-08-04T19:46:50.176243+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Puerta de Arganda to hallway leading to platform to line 9",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
