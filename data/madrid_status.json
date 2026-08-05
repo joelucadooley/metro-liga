@@ -2,11 +2,11 @@
   "matchday": 5,
   "lastMatchDate": "2026-08-05",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-05T04:26:38.022008+00:00",
+  "updated": "2026-08-05T04:36:50.222258+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level platform emerging form platform hallway on line 10 to line 1 platform in the di",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 1 in the direction of Pinar de Chamartín to intermediate level leading to hallw",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Córdoba pares to lobby Out of service due to check-up. Coming into service in th",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 6 to lobby Legazpi Out of service due to check-up. Coming into service in the next",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Orense to lobby Orense Out of service. We are examining the reasons for the stop. From li",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Orense to lobby Orense Out of service. We are examining the reasons for the stop. From lo",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
