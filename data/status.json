@@ -2,7 +2,7 @@
   "matchday": 5,
   "lastMatchDate": "2026-08-05",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-05T06:55:51.362086+00:00",
+  "updated": "2026-08-05T07:01:19.673992+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "Vall d'Hebron: Until August 16 d'agost, aproximately, the escalator at the Avinguda Jordà access at Vall d'Hebron station, is out of service due to maintenance works. · Plaça de Sants: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work.",
+      "description": "Badal: Until September 17, approximately, the escalator going down from the main lobby to the middle lobby at Badal station, out of order due to improvement works. · Badal: Until September 17, approximately, the escalator going up from the middle lobby to the main lobby at Badal station, out of order due to improvement works.",
       "seasonPts": 5,
       "checks": 5,
       "wins": 0,
