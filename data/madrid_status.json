@@ -2,7 +2,7 @@
   "matchday": 5,
   "lastMatchDate": "2026-08-05",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-05T16:56:31.563498+00:00",
+  "updated": "2026-08-05T17:01:59.229439+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 10 platforms to platform on line 10 in the direction of Puerta del Sur Out of serv",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Santiago Amón to lobby Out of service due to check-up. Coming into service in the next ho",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
