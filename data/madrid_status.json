@@ -2,7 +2,7 @@
   "matchday": 5,
   "lastMatchDate": "2026-08-05",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-05T07:26:32.828195+00:00",
+  "updated": "2026-08-05T07:32:02.737827+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Santa Petronila to lobby Out of service. We are examining the reasons for the stop. Services:",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 10 platforms to platform on line 10 in the direction of Puerta del Sur Out of serv",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Paseo de la Florida to platform 2 on line 6 in the direction of Argüelles and platform on line 10",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
