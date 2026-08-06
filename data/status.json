@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-08-06",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-06T17:38:27.951556+00:00",
+  "updated": "2026-08-06T18:01:03.049030+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "Monumental: Until approximately August 6, one of the escalators that goes up from the platform towards Badalona Pompeu Fabra to the lobby of Monumental station will be out of service for improvement work.",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 6,
       "checks": 6,
       "wins": 0,
