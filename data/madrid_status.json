@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-08-06",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-06T11:11:38.621292+00:00",
+  "updated": "2026-08-06T11:16:38.106972+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Puert",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Canillejas to hallway leading to platforms Out of service. We are examining the reasons for the stop. Servi",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
