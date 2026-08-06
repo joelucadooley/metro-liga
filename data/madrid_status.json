@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-08-06",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-06T04:26:34.110260+00:00",
+  "updated": "2026-08-06T04:31:52.182897+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 and line 10 platform in the direction of Puert",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Orense to hallway leading to line 6 platforms and platform 1 on line 6 in the di",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
