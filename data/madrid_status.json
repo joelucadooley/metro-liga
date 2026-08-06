@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-08-06",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-06T10:56:31.912322+00:00",
+  "updated": "2026-08-06T11:01:56.066253+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on Line 6 to platform 2 in the direction Opañel Out of service. We are",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Elíptica esq. Avda. de Oporto to lobby Vía Lusitana Out of service. We are examining the",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
@@ -198,7 +198,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway and line 2 platform in the direction of Las Rosas Out of service due to check-up",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
