@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-08-07",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-07T19:26:35.441917+00:00",
+  "updated": "2026-08-07T19:31:49.818771+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Mayor to hallway leading on lines and platform on line 3 in the direction of Moncloa Out of servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 6 to lobby Legazpi Out of service. We are examining the reasons for the stop. Serv",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
