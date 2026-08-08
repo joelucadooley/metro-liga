@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-08-08",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-08T05:56:30.991459+00:00",
+  "updated": "2026-08-08T06:01:58.964846+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Mayor to hallway leading on lines and platform on line 3 in the direction of Moncloa Out of servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Glorieta de Málaga to lobby Out of service due to check-up. Coming into service in the ne",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
