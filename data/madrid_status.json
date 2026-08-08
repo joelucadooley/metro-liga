@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-08-08",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-08T16:41:33.896712+00:00",
+  "updated": "2026-08-08T16:46:49.282025+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Alameda de Osuna Out of service due to check-up. Coming into se",
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
