@@ -2,11 +2,11 @@
   "matchday": 8,
   "lastMatchDate": "2026-08-08",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-08T04:11:43.170324+00:00",
+  "updated": "2026-08-08T04:17:00.650389+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 10 in the direction Puerta del Sur Out of service. We are examining the",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Paseo de Ginebra to lobby Out of service. We are examining the reasons for the stop. Serv",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform 2 direction Moncloa Out of service. We are examining the reasons for the stop. S",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 and corridor leading on line 3 to platform 2 on line 6 in the",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Puert",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 to line 10 platform in the direction of Puerta",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on Line 6 to platform 2 in the direction Opañel Out of service. We are",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
