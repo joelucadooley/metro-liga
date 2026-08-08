@@ -2,11 +2,11 @@
   "matchday": 8,
   "lastMatchDate": "2026-08-08",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-08T09:11:43.973796+00:00",
+  "updated": "2026-08-08T09:16:39.856419+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform on line 1 in the direction of Pinar de Chamartín Out of service. We are ex",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 and corridor leading on line 3 to platform 2 on line 6 in the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 6 to hallway of line 7 Waiting for information. Services: Accessible station Lifts",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Puert",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Alameda de Osuna Out of service. We are examining the reasons f",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
