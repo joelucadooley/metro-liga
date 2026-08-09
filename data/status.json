@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-08-09",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-09T21:56:01.180292+00:00",
+  "updated": "2026-08-09T22:01:16.494239+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "Monumental: Until approximately September 3, one of the escalators connecting the Paral·lel platform and the lobby at Monumental station will be out of service due to improvements works.",
       "seasonPts": 15,
       "checks": 9,
       "wins": 3,
