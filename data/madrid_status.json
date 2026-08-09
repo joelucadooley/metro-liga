@@ -2,11 +2,11 @@
   "matchday": 9,
   "lastMatchDate": "2026-08-09",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-09T04:26:38.165023+00:00",
+  "updated": "2026-08-09T04:31:53.473524+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level platform emerging form platform hallway on line 10 to line 1 platform in the di",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 10 in the direction Puerta del Sur Out of service due to check-up. Comin",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance General Díaz Porlier to lobby Out of service. We are examining the reasons for the stop. Services: Accessible stat",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
