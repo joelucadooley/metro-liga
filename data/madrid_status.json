@@ -2,11 +2,11 @@
   "matchday": 9,
   "lastMatchDate": "2026-08-09",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-09T18:41:30.744380+00:00",
+  "updated": "2026-08-09T18:46:30.721008+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level platform emerging form platform hallway on line 10 to line 1 platform in the di",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
