@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-08-10",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-10T14:41:38.186252+00:00",
+  "updated": "2026-08-10T14:46:47.806836+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 4 in the direction of Pinar de Chamartín to platform on line 8 in the direction",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
