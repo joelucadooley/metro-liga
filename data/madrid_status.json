@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-08-10",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-10T23:26:34.576750+00:00",
+  "updated": "2026-08-10T23:32:01.161459+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Alameda de Osuna Out of service due to repair works. Expected d",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform hallways to platform in the direction of Casa de Campo Out of service. We are examining t",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -198,7 +198,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
