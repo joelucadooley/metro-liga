@@ -2,11 +2,11 @@
   "matchday": 11,
   "lastMatchDate": "2026-08-11",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-11T21:41:35.314620+00:00",
+  "updated": "2026-08-11T21:46:41.789450+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From hallway of line 6 to platform 1 on line 6 in the direction of Guzmán el Bueno Out of service due to che",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Renfe to entrances Centro Comercial and Renfe Waiting for information. Services: Accessible st",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial corridor line 6 to platform 2 line 6 in the direction of Republica Argentina Out",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
