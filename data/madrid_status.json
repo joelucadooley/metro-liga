@@ -2,7 +2,7 @@
   "matchday": 11,
   "lastMatchDate": "2026-08-11",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-11T08:56:28.313688+00:00",
+  "updated": "2026-08-11T09:02:06.787970+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 4 in the direction of Pinar de Chamartín to platform on line 8 in the direction",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Renfe to entrances Centro Comercial and Renfe Out of service. We are examining the reasons for",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
