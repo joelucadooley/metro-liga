@@ -2,7 +2,7 @@
   "matchday": 12,
   "lastMatchDate": "2026-08-12",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-12T14:26:45.680194+00:00",
+  "updated": "2026-08-12T14:32:07.174052+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Puert",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways lobby Out of service due to check-up. Coming into service in the next hours. Services: Escalato",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
