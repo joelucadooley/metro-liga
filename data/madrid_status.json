@@ -2,11 +2,11 @@
   "matchday": 12,
   "lastMatchDate": "2026-08-12",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-12T21:56:54.929003+00:00",
+  "updated": "2026-08-12T22:02:02.694934+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service. We are examining the reasons for the stop. F",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Bravo Murillo to hallway leading to platform of line 1 in the direction of Vald",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
