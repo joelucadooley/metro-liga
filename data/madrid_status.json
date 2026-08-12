@@ -2,11 +2,11 @@
   "matchday": 12,
   "lastMatchDate": "2026-08-12",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-12T23:41:29.665863+00:00",
+  "updated": "2026-08-12T23:46:50.250497+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 10 in the direction of Puerta del Sur to intermediate level and hallway leading",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Cuatro Caminos Out of service. We are examining the reasons for t",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Santa Petronila to lobby Out of service due to check-up. Coming into service in the next hours",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 and corridor leading on line 3 to platform 2 on line 6 in the",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial-Renfe to hallway leading to platforms on line 6. There is another lift in the sa",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on Line 6 to platform 2 in the direction Opañel Out of service. We are",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
