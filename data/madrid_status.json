@@ -2,7 +2,7 @@
   "matchday": 12,
   "lastMatchDate": "2026-08-12",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-12T13:26:28.261239+00:00",
+  "updated": "2026-08-12T13:32:05.370906+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform 2 direction Moncloa Out of service. We are examining the reasons for the stop. S",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform 2 direction Moncloa Out of service. We are examining the reasons for the stop. F",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Vía Lusitana to platform line 11 in the direction of La Fortuna Out of service due to check-up. C",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on Line 6 to platform 2 in the direction Opañel Out of service. We are",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
