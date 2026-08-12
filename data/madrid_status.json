@@ -2,11 +2,11 @@
   "matchday": 12,
   "lastMatchDate": "2026-08-12",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-12T14:56:34.220292+00:00",
+  "updated": "2026-08-12T15:02:19.383198+00:00",
   "lines": {
     "L1": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway in Interchange lobby and line 10 platforms to line 10 platform in the direction of Puerta",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
