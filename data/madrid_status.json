@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-08-13",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-13T08:41:38.346631+00:00",
+  "updated": "2026-08-13T08:45:51.118305+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Cuatro Caminos and platform on line 5 in the direction",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
