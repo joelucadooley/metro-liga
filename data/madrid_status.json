@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-08-13",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-13T08:56:37.611886+00:00",
+  "updated": "2026-08-13T09:02:03.253066+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Puert",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Cuatro Caminos and platform on line 5 in the direction",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
