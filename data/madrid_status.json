@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-08-13",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-13T07:41:38.333795+00:00",
+  "updated": "2026-08-13T07:46:34.641949+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Maria de Molina to the lobby. There is another elevator in the same location. Out of service.",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Plaza Prosperidad to lobby Out of service. We are examining the reasons for the stop. Services: Escalato",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
