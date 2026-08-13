@@ -2,11 +2,11 @@
   "matchday": 13,
   "lastMatchDate": "2026-08-13",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-13T23:10:27.811379+00:00",
+  "updated": "2026-08-13T23:16:20.350135+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 10 in the direction of Puerta del Sur to intermediate level and hallway leading",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Cuatro Caminos Out of service due to repair works. Expected",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Pinar de Chamartín Out of service due to repair works. Expected",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 6,
       "checks": 13,
       "wins": 2,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 8 in the direction of Colombia to entrance Renfe and corridor leading to line 6",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 0,
       "checks": 13,
       "wins": 0,
@@ -149,8 +149,8 @@
       ]
     },
     "L10": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 0,
       "checks": 13,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Elíptica esq. Avda. de Oporto to lobby Vía Lusitana Out of service. We are examining the",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
