@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-08-13",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-13T11:56:25.456106+00:00",
+  "updated": "2026-08-13T12:02:12.565908+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From hallway platforms of line 6 to platform 2 on line 6 in the direction of Usera Out of service due to che",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
