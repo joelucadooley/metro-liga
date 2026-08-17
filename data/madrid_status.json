@@ -2,11 +2,11 @@
   "matchday": 17,
   "lastMatchDate": "2026-08-17",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-17T05:41:44.963438+00:00",
+  "updated": "2026-08-17T05:46:45.768622+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor of Line 1 to platform Line 1 in the direction of Valdecarros Waiting for information. Escalato",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Paseo de Ginebra to lobby Out of service. We are examining the reasons for the stop. Serv",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 3 in the direction of Moncloa to hallways leading to platforms to line 6 Out of",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 and corridor leading on line 3 to platform 2 on line 6 in the",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service. We are examining the reasons for the st",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Nuevos Ministerios Out of service. We are examining the reas",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to entrances Centro Comercial and Renfe Out of service due to check-up. Coming into se",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform 1 on line 6 in the direction of O'Donnell to hallway leading to platforms to line 6 and",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Francisco Silvela to hallway of line 4 and line 6 platform Waiting for information. Services",
       "seasonPts": 9,
       "checks": 17,
       "wins": 3,
