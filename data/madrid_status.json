@@ -2,7 +2,7 @@
   "matchday": 17,
   "lastMatchDate": "2026-08-17",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-17T16:11:19.905071+00:00",
+  "updated": "2026-08-17T16:16:41.708551+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Alberto Aguilera esq. Gaztambide to lobby Alberto Aguilera Out of service. We are examining th",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 and corridor leading on line 3 to platform 2 on line 6 in the",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
