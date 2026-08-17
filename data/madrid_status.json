@@ -2,7 +2,7 @@
   "matchday": 17,
   "lastMatchDate": "2026-08-17",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-17T23:26:31.153165+00:00",
+  "updated": "2026-08-17T23:32:20.873543+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to hallway leading to platforms and platform in the direction of Cuatro Caminos Out of service du",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Cuatro Caminos Out of service due to check-up. Coming into s",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platforms on li",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on Line 6 to platform 1 in the direction Usera Out of service. We are e",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
