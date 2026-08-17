@@ -2,7 +2,7 @@
   "matchday": 17,
   "lastMatchDate": "2026-08-17",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-17T08:11:32.420702+00:00",
+  "updated": "2026-08-17T08:16:40.380972+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Paseo de Ginebra to lobby Out of service. We are examining the reasons for the stop. Serv",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From central platform of line 6 to hallway leading to platform Out of service due to check-up. Coming into service in",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 8 in the direction of Colombia to entrance Renfe and corridor leading to line 6",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From entrances Centro Comercial and Renfe to lobby Renfe Waiting for information. Services: Accessible s",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Paseo de la Florida to platform 2 on line 6 in the direction of Argüelles and platform on line 10",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
