@@ -2,7 +2,7 @@
   "matchday": 17,
   "lastMatchDate": "2026-08-17",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-17T16:56:30.837339+00:00",
+  "updated": "2026-08-17T17:01:55.677911+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. de Andalucía and San Dalmacio to lobby Out of service. We are examining the reasons for",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 3 in the direction of Moncloa to hallways leading to platforms to line 6 Out of",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
