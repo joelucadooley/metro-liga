@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-08-18",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-18T22:11:47.467183+00:00",
+  "updated": "2026-08-18T22:21:48.109223+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to platform 1 on line 6 in the direction of Opañel Out of service due to check-up. C",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
