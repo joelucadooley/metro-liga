@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-08-18",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-18T16:47:31.549287+00:00",
+  "updated": "2026-08-18T17:01:54.152012+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 3 in the direction of Moncloa to hallways leading to platforms to line 6 Out of",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Córdoba pares to lobby Out of service. We are examining the reasons for the stop",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Marqués de Salamanca to hallway for platforms on line 9 Out of service. We are examining the reasons",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Corbeta to lobby Out of service due to check-up. Coming into service in the next hours. S",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
