@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-08-18",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-18T04:56:28.849464+00:00",
+  "updated": "2026-08-18T05:02:11.900328+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of El Casar Out of service. We are examining the reasons for the sto",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 3 in the direction of Moncloa to hallways leading to platforms to line 6 Waiting",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
