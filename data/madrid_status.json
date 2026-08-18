@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-08-18",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-18T21:12:09.847997+00:00",
+  "updated": "2026-08-18T21:16:46.407648+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service. We are examining the reasons for the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. de Andalucía and San Dalmacio to lobby Out of service. We are examining the reasons for",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to platform in the direction of Alameda de Osuna Out of service due to check-up. Comin",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to platform 1 on line 6 in the direction of Opañel Out of service due to check-up. C",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
