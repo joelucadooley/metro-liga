@@ -2,11 +2,11 @@
   "matchday": 18,
   "lastMatchDate": "2026-08-18",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-18T23:41:34.747025+00:00",
+  "updated": "2026-08-18T23:46:37.786255+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform on line 1 in the direction of Valdecarros and central platform on line 4",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Las Rosas Waiting for information. From lobby to platform in",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service. We are examining the reasons for the",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Alberto Aguilera esq. Gaztambide to lobby Alberto Aguilera Out of service due to check-up. Com",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial corridor line 6 to platform 2 line 6 in the direction of Republica Argentina Out",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line corridors to Interchange lobby Out of service due to check-up. Coming into service in the nex",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service due to check-up. Coming into service in the next hours. Servic",
       "seasonPts": 10,
       "checks": 18,
       "wins": 3,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
