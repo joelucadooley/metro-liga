@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-08-18",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-18T07:56:30.106273+00:00",
+  "updated": "2026-08-18T08:02:03.357691+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Francisco Silvela to hallway of line 4 and line 6 platform Out of service due to repair work",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of lobby Sánchez Pacheco to platform in the direction of Puerta de Arganda Out of service. We are examini",
       "seasonPts": 10,
       "checks": 18,
       "wins": 3,
