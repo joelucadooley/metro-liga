@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-08-19",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-19T18:11:46.714269+00:00",
+  "updated": "2026-08-19T18:25:14.300881+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service. We are examining the reasons for the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Waiting for information. From lobby to platform in t",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of lines 4, 6, 7 and 9 platforms to lobby Avda. de América Out of service. We are examinin",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Príncipe de Vergara impares y pares, Plaza República Dominicana to lobby Out of service.",
       "seasonPts": 11,
       "checks": 19,
       "wins": 3,
