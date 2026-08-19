@@ -2,11 +2,11 @@
   "matchday": 19,
   "lastMatchDate": "2026-08-19",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-19T04:11:34.494558+00:00",
+  "updated": "2026-08-19T04:16:43.413522+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform on line 1 in the direction of Valdecarros and central platform on line 4",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Las Rosas Waiting for information. From lobby to platform in",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 3 in the direction of Moncloa to hallways leading to platforms to line 6 Out of",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Alberto Aguilera esq. Gaztambide to lobby Alberto Aguilera Out of service due to check-up. Com",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Casa de Campo Out of service due to check-up. Coming into se",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Orense to lobby Orense Out of service. We are examining the reasons for the stop. Walkway",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Interchange to hallway for lines 1, 9 and 10 Out of service. We are examining the reasons for",
       "seasonPts": 11,
       "checks": 19,
       "wins": 3,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Paseo de la Florida to platform 2 on line 6 in the direction of Argüelles and platform on line 10",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
