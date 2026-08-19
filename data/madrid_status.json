@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-08-19",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-19T07:07:22.640613+00:00",
+  "updated": "2026-08-19T07:17:16.242899+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 3 in the direction of Moncloa to hallways leading to platforms to line 6 Out of",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of El Casar Out of service due to check-up. Coming into service in t",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on lines 6-8-10 y Renfe to platform line 10 in the direction of Puerta del Sur Out of",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Orense to lobby Orense Out of service. We are examining the reasons for the stop. Walkway",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -198,7 +198,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Paseo de la Florida to platform 2 on line 6 in the direction of Argüelles and platform on line 10",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 1 on line 6 in the direction of Puerta del Ángel and platform on line 10 in the",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
