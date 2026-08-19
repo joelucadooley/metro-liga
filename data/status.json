@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-08-19",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-19T11:37:03.647587+00:00",
+  "updated": "2026-08-19T11:56:34.840147+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "Catalunya: From 06/07/2026 the connection halls between the L1, L3 and L1, L3 Metro lines at Catalunya, Catalunya station are closed for works.",
+      "description": "Sants Estació: Until approximately September 10th, the escalator that goes down from the main lobby to the lower lobby of Sants Estació station will be out of service due to improvement work. · Catalunya: From 06/07/2026 the connection halls between the L1, L3 and L1, L3 Metro lines at Catalunya, Catalunya station are closed for works.",
       "seasonPts": 19,
       "checks": 19,
       "wins": 0,
