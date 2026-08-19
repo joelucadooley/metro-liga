@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-08-19",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-19T05:05:01.609246+00:00",
+  "updated": "2026-08-19T05:17:27.409677+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana to lobby Castellana Out of service. We are examining the reasons for the stop. Walk",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Interchange to hallway for lines 1, 9 and 10 Out of service. We are examining the reasons for",
       "seasonPts": 11,
       "checks": 19,
       "wins": 3,
