@@ -1,16 +1,16 @@
 {
-  "matchday": 18,
-  "lastMatchDate": "2026-08-18",
+  "matchday": 19,
+  "lastMatchDate": "2026-08-19",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-18T23:55:52.157861+00:00",
+  "updated": "2026-08-19T00:01:28.351935+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
       "description": "Torras i Bages: From 05/08/2026, the access Passeig Santa Coloma / costat muntanya of the Torras i Bages station (L1) is closed for works. · Catalunya: From 06/07/2026 the connection halls between the L1, L3 and L1, L3 Metro lines at Catalunya, Catalunya station are closed for works.",
-      "seasonPts": 18,
-      "checks": 18,
+      "seasonPts": 19,
+      "checks": 19,
       "wins": 0,
-      "draws": 18,
+      "draws": 19,
       "losses": 0,
       "recentForm": [
         "D",
@@ -23,10 +23,10 @@
     "L2": {
       "severity": "minor",
       "description": "Monumental: Until approximately September 3, one of the escalators connecting the Paral·lel platform and the lobby at Monumental station will be out of service due to improvements works.",
-      "seasonPts": 24,
-      "checks": 18,
+      "seasonPts": 25,
+      "checks": 19,
       "wins": 3,
-      "draws": 15,
+      "draws": 16,
       "losses": 0,
       "recentForm": [
         "D",
@@ -39,10 +39,10 @@
     "L3": {
       "severity": "minor",
       "description": "Catalunya: From 06/07/2026 the connection halls between the L1, L3 and L1, L3 Metro lines at Catalunya, Catalunya station are closed for works.",
-      "seasonPts": 18,
-      "checks": 18,
+      "seasonPts": 19,
+      "checks": 19,
       "wins": 0,
-      "draws": 18,
+      "draws": 19,
       "losses": 0,
       "recentForm": [
         "D",
@@ -55,9 +55,9 @@
     "L4": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 46,
-      "checks": 18,
-      "wins": 14,
+      "seasonPts": 49,
+      "checks": 19,
+      "wins": 15,
       "draws": 4,
       "losses": 0,
       "recentForm": [
@@ -71,10 +71,10 @@
     "L5": {
       "severity": "minor",
       "description": "Badal: Until September 17, approximately, the escalator going down from the main lobby to the middle lobby at Badal station, out of order due to improvement works. · Badal: Until September 17, approximately, the escalator going up from the middle lobby to the main lobby at Badal station, out of order due to improvement works.",
-      "seasonPts": 18,
-      "checks": 18,
+      "seasonPts": 19,
+      "checks": 19,
       "wins": 0,
-      "draws": 18,
+      "draws": 19,
       "losses": 0,
       "recentForm": [
         "D",
@@ -87,9 +87,9 @@
     "L9N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 54,
-      "checks": 18,
-      "wins": 18,
+      "seasonPts": 57,
+      "checks": 19,
+      "wins": 19,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -103,9 +103,9 @@
     "L9S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 54,
-      "checks": 18,
-      "wins": 18,
+      "seasonPts": 57,
+      "checks": 19,
+      "wins": 19,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -119,9 +119,9 @@
     "L10N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 54,
-      "checks": 18,
-      "wins": 18,
+      "seasonPts": 57,
+      "checks": 19,
+      "wins": 19,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -135,9 +135,9 @@
     "L10S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 54,
-      "checks": 18,
-      "wins": 18,
+      "seasonPts": 57,
+      "checks": 19,
+      "wins": 19,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -151,9 +151,9 @@
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 54,
-      "checks": 18,
-      "wins": 18,
+      "seasonPts": 57,
+      "checks": 19,
+      "wins": 19,
       "draws": 0,
       "losses": 0,
       "recentForm": [

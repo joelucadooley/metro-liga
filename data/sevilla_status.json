@@ -1,15 +1,15 @@
 {
-  "matchday": 18,
-  "lastMatchDate": "2026-08-18",
+  "matchday": 19,
+  "lastMatchDate": "2026-08-19",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-18T23:56:58.227099+00:00",
+  "updated": "2026-08-19T00:02:34.537054+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 54,
-      "checks": 18,
-      "wins": 18,
+      "seasonPts": 57,
+      "checks": 19,
+      "wins": 19,
       "draws": 0,
       "losses": 0,
       "recentForm": [
