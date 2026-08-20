@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-08-20",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-20T14:41:35.430033+00:00",
+  "updated": "2026-08-20T14:46:39.035605+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway to platforms in lobby Renfe to platform in the direction of El Casar. There is another esc",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
