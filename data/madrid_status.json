@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-08-20",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-20T21:41:36.764062+00:00",
+  "updated": "2026-08-20T21:46:39.838129+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Orense to lobby Orense Out of service due to repair works. Expected date of coming into s",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial-Renfe to hallway leading to platforms on line 6. There is another lift in the sa",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platform 1 on l",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
