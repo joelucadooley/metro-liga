@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-08-20",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-20T06:51:36.511725+00:00",
+  "updated": "2026-08-20T06:58:04.939971+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of line 5 and line 6 platforms to platform 2 on line 6 in the direction of Avda. de América Out of servic",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to platform 1 on line 6 in the direction of Opañel Out of service due to check-up. C",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
