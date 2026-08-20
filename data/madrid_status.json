@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-08-20",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-20T21:11:58.678542+00:00",
+  "updated": "2026-08-20T21:16:41.834173+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform in the direction of El Casar to lobby Out of service. We are examining the reasons for th",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Santiago Amón to lobby Out of service due to check-up. Coming into service in the next ho",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 1 platforms of lobby Plaza de Castilla to hallway leading to lines and lobbies Out",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby and hallway of line 2 platforms to hallway for line 9 platforms and platform in the directio",
       "seasonPts": 12,
       "checks": 20,
       "wins": 3,
