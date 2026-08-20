@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-08-20",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-20T17:56:28.989449+00:00",
+  "updated": "2026-08-20T18:01:58.889805+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of line 5 and line 6 platforms to platform 2 on line 6 in the direction of Avda. de América Out of servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From corridor of lobby Emilio Ferrari to central platform on line 7 Out of service due to check-up. Comin",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Príncipe de Vergara impares-Plaza de República Dominicana Out of service due to",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Príncipe de Vergara impares-Plaza de República Dominicana Out of service. We are",
       "seasonPts": 12,
       "checks": 20,
       "wins": 3,
