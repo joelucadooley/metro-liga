@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-08-20",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-20T16:26:32.958917+00:00",
+  "updated": "2026-08-20T16:31:47.224020+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Plaza de Castilla to hallway and line 1 platform in the direction Valdecarros and lobby Bra",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Sánchez Pacheco to hallway leading to platforms Out of service due to repair works. Expected date of coming",
       "seasonPts": 12,
       "checks": 20,
       "wins": 3,
