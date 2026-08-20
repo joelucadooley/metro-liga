@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-08-20",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-20T16:11:39.645425+00:00",
+  "updated": "2026-08-20T16:16:40.120892+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service. We are examining the reasons for the",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
