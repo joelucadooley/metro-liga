@@ -2,11 +2,11 @@
   "matchday": 20,
   "lastMatchDate": "2026-08-20",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-20T18:16:10.157214+00:00",
+  "updated": "2026-08-20T18:22:21.482225+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "N DATA Issue: Due to technical reasons, delays in L1 and L2 towards Etxebarri/Basauri. Search Search home Metro Bilbao network Map and network status Map of the network status Lines and zone maps Use the map to find out about the stations, lines and ",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "ssue: Due to technical reasons, delays in L1 and L2 towards Etxebarri/Basauri. Search Search home Metro Bilbao network Map and network status Map of the network status Lines and zone maps Use the map to find out about the stations, lines and areas of",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
