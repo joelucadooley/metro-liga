@@ -2,7 +2,7 @@
   "matchday": 21,
   "lastMatchDate": "2026-08-21",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-21T08:56:34.252954+00:00",
+  "updated": "2026-08-21T09:01:49.740369+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Walkways From hallway of line 5 platforms to hallway of line 9 platforms Waiting for information. Services: Escalators Moving wal",
+      "description": "We regret to inform you of alterations in the operation of escalators: Walkways From hallway of line 5 platforms to hallway of line 9 platforms Out of service due to check-up. Coming into service in t",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Walkways From hallway of line 5 platforms to hallway of line 9 platforms Waiting for information. Services: Escalators Moving wal",
+      "description": "We regret to inform you of alterations in the operation of escalators: Walkways From hallway of line 5 platforms to hallway of line 9 platforms Out of service due to check-up. Coming into service in t",
       "seasonPts": 13,
       "checks": 21,
       "wins": 3,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platform 1 on l",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor of Line 6 to platform Line 11 in the direction of La Fortuna Out of service. We are examining",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
