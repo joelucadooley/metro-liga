@@ -2,7 +2,7 @@
   "matchday": 21,
   "lastMatchDate": "2026-08-21",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-21T10:41:44.883948+00:00",
+  "updated": "2026-08-21T10:46:35.013113+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service. We are exa",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service due to chec",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Casa de Campo to lobby A. López Casero Out of service. We are examining the reasons",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Casa de Campo to lobby A. López Casero Out of service due to check-up. Coming into",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -198,7 +198,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service. We are exa",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service due to chec",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
