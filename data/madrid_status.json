@@ -2,11 +2,11 @@
   "matchday": 21,
   "lastMatchDate": "2026-08-21",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-21T23:39:49.075159+00:00",
+  "updated": "2026-08-21T23:46:36.045550+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform on line 1 in the direction of Valdecarros and central platform on line 4",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to check-up. Coming into service in the n",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. del Casar to lobby Waiting for information. Services: Accessible station Lifts Esca",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 and corridor leading on line 3 to platform 2 on line 6 in the",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Walkways From hallway of line 5 platforms to hallway of line 9 platforms Waiting for information. Services: Escalators Moving wal",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line corridors to Interchange lobby Out of service due to check-up. Coming into service in the nex",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service due to check-up. Coming into service in the next hours. Servic",
       "seasonPts": 13,
       "checks": 21,
       "wins": 3,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
