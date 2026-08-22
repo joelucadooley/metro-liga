@@ -2,7 +2,7 @@
   "matchday": 22,
   "lastMatchDate": "2026-08-22",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-22T05:41:42.164433+00:00",
+  "updated": "2026-08-22T05:46:37.694505+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Príncipe de Vergara impares-Plaza de República Dominicana Out of service. We are",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Orense to hallway leading to line 6 platforms and platform 2 on line 6 in the di",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
