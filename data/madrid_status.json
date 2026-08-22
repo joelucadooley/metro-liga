@@ -2,7 +2,7 @@
   "matchday": 22,
   "lastMatchDate": "2026-08-22",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-22T10:11:37.689528+00:00",
+  "updated": "2026-08-22T10:16:33.068445+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Walkways From hallway of line 5 platforms to hallway of line 9 platforms Waiting for information. Services: Escalators Moving wal",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Paco de Lucía Out of service due to check-up. Coming into se",
       "seasonPts": 14,
       "checks": 22,
       "wins": 3,
