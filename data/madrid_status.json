@@ -2,7 +2,7 @@
   "matchday": 22,
   "lastMatchDate": "2026-08-22",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-22T22:41:31.422799+00:00",
+  "updated": "2026-08-22T22:46:33.071808+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to check-up. Coming into service in the n",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -198,7 +198,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
