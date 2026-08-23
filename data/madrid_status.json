@@ -2,7 +2,7 @@
   "matchday": 23,
   "lastMatchDate": "2026-08-23",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-23T06:55:40.322804+00:00",
+  "updated": "2026-08-23T07:01:57.969978+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 9 platforms to platform in the direction of Puerta de Arganda Out of service due t",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 9 platforms to platform in the direction of Puerta de Arganda Out of service due t",
+      "description": "We regret to inform you of alterations in the operation of escalators: Walkways From hallway of line 5 platforms to hallway of line 9 platforms Waiting for information. From hallway of line 9 platform",
       "seasonPts": 15,
       "checks": 23,
       "wins": 3,
