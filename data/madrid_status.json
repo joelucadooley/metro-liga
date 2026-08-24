@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-08-24",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-24T22:26:37.255137+00:00",
+  "updated": "2026-08-24T22:31:53.043278+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
