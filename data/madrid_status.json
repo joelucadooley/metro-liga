@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-08-24",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-24T12:26:29.047909+00:00",
+  "updated": "2026-08-24T12:31:57.918971+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Paco de Lucía to hallway leading to platforms Out of service. We are examining the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway in interchange lobby and line 10 platforms to line 10 platform in the direction of Tres Ol",
       "seasonPts": 16,
       "checks": 24,
       "wins": 3,
