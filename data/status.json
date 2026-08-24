@@ -2,11 +2,11 @@
   "matchday": 24,
   "lastMatchDate": "2026-08-24",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-24T16:55:52.670905+00:00",
+  "updated": "2026-08-24T17:01:32.172231+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "Arc de Triomf: Until 27/08/2026, the escalator from the platform direction Hospital de Bellvitge to the lobby, of Arc de Triomf station, temporarily out of service due to improvement works. · Torras i Bages: From 05/08/2026, the access Passeig Santa Coloma / costat muntanya of the Torras i Bages station (L1) is closed for works.",
+      "description": "Torras i Bages: From 05/08/2026, the access Passeig Santa Coloma / costat muntanya of the Torras i Bages station (L1) is closed for works. · Catalunya: From 06/07/2026 the connection halls between the L1, L3 and L1, L3 Metro lines at Catalunya, Catalunya station are closed for works.",
       "seasonPts": 24,
       "checks": 24,
       "wins": 0,
