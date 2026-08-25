@@ -2,11 +2,11 @@
   "matchday": 25,
   "lastMatchDate": "2026-08-25",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-25T09:55:42.002103+00:00",
+  "updated": "2026-08-25T10:02:10.680202+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From entrances Renfe (platforms) and Chamartín (Renfe hall) to lobby Out of service. We are examining the re",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Las Rosas Out of service. We are examining the reasons for t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Las Rosas Waiting for information. Services: Accessible stat",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms Out of service due to check-up. Coming into service in the next hours. Ser",
       "seasonPts": 17,
       "checks": 25,
       "wins": 3,
