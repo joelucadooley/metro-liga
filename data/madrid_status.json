@@ -2,7 +2,7 @@
   "matchday": 25,
   "lastMatchDate": "2026-08-25",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-25T18:26:46.292457+00:00",
+  "updated": "2026-08-25T18:32:06.188134+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Arriaga esq. Francisco Largo Caballero to lobby Out of service due to check-up. Coming into se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Cuatro Caminos Out of service. We are examining the reasons for t",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
