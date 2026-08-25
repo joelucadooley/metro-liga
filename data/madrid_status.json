@@ -2,11 +2,11 @@
   "matchday": 25,
   "lastMatchDate": "2026-08-25",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-25T09:41:34.799967+00:00",
+  "updated": "2026-08-25T09:47:24.613452+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to corridor leading on line 1-9 y 10 Out of service due to repair works. Expected date",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Las Rosas Out of service due to check-up. Coming into servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Las Rosas Out of service. We are examining the reasons for t",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to corridor leading on line 1-9 y 10 Out of service due to repair works. Expected date",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
       "seasonPts": 17,
       "checks": 25,
       "wins": 3,
