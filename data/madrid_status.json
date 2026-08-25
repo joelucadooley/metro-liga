@@ -2,7 +2,7 @@
   "matchday": 25,
   "lastMatchDate": "2026-08-25",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-25T20:26:27.289057+00:00",
+  "updated": "2026-08-25T20:31:51.861444+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gran Vía de Hortaleza to lobby Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Agustín de Betancourt to lobby Orense Out of service due to check-up. Coming into service",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
