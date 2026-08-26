@@ -2,11 +2,11 @@
   "matchday": 26,
   "lastMatchDate": "2026-08-26",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-26T06:56:36.902989+00:00",
+  "updated": "2026-08-26T07:01:59.702039+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From entrances Renfe (platforms) and Chamartín (Renfe hall) to lobby Out of service. We are examining the re",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From entrances Renfe (platforms) and Chamartín (Renfe hall) to lobby Out of service due to check-up. Coming",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Cuatro Caminos Out of service. We are examining the reasons",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. del Casar to lobby Waiting for information. Services: Accessible station Lifts Esca",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. del Casar to lobby Waiting for information. From lobby to entrance Gitanilla Out of",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Paseo de la Castellana impares to lobby Castellana Out of service. We are examin",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
