@@ -2,11 +2,11 @@
   "matchday": 26,
   "lastMatchDate": "2026-08-26",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-26T06:12:25.445647+00:00",
+  "updated": "2026-08-26T06:16:45.235457+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 10 in the direction of Puerta del Sur to intermediate level and hallway leading",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor of Line 6 to platform Line 11 in the direction of La Fortuna Out of service. We are examining",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platform 1 on l",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
