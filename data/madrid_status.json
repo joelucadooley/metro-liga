@@ -2,7 +2,7 @@
   "matchday": 26,
   "lastMatchDate": "2026-08-26",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-26T09:10:03.377767+00:00",
+  "updated": "2026-08-26T09:16:33.508186+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. del Casar to lobby Waiting for information. From lobby to platform 2 in the directi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. del Casar to lobby Out of service due to repair works. Expected date of coming into",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From entrances Centro Comercial and Renfe to lobby Renfe Out of service. We are examining the reasons fo",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From entrances Centro Comercial and Renfe to lobby Renfe Waiting for information. Services: Accessible s",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
