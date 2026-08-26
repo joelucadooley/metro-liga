@@ -2,7 +2,7 @@
   "matchday": 26,
   "lastMatchDate": "2026-08-26",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-26T12:41:32.970752+00:00",
+  "updated": "2026-08-26T12:46:36.661708+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Paseo de la Castellana pares to line 8 platform in the direction of Aeropuerto T4 Out of ser",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
