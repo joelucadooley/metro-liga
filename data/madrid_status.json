@@ -2,7 +2,7 @@
   "matchday": 26,
   "lastMatchDate": "2026-08-26",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-26T05:56:28.554521+00:00",
+  "updated": "2026-08-26T06:02:19.818240+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service. We are examining the reasons f",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Paseo de la Castellana impares to lobby Castellana Out of service. We are examin",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platform 1 on l",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor of Line 6 to platform Line 11 in the direction of La Fortuna Out of service. We are examining",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
