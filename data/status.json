@@ -1,16 +1,16 @@
 {
-  "matchday": 25,
-  "lastMatchDate": "2026-08-25",
+  "matchday": 26,
+  "lastMatchDate": "2026-08-26",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-25T23:55:49.546110+00:00",
+  "updated": "2026-08-26T00:00:44.343519+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
       "description": "Torras i Bages: From 05/08/2026, the access Passeig Santa Coloma / costat muntanya of the Torras i Bages station (L1) is closed for works. · Catalunya: From 06/07/2026 the connection halls between the L1, L3 and L1, L3 Metro lines at Catalunya, Catalunya station are closed for works.",
-      "seasonPts": 25,
-      "checks": 25,
+      "seasonPts": 26,
+      "checks": 26,
       "wins": 0,
-      "draws": 25,
+      "draws": 26,
       "losses": 0,
       "recentForm": [
         "D",
@@ -23,10 +23,10 @@
     "L2": {
       "severity": "minor",
       "description": "Monumental: Until approximately September 3, one of the escalators connecting the Paral·lel platform and the lobby at Monumental station will be out of service due to improvements works.",
-      "seasonPts": 31,
-      "checks": 25,
+      "seasonPts": 32,
+      "checks": 26,
       "wins": 3,
-      "draws": 22,
+      "draws": 23,
       "losses": 0,
       "recentForm": [
         "D",
@@ -39,10 +39,10 @@
     "L3": {
       "severity": "minor",
       "description": "Sants Estació: Until approximately September 10th, the escalator that goes down from the main lobby to the lower lobby of Sants Estació station will be out of service due to improvement work. · Catalunya: From 06/07/2026 the connection halls between the L1, L3 and L1, L3 Metro lines at Catalunya, Catalunya station are closed for works.",
-      "seasonPts": 25,
-      "checks": 25,
+      "seasonPts": 26,
+      "checks": 26,
       "wins": 0,
-      "draws": 25,
+      "draws": 26,
       "losses": 0,
       "recentForm": [
         "D",
@@ -55,9 +55,9 @@
     "L4": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 67,
-      "checks": 25,
-      "wins": 21,
+      "seasonPts": 70,
+      "checks": 26,
+      "wins": 22,
       "draws": 4,
       "losses": 0,
       "recentForm": [
@@ -71,10 +71,10 @@
     "L5": {
       "severity": "minor",
       "description": "Badal: Until September 17, approximately, the escalator going down from the main lobby to the middle lobby at Badal station, out of order due to improvement works. · Badal: Until September 17, approximately, the escalator going up from the middle lobby to the main lobby at Badal station, out of order due to improvement works.",
-      "seasonPts": 25,
-      "checks": 25,
+      "seasonPts": 26,
+      "checks": 26,
       "wins": 0,
-      "draws": 25,
+      "draws": 26,
       "losses": 0,
       "recentForm": [
         "D",
@@ -87,9 +87,9 @@
     "L9N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 75,
-      "checks": 25,
-      "wins": 25,
+      "seasonPts": 78,
+      "checks": 26,
+      "wins": 26,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -103,9 +103,9 @@
     "L9S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 75,
-      "checks": 25,
-      "wins": 25,
+      "seasonPts": 78,
+      "checks": 26,
+      "wins": 26,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -119,9 +119,9 @@
     "L10N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 75,
-      "checks": 25,
-      "wins": 25,
+      "seasonPts": 78,
+      "checks": 26,
+      "wins": 26,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -135,9 +135,9 @@
     "L10S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 75,
-      "checks": 25,
-      "wins": 25,
+      "seasonPts": 78,
+      "checks": 26,
+      "wins": 26,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -151,17 +151,17 @@
     "L11": {
       "severity": "minor",
       "description": null,
-      "seasonPts": 75,
-      "checks": 25,
+      "seasonPts": 76,
+      "checks": 26,
       "wins": 25,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
       "recentForm": [
         "W",
         "W",
         "W",
         "W",
-        "W"
+        "D"
       ]
     }
   }
