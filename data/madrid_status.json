@@ -2,11 +2,11 @@
   "matchday": 26,
   "lastMatchDate": "2026-08-26",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-26T06:06:26.525183+00:00",
+  "updated": "2026-08-26T06:12:25.445647+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 10 in the direction of Puerta del Sur to intermediate level and hallway leading",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
