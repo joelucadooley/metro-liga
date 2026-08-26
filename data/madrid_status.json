@@ -2,11 +2,11 @@
   "matchday": 26,
   "lastMatchDate": "2026-08-26",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-26T06:41:44.435929+00:00",
+  "updated": "2026-08-26T06:46:57.269353+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 10 in the direction of Puerta del Sur to intermediate level and hallway leading",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From entrances Renfe (platforms) and Chamartín (Renfe hall) to lobby Out of service. We are examining the re",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Cuatro Caminos Out of service due to check-up. Coming into s",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 9 platforms to entrance Pedro Valdivia hallway to platform 2 line 6 and platform o",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Arturo Soria to hallway leading to platforms Out of service due to repair works. Expected date of coming in",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
