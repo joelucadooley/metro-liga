@@ -2,7 +2,7 @@
   "matchday": 26,
   "lastMatchDate": "2026-08-26",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-26T16:24:33.798125+00:00",
+  "updated": "2026-08-26T16:32:38.288959+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Arturo Soria to hallway leading to platforms Out of service. We are examining the reasons for the stop. Fro",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Arturo Soria to hallway leading to platforms Out of service due to repair works. Expected date of coming in",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
