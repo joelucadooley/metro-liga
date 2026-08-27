@@ -2,11 +2,11 @@
   "matchday": 27,
   "lastMatchDate": "2026-08-27",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-27T09:11:32.101425+00:00",
+  "updated": "2026-08-27T09:16:39.532348+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From entrances Renfe (platforms) and Chamartín (Renfe hall) to lobby Waiting for information. Services: Acce",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From entrances Renfe (platforms) and Chamartín (Renfe hall) to lobby Out of service due to repair works. Exp",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Cuatro Caminos Waiting for information. Services: Accessible",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Cuatro Caminos Out of service due to repair works. Expected",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service. We are examining the reasons for the st",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Arturo Soria to hallway leading to platforms Out of service due to repair works. Expected date of coming in",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to corridor leading on line 1-9 y 10 Out of service. We are examining the reasons for",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to corridor leading on line 1-9 y 10 Out of service due to repair works. Expected date",
       "seasonPts": 19,
       "checks": 27,
       "wins": 3,
