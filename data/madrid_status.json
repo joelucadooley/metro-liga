@@ -2,7 +2,7 @@
   "matchday": 27,
   "lastMatchDate": "2026-08-27",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-27T15:26:42.238115+00:00",
+  "updated": "2026-08-27T15:31:13.157292+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 6 platforms to platform on line 3 in the direction of Moncloa Out of service due t",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
