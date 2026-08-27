@@ -2,7 +2,7 @@
   "matchday": 27,
   "lastMatchDate": "2026-08-27",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-27T20:26:29.846345+00:00",
+  "updated": "2026-08-27T20:31:50.499124+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 4 in the direction of Argüelles to hallway leading Out of service due to check-u",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Plaza Prosperidad to lobby Out of service. We are examining the reasons for the stop. Services: Escalato",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
