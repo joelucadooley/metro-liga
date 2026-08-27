@@ -2,7 +2,7 @@
   "matchday": 27,
   "lastMatchDate": "2026-08-27",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-27T05:26:23.412499+00:00",
+  "updated": "2026-08-27T05:31:52.020655+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Ramón and Cajal pares e impares to lobby Out of service due to check-up. Coming into service in the next",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service. We are examining the reasons for the st",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
