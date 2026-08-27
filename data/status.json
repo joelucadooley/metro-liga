@@ -2,11 +2,11 @@
   "matchday": 27,
   "lastMatchDate": "2026-08-27",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-27T14:11:02.891254+00:00",
+  "updated": "2026-08-27T14:16:13.943989+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "Torras i Bages: From 05/08/2026, the access Passeig Santa Coloma / costat muntanya of the Torras i Bages station (L1) is closed for works. · Catalunya: From 06/07/2026 the connection halls between the L1, L3 and L1, L3 Metro lines at Catalunya, Catalunya station are closed for works.",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 27,
       "checks": 27,
       "wins": 0,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "Monumental: Until approximately September 3, one of the escalators connecting the Paral·lel platform and the lobby at Monumental station will be out of service due to improvements works.",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 33,
       "checks": 27,
       "wins": 3,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "Sants Estació: Until approximately September 10th, the escalator that goes down from the main lobby to the lower lobby of Sants Estació station will be out of service due to improvement work. · Catalunya: From 06/07/2026 the connection halls between the L1, L3 and L1, L3 Metro lines at Catalunya, Catalunya station are closed for works.",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 27,
       "checks": 27,
       "wins": 0,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "Badal: Until September 17, approximately, the escalator going down from the main lobby to the middle lobby at Badal station, out of order due to improvement works. · Badal: Until September 17, approximately, the escalator going up from the middle lobby to the main lobby at Badal station, out of order due to improvement works.",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 27,
       "checks": 27,
       "wins": 0,
