@@ -2,7 +2,7 @@
   "matchday": 27,
   "lastMatchDate": "2026-08-27",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-27T21:06:31.158624+00:00",
+  "updated": "2026-08-27T21:13:06.576172+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to check-up. Coming into service in the n",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service. We are examining the reasons for the stop. F",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
