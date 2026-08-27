@@ -2,7 +2,7 @@
   "matchday": 27,
   "lastMatchDate": "2026-08-27",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-27T07:57:18.714708+00:00",
+  "updated": "2026-08-27T08:01:52.646796+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platform 1 on l",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
