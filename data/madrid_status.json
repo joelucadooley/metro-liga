@@ -2,7 +2,7 @@
   "matchday": 28,
   "lastMatchDate": "2026-08-28",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-28T22:26:31.726501+00:00",
+  "updated": "2026-08-28T22:32:04.475343+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 8 in the direction of Colombia to entrance Renfe and corridor leading to line 6",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 and line 10 platform in the direction of Puert",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
