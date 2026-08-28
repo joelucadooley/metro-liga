@@ -2,11 +2,11 @@
   "matchday": 28,
   "lastMatchDate": "2026-08-28",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-28T10:41:29.844622+00:00",
+  "updated": "2026-08-28T10:46:49.447922+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Arturo Soria to lobby Out of service. We are examining the reasons for the stop. Services: Acc",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From entrances Renfe (platforms) and Chamartín (Renfe hall) to lobby Out of service due to repair works. Exp",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange to lobby Waiting for information. Services: Accessible station Lifts Escalato",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
