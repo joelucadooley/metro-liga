@@ -2,11 +2,11 @@
   "matchday": 28,
   "lastMatchDate": "2026-08-28",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-28T08:26:31.994334+00:00",
+  "updated": "2026-08-28T08:32:04.228048+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From entrances Renfe (platforms) and Chamartín (Renfe hall) to lobby Waiting for information. From entrances",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From entrances Renfe (platforms) and Chamartín (Renfe hall) to lobby Out of service. We are examining the re",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Moncloa Out of service. We are examining the reasons for the stop",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
