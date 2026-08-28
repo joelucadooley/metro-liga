@@ -2,7 +2,7 @@
   "matchday": 28,
   "lastMatchDate": "2026-08-28",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-28T18:41:38.500826+00:00",
+  "updated": "2026-08-28T18:47:02.999089+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Goya of lobby Conde de Peñalver to platform on line 4 in the direction of Pinar de Chamartín. There is another lif",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Waiting for information. Services: Accessible stati",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Tertulia to lobby Waiting for information. Services: Accessible station Lifts Escalators",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Goya of lobby Conde de Peñalver to platform on line 4 in the direction of Pinar de Chamartín. There is another lif",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Pinar de Chamartín Out of service due to repair works. Expected",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 8 in the direction of Colombia to entrance Renfe and corridor leading to line 6",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to check-up. Coming into se",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Colombia to lobby Out of service. We are examining the reasons for the stop. Escalators From l",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Fermín Caballero to hallway leading to platforms Out of service due to check-up. Coming into service in the",
       "seasonPts": 20,
       "checks": 28,
       "wins": 3,
