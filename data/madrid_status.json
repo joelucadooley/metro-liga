@@ -2,7 +2,7 @@
   "matchday": 28,
   "lastMatchDate": "2026-08-28",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-28T19:26:43.035301+00:00",
+  "updated": "2026-08-28T19:32:16.117369+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Goya of lobby Conde de Peñalver to platform on line 4 in the direction of Pinar de Chamartín. There is another lif",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service. We are examining",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Colombia to lobby Out of service. We are examining the reasons for the stop. Services: Accessi",
+      "description": "We regret to inform you of alterations in the operation of escalators: Walkways From hallway of line 5 platforms to hallway of line 9 platforms Out of service due to repair works. Expected date of com",
       "seasonPts": 20,
       "checks": 28,
       "wins": 3,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to platform on line 10 in the direction of Hospital Infanta Sofía and platform 2 on li",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
