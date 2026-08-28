@@ -2,7 +2,7 @@
   "matchday": 28,
   "lastMatchDate": "2026-08-28",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-28T16:11:39.793374+00:00",
+  "updated": "2026-08-28T16:16:35.233376+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service. We are examining the reasons for the st",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Pinar de Chamartín Out of service due to repair works. Expected",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Príncipe de Vergara impares-Plaza de República Dominicana Out of service due to",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Colombia to lobby Out of service. We are examining the reasons for the stop. Escalators From l",
       "seasonPts": 20,
       "checks": 28,
       "wins": 3,
