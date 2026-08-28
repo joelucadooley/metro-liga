@@ -2,7 +2,7 @@
   "matchday": 28,
   "lastMatchDate": "2026-08-28",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-28T08:11:52.551979+00:00",
+  "updated": "2026-08-28T08:16:39.320615+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Moncloa Out of service. We are examining the reasons for the stop",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service. We are examining the reasons for the st",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Plaza Prosperidad to lobby Out of service. We are examining the reasons for the stop. From lobby to hal",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
