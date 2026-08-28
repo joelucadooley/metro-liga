@@ -2,11 +2,11 @@
   "matchday": 28,
   "lastMatchDate": "2026-08-28",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-28T05:41:37.256590+00:00",
+  "updated": "2026-08-28T05:46:42.683999+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From entrances Renfe (platforms) and Chamartín (Renfe hall) to lobby Waiting for information. Services: Acce",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Bravo Murillo to hallway leading to platform of line 1 in the direction of Vald",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Plaza Prosperidad to lobby Out of service. We are examining the reasons for the stop. Services: Escalato",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to platform on line 10 in the direction of Hospital Infanta Sofía and platform 2 on li",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
