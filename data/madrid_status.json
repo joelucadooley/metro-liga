@@ -2,11 +2,11 @@
   "matchday": 29,
   "lastMatchDate": "2026-08-29",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-29T20:26:33.182832+00:00",
+  "updated": "2026-08-29T20:31:44.202127+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Tres Olivos Out of service.",
       "seasonPts": 87,
       "checks": 29,
       "wins": 29,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Puerta de Arganda Waiting for information. Services: Escalators",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Tres Olivos Out of service.",
       "seasonPts": 21,
       "checks": 29,
       "wins": 3,
