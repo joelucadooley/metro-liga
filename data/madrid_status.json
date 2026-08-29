@@ -2,7 +2,7 @@
   "matchday": 29,
   "lastMatchDate": "2026-08-29",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-29T08:56:27.924859+00:00",
+  "updated": "2026-08-29T09:01:57.949626+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Manuel Montilla to hallway for platforms Out of service. We are examining the reasons for the stop. Service",
+      "description": "We regret to inform you of alterations in the operation of escalators: Walkways From hallway of line 5 platforms to hallway of line 9 platforms Out of service due to repair works. Expected date of com",
       "seasonPts": 21,
       "checks": 29,
       "wins": 3,
