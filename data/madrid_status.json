@@ -2,11 +2,11 @@
   "matchday": 30,
   "lastMatchDate": "2026-08-30",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-30T22:11:37.928921+00:00",
+  "updated": "2026-08-30T22:16:36.067140+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby central to hallway leading to platforms on line 6. There is another lift in the same location Out",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Bravo Murillo to hallway leading to platform of line 1 in the direction of Vald",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Puerta de Arganda Waiting for information. Services: Escalators",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Bravo Murillo to hallway leading to platform of line 1 in the direction of Vald",
       "seasonPts": 22,
       "checks": 30,
       "wins": 3,
