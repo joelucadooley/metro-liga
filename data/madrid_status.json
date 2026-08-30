@@ -2,7 +2,7 @@
   "matchday": 30,
   "lastMatchDate": "2026-08-30",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-30T22:26:29.897868+00:00",
+  "updated": "2026-08-30T22:31:52.811655+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to platform on line 10 in the direction of Puerta del Sur and platform 1 on line 6 in",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
