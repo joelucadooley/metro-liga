@@ -2,7 +2,7 @@
   "matchday": 30,
   "lastMatchDate": "2026-08-30",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-30T16:41:43.399322+00:00",
+  "updated": "2026-08-30T16:46:40.730676+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Agustín de Betancourt to lobby Orense Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 8 in the direction of Colombia to entrance Renfe and corridor leading to line 6",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
