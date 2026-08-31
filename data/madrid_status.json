@@ -2,7 +2,7 @@
   "matchday": 31,
   "lastMatchDate": "2026-08-31",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-31T13:11:39.670955+00:00",
+  "updated": "2026-08-31T13:17:16.332888+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Plaza Prosperidad to lobby Out of service. We are examining the reasons for the stop. Services: Escalato",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Goya of lobby Conde de Peñalver to platform on line 4 in the direction of Pinar de Chamartín. There is another lif",
       "seasonPts": 93,
       "checks": 31,
       "wins": 31,
