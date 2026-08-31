@@ -2,7 +2,7 @@
   "matchday": 31,
   "lastMatchDate": "2026-08-31",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-31T07:11:02.988243+00:00",
+  "updated": "2026-08-31T07:16:15.028960+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -53,7 +53,7 @@
       ]
     },
     "L4": {
-      "severity": "clear",
+      "severity": "minor",
       "description": null,
       "seasonPts": 85,
       "checks": 31,
