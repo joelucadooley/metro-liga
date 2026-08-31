@@ -2,7 +2,7 @@
   "matchday": 31,
   "lastMatchDate": "2026-08-31",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-31T08:11:35.467309+00:00",
+  "updated": "2026-08-31T08:16:33.417807+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Goya of lobby Conde de Peñalver to platform on line 4 in the direction of Pinar de Chamartín. There is another lif",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby central to hallway leading to platforms on line 6. There is another lift in the same location Out",
       "seasonPts": 93,
       "checks": 31,
       "wins": 31,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Goya of lobby Conde de Peñalver to platform on line 4 in the direction of Pinar de Chamartín. There is another lif",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Plaza Prosperidad to lobby Out of service. We are examining the reasons for the stop. Services: Escalato",
       "seasonPts": 93,
       "checks": 31,
       "wins": 31,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Alameda de Osuna Out of service due to check-up. Coming into",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance La Corbeta esq. La Rioja to lobby Out of service due to check-up. Coming into service in the n",
       "seasonPts": 93,
       "checks": 31,
       "wins": 31,
