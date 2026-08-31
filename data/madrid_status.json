@@ -2,7 +2,7 @@
   "matchday": 31,
   "lastMatchDate": "2026-08-31",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-31T11:56:25.374342+00:00",
+  "updated": "2026-08-31T12:01:52.445792+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways lobby Out of service due to check-up. Coming into service in the next hours. Services: Escalato",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From platform on line 5 in the direction of Alameda de Osuna to hallway leading to platforms to line 7 O",
       "seasonPts": 93,
       "checks": 31,
       "wins": 31,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 7b Hospital del Henares Out of service due to check-up. Coming into service in t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service. We are examining the re",
       "seasonPts": 12,
       "checks": 31,
       "wins": 4,
