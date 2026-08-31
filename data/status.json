@@ -2,7 +2,7 @@
   "matchday": 31,
   "lastMatchDate": "2026-08-31",
   "lastResetMonth": "2026-08",
-  "updated": "2026-08-31T12:11:15.301345+00:00",
+  "updated": "2026-08-31T12:16:01.296336+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "Verdaguer: Until 01/02/2027, the escalator from the platform direction La Pau to the lobby of the Verdaguer station (L4) temporarily out of service. · Verdaguer: Until 01/02/2027, the escalator from the platform direction Trinitat Nova to the lobby of the Verdaguer station (L4) temporarily out of service.",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 85,
       "checks": 31,
       "wins": 27,
