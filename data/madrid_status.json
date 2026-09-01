@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-09-01",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-01T21:25:24.095507+00:00",
+  "updated": "2026-09-01T21:32:00.127341+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -42,7 +42,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Pedro de Valdivia to lobby Francisco Silvela Out of service due to repair works. Expected",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to check-up. C",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -90,7 +90,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Colombia to lobby Out of service due to repair works. Expected date of coming into service: 03",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to check-up. Coming into se",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
