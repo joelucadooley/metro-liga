@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-09-01",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-01T04:41:38.795272+00:00",
+  "updated": "2026-09-01T04:46:31.391317+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -30,7 +30,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 2 platforms to hallway of line 10 platforms and lobby Conde de Toreno Out of servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform 1 in the direction of Los Espartales Out of service due to check-up. Coming into serv",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
