@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-09-01",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-01T14:41:36.445898+00:00",
+  "updated": "2026-09-01T14:46:41.248804+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -30,7 +30,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. del Casar to lobby Out of service. We are examining the reasons for the stop. Services:",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Out of service. We are examining the reasons for th",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -90,7 +90,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Paseo de la Castellana pares to hallway of line 8 platform in the direction of Aeropuerto T4",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Colombia to lobby Out of service due to repair works. Expected date of coming into service: 03",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
