@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-09-01",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-01T12:11:45.711048+00:00",
+  "updated": "2026-09-01T12:16:31.763933+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -90,7 +90,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Colombia to lobby Out of service due to repair works. Expected date of coming into service: 03",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Paseo de la Castellana pares to hallway of line 8 platform in the direction of Aeropuerto T4",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
