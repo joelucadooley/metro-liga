@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-09-01",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-01T10:55:57.086612+00:00",
+  "updated": "2026-09-01T11:01:21.190353+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -30,7 +30,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "Sants Estació: Until approximately September 10th, the escalator that goes down from the main lobby to the lower lobby of Sants Estació station will be out of service due to improvement work. · Poble Sec: Until, approximately, October 6th, due to works, the Teodor Bonaplata access of Poble Sec station is closed.",
+      "description": "Roquetes: Until 25/10/2026, the escalators from the lobby to the entrance Jaume Pinent, of Roquetes station (L3) temporarily out of service. · Sants Estació: Until approximately September 10th, the escalator that goes down from the main lobby to the lower lobby of Sants Estació station will be out of service due to improvement work.",
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
@@ -41,8 +41,8 @@
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "Verdaguer: Until 01/02/2027, the escalator from the platform direction La Pau to the lobby of the Verdaguer station (L4) temporarily out of service. · Verdaguer: Until 01/02/2027, the escalator from the platform direction Trinitat Nova to the lobby of the Verdaguer station (L4) temporarily out of service.",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
