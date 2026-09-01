@@ -2,11 +2,11 @@
   "matchday": 1,
   "lastMatchDate": "2026-09-01",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-01T11:26:28.011579+00:00",
+  "updated": "2026-09-01T11:31:56.429905+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana to lobby Castellana Out of service. We are examining the reasons for the stop. Serv",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to check-up. Coming into service in the n",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -30,7 +30,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 3 platforms and lobby Leganitos-Reyes and corridor leading to line 10 platforms.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service in th",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -102,7 +102,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana to lobby Castellana Out of service. We are examining the reasons for the stop. Serv",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Puerta de Arganda Waiting for information. Services: Escalators",
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
