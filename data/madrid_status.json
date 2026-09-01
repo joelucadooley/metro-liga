@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-09-01",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-01T06:11:40.859608+00:00",
+  "updated": "2026-09-01T06:16:44.385077+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -30,7 +30,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform on line 1 in the direction Pinar de Chamartin Out of service due to check-up. C",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform on line 1 in the direction Pinar de Chamartin Out of service. We are examining",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -42,7 +42,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service. We are examining",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Pedro de Valdivia to lobby Francisco Silvela Waiting for information. Services: Accessibl",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
