@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-09-01",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-01T18:11:39.558946+00:00",
+  "updated": "2026-09-01T18:16:38.967866+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -30,7 +30,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Out of service. We are examining the reasons for th",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
