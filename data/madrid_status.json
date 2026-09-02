@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-09-02",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-02T05:21:35.571813+00:00",
+  "updated": "2026-09-02T05:28:56.447993+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -97,7 +97,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Colombia to lobby Out of service due to repair works. Expected date of coming into service: 03",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From hallway Renfe to hallway leading to line 10 in the direction of Tres Olivos and line 8 in the dire",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -136,7 +136,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platform 1 on l",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
