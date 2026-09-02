@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-09-02",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-02T12:41:30.998234+00:00",
+  "updated": "2026-09-02T12:46:49.678630+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -110,7 +110,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Mondariz to hallway leading to platforms Waiting for information. Services: Escalators Defibrillator",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Mondariz to hallway leading to platforms Waiting for information. From lobby Melchor Fernández Almagr",
       "seasonPts": 2,
       "checks": 2,
       "wins": 0,
