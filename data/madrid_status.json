@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-09-02",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-02T04:26:27.373979+00:00",
+  "updated": "2026-09-02T04:31:50.510207+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -32,7 +32,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. de Córdoba in Gta. de Málaga to lobby Out of service. We are examining the reasons for t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -136,7 +136,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platform 1 on l",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
