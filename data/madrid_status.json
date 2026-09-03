@@ -2,11 +2,11 @@
   "matchday": 3,
   "lastMatchDate": "2026-09-03",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-03T11:56:42.023876+00:00",
+  "updated": "2026-09-03T12:02:06.288320+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service. We are examining the reasons for the stop. F",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -118,7 +118,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Puerta de Arganda Out of service. We are examining the reasons",
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
@@ -146,7 +146,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platform 1 on l",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Elíptica esq. Avda. de Oporto to lobby Vía Lusitana Out of service. We are examining the",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
