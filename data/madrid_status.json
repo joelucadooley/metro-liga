@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-09-03",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-03T13:56:33.103850+00:00",
+  "updated": "2026-09-03T14:01:51.127522+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -48,7 +48,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Pedro de Valdivia to lobby Francisco Silvela Out of service due to repair works. Expected",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From corridor Leading on lines to platform 2 on Line 4 direction Pinar de Chamartin Out of service. We are examining the reasons",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
