@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-09-03",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-03T05:11:34.119630+00:00",
+  "updated": "2026-09-03T05:17:32.757086+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -34,7 +34,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 2 platforms to hallway of line 10 platforms and lobby Conde de Toreno Out of servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service in th",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -48,7 +48,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 4 and line 5 and hallway from line 10 platforms to line 10 platform in the direction of Puerta d",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of lobby Alberto Aguilera and platforms on line 4 to platform 1 on line 6 in the direction",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -62,7 +62,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Emilio Ferrari to platform on line 5 and corridor leading on line 7 Out of service. We are examin",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Alcalá impares-Josefa Valcarcel to lobby Josefa Valcarcel Out of service due to check-up. Coming into se",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
