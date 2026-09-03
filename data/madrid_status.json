@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-09-03",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-03T10:56:34.169742+00:00",
+  "updated": "2026-09-03T11:02:00.984560+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -48,7 +48,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From lobby central to hallway for Lines 1 and 4. There is another lift in the same location. Out of service. We are examining th",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From corridor leading on lines to platform 1 on Line 1 direction Valdecarros Out of service. We are examining the reasons for th",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
