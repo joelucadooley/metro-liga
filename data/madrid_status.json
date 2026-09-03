@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-09-03",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-03T04:41:34.748677+00:00",
+  "updated": "2026-09-03T04:46:48.679069+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -34,7 +34,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Moncloa Out of service. We are examining the reasons for the stop",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service in th",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -48,7 +48,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Santa Bárbara to hallway for platforms on line 5 and hallway for platforms on line 10 Out of service. We ar",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 4 and line 5 and hallway from line 10 platforms to line 10 platform in the direction of Puerta d",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
