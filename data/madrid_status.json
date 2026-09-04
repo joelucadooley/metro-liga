@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-09-04",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-04T19:41:42.728320+00:00",
+  "updated": "2026-09-04T19:46:35.863560+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -36,7 +36,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 6 platforms to platform 1 on line 6 in the direction of Arganzuela-Planetario Out",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Arcipreste de Hita to platform on line 3 Out of service due to check-up. Coming into service",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
