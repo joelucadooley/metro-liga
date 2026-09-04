@@ -2,11 +2,11 @@
   "matchday": 4,
   "lastMatchDate": "2026-09-04",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-04T09:35:52.752203+00:00",
+  "updated": "2026-09-04T09:41:01.791712+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "Torras i Bages: From 05/08/2026, the access Passeig Santa Coloma / costat muntanya of the Torras i Bages station (L1) is closed for works. · Catalunya: From 06/07/2026 the connection halls between the L1, L3 and L1, L3 Metro lines at Catalunya, Catalunya station are closed for works.",
+      "severity": "incident",
+      "description": null,
       "seasonPts": 4,
       "checks": 4,
       "wins": 0,
@@ -20,7 +20,7 @@
       ]
     },
     "L2": {
-      "severity": "clear",
+      "severity": "incident",
       "description": null,
       "seasonPts": 6,
       "checks": 4,
@@ -35,8 +35,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "Roquetes: Until 25/10/2026, the escalators from the lobby to the entrance Jaume Pinent, of Roquetes station (L3) temporarily out of service. · Sants Estació: Until approximately September 10th, the escalator that goes down from the main lobby to the lower lobby of Sants Estació station will be out of service due to improvement work.",
+      "severity": "incident",
+      "description": null,
       "seasonPts": 4,
       "checks": 4,
       "wins": 0,
@@ -50,8 +50,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "Verdaguer: Until 01/02/2027, the escalator from the platform direction La Pau to the lobby of the Verdaguer station (L4) temporarily out of service. · Verdaguer: Until 01/02/2027, the escalator from the platform direction Trinitat Nova to the lobby of the Verdaguer station (L4) temporarily out of service.",
+      "severity": "incident",
+      "description": null,
       "seasonPts": 6,
       "checks": 4,
       "wins": 1,
@@ -65,8 +65,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "Sagrada Família: Until 06/09/2026, the access Provença / Avinguda Gaudí of the Sagrada Família station (L5) is closed due to improvement works. · Badal: Until September 17, approximately, the escalator going down from the main lobby to the middle lobby at Badal station, out of order due to improvement works.",
+      "severity": "incident",
+      "description": null,
       "seasonPts": 4,
       "checks": 4,
       "wins": 0,
@@ -140,7 +140,7 @@
       ]
     },
     "L11": {
-      "severity": "clear",
+      "severity": "incident",
       "description": null,
       "seasonPts": 12,
       "checks": 4,
