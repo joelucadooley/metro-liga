@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-09-04",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-04T08:26:29.801170+00:00",
+  "updated": "2026-09-04T08:31:50.655500+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -51,7 +51,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From corridor leading on lines to platform 1 on Line 4 direction Argüelles Out of service. We are examining the reasons for the",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 4 and line 5 and hallway from line 10 platforms to line 10 platform in the direction of Puerta d",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
@@ -126,7 +126,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Arganda del Rey to hallway leading to platforms to lobby Melchor Fernández Almagro",
       "seasonPts": 4,
       "checks": 4,
       "wins": 0,
