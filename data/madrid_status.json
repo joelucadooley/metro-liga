@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-09-04",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-04T22:10:17.178305+00:00",
+  "updated": "2026-09-04T22:16:40.946965+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -51,7 +51,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Maria de Molina to the lobby. There is another elevator in the same location. Out of service d",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Maria de Molina to the lobby. There is another elevator in the same location. Out of service.",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
@@ -66,7 +66,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Canillejas to hallway leading to platforms Out of service due to check-up. Coming into service in the next",
+      "description": "We regret to inform you of alterations in the operation of escalators: Walkways From hallway of line 5 platforms to hallway of line 9 platforms Out of service due to repair works. Expected date of com",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
