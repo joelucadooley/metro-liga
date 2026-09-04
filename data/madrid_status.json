@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-09-04",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-04T18:11:36.721020+00:00",
+  "updated": "2026-09-04T18:16:35.204145+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -35,8 +35,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Perla to lobby Out of service. We are examining the reasons for the stop. Services: Acce",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
