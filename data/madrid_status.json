@@ -2,7 +2,7 @@
   "matchday": 5,
   "lastMatchDate": "2026-09-05",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-05T15:41:34.965377+00:00",
+  "updated": "2026-09-05T15:46:33.626995+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -198,7 +198,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Paseo de la Florida to platform on line 10 in the direction of Puerta del Sur and platform 1",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 10 in the direction of Tres Olivos and platform 2 on line 6 in the direction of",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
