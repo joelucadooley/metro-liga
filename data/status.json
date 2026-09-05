@@ -2,7 +2,7 @@
   "matchday": 5,
   "lastMatchDate": "2026-09-05",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-05T06:55:55.274393+00:00",
+  "updated": "2026-09-05T07:01:20.054966+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "Sagrada Família: Until 06/09/2026, the access Provença / Avinguda Gaudí of the Sagrada Família station (L5) is closed due to improvement works. · Badal: Until September 17, approximately, the escalator going down from the main lobby to the middle lobby at Badal station, out of order due to improvement works.",
+      "description": "Badal: Until September 17, approximately, the escalator going down from the main lobby to the middle lobby at Badal station, out of order due to improvement works. · Badal: Until September 17, approximately, the escalator going up from the middle lobby to the main lobby at Badal station, out of order due to improvement works.",
       "seasonPts": 5,
       "checks": 5,
       "wins": 0,
