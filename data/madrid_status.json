@@ -2,11 +2,11 @@
   "matchday": 5,
   "lastMatchDate": "2026-09-05",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-05T08:56:31.166301+00:00",
+  "updated": "2026-09-05T09:01:50.796448+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Tres Olivos Out of service.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Tres Olivos Out of service.",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of lobby Sánchez Pacheco to platform in the direction of Paco de Lucía Waiting for information. Services:",
       "seasonPts": 5,
       "checks": 5,
       "wins": 0,
