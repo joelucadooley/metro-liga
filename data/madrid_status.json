@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-09-06",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-06T21:56:37.014366+00:00",
+  "updated": "2026-09-06T22:01:53.539362+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Juan Bravo to hallway for lines 4, 5 and 6 Waiting for information. Services: Escalators Defibrillator Mob",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Juan Bravo to hallway for lines 4, 5 and 6 Waiting for information. From lobby Alcántara to hallway leadin",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Doctor Fleming together Parque Doctor Fleming to lobby Out of service due to check-up. Coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 7b Hospital del Henares Out of service due to check-up. Coming into service in t",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
