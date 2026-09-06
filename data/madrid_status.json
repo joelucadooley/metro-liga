@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-09-06",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-06T17:56:30.513710+00:00",
+  "updated": "2026-09-06T18:01:49.334003+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Juan Bravo to hallway for lines 4, 5 and 6 Waiting for information. From corridor of line 5 platform and h",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Juan Bravo to hallway for lines 4, 5 and 6 Waiting for information. Services: Escalators Defibrillator Mob",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Juan Bravo to hallway for lines 4, 5 and 6 Waiting for information. From corridor of line 5 platform and h",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Juan Bravo to hallway for lines 4, 5 and 6 Waiting for information. Services: Escalators Defibrillator Mob",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
