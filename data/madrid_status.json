@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-09-06",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-06T22:41:34.610345+00:00",
+  "updated": "2026-09-06T22:46:37.681171+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Casa de Campo Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Juan Bravo to hallway for lines 4, 5 and 6 Waiting for information. From lobby Alcántara to hallway leadin",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
