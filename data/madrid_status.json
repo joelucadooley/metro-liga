@@ -2,11 +2,11 @@
   "matchday": 7,
   "lastMatchDate": "2026-09-07",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-07T09:11:40.678786+00:00",
+  "updated": "2026-09-07T09:16:34.754166+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Agustín de Foxá to lobby Out of service. We are examining the reasons for the stop. Services:",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Agustín de Foxá to lobby Out of service due to repair works. Expected date of coming into serv",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Las Rosas Out of service. We are examining the reasons for the st",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Las Rosas Out of service due to repair works. Expected date of co",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. del Casar to lobby Out of service. We are examining the reasons for the stop. Escalators",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. del Casar to lobby Out of service due to repair works. Expected date of coming into serv",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From lobby central to hallway for Lines 1 and 4. There is another lift in the same location. Out of service. We are examining th",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From corridor leading on lines to platform 1 on Line 1 direction Valdecarros Out of service. We are examining the reasons for th",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 to line 10 platform in the direction of Puerta",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Terminales 1,2 and 3 to lobby. There is another escalator in the same direction and locat",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service. We are examining the reasons",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
