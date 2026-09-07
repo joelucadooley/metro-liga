@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-09-07",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-07T10:56:34.086430+00:00",
+  "updated": "2026-09-07T11:02:18.924762+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Puerta de Arganda to hallway leading to platforms to lobby Fermín Caballero Out of",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
       "seasonPts": 7,
       "checks": 7,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service. We are examining the reasons",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
