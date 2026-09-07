@@ -2,11 +2,11 @@
   "matchday": 7,
   "lastMatchDate": "2026-09-07",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-07T12:05:57.962713+00:00",
+  "updated": "2026-09-07T12:11:19.098138+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "Catalunya: From today, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works. · Torras i Bages: From 05/08/2026, the access Passeig Santa Coloma / costat muntanya of the Torras i Bages station (L1) is closed for works.",
+      "description": "Catalunya: From today, and until October 30th, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works. · Torras i Bages: From 05/08/2026, the access Passeig Santa Coloma / costat muntanya of the Torras i Bages station (L1) is closed for works.",
       "seasonPts": 7,
       "checks": 7,
       "wins": 0,
