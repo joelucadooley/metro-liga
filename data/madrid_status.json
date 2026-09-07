@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-09-07",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-07T07:56:35.679952+00:00",
+  "updated": "2026-09-07T08:01:55.465581+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Las Rosas Out of service due to check-up. Coming into service in",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Las Rosas Out of service. We are examining the reasons for the st",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platforms to hallway leading to line 9 platforms and line 9 platform in the direction of Paco",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways lobby Out of service due to check-up. Coming into service in the next hours. Services: Escalato",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 to line 10 platform in the direction of Puerta",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Terminales 1,2 and 3 to lobby. There is another escalator in the same direction and locat",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on Line 6 to platform 1 in the direction Usera Out of service. We are e",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service due to check-up. Coming into servi",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
