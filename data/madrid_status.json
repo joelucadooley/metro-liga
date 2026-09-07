@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-09-07",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-07T06:11:41.782509+00:00",
+  "updated": "2026-09-07T06:16:30.059856+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Abrantes to lobby Waiting for information. Services: Accessible station Lifts Escalators",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on Line 6 to platform 1 in the direction Usera Out of service. We are e",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
