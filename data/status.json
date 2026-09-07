@@ -2,11 +2,11 @@
   "matchday": 7,
   "lastMatchDate": "2026-09-07",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-07T06:56:11.861350+00:00",
+  "updated": "2026-09-07T07:01:22.892977+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "Torras i Bages: From 05/08/2026, the access Passeig Santa Coloma / costat muntanya of the Torras i Bages station (L1) is closed for works. · Plaça de Sants: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work.",
+      "description": "Catalunya: From today, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works. · Torras i Bages: From 05/08/2026, the access Passeig Santa Coloma / costat muntanya of the Torras i Bages station (L1) is closed for works.",
       "seasonPts": 7,
       "checks": 7,
       "wins": 0,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "Monumental: Until September 29th, approximately, the last section of escalators going up from the Badalona Pompeu Fabra's plattform to the lobby at Monumental station, out of service due to maintenance works. · Verneda: Until September 29th, approximately, the elevator connecting the lobby and the plattform direction Badalona Pompeu Fabra, at Verneda station, out of service due to maintenance works.",
+      "description": "Monumental: Until September 29th, approximately, the last section of escalators going up from the Badalona Pompeu Fabra's plattform to the lobby at Monumental station, out of service due to maintenance works.",
       "seasonPts": 13,
       "checks": 7,
       "wins": 3,
