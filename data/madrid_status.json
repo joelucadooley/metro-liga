@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-09-08",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-08T08:41:31.765324+00:00",
+  "updated": "2026-09-08T08:46:39.017655+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From corridor Leading on lines to platform 2 on Line 4 direction Pinar de Chamartin Out of service. We are examining the reasons",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Maria de Molina to the lobby. There is another elevator in the same location. Out of service.",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance San José semiesq. del Carmen to lobby Out of service. We are examining the reasons for the sto",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 1 on line 6 in the direction of Puerta del Ángel and platform on line 10 in the",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
