@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-09-08",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-08T14:11:35.205670+00:00",
+  "updated": "2026-09-08T14:16:42.007557+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Moncloa Out of service due to repair works. Expected date of comi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Out of service due to check-up. Coming in",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Paco de Lucía to hallway leading to platforms to fobby Fermín Caballero Waiting for",
       "seasonPts": 8,
       "checks": 8,
       "wins": 0,
