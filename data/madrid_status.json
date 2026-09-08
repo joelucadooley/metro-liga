@@ -2,11 +2,11 @@
   "matchday": 8,
   "lastMatchDate": "2026-09-08",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-08T04:26:24.997244+00:00",
+  "updated": "2026-09-08T04:31:44.221315+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform on line 1 in the direction of Valdecarros and central platform on line 4",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 1 in the direction of Pinar de Chamartín to intermediate level leading to hallw",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to check-up. C",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Maria de Molina to the lobby. There is another elevator in the same location. Out of service.",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Alameda de Osuna to lobby A. López Casero Out of service due to check-up. Coming in",
+      "description": "We regret to inform you of alterations in the operation of escalators: Walkways From hallway of line 5 platforms to hallway of line 9 platforms Out of service due to repair works. Expected date of com",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform 1 on line 6 in the direction of Cuatro Caminos to hallway leading to platforms to line 6",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Terminales 1,2 and 3 to lobby. There is another escalator in the same direction and locat",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance San José semiesq. del Carmen to lobby Out of service due to check-up. Coming into service in t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
