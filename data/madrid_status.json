@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-09-08",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-08T21:41:44.136960+00:00",
+  "updated": "2026-09-08T21:46:30.859960+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to check-up. C",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gonzalo de Córdoba to lobby Waiting for information. Services: Accessible station Lifts E",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service. We are examining the re",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service. We are examining the reasons f",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial corridor line 6 to platform 2 line 6 in the direction of Republica Argentina Out",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
