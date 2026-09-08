@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-09-08",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-08T19:11:39.692440+00:00",
+  "updated": "2026-09-08T19:16:36.318117+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service due to check-up. Coming into service in the next hours. Servic",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Costa Brava to lobby Out of service. We are examining the reasons for the stop. Services:",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Herrera Oria to hallway leading to platforms Out of service. We are examining the reasons for the stop. Fro",
       "seasonPts": 8,
       "checks": 8,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de los Poblados pares to lobby Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform in the direcion Plaza Elíptica to hallways leading to platforms Out of service due to che",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
