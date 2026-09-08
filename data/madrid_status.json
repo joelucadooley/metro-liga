@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-09-08",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-08T06:26:43.797414+00:00",
+  "updated": "2026-09-08T06:31:52.040134+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service. We are examining the r",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 7b Hospital del Henares Out of service due to check-up. Coming into service in t",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Terminales 1,2 and 3 to lobby. There is another escalator in the same direction and locat",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform 1 on line 6 in the direction of Cuatro Caminos to hallway leading to platforms to line 6",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
