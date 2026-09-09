@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-09-09",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-09T22:41:34.589183+00:00",
+  "updated": "2026-09-09T22:46:33.734980+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 6 platforms to platform 1 on line 6 in the direction of Arganzuela-Planetario Out",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 3 in the direction of El Casar to hallway leading to platforms to line 6 Out of",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
