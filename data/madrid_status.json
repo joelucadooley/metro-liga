@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-09-09",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-09T11:26:36.105854+00:00",
+  "updated": "2026-09-09T11:31:45.938853+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service due to check-up. Coming into s",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
