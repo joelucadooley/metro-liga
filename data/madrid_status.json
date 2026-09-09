@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-09-09",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-09T15:41:34.840679+00:00",
+  "updated": "2026-09-09T15:46:35.099154+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Preciados to platform on line 3 in the direction of El Casar Waiting for information. Servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza del Callao of lobby Callao to lobby Out of service due to repair works. Expected da",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for the s",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
