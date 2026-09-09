@@ -2,11 +2,11 @@
   "matchday": 9,
   "lastMatchDate": "2026-09-09",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-09T15:26:31.007604+00:00",
+  "updated": "2026-09-09T15:32:20.391469+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 1 in the direction of Pinar de Chamartín to intermediate level leading to hallw",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Arturo Soria to lobby Out of service due to check-up. Coming into service in the next hou",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Argumosa to lobby Out of service. We are examining the reasons for the stop. Services: Ac",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Preciados to platform on line 3 in the direction of El Casar Waiting for information. Servic",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
