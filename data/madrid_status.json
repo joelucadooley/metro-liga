@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-09-10",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-10T07:41:35.252590+00:00",
+  "updated": "2026-09-10T07:46:41.318414+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Alberto Aguilera esq. Gaztambide to lobby Alberto Aguilera Out of service. We are examining th",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Maria de Molina to the lobby. There is another elevator in the same location. Out of service.",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to platform on line 10 in the direction of Puerta del Sur and platform 1 on line 6 in",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
