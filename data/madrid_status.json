@@ -2,11 +2,11 @@
   "matchday": 10,
   "lastMatchDate": "2026-09-10",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-10T17:56:30.449429+00:00",
+  "updated": "2026-09-10T18:02:04.945052+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 1 in the direction of Valdecarros to hallway leading to lines and lobby Bravo Mur",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
