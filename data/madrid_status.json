@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-09-10",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-10T21:56:31.035192+00:00",
+  "updated": "2026-09-10T22:01:56.545404+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Walkways From hallway of line 5 platforms to hallway of line 9 platforms Out of service due to repair works. Expected date of com",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
