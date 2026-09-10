@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-09-10",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-10T04:57:01.807969+00:00",
+  "updated": "2026-09-10T05:02:02.583157+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Puerta del Sol to platform on line 1 in the direction of Valdecarros Out of service due to c",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service. We are examining the reasons for the stop. Services: Accessib",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform hallways to platform in the direction of Estadio Metropolitano Waiting for information. S",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service. We are examining the re",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for the s",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
