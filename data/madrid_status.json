@@ -2,11 +2,11 @@
   "matchday": 11,
   "lastMatchDate": "2026-09-11",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-11T04:41:44.368650+00:00",
+  "updated": "2026-09-11T04:46:40.604024+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform on line 1 in the direction of Pinar de Chamartín Out of service due to che",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform on line 1 in the direction of Pinar de Chamartín Out of service. We are ex",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform on line 1 in the direction of Pinar de Chamartín Out of service due to che",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform on line 1 in the direction of Pinar de Chamartín Out of service. We are ex",
       "seasonPts": 11,
       "checks": 11,
       "wins": 0,
