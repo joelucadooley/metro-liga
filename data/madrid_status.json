@@ -2,7 +2,7 @@
   "matchday": 11,
   "lastMatchDate": "2026-09-11",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-11T17:55:14.689669+00:00",
+  "updated": "2026-09-11T18:01:57.783708+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby of Via Lusitana to Interchange, intermediate level of hallway leading to platforms on line 1",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
