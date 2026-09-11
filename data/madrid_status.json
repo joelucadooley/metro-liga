@@ -2,7 +2,7 @@
   "matchday": 11,
   "lastMatchDate": "2026-09-11",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-11T18:56:32.450479+00:00",
+  "updated": "2026-09-11T19:02:11.598522+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Casa de Campo Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Emilio Ferrari to platform on line 5 Out of service. We are examining the reasons for the stop. S",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
