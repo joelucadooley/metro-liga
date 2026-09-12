@@ -2,7 +2,7 @@
   "matchday": 12,
   "lastMatchDate": "2026-09-12",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-12T21:11:34.880432+00:00",
+  "updated": "2026-09-12T21:16:37.377702+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Emilio Ferrari to platform on line 5 Out of service. We are examining the reasons for the stop. S",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Velero of lobby Velero to lobby Out of service due to check-up. Coming into service in th",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
