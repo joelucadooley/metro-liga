@@ -2,11 +2,11 @@
   "matchday": 12,
   "lastMatchDate": "2026-09-12",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-12T04:56:52.509743+00:00",
+  "updated": "2026-09-12T05:02:00.015079+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to corridor leading on line 1-9 y 10 Out of service. We are examining the reasons for",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
