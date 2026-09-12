@@ -2,7 +2,7 @@
   "matchday": 12,
   "lastMatchDate": "2026-09-12",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-12T20:56:24.843924+00:00",
+  "updated": "2026-09-12T21:02:01.852924+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial-Renfe to hallway leading to platforms on line 6. There is another lift in the sa",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
