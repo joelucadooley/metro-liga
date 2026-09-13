@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-09-13",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-13T18:41:34.738022+00:00",
+  "updated": "2026-09-13T18:46:36.599960+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance San José semiesq. del Carmen to lobby Out of service due to check-up. Coming into service in t",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
