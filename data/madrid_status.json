@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-09-13",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-13T04:41:38.527864+00:00",
+  "updated": "2026-09-13T04:46:44.691655+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Felipe II esq. Alcalá of lobby Felipe II to platform on line 2 in the direction of Cuatro Caminos. There is anothe",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Santa Bárbara to hallway for platforms on line 5 and hallway for platforms on line 10 Out of service due to",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for the s",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
