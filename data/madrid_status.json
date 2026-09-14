@@ -2,7 +2,7 @@
   "matchday": 14,
   "lastMatchDate": "2026-09-14",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-14T21:26:27.898585+00:00",
+  "updated": "2026-09-14T21:31:49.390679+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 7 platforms to platform on line 7 in the direction of Estadio Metropolitano Out of",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From lobby to platform in the direction of Las Rosas Out of service due to check-up. Coming into service in the next hours. Serv",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service due to check-up. Coming into service in the next hours. Servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Out of service due to check-up. Coming into service",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to repair works. Expected d",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Orense to hallway leading to line 6 platforms and platform 2 on line 6 in the di",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Avda. Carabanchel Alto Out of service due to check-up. Coming into service in th",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
