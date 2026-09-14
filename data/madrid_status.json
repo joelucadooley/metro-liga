@@ -2,7 +2,7 @@
   "matchday": 14,
   "lastMatchDate": "2026-09-14",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-14T10:57:15.388172+00:00",
+  "updated": "2026-09-14T11:02:07.287754+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in the next",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 7 platforms to platform on line 7 in the direction of Estadio Metropolitano Out of",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Waiting for information. Services: Accessible station Lifts Escal",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Out of service due to check-up. Coming into service in the next h",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
