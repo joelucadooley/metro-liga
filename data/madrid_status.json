@@ -2,11 +2,11 @@
   "matchday": 14,
   "lastMatchDate": "2026-09-14",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-14T22:41:31.155126+00:00",
+  "updated": "2026-09-14T22:46:52.571961+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 10 in the direction Puerta del Sur Out of service. We are examining the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to corridor leading on line 1-9 y 10 Out of service due to repair works. Expected date",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Alberto Aguilera to lobby Guzmán el Bueno Out of service. We are examining the reasons for the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 y on line 4 to platform 1 on line 6 in the direction of Prínc",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor of Line 6 to platform Line 11 in the direction of La Fortuna Out of service. We are examining",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
