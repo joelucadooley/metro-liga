@@ -2,7 +2,7 @@
   "matchday": 14,
   "lastMatchDate": "2026-09-14",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-14T21:41:31.163886+00:00",
+  "updated": "2026-09-14T21:46:50.003964+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From lobby to platform in the direction of Las Rosas Out of service due to check-up. Coming into service in the next hours. Serv",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in the next",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on line 6 y on line 4 to platform on line 3 in the direction of El Casa",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 y on line 4 to platform 1 on line 6 in the direction of Prínc",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Orense to hallway leading to line 6 platforms and platform 2 on line 6 in the di",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial-Renfe to hallway leading to platforms on line 6. There is another lift in the sa",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway and line 2 platform in the direction of Las Rosas Out of service. We are examini",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
