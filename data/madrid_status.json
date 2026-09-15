@@ -2,11 +2,11 @@
   "matchday": 15,
   "lastMatchDate": "2026-09-15",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-15T15:11:39.440733+00:00",
+  "updated": "2026-09-15T15:16:42.768050+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Arturo Soria to lobby Out of service. We are examining the reasons for the stop. Services",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Príncipe de Vergara impares-Plaza de República Dominicana Out of service due to",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to repair works. Expected d",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
