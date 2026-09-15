@@ -2,7 +2,7 @@
   "matchday": 15,
   "lastMatchDate": "2026-09-15",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-15T17:56:27.367089+00:00",
+  "updated": "2026-09-15T18:02:01.335234+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Arriaga esq. Francisco Largo Caballero to lobby Out of service. We are examining the reasons f",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
