@@ -2,7 +2,7 @@
   "matchday": 15,
   "lastMatchDate": "2026-09-15",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-15T12:11:34.405441+00:00",
+  "updated": "2026-09-15T12:17:01.766688+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service. We are examining the reasons for the stop. S",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Mayor to hallway leading on lines and platform on line 3 in the direction of Moncloa Out of servi",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
