@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-09-16",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-16T13:11:35.737421+00:00",
+  "updated": "2026-09-16T13:16:39.710349+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to repair works. Expected d",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Príncipe de Vergara impares-Plaza de República Dominicana Out of service due to",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
