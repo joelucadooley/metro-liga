@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-09-16",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-16T14:56:58.539041+00:00",
+  "updated": "2026-09-16T15:01:55.472365+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Herrera Oria to hallway leading to platforms Out of service. We are examining the reasons for the stop. Ser",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Melchor Fernández Almagro to hallway leading to platforms Out of service due to repair works. Expected date",
       "seasonPts": 16,
       "checks": 16,
       "wins": 0,
