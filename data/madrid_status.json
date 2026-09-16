@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-09-16",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-16T21:26:30.925226+00:00",
+  "updated": "2026-09-16T21:31:41.029492+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platform and hallway of line 6 platforms to platform 1 on line 6 in the direction of Manuel Be",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Príncipe de Vergara impares-Plaza de República Dominicana Out of service due to",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From hallway of platform on line 10 in the direction of Tres Olivos and line 8 in the direction of Aero",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. La Peseta to lobby Out of service due to check-up. Coming into service in the next",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
