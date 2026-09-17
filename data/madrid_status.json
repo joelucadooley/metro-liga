@@ -2,11 +2,11 @@
   "matchday": 17,
   "lastMatchDate": "2026-09-17",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-17T10:41:28.034901+00:00",
+  "updated": "2026-09-17T10:46:40.020357+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 9 in the direction of Puerta de Arganda. There is a",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to corridor leading on line 1-9 y 10 Out of service due to repair works. Expected date",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
