@@ -2,7 +2,7 @@
   "matchday": 17,
   "lastMatchDate": "2026-09-17",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-17T08:41:38.917049+00:00",
+  "updated": "2026-09-17T08:46:37.941367+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Melchor Fernández Almagro to hallway leading to platforms Waiting for information. Services: Escalators Def",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Puerta de Arganda to hallway leading to platforms to lobby Herrera Oria Out of serv",
       "seasonPts": 17,
       "checks": 17,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de los Poblados impares to lobby Out of service due to check-up. Coming into servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance San José to lobby Out of service. We are examining the reasons for the stop. Services: Ac",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
