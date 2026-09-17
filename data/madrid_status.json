@@ -2,11 +2,11 @@
   "matchday": 17,
   "lastMatchDate": "2026-09-17",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-17T10:56:24.156402+00:00",
+  "updated": "2026-09-17T11:01:56.417170+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to corridor leading on line 1-9 y 10 Out of service due to repair works. Expected date",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Tres Olivos Out of service.",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
