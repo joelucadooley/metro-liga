@@ -2,7 +2,7 @@
   "matchday": 17,
   "lastMatchDate": "2026-09-17",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-17T04:41:38.828426+00:00",
+  "updated": "2026-09-17T04:46:36.196608+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial corridor line 6 to platform 2 line 6 in the direction of Republica Argentina Out",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Príncipe de Vergara impares-Plaza de República Dominicana Out of service due to",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 11 in the direction of La Fortuna to corridor leading on line 6 Out of service du",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance San José to lobby Out of service. We are examining the reasons for the stop. Services: Ac",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
