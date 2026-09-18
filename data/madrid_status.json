@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-09-18",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-18T14:56:20.367683+00:00",
+  "updated": "2026-09-18T15:01:58.600385+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Agustín de Betancourt to lobby Orense Out of service due to check-up. Coming into service",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
