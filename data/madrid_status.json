@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-09-18",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-18T15:41:27.667247+00:00",
+  "updated": "2026-09-18T15:46:35.668605+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on lines 6-8-10 y Renfe to platform line 10 in the direction of Puerta del Sur Out of",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Fermín Caballero to hallway leading to platforms Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Fermín Caballero to hallway leading to platforms Waiting for information. Services: Escalators Defibrillato",
       "seasonPts": 18,
       "checks": 18,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on Line 6 to platform 1 in the direction Usera Out of service. We are e",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
