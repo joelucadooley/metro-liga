@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-09-18",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-18T23:11:41.374347+00:00",
+  "updated": "2026-09-18T23:16:51.563481+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Las Rosas Out of service due to repair works. Expected date",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange to lobby Waiting for information. Services: Accessible station Lifts Escalato",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
