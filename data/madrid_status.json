@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-09-18",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-18T11:41:30.042721+00:00",
+  "updated": "2026-09-18T11:46:30.256597+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Alcalá impares-Josefa Valcarcel to lobby Josefa Valcarcel Out of service due to repair works. Expected d",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Emilio Ferrari to platform on line 5 Waiting for information. Services: Accessible station Lifts",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
