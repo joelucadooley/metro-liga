@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-09-18",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-18T19:11:29.305087+00:00",
+  "updated": "2026-09-18T19:16:37.208959+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Camino Labor in front of al Hospital to lobby Out of service. We are examining the reasons for",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Camino Labor in front of al Hospital to lobby Out of service due to check-up. Coming into serv",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
