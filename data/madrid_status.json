@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-09-19",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-19T05:56:18.544643+00:00",
+  "updated": "2026-09-19T06:01:55.010918+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 5 platform and hallway of line 6 platforms to platform 1 on line 6 in the direction of Manuel Be",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 9 platforms to platform on line 9 in the direction of Paco de Lucía Out of service",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
