@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-09-19",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-19T22:31:38.623960+00:00",
+  "updated": "2026-09-19T22:36:52.922410+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Guernica and Avda. San Sebastián to lobby Out of service. We are examining the reasons f",
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
