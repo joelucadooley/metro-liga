@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-09-19",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-19T23:26:24.839301+00:00",
+  "updated": "2026-09-19T23:31:38.724641+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Gitanilla to lobby Waiting for information. Escalators From lobby to platform 1 in the directi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Gitanilla to lobby Waiting for information. Services: Accessible station Lifts Escalators Defi",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Orense to hallway leading to line 6 platforms and platform 2 on line 6 in the di",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 and line 10 platform in the direction of Puert",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
