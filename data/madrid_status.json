@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-09-20",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-20T10:56:27.482498+00:00",
+  "updated": "2026-09-20T11:01:52.010943+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Gitanilla to lobby Waiting for information. Services: Accessible station Lifts Escalators Defi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Moncloa Out of service. We are examining the reasons for the stop",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
