@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-09-20",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-20T23:26:22.696112+00:00",
+  "updated": "2026-09-20T23:31:48.062608+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Waiting for information. Services: Accessible stati",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Out of service due to check-up. Coming into service",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial corridor line 6 to platform 2 line 6 in the direction of Republica Argentina Out",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 and line 10 platform in the direction of Puert",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
