@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-09-20",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-20T07:41:41.868354+00:00",
+  "updated": "2026-09-20T07:46:35.538714+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Melchor Fernández Almagro to hallway leading to platforms Waiting for information. Services: Escalators Def",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Melchor Fernández Almagro to hallway leading to platforms Out of service. We are examining the reasons for",
       "seasonPts": 20,
       "checks": 20,
       "wins": 0,
