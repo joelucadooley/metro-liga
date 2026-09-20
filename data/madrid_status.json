@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-09-20",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-20T12:56:20.458270+00:00",
+  "updated": "2026-09-20T13:01:59.495509+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Santiago Amón to lobby Out of service. We are examining the reasons for the stop. Service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Santiago Amón to lobby Out of service due to check-up. Coming into service in the next ho",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
