@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-09-20",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-20T15:26:32.247650+00:00",
+  "updated": "2026-09-20T15:31:56.953938+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Emilio Ferrari to platform on line 5 Waiting for information. Walkways From corridor of lobby Emi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Alameda de Osuna Out of service. We are examining the reasons for",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Melchor Fernández Almagro to hallway leading to platforms Waiting for information. Services: Escalators Def",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Melchor Fernández Almagro to hallway leading to platforms Waiting for information. From lobby Melchor Ferná",
       "seasonPts": 20,
       "checks": 20,
       "wins": 0,
