@@ -2,7 +2,7 @@
   "matchday": 21,
   "lastMatchDate": "2026-09-21",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-21T09:26:23.734106+00:00",
+  "updated": "2026-09-21T09:32:02.258724+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Pinos de Osuna to lobby Pinos de Osuna Out of service. We are examining the reasons for t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Pinos de Osuna to lobby Pinos de Osuna Out of service due to check-up. Coming into servic",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service due to repair works. Exp",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Out of service due to repair works. Expected date of coming into",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service. We are examining the reasons",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Las Rosas and platform on line 5 in the direction of Ca",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
