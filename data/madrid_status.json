@@ -2,7 +2,7 @@
   "matchday": 21,
   "lastMatchDate": "2026-09-21",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-21T14:56:29.584489+00:00",
+  "updated": "2026-09-21T15:02:00.758041+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Paco de Lucía to hallway leading to platforms to fobby Fermín Caballero Out of serv",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Melchor Fernández Almagro to hallway leading to platforms Out of service due to repair works. Expected date",
       "seasonPts": 21,
       "checks": 21,
       "wins": 0,
