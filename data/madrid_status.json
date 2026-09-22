@@ -2,7 +2,7 @@
   "matchday": 22,
   "lastMatchDate": "2026-09-22",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-22T10:56:21.575467+00:00",
+  "updated": "2026-09-22T11:02:05.425428+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Emilio Ferrari to platform on line 5 Waiting for information. Services: Accessible station Lifts",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on line 7 to platform central on line 7 Out of service. We are examinin",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
