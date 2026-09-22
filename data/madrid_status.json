@@ -2,7 +2,7 @@
   "matchday": 22,
   "lastMatchDate": "2026-09-22",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-22T12:41:45.010239+00:00",
+  "updated": "2026-09-22T12:46:31.080646+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Arganda del Rey to hallway leading Waiting for information. Services: Escalators De",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Avda. de Asturias to lobby Out of service due to check-up. Coming into service in the next hours. From p",
       "seasonPts": 22,
       "checks": 22,
       "wins": 0,
