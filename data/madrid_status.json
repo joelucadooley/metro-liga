@@ -2,7 +2,7 @@
   "matchday": 22,
   "lastMatchDate": "2026-09-22",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-22T23:26:26.425743+00:00",
+  "updated": "2026-09-22T23:31:47.768977+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -198,7 +198,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 2 in the direction of Cuatro Caminos and platform on line 5 in the direction",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
