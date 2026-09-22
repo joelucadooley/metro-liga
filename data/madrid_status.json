@@ -2,11 +2,11 @@
   "matchday": 22,
   "lastMatchDate": "2026-09-22",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-22T05:26:21.876691+00:00",
+  "updated": "2026-09-22T05:31:35.574646+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line ML1 in the direction of Las Tablas Out of service. We are examining the reasons",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Puerta del Sol to platform on line 1 in the direction of Valdecarros Out of service. We are",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Gitanilla to lobby Waiting for information. Services: Accessible station Lifts Escalators Defi",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Alberto Aguilera esq. Gaztambide to lobby Alberto Aguilera Out of service. We are examining th",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Emilio Ferrari to platform on line 5 Waiting for information. Services: Accessible station Lifts",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service. We are examining the re",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Nuevos Ministerios. There is another escalator in the same d",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Melchor Fernández Almagro to hallway leading to platforms Out of service due to repair works. Expected date",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 22,
       "checks": 22,
       "wins": 0,
@@ -149,8 +149,8 @@
       ]
     },
     "L10": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 0,
       "checks": 22,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for the s",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
