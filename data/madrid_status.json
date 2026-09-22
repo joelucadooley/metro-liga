@@ -2,7 +2,7 @@
   "matchday": 22,
   "lastMatchDate": "2026-09-22",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-22T07:26:25.905375+00:00",
+  "updated": "2026-09-22T07:32:01.120414+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Waiting for information. Services: Accessible station Lifts",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -198,7 +198,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza de Isabel II to lobby Out of service due to check-up. Coming into service in the next ho",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
