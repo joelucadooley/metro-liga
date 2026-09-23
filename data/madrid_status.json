@@ -2,7 +2,7 @@
   "matchday": 23,
   "lastMatchDate": "2026-09-23",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-23T20:11:34.302538+00:00",
+  "updated": "2026-09-23T20:16:44.631877+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway for platforms on line 9 Out of service due to check-up. Coming into service in t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 7 platforms to platform on line 7 in the direction of Pitis Out of service. We are",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
