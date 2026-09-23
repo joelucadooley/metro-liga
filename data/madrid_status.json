@@ -2,7 +2,7 @@
   "matchday": 23,
   "lastMatchDate": "2026-09-23",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-23T21:26:26.204276+00:00",
+  "updated": "2026-09-23T21:31:40.957146+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 9 platforms to platform in the direction of Paco de Lucía Out of service due to re",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial-Renfe to hallway leading to platforms on line 6. There is another lift in the sa",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
