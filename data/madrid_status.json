@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-09-24",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-24T21:26:44.452782+00:00",
+  "updated": "2026-09-24T21:32:32.377659+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Gitanilla to lobby Waiting for information. Escalators From lobby to platform 2 direction Monc",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Gitanilla to lobby Waiting for information. Escalators From lobby to platform 2 in the directi",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Agustín de Betancourt to lobby Orense Out of service. We are examining the reasons for th",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial-Renfe to hallway leading to platforms on line 6. There is another lift in the sa",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
