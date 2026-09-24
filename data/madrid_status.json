@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-09-24",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-24T09:41:47.679089+00:00",
+  "updated": "2026-09-24T09:46:50.044664+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on line 6 y on line 4 to platform on line 3 in the direction of El Casa",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform on line 3 in the direction of Moncloa to corridor leading to platforms on line on line 6 to co",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
