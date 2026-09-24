@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-09-24",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-24T12:11:36.891019+00:00",
+  "updated": "2026-09-24T12:16:36.084182+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Avda. Marqués de Corbera Out of service due to check-up. Coming into service in",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 2 platform in the direction of Cuatro Caminos to hallway leading to line 7 platfo",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
