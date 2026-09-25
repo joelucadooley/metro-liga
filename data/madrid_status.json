@@ -2,7 +2,7 @@
   "matchday": 25,
   "lastMatchDate": "2026-09-25",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-25T05:41:35.157123+00:00",
+  "updated": "2026-09-25T05:46:36.601450+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 and corridor leading on line 3 to platform 2 on line 6 in the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Maria de Molina to the lobby. There is another elevator in the same location. Waiting for info",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
