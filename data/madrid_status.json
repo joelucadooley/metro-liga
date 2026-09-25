@@ -2,7 +2,7 @@
   "matchday": 25,
   "lastMatchDate": "2026-09-25",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-25T18:41:30.438590+00:00",
+  "updated": "2026-09-25T18:46:33.227282+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Maria de Molina to the lobby. There is another elevator in the same location. Waiting for info",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Goya of lobby Conde de Peñalver to platform on line 4 in the direction of Pinar de Chamartín. There is another lif",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Arganda del Rey to hallway leading Out of service due to repair works. Expected dat",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Arganda del Rey to hallway leading to platforms to lobby Plaza Mondariz Out of serv",
       "seasonPts": 25,
       "checks": 25,
       "wins": 0,
