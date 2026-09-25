@@ -2,11 +2,11 @@
   "matchday": 25,
   "lastMatchDate": "2026-09-25",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-25T10:26:19.300491+00:00",
+  "updated": "2026-09-25T10:31:55.116607+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 1 in the direction of Valdecarros to hallway leading to lines and lobby Bravo Mur",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange Surface to lobby Plaza de Castilla Out of service due to repair works. Expect",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Algorta to lobby Waiting for information. Services: Accessible station Lifts Escalators D",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Algorta to lobby Out of service. We are examining the reasons for the stop. Services: Acc",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Mirasierra to lobby Waiting for information. From entrance Mirasierra to lobby Out of ser",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Mirasierra to lobby Waiting for information. Services: Accessible station Lifts Escalator",
       "seasonPts": 25,
       "checks": 25,
       "wins": 0,
