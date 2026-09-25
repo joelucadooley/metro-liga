@@ -2,7 +2,7 @@
   "matchday": 25,
   "lastMatchDate": "2026-09-25",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-25T14:26:37.791415+00:00",
+  "updated": "2026-09-25T14:32:01.893116+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Agustín de Betancourt to lobby Orense Out of service. We are examining the reasons for th",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Orense to hallway leading to line 6 platforms and platform 2 on line 6 in the di",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
