@@ -2,7 +2,7 @@
   "matchday": 25,
   "lastMatchDate": "2026-09-25",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-25T20:11:32.010772+00:00",
+  "updated": "2026-09-25T20:16:30.716257+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Melchor Fernández Almagro to hallway leading to platforms Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Paco de Lucía to hallway leading to platforms to lobby Plaza Mondariz Out of servic",
       "seasonPts": 25,
       "checks": 25,
       "wins": 0,
