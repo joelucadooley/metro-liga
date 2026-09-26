@@ -2,7 +2,7 @@
   "matchday": 26,
   "lastMatchDate": "2026-09-26",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-26T08:11:29.344279+00:00",
+  "updated": "2026-09-26T08:16:27.651793+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service. We are examining the re",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Waiting for information. Services: Acce",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Paseo de la Castellana pares to line 8 platform in the direction of Aeropuerto T4 Waiting fo",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Orense to hallway leading to line 6 platforms and platform 2 on line 6 in the di",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
