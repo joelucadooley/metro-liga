@@ -2,11 +2,11 @@
   "matchday": 26,
   "lastMatchDate": "2026-09-26",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-26T23:41:23.549345+00:00",
+  "updated": "2026-09-26T23:44:36.460888+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange Surface to lobby Plaza de Castilla Waiting for information. From corridor of",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Goya of lobby Conde de Peñalver to platform on line 4 in the direction of Pinar de Chamartín. There is another lif",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Gitanilla to lobby Waiting for information. From entrance Avda. del Casar to lobby Out of serv",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform on line 3 in the direction of Moncloa to corridor leading to platforms on line on line 6 to co",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Emilio Ferrari to platform on line 5 Waiting for information. Services: Accessible station Lifts",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service. We are examining the r",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana to lobby Castellana. There is another lift in the same location Out of service due",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Arganda del Rey to hallway leading Waiting for information. Services: Escalators De",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service due to check-up. Coming into service in the next hours. Servic",
       "seasonPts": 26,
       "checks": 26,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera to hallway for platforms on line 6 and hallway platforms on line 11 Waiting f",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
