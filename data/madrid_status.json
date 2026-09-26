@@ -2,11 +2,11 @@
   "matchday": 26,
   "lastMatchDate": "2026-09-26",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-26T22:11:28.942587+00:00",
+  "updated": "2026-09-26T22:16:28.561829+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange Surface to lobby Plaza de Castilla Out of service due to repair works. Expect",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Interchange Surface to lobby Plaza de Castilla Waiting for information. From corridor of",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor or lobby Alberto Aguilera to platform on line 4 in the direction of Pinar de Chamartín Out of",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform on line 3 in the direction of Moncloa to corridor leading to platforms on line on line 6 to co",
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
