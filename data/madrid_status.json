@@ -2,7 +2,7 @@
   "matchday": 27,
   "lastMatchDate": "2026-09-27",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-27T21:56:34.063950+00:00",
+  "updated": "2026-09-27T22:01:56.337983+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Pitis Out of service due to check-up. Coming into service in the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 7b Hospital del Henares Out of service due to check-up. Coming into service in t",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana to lobby Castellana. There is another lift in the same location Out of service due",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial corridor line 6 to platform 2 line 6 in the direction of Republica Argentina Out",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
