@@ -2,11 +2,11 @@
   "matchday": 27,
   "lastMatchDate": "2026-09-27",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-27T04:11:35.257429+00:00",
+  "updated": "2026-09-27T04:16:30.944639+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Paco de Lucía to hallway leading to platform to line 9, to",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Goya of lobby Conde de Peñalver to platform on line 4 in the direction of Pinar de Chamartín. There is another lif",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Gitanilla to lobby Waiting for information. From entrance Avda. del Casar to lobby Out of serv",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform on line 3 in the direction of Moncloa to corridor leading to platforms on line on line 6 to co",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Emilio Ferrari to platform on line 5 Waiting for information. Services: Accessible station Lifts",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Estocolmo semiesq. Sofía to lobby Out of service due to check-up. Coming into service in the n",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 and line 10 platform in the direction of Puert",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Arganda del Rey to hallway leading Waiting for information. Services: Escalators De",
       "seasonPts": 27,
       "checks": 27,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera to hallway for platforms on line 6 and hallway platforms on line 11 Waiting f",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
