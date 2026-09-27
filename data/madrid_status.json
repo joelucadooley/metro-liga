@@ -2,11 +2,11 @@
   "matchday": 27,
   "lastMatchDate": "2026-09-27",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-27T04:41:27.765588+00:00",
+  "updated": "2026-09-27T04:46:31.199108+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 10 in the direction Tres Olivos Out of service due to check-up. Coming i",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Paco de Lucía to hallway leading to platform to line 9, to",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform on line 3 in the direction of Moncloa to corridor leading to platforms on line on line 6 to co",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor or lobby Alberto Aguilera to platform on line 4 in the direction of Pinar de Chamartín Out of",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Estocolmo semiesq. Sofía to lobby Out of service due to check-up. Coming into service in the n",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 7b Hospital del Henares Out of service due to check-up. Coming into service in t",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Orense to hallway leading to line 6 platforms and platform 2 on line 6 in the di",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Orense to lobby Orense Out of service. We are examining the reasons for the stop. From co",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Paseo de la Florida to platform on line 10 in the direction of Puerta del Sur and platform 1",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
