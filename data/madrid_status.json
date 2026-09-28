@@ -2,11 +2,11 @@
   "matchday": 28,
   "lastMatchDate": "2026-09-28",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-28T22:11:54.002581+00:00",
+  "updated": "2026-09-28T22:16:32.200345+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana-Interchange to lobby Castellana Out of service due to repair works. Expected date o",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana-Interchange to lobby Castellana Out of service. We are examining the reasons for th",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. de Guadalajara esq. Avda. Canillejas-Vicálvaro to lobby Out of service due to repair wor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. de Guadalajara esq. Avda. Canillejas-Vicálvaro to lobby Out of service due to check-up.",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
