@@ -2,11 +2,11 @@
   "matchday": 28,
   "lastMatchDate": "2026-09-28",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-28T11:41:28.123779+00:00",
+  "updated": "2026-09-28T11:46:27.627401+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana-Interchange to lobby Castellana Out of service due to repair works. Expected date o",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line ML1 in the direction of Las Tablas Out of service. We are examining the reasons",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
