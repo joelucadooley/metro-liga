@@ -2,11 +2,11 @@
   "matchday": 28,
   "lastMatchDate": "2026-09-28",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-28T09:11:31.747687+00:00",
+  "updated": "2026-09-28T09:16:32.880886+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana-Interchange to lobby Castellana Out of service. We are examining the reasons for th",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana-Interchange to lobby Castellana Out of service due to repair works. Expected date o",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. de Guadalajara esq. Avda. Canillejas-Vicálvaro to lobby Out of service. We are examining",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. de Guadalajara esq. Avda. Canillejas-Vicálvaro to lobby Out of service due to repair wor",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service. We are examining",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to repair work",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Alcalá impares-Josefa Valcarcel to lobby Josefa Valcarcel Waiting for information. Services: Escalators",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Alcalá impares-Josefa Valcarcel to lobby Josefa Valcarcel Out of service due to repair works. Expected d",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Paseo de la Castellana pares to line 8 platform in the direction of Aeropuerto T4 Waiting fo",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From hallway of line 6 platforms to hallway of Renfe Out of service due to repair works. Expected date of",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Arganda del Rey to hallway leading Waiting for information. Services: Escalators De",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Arganda del Rey to hallway leading Out of service due to repair works. Expected dat",
       "seasonPts": 28,
       "checks": 28,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera to hallway for platforms on line 6 and hallway platforms on line 11 Waiting f",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera to hallway for platforms on line 6 and hallway platforms on line 11 Out of se",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
