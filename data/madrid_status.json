@@ -2,11 +2,11 @@
   "matchday": 28,
   "lastMatchDate": "2026-09-28",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-28T11:56:30.319852+00:00",
+  "updated": "2026-09-28T12:02:42.235757+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line ML1 in the direction of Las Tablas Out of service. We are examining the reasons",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana-Interchange to lobby Castellana Out of service due to repair works. Expected date o",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Gitanilla to lobby Waiting for information. Services: Accessible station Lifts Escalators Defi",
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From hallway of platform on line 10 in the direction of Tres Olivos and line 8 in the direction of Aero",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
