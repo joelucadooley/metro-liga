@@ -2,7 +2,7 @@
   "matchday": 28,
   "lastMatchDate": "2026-09-28",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-28T21:25:59.745829+00:00",
+  "updated": "2026-09-28T21:31:43.021015+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to repair work",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Renfe to entrances Centro Comercial and Renfe Waiting for information. Services: Accessible st",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Orense to hallway leading to line 6 platforms and platform 2 on line 6 in the di",
       "seasonPts": 84,
       "checks": 28,
       "wins": 28,
