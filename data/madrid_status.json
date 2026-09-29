@@ -2,7 +2,7 @@
   "matchday": 29,
   "lastMatchDate": "2026-09-29",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-29T18:27:00.939845+00:00",
+  "updated": "2026-09-29T18:31:53.540622+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Melchor Fernández Almagro to hallway leading to platforms Out of service. We are examining the reasons for",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Arganda del Rey to hallway leading Out of service due to repair works. Expected dat",
       "seasonPts": 29,
       "checks": 29,
       "wins": 0,
