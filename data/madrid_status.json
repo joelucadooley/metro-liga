@@ -2,7 +2,7 @@
   "matchday": 29,
   "lastMatchDate": "2026-09-29",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-29T08:31:46.356722+00:00",
+  "updated": "2026-09-29T08:36:37.554623+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Arganda del Rey to hallway leading Out of service due to repair works. Expected dat",
       "seasonPts": 29,
       "checks": 29,
       "wins": 0,
