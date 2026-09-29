@@ -2,7 +2,7 @@
   "matchday": 29,
   "lastMatchDate": "2026-09-29",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-29T06:56:03.342613+00:00",
+  "updated": "2026-09-29T07:01:17.805485+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "Monumental: Until September 29th, approximately, the last section of escalators going up from the Badalona Pompeu Fabra's plattform to the lobby at Monumental station, out of service due to maintenance works. · Verneda: Until September 29th, approximately, the elevator connecting the lobby and the plattform direction Badalona Pompeu Fabra, at Verneda station, out of service due to maintenance works.",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 34,
       "checks": 29,
       "wins": 3,
