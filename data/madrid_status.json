@@ -2,11 +2,11 @@
   "matchday": 29,
   "lastMatchDate": "2026-09-29",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-29T05:56:20.836225+00:00",
+  "updated": "2026-09-29T06:01:57.903799+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana-Interchange to lobby Castellana Out of service. We are examining the reasons for th",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana-Interchange to lobby Castellana Out of service due to check-up. Coming into service",
       "seasonPts": 87,
       "checks": 29,
       "wins": 29,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to platform on line 10 in the direction of Puerta del Sur and platform 1 on line 6 in",
       "seasonPts": 87,
       "checks": 29,
       "wins": 29,
