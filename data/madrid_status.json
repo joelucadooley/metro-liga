@@ -2,7 +2,7 @@
   "matchday": 29,
   "lastMatchDate": "2026-09-29",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-29T21:41:34.426774+00:00",
+  "updated": "2026-09-29T21:46:39.253302+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service. We are examining",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to check-up. C",
       "seasonPts": 87,
       "checks": 29,
       "wins": 29,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana to lobby Castellana. There is another lift in the same location Out of service due",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Orense to lobby Orense Out of service due to check-up. Coming into service in the next ho",
       "seasonPts": 87,
       "checks": 29,
       "wins": 29,
