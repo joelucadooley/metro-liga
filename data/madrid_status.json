@@ -2,7 +2,7 @@
   "matchday": 30,
   "lastMatchDate": "2026-09-30",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-30T07:11:32.139082+00:00",
+  "updated": "2026-09-30T07:16:51.880055+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From lobby central to hallway for Lines 1 and 4. There is another lift in the same location. Out of service. We are examining th",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on line 7 to platform central on line 7 Out of service. We are examinin",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
