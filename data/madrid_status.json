@@ -2,7 +2,7 @@
   "matchday": 30,
   "lastMatchDate": "2026-09-30",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-30T10:42:02.118944+00:00",
+  "updated": "2026-09-30T10:46:48.421143+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 7 platforms to platform on line 7 in the direction of Estadio Metropolitano Out of",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. de Guadalajara esq. Avda. Canillejas-Vicálvaro to lobby Out of service due to check-up.",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service due to check-up. Coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service. We are examining the r",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Marcelo Usera esq. Paseo de Santa Maria de la Cabeza to lobby Marcelo Usera Out of service. We",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
