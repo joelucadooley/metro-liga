@@ -2,11 +2,11 @@
   "matchday": 30,
   "lastMatchDate": "2026-09-30",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-30T07:56:18.506938+00:00",
+  "updated": "2026-09-30T08:02:06.242217+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central on line 1 in the direction of Valdecarros and platform central on line 4 in t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Plaza de Castilla to hallway and line 1 platform in the direction Valdecarros and lobby Bra",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 7 platforms to platform on line 7 in the direction of Estadio Metropolitano Out of",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Puerta del Sol to lobby Mayor Out of service due to check-up. Coming into service in the next",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From lobby central to hallway for Lines 1 and 4. There is another lift in the same location. Out of service due to check-up. Com",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From corridor leading on lines to platform 1 on Line 1 direction Valdecarros Out of service due to check-up. Coming into service",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Waiting for information. Services: Acce",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service. We are examining the r",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Renfe to entrances Centro Comercial and Renfe Waiting for information. Services: Accessible st",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Renfe to entrances Centro Comercial and Renfe Out of service due to check-up. Coming into serv",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Waiting for information. Services: Accessible",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
