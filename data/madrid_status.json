@@ -2,7 +2,7 @@
   "matchday": 30,
   "lastMatchDate": "2026-09-30",
   "lastResetMonth": "2026-09",
-  "updated": "2026-09-30T11:26:25.058538+00:00",
+  "updated": "2026-09-30T11:31:56.633416+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Preciados to platform on line 3 in the direction of El Casar Out of service due to check-up.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 7 platforms to platform on line 7 in the direction of Estadio Metropolitano Out of",
       "seasonPts": 90,
       "checks": 30,
       "wins": 30,
