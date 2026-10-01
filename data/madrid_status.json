@@ -2,11 +2,11 @@
   "matchday": 1,
   "lastMatchDate": "2026-10-01",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-01T04:11:39.424289+00:00",
+  "updated": "2026-10-01T04:16:51.338925+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level platform emerging form platform hallway on line 10 to line 1 platform in the di",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -17,8 +17,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform hallways to platform in the direction of Cuatro Caminos Out of service. We are examining",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -29,8 +29,8 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Gitanilla to lobby Out of service due to check-up. Coming into service in the next hours. Serv",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -41,8 +41,8 @@
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Goya of lobby Conde de Peñalver to platform on line 4 in the direction of Pinar de Chamartín. There is another lif",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -53,8 +53,8 @@
       ]
     },
     "L5": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Alcalá impares-Josefa Valcarcel to lobby Josefa Valcarcel Waiting for information. Services: Escalators",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -77,8 +77,8 @@
       ]
     },
     "L7": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gonzalo de Córdoba to lobby Out of service. We are examining the reasons for the stop. Se",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -89,8 +89,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 4 Waiting for information. Services: Accessible station Lifts Escalators",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -101,8 +101,8 @@
       ]
     },
     "L9": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Melchor Fernández Almagro to hallway leading to platforms Waiting for information. Services: Escalators Def",
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
