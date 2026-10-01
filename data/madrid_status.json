@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-10-01",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-01T22:41:49.649899+00:00",
+  "updated": "2026-10-01T22:46:45.673722+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -42,7 +42,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on line 6 y on line 4 to platform on line 3 in the direction of El Casa",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform on line 3 in the direction of Moncloa to corridor leading to platforms on line on line 6 to co",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -149,8 +149,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
