@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-10-01",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-01T14:56:34.681088+00:00",
+  "updated": "2026-10-01T15:02:09.333794+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -30,7 +30,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Palos de la Frontera to lobby Out of service. We are examining the reasons for the stop. Services: Accessible stat",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Preciados to platform on line 3 in the direction of El Casar Waiting for information. Servic",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
