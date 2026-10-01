@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-10-01",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-01T18:26:32.806273+00:00",
+  "updated": "2026-10-01T18:36:33.505668+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -89,8 +89,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Aeropuerto T4. There is another escalator in the same direct",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -126,7 +126,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera to hallway for platforms on line 6 and hallway platforms on line 11 Out of se",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
