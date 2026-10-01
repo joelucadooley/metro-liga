@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-10-01",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-01T17:41:44.913009+00:00",
+  "updated": "2026-10-01T17:52:02.807596+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -78,7 +78,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Out of service. We are examining the reasons for the stop. Servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 7b Hospital del Henares Out of service due to check-up. Coming into service in t",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -102,7 +102,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Herrera Oria to hallway leading to platforms Out of service. We are examining the reasons for the stop. Ser",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Melchor Fernández Almagro to hallway leading to platforms Out of service due to repair works. Expected date",
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
