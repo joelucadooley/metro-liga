@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-10-01",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-01T14:06:31.371132+00:00",
+  "updated": "2026-10-01T14:13:13.133077+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -30,7 +30,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Palos de la Frontera to lobby Out of service due to check-up. Coming into service in the next hours. Services: Acc",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Palos de la Frontera to lobby Out of service. We are examining the reasons for the stop. Services: Accessible stat",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -89,8 +89,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial corridor line 6 to platform 2 line 6 in the direction of Republica Argentina Wai",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -125,8 +125,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
