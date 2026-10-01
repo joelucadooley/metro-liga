@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-10-01",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-01T06:56:37.155585+00:00",
+  "updated": "2026-10-01T07:01:49.311936+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -78,7 +78,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service due to check-up. Coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
@@ -90,7 +90,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 4 Out of service. We are examining the reasons for the stop. Services: A",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 8 in the direction of Colombia to entrance Renfe and corridor leading to line 6",
       "seasonPts": 3,
       "checks": 1,
       "wins": 1,
