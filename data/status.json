@@ -2,11 +2,11 @@
   "matchday": 2,
   "lastMatchDate": "2026-10-02",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-02T16:20:59.754256+00:00",
+  "updated": "2026-10-02T16:25:53.447220+00:00",
   "lines": {
     "L1": {
-      "severity": "incident",
-      "description": null,
+      "severity": "minor",
+      "description": "Catalunya: From today, and until October 30th, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works. · Torras i Bages: From 05/08/2026, the access Passeig Santa Coloma / costat muntanya of the Torras i Bages station (L1) is closed for works.",
       "seasonPts": 2,
       "checks": 2,
       "wins": 0,
@@ -18,7 +18,7 @@
       ]
     },
     "L2": {
-      "severity": "incident",
+      "severity": "clear",
       "description": null,
       "seasonPts": 6,
       "checks": 2,
@@ -31,8 +31,8 @@
       ]
     },
     "L3": {
-      "severity": "incident",
-      "description": null,
+      "severity": "minor",
+      "description": "Catalunya: From today, and until October 30th, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works. · Sants Estació: Until October 7th, approximately, the escalator connecting the main lobby and the sublobby at Sants estació station, out of service due to improvement works.",
       "seasonPts": 2,
       "checks": 2,
       "wins": 0,
@@ -44,8 +44,8 @@
       ]
     },
     "L4": {
-      "severity": "incident",
-      "description": null,
+      "severity": "minor",
+      "description": "Verdaguer: Until 01/02/2027, the escalator from the platform direction La Pau to the lobby of the Verdaguer station (L4) temporarily out of service. · Verdaguer: Until 01/02/2027, the escalator from the platform direction Trinitat Nova to the lobby of the Verdaguer station (L4) temporarily out of service.",
       "seasonPts": 2,
       "checks": 2,
       "wins": 0,
@@ -57,8 +57,8 @@
       ]
     },
     "L5": {
-      "severity": "incident",
-      "description": null,
+      "severity": "minor",
+      "description": "Badal: Until approximately 26/10/2026, the escalator leading from the platform toward Cornellà Centre to the lower lobby of the Carrer de Sants / Arizala and Carreras i Candi entrances at Badal Station will be out of service due to maintenance work. · Badal: Until approximately 26/10/2026, the escalator leading from the platform toward Cornellà Centre to the lower lobby of the Carrer de Sants / Arizala and Carreras i Candi entrances at Badal Station will be out of service due to maintenance work.",
       "seasonPts": 2,
       "checks": 2,
       "wins": 0,
@@ -122,7 +122,7 @@
       ]
     },
     "L11": {
-      "severity": "incident",
+      "severity": "clear",
       "description": null,
       "seasonPts": 6,
       "checks": 2,
