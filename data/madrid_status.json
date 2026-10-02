@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-10-02",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-02T11:41:31.921851+00:00",
+  "updated": "2026-10-02T11:46:30.489510+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -97,7 +97,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Bulevar de Castellana to lobby Centro Comercial-Renfe. There is another lift in the same locat",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Renfe to entrances Centro Comercial and Renfe Out of service due to check-up. Coming into serv",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
