@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-10-02",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-02T22:56:23.437702+00:00",
+  "updated": "2026-10-02T23:02:02.079955+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -96,8 +96,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Orense to lobby Orense Out of service due to check-up. Coming into service in the next ho",
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
@@ -110,7 +110,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Fermín Caballero to hallway leading to platforms Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Fermín Caballero to hallway leading to platforms Waiting for information. Services: Escalators Defibrillato",
       "seasonPts": 2,
       "checks": 2,
       "wins": 0,
