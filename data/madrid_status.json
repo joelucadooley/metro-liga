@@ -2,11 +2,11 @@
   "matchday": 3,
   "lastMatchDate": "2026-10-03",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-03T18:56:14.728268+00:00",
+  "updated": "2026-10-03T19:01:46.506525+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Interchange to hallway for lines 1, 9 and 10 Out of service due to repair works. Expected date",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line ML1 in the direction of Las Tablas Out of service. We are examining the reasons",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -90,7 +90,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Hospital del Henares Waiting for information. Escalators From ent",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Out of service. We are examining the reasons for the stop. Servic",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
@@ -173,8 +173,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 2 platform in the direction of Cuatro Caminos and from platform Ramal to line 5",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
