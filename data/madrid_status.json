@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-10-03",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-03T07:41:26.514365+00:00",
+  "updated": "2026-10-03T07:46:35.120860+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -104,7 +104,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Agustín de Betancourt and Orense to lobby Orense Out of service due to check-up. Coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From hallway Renfe to hallway leading to line 10 in the direction of Tres Olivos and line 8 in the dire",
       "seasonPts": 9,
       "checks": 3,
       "wins": 3,
