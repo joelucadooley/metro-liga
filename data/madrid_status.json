@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-10-04",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-04T21:41:27.564475+00:00",
+  "updated": "2026-10-04T21:46:36.234689+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -36,7 +36,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service. We are examining the reasons for the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Valle de Tobalina to lobby Out of service due to check-up. Coming into service in the nex",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
@@ -111,7 +111,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 8 in the direction of Aeropuerto T4 to entrance Renfe to hallway on line 6 and",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial-Renfe to hallway leading to platforms on line 6. There is another lift in the sa",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
