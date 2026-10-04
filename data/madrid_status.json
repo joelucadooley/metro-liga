@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-10-04",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-04T21:26:21.229608+00:00",
+  "updated": "2026-10-04T21:31:43.189454+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -21,7 +21,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Goya of lobby Conde de Peñalver to platform on line 4 in the direction of Pinar de Chamartín. There is another lif",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms on line 6 Out of service. We are examining the reasons for the stop. From",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
@@ -111,7 +111,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Renfe to entrances Centro Comercial and Renfe Out of service. We are examining the reasons for",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 8 in the direction of Aeropuerto T4 to entrance Renfe to hallway on line 6 and",
       "seasonPts": 12,
       "checks": 4,
       "wins": 4,
