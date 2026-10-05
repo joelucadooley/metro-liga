@@ -2,11 +2,11 @@
   "matchday": 5,
   "lastMatchDate": "2026-10-05",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-05T07:41:38.305051+00:00",
+  "updated": "2026-10-05T07:46:35.045018+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Valdecarros Out of service due to check-up. Coming into serv",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Valdecarros Out of service. We are examining the reasons for",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of end on Line Out of service. We are examining the reasons for the",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Alcalá impares-Josefa Valcarcel to lobby Josefa Valcarcel Out of service due to repair works. Expected d",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 7b Hospital del Henares Out of service due to check-up. Coming into service in t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform on line 7. There is another escalator in the same direction and location",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service due to check-up. Coming into servi",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
