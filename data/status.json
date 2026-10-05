@@ -2,7 +2,7 @@
   "matchday": 5,
   "lastMatchDate": "2026-10-05",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-05T10:35:48.863388+00:00",
+  "updated": "2026-10-05T10:40:56.387374+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -37,7 +37,7 @@
       ]
     },
     "L3": {
-      "severity": "minor",
+      "severity": "incident",
       "description": "Catalunya: From today, and until October 30th, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works. · Sants Estació: Until October 7th, approximately, the escalator connecting the main lobby and the sublobby at Sants estació station, out of service due to improvement works.",
       "seasonPts": 5,
       "checks": 5,
