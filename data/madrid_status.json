@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-10-06",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-06T21:26:27.137888+00:00",
+  "updated": "2026-10-06T21:31:51.172866+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service. We are examining the reasons for the",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Goya of lobby Conde de Peñalver to platform on line 4 in the direction of Pinar de Chamartín. There is another lif",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service. We are examining",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
