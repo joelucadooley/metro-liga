@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-10-06",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-06T18:56:19.963299+00:00",
+  "updated": "2026-10-06T19:01:47.445726+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza de Legazpi to lobby Legazpi Waiting for information. Services: Accessible station Lifts",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza de Legazpi to lobby Legazpi Waiting for information. Escalators From platform on line 3",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
