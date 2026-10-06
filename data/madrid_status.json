@@ -2,11 +2,11 @@
   "matchday": 6,
   "lastMatchDate": "2026-10-06",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-06T05:56:27.577594+00:00",
+  "updated": "2026-10-06T06:01:54.821947+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Interchange to hallway for lines 1, 9 and 10 Out of service due to repair works. Expected date",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Plaza de Castilla to hallway of line 1 platform in the direction of Valdecarros and lobby B",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service due to check-up. Coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service due to check-up. Coming",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
