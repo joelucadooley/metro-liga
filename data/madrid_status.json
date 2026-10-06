@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-10-06",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-06T15:11:33.940666+00:00",
+  "updated": "2026-10-06T15:16:44.036667+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to repair work",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Alberto Aguilera esq. Gaztambide to lobby Alberto Aguilera Out of service due to check-up. Com",
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Plaza Elíptica Out of service. We are examining the reasons for t",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 18,
       "checks": 6,
       "wins": 6,
