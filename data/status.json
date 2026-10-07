@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-10-07",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-07T06:56:00.396441+00:00",
+  "updated": "2026-10-07T07:01:16.466670+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "Catalunya: From today, and until October 30th, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works. · Sants Estació: Until October 7th, approximately, the escalator connecting the main lobby and the sublobby at Sants estació station, out of service due to improvement works.",
+      "description": "Catalunya: From today, and until October 30th, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works. · Roquetes: Until 25/10/2026, the escalators from the lobby to the entrance Jaume Pinent, of Roquetes station (L3) temporarily out of service.",
       "seasonPts": 7,
       "checks": 7,
       "wins": 0,

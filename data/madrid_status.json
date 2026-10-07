@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-10-07",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-07T06:56:35.189136+00:00",
+  "updated": "2026-10-07T07:01:51.595283+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. de Andalucía and San Dalmacio to lobby Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. de Andalucía and San Dalmacio to lobby Out of service. We are examining the reasons for",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
