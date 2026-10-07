@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-10-07",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-07T06:52:28.116473+00:00",
+  "updated": "2026-10-07T06:56:35.189136+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Del Velero to lobby Out of service. We are examining the reasons for the stop. Services: Acces",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
