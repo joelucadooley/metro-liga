@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-10-07",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-07T05:41:46.887211+00:00",
+  "updated": "2026-10-07T05:46:33.548195+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform hallways to platform in the direction of Cuatro Caminos Out of service due to check-up.",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Goya of lobby Conde de Peñalver to platform on line 4 in the direction of Pinar de Chamartín. There is another lif",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza de Legazpi to lobby Legazpi Waiting for information. Escalators From entrance Plaza de L",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza de Legazpi to lobby Legazpi Waiting for information. Services: Accessible station Lifts",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Goya of lobby Conde de Peñalver to platform on line 4 in the direction of Pinar de Chamartín. There is another lif",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
