@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-10-07",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-07T11:56:24.898082+00:00",
+  "updated": "2026-10-07T12:02:07.622558+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. del Casar to lobby Out of service due to check-up. Coming into service in the next",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Perla to lobby Waiting for information. From entrance Avda. de Perla to lobby Wa",
       "seasonPts": 21,
       "checks": 7,
       "wins": 7,
