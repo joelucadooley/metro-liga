@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-10-08",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-08T08:56:33.101839+00:00",
+  "updated": "2026-10-08T09:01:58.285541+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Bulevar de Castellana to lobby Centro Comercial-Renfe. There is another lift in the same locat",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform line 8 in the direction of Aeropuerto T4 and platform line 10 in the direc",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
