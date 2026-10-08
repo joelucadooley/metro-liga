@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-10-08",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-08T16:11:33.140401+00:00",
+  "updated": "2026-10-08T16:16:34.330732+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Andalucía pares to lobby Out of service due to repair works. Expected date of co",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
