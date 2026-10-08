@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-10-08",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-08T20:26:31.844879+00:00",
+  "updated": "2026-10-08T20:32:03.496735+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Alcalá impares-Josefa Valcarcel to lobby Josefa Valcarcel Out of service due to repair works. Expected d",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Casa de Campo Out of service due to check-up. Coming into se",
       "seasonPts": 24,
       "checks": 8,
       "wins": 8,
