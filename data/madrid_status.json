@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-10-09",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-09T15:56:16.942239+00:00",
+  "updated": "2026-10-09T16:01:45.272817+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Mirasierra to lobby Out of service due to repair works. Expected date of coming into serv",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Herrera Oria to hallway leading to platforms Waiting for information. From lobby Fermín Caballero to hallwa",
       "seasonPts": 9,
       "checks": 9,
       "wins": 0,
