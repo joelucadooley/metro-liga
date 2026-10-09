@@ -2,11 +2,11 @@
   "matchday": 9,
   "lastMatchDate": "2026-10-09",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-09T04:11:26.565744+00:00",
+  "updated": "2026-10-09T04:16:35.958539+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Agustín de Foxá to lobby Out of service. We are examining the reasons for the stop. Escalators",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Cuatro Caminos Out of service due to check-up. Coming into s",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Andalucía pares to lobby Waiting for information. Services: Accessible station L",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Goya of lobby Conde de Peñalver to platform on line 4 in the direction of Pinar de Chamartín. There is another lif",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Pinos de Osuna to lobby Pinos de Osuna Out of service due to check-up. Coming into servic",
       "seasonPts": 24,
       "checks": 9,
       "wins": 8,
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Echebeste in front of Gonzalo de Córdoba to lobby Waiting for information. Services: Acc",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform line 8 in the direction of Aeropuerto T4 and platform line 10 in the direc",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Mirasierra to lobby Out of service due to repair works. Expected date of coming into serv",
       "seasonPts": 9,
       "checks": 9,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance San José semiesq. del Carmen to lobby Out of service due to check-up. Coming into service in t",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 5 in the direction of Casa de Campo Out of service. We are examining the",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
