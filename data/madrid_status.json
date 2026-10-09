@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-10-09",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-09T07:26:20.046193+00:00",
+  "updated": "2026-10-09T07:31:47.201030+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Paseo de la Castellana pares to lobby Castellana Waiting for information. Servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 10 platform in the direction of Puerta del Sur to line 8 in the direction of Aeropuerto T4",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de los Poblados pares to lobby Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance San José semiesq. del Carmen to lobby Out of service due to check-up. Coming into service in t",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
