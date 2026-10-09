@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-10-09",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-09T10:41:29.775491+00:00",
+  "updated": "2026-10-09T10:46:42.085380+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 10 platform in the direction of Puerta del Sur to line 8 in the direction of Aeropuerto T4",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central in the direction of Nuevos Ministerios. There is another lift in the same loc",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de los Poblados pares to lobby Out of service due to check-up. Coming into service",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
