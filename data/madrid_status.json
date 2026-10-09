@@ -2,11 +2,11 @@
   "matchday": 9,
   "lastMatchDate": "2026-10-09",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-09T22:11:26.923682+00:00",
+  "updated": "2026-10-09T22:16:32.363027+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Agustín de Foxá to lobby Out of service due to repair works. Expected date of coming into serv",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Agustín de Foxá to lobby Out of service. We are examining the reasons for the stop. Services:",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Las Rosas Out of service due to repair works. Expected date of co",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Las Rosas Out of service due to check-up. Coming into service in",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to check-up. Coming into serv",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to check-up. Coming into servic",
       "seasonPts": 27,
       "checks": 9,
       "wins": 9,
