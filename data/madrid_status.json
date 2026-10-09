@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-10-09",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-09T17:56:20.900099+00:00",
+  "updated": "2026-10-09T18:01:47.928013+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Herrera Oria to hallway leading to platforms Waiting for information. Services: Escalators Defibrillator Mo",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Puerta de Arganda Out of service due to check-up. Coming into ser",
       "seasonPts": 9,
       "checks": 9,
       "wins": 0,
