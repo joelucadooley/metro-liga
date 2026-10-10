@@ -2,11 +2,11 @@
   "matchday": 10,
   "lastMatchDate": "2026-10-10",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-10T17:26:22.527014+00:00",
+  "updated": "2026-10-10T17:31:40.853249+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Agustín de Foxá to lobby Out of service. We are examining the reasons for the stop. Services:",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform on line 1 in the direction of Valdecarros and central platform on line 4",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
