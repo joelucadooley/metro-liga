@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-10-10",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-10T18:26:25.140979+00:00",
+  "updated": "2026-10-10T18:31:43.005700+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Aeropuerto T4. There is another lift in the same location Out of",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform 2 on line 6 in the direction of República Argentina to hallways leading to platforms to",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
