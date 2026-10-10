@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-10-10",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-10T17:56:25.429620+00:00",
+  "updated": "2026-10-10T18:01:49.064810+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana to lobby Castellana. There is another lift in the same location Out of service. We",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Aeropuerto T4. There is another lift in the same location Out of",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
