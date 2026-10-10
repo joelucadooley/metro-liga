@@ -2,7 +2,7 @@
   "matchday": 10,
   "lastMatchDate": "2026-10-10",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-10T17:41:26.565399+00:00",
+  "updated": "2026-10-10T17:46:26.976928+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From hallway Renfe to hallway leading to line 10 in the direction of Tres Olivos and line 8 in the dire",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana to lobby Castellana. There is another lift in the same location Out of service. We",
       "seasonPts": 30,
       "checks": 10,
       "wins": 10,
