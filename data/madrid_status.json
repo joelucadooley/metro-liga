@@ -2,7 +2,7 @@
   "matchday": 11,
   "lastMatchDate": "2026-10-11",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-11T14:26:20.543229+00:00",
+  "updated": "2026-10-11T14:31:39.304676+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service due to check-up. Coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Echebeste in front of Gonzalo de Córdoba to lobby Waiting for information. Services: Acc",
       "seasonPts": 33,
       "checks": 11,
       "wins": 11,
