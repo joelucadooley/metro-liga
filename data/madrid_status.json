@@ -2,7 +2,7 @@
   "matchday": 12,
   "lastMatchDate": "2026-10-12",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-12T20:26:24.273190+00:00",
+  "updated": "2026-10-12T20:31:37.326752+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Santa Petronila to lobby Out of service. We are examining the reasons for the stop. Servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 6 platforms to platform 2 on line 6 in the direction of Usera Waiting for informat",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Alcalá impares-Josefa Valcarcel to lobby Josefa Valcarcel Out of service due to repair works. Expected d",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Velero of lobby Velero to lobby Out of service due to check-up. Coming into service in th",
       "seasonPts": 33,
       "checks": 12,
       "wins": 11,
