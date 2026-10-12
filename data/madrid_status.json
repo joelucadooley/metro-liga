@@ -2,7 +2,7 @@
   "matchday": 12,
   "lastMatchDate": "2026-10-12",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-12T22:26:20.928908+00:00",
+  "updated": "2026-10-12T22:31:48.769878+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 6 platforms to platform 1 on line 6 in the direction of Arganzuela-Planetario Out",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service. We are examining the reasons for the",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
