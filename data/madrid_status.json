@@ -2,7 +2,7 @@
   "matchday": 12,
   "lastMatchDate": "2026-10-12",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-12T16:26:21.985912+00:00",
+  "updated": "2026-10-12T16:32:01.749631+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 6 platforms to platform 2 on line 6 in the direction of Usera Waiting for informat",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Valle de Tobalina to lobby Out of service due to check-up. Coming into service in the nex",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level to line 5 platform in the direction of Casa de Campo Out of service. We are exa",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
