@@ -2,7 +2,7 @@
   "matchday": 12,
   "lastMatchDate": "2026-10-12",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-12T13:11:44.846660+00:00",
+  "updated": "2026-10-12T13:27:58.667607+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 6 platforms to platform 2 on line 6 in the direction of Usera Waiting for informat",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Andalucía pares to lobby Out of service due to check-up. Coming into service in",
       "seasonPts": 36,
       "checks": 12,
       "wins": 12,
