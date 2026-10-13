@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-10-13",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-13T12:56:26.041103+00:00",
+  "updated": "2026-10-13T13:01:59.220159+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central in the direction of Nuevos Ministerios. There is another lift in the same loc",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
