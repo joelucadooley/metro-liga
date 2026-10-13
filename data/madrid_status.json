@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-10-13",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-13T07:26:22.102811+00:00",
+  "updated": "2026-10-13T07:31:38.580145+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Echebeste in front of Gonzalo de Córdoba to lobby Waiting for information. Services: Acc",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Echebeste in front of Gonzalo de Córdoba to lobby Waiting for information. Escalators Fr",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
