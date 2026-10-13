@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-10-13",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-13T22:41:37.431833+00:00",
+  "updated": "2026-10-13T22:46:37.845586+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 and corridor leading on line 3 to platform 2 on line 6 in the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Alberto Aguilera to lobby Guzmán el Bueno Out of service. We are examining the reasons for the",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
