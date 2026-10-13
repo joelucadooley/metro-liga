@@ -1,16 +1,16 @@
 {
-  "matchday": 12,
-  "lastMatchDate": "2026-10-12",
+  "matchday": 13,
+  "lastMatchDate": "2026-10-13",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-12T23:55:47.725599+00:00",
+  "updated": "2026-10-13T00:01:14.392773+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
       "description": "Catalunya: From today, and until December 30th, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works. · Plaça de Sants: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work.",
-      "seasonPts": 12,
-      "checks": 12,
+      "seasonPts": 13,
+      "checks": 13,
       "wins": 0,
-      "draws": 12,
+      "draws": 13,
       "losses": 0,
       "recentForm": [
         "D",
@@ -23,9 +23,9 @@
     "L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 32,
-      "checks": 12,
-      "wins": 10,
+      "seasonPts": 35,
+      "checks": 13,
+      "wins": 11,
       "draws": 2,
       "losses": 0,
       "recentForm": [
@@ -39,10 +39,10 @@
     "L3": {
       "severity": "minor",
       "description": "Sants Estació: Until October 29, approximately, the escalator leading down from the main lobby to the lower lobby at Sants Estació station will be out of service due to maintenance work. · Catalunya: From today, and until December 30th, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works.",
-      "seasonPts": 12,
-      "checks": 12,
+      "seasonPts": 13,
+      "checks": 13,
       "wins": 0,
-      "draws": 12,
+      "draws": 13,
       "losses": 0,
       "recentForm": [
         "D",
@@ -55,10 +55,10 @@
     "L4": {
       "severity": "minor",
       "description": "Verdaguer: Until 01/02/2027, the escalator from the platform direction La Pau to the lobby of the Verdaguer station (L4) temporarily out of service. · Verdaguer: Until 01/02/2027, the escalator from the platform direction Trinitat Nova to the lobby of the Verdaguer station (L4) temporarily out of service.",
-      "seasonPts": 12,
-      "checks": 12,
+      "seasonPts": 13,
+      "checks": 13,
       "wins": 0,
-      "draws": 12,
+      "draws": 13,
       "losses": 0,
       "recentForm": [
         "D",
@@ -71,10 +71,10 @@
     "L5": {
       "severity": "minor",
       "description": "Badal: Until approximately 26/10/2026, the escalator leading from the platform toward Cornellà Centre to the lower lobby of the Carrer de Sants / Arizala and Carreras i Candi entrances at Badal Station will be out of service due to maintenance work. · Badal: Until approximately 26/10/2026, the escalator leading from the platform toward Cornellà Centre to the lower lobby of the Carrer de Sants / Arizala and Carreras i Candi entrances at Badal Station will be out of service due to maintenance work.",
-      "seasonPts": 12,
-      "checks": 12,
+      "seasonPts": 13,
+      "checks": 13,
       "wins": 0,
-      "draws": 12,
+      "draws": 13,
       "losses": 0,
       "recentForm": [
         "D",
@@ -87,9 +87,9 @@
     "L9N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 36,
-      "checks": 12,
-      "wins": 12,
+      "seasonPts": 39,
+      "checks": 13,
+      "wins": 13,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -103,9 +103,9 @@
     "L9S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 36,
-      "checks": 12,
-      "wins": 12,
+      "seasonPts": 39,
+      "checks": 13,
+      "wins": 13,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -119,9 +119,9 @@
     "L10N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 36,
-      "checks": 12,
-      "wins": 12,
+      "seasonPts": 39,
+      "checks": 13,
+      "wins": 13,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -135,9 +135,9 @@
     "L10S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 36,
-      "checks": 12,
-      "wins": 12,
+      "seasonPts": 39,
+      "checks": 13,
+      "wins": 13,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -151,9 +151,9 @@
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 34,
-      "checks": 12,
-      "wins": 11,
+      "seasonPts": 37,
+      "checks": 13,
+      "wins": 12,
       "draws": 1,
       "losses": 0,
       "recentForm": [
