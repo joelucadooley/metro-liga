@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-10-13",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-13T08:41:39.785770+00:00",
+  "updated": "2026-10-13T08:46:27.740180+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Del Velero to lobby Out of service due to check-up. Coming into service in the next hours. Esc",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Velero of lobby Velero to lobby Waiting for information. Services: Accessible station Lif",
       "seasonPts": 36,
       "checks": 13,
       "wins": 12,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Echebeste in front of Gonzalo de Córdoba to lobby Waiting for information. Escalators Fr",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service. We are examining the r",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform Out of service due to check-up. Coming into service in the next hours. S",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central in the direction of Nuevos Ministerios. There is another lift in the same loc",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
