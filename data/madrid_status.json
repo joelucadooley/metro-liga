@@ -2,7 +2,7 @@
   "matchday": 14,
   "lastMatchDate": "2026-10-14",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-14T18:41:40.265901+00:00",
+  "updated": "2026-10-14T18:46:30.999627+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Avda. de Asturias to lobby Out of service. We are examining the reasons for the stop. Services: Escalato",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway leading to line 4 platforms and lobby Francisco Silvela to hallway of line 6 platforms Out",
       "seasonPts": 14,
       "checks": 14,
       "wins": 0,
