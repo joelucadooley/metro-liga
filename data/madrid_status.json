@@ -2,7 +2,7 @@
   "matchday": 14,
   "lastMatchDate": "2026-10-14",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-14T09:41:42.575053+00:00",
+  "updated": "2026-10-14T09:46:40.066469+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. del Casar to lobby Out of service. We are examining the reasons for the stop. Services:",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Moncloa Out of service. We are examining the reasons for the stop",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Arganda del Rey to hallway leading to platforms to lobby Melchor Fernández Almagro",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway leading to line 4 platforms and lobby Francisco Silvela to hallway of line 6 platforms Out",
       "seasonPts": 14,
       "checks": 14,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Marcelo Usera esq. Paseo de Santa Maria de la Cabeza to lobby Marcelo Usera Out of service. We",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
