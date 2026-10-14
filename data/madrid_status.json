@@ -2,7 +2,7 @@
   "matchday": 14,
   "lastMatchDate": "2026-10-14",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-14T23:26:21.497988+00:00",
+  "updated": "2026-10-14T23:31:48.529047+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Mirasierra to lobby Out of service due to check-up. Coming into service in the next hours",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Mirasierra to lobby Waiting for information. Services: Accessible station Lifts Escalator",
       "seasonPts": 14,
       "checks": 14,
       "wins": 0,
