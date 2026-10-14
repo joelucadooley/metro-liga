@@ -2,7 +2,7 @@
   "matchday": 14,
   "lastMatchDate": "2026-10-14",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-14T09:56:32.095606+00:00",
+  "updated": "2026-10-14T10:02:13.732579+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Moncloa Out of service. We are examining the reasons for the stop",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform 2 in the direction of Juan de la Cierva Out of service. We are examining the reasons",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
