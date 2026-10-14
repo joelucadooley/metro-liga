@@ -2,11 +2,11 @@
   "matchday": 14,
   "lastMatchDate": "2026-10-14",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-14T16:41:32.417764+00:00",
+  "updated": "2026-10-14T16:46:41.274871+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 10 in the direction Tres Olivos Out of service due to check-up. Coming i",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
