@@ -2,11 +2,11 @@
   "matchday": 14,
   "lastMatchDate": "2026-10-14",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-14T14:11:39.127325+00:00",
+  "updated": "2026-10-14T14:16:34.748601+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform 2 in the direction of Nuevos Ministerios to hallway leading to platforms Out of service.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Interchange (Renfe) to hallway for lines 1, 2 and 3. There is another escalator in the same",
       "seasonPts": 42,
       "checks": 14,
       "wins": 14,
