@@ -2,7 +2,7 @@
   "matchday": 15,
   "lastMatchDate": "2026-10-15",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-15T12:11:37.078903+00:00",
+  "updated": "2026-10-15T12:16:35.303676+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway leading to line 4 platforms and lobby Francisco Silvela to hallway of line 6 platforms Out",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Puerta de Arganda to hallway leading to platforms to lobby Fermín Caballero Out of",
       "seasonPts": 15,
       "checks": 15,
       "wins": 0,
