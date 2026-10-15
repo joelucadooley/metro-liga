@@ -2,7 +2,7 @@
   "matchday": 15,
   "lastMatchDate": "2026-10-15",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-15T21:26:21.629438+00:00",
+  "updated": "2026-10-15T21:31:39.129659+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to repair work",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service. We are examining",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
