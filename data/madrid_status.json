@@ -2,11 +2,11 @@
   "matchday": 15,
   "lastMatchDate": "2026-10-15",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-15T13:56:24.147392+00:00",
+  "updated": "2026-10-15T14:01:59.178194+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform on line 1 in the direction of Pinar de Chamartín Out of service. We are ex",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Alfonso XII to platform in the direction of Valdecarros Out of service due to repair works. Expec",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform on line 1 in the direction of Pinar de Chamartín Out of service. We are ex",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Costa Brava to lobby Out of service. We are examining the reasons for the stop. Services: Acce",
       "seasonPts": 15,
       "checks": 15,
       "wins": 0,
