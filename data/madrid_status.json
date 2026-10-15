@@ -2,11 +2,11 @@
   "matchday": 15,
   "lastMatchDate": "2026-10-15",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-15T10:56:23.257951+00:00",
+  "updated": "2026-10-15T11:02:04.040835+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Barceló to hallway for platforms on lines 1 and 10 Out of service due to check-up. Coming in",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From lobby central to hallway for Lines 1 and 4. There is another lift in the same location. Out of service. We are examining th",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From lobby Renfe to entrances Centro Comercial and Renfe Out of service. We are examining the reasons for th",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Avda. Carabanchel Alto Out of service. We are examining the reasons for the stop",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Avda. Carabanchel Alto Out of service due to check-up. Coming into service in th",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
