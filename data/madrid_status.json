@@ -2,11 +2,11 @@
   "matchday": 15,
   "lastMatchDate": "2026-10-15",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-15T14:56:28.772637+00:00",
+  "updated": "2026-10-15T15:02:05.427506+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Alfonso XII to platform in the direction of Valdecarros Out of service due to repair works. Expec",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform 1 of Line 1 to platform 2 of Line 5 Out of service. We are examining the reasons for the stop.",
       "seasonPts": 45,
       "checks": 15,
       "wins": 15,
