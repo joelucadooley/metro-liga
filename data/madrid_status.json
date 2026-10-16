@@ -2,11 +2,11 @@
   "matchday": 16,
   "lastMatchDate": "2026-10-16",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-16T07:56:40.183718+00:00",
+  "updated": "2026-10-16T08:01:49.739655+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform 1 of Line 1 to platform 2 of Line 5 Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Alfonso XII to platform in the direction of Valdecarros Out of service due to repair works. Expec",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service. We are examining",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to check-up. C",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Orense to hallway leading to line 6 platforms and platform 2 on line 6 in the di",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform line 8 in the direction of Aeropuerto T4 and platform line 10 in the direc",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway leading to line 4 platforms and lobby Francisco Silvela to hallway of line 6 platforms Wai",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway leading to line 4 platforms and lobby Francisco Silvela to hallway of line 6 platforms Out",
       "seasonPts": 16,
       "checks": 16,
       "wins": 0,
