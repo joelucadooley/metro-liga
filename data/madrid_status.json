@@ -2,11 +2,11 @@
   "matchday": 16,
   "lastMatchDate": "2026-10-16",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-16T17:11:24.429273+00:00",
+  "updated": "2026-10-16T17:16:30.293078+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Bambú to lobby Out of service due to check-up. Coming into service in the next hours. Services",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Alfonso XII to platform in the direction of Valdecarros Out of service due to repair works. Expec",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Tertulia to lobby Out of service due to repair works. Expected date of coming into servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. del Casar to lobby Out of service due to check-up. Coming into service in the next",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Renfe to entrances Centro Comercial and Renfe Out of service due to check-up. Coming into serv",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 8 in the direction of Aeropuerto T4 and platform line 9 in the direction of Puer",
       "seasonPts": 48,
       "checks": 16,
       "wins": 16,
