@@ -2,11 +2,11 @@
   "matchday": 17,
   "lastMatchDate": "2026-10-17",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-17T12:11:30.508568+00:00",
+  "updated": "2026-10-17T12:16:31.598268+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Interchange to hallway for lines 1, 9 and 10 Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform 2 in the direction of Nuevos Ministerios to hallway leading to platforms Out of service.",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Interchange to hallway for lines 1, 9 and 10 Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway leading to line 4 platforms and lobby Francisco Silvela to hallway of line 6 platforms Wai",
       "seasonPts": 17,
       "checks": 17,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Carabanchel Alto to lobby Out of service due to check-up. Coming into service in the nex",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Carabanchel Alto to lobby Out of service. We are examining the reasons for the stop. Esc",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
