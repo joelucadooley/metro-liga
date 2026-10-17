@@ -2,7 +2,7 @@
   "matchday": 17,
   "lastMatchDate": "2026-10-17",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-17T21:11:43.630911+00:00",
+  "updated": "2026-10-17T21:16:31.852531+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway and line 2 platform in the direction of Las Rosas Out of service due to check-up",
       "seasonPts": 51,
       "checks": 17,
       "wins": 17,
