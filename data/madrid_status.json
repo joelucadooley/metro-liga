@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-10-16",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-16T23:56:23.165362+00:00",
+  "updated": "2026-10-16T23:59:57.777571+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service due to check-up. Coming into service in the next hours. Servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service due to check-up. Coming into service in the next hours. Escala",
       "seasonPts": 16,
       "checks": 16,
       "wins": 0,
