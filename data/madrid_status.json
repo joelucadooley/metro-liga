@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-10-18",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-18T04:56:23.727918+00:00",
+  "updated": "2026-10-18T05:01:57.694609+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Orense to lobby Orense Out of service. We are examining the reasons for the stop. From en",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service. We are examining the reasons f",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
