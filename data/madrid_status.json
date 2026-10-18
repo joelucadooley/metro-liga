@@ -2,11 +2,11 @@
   "matchday": 18,
   "lastMatchDate": "2026-10-18",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-18T13:56:21.359399+00:00",
+  "updated": "2026-10-18T14:01:56.727977+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform 2 in the direction of Nuevos Ministerios to hallway leading to platforms Out of service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service. We are examining the reasons for the stop. F",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
