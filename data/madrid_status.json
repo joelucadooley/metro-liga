@@ -2,11 +2,11 @@
   "matchday": 18,
   "lastMatchDate": "2026-10-18",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-18T14:41:29.586997+00:00",
+  "updated": "2026-10-18T14:46:33.648616+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Interchange to hallway for lines 1, 9 and 10 Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service. We are examining the reasons for the stop. F",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Interchange to hallway for lines 1, 9 and 10 Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Maria de Molina to Interchange Levels 5 and 6 and to platform 1 of Line 6. There is another eleva",
       "seasonPts": 18,
       "checks": 18,
       "wins": 0,
