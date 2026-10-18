@@ -2,11 +2,11 @@
   "matchday": 18,
   "lastMatchDate": "2026-10-18",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-18T21:56:30.593570+00:00",
+  "updated": "2026-10-18T22:01:58.302321+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to check-up. Coming into service in the n",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby central to hallway leading to platforms on line 6. There is another lift in the same location Out",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms on line 6 Out of service. We are examining the reasons for the stop. From",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in the next",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Legazpi to corridor leading to line 6 Out of service. We are examining the reasons for the stop.",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway leading to line 4 platforms and lobby Francisco Silvela to hallway of line 6 platforms Wai",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to line 6, lobby Francisco Silvela and hallway lead",
       "seasonPts": 18,
       "checks": 18,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platform 1 on l",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platforms on li",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
