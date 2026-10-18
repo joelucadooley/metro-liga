@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-10-18",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-18T21:26:21.807610+00:00",
+  "updated": "2026-10-18T21:31:45.434486+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Legazpi to corridor leading to line 6 Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Paseo Gigantes y Cabezudos to lobby Out of service due to check-up. Coming into service i",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service. We are examining the reasons f",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Paseo de la Castellana impares to lobby Castellana Out of service due to check-u",
       "seasonPts": 54,
       "checks": 18,
       "wins": 18,
