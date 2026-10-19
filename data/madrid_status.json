@@ -2,11 +2,11 @@
   "matchday": 19,
   "lastMatchDate": "2026-10-19",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-19T06:56:41.417253+00:00",
+  "updated": "2026-10-19T07:02:03.042663+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Interchange to hallway for lines 1, 9 and 10 Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of line 10 platforms to corridor leading to line 1 platforms and lobby Barceló Out of ser",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform 1 in the direction of Los Espartales Out of service. We are examining the reason",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform 1 in the direction of Los Espartales Out of service due to check-up. Coming into",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Interchange to hallway for lines 1, 9 and 10 Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Puerta de Arganda Waiting for information. Services: Escalators",
       "seasonPts": 19,
       "checks": 19,
       "wins": 0,
