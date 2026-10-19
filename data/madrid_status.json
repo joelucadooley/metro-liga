@@ -2,11 +2,11 @@
   "matchday": 19,
   "lastMatchDate": "2026-10-19",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-19T04:41:33.101464+00:00",
+  "updated": "2026-10-19T04:46:35.524113+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service. We are examining the reasons for the stop. F",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform 2 in the direction of Nuevos Ministerios to hallway leading to platforms Out of service.",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From hallway platforms of line 6 to platform 2 on line 6 in the direction of Usera Out of service due to che",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Legazpi to corridor leading to line 6 Out of service. We are examining the reasons for the stop.",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Puerta de Arganda Waiting for information. Services: Escalators",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway leading to line 4 platforms and lobby Francisco Silvela to hallway of line 6 platforms Wai",
       "seasonPts": 19,
       "checks": 19,
       "wins": 0,
