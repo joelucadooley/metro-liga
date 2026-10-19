@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-10-19",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-19T13:41:36.492530+00:00",
+  "updated": "2026-10-19T13:46:32.238163+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Goya of lobby Conde de Peñalver to platform on line 4 in the direction of Pinar de Chamartín. There is another lif",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Felipe II esq. Alcalá of lobby Felipe II to platform on line 2 in the direction of Cuatro Caminos. There is anothe",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
