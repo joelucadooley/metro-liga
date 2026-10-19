@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-10-19",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-19T05:56:20.500867+00:00",
+  "updated": "2026-10-19T06:01:54.087946+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform line 8 in the direction of Aeropuerto T4 and platform line 10 in the direc",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Paseo de la Castellana pares to lobby Castellana Out of service due to check-up.",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
