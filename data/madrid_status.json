@@ -2,11 +2,11 @@
   "matchday": 19,
   "lastMatchDate": "2026-10-19",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-19T16:41:36.659228+00:00",
+  "updated": "2026-10-19T16:46:33.133457+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform on line 1 in the direction of Valdecarros and central platform on line 4",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Interchange to hallway for lines 1, 9 and 10 Out of service due to check-up. Coming into servi",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Elíptica esq. Avda. de Oporto to lobby Vía Lusitana Out of service. We are examining the",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance San José semiesq. del Carmen to lobby Out of service. We are examining the reasons for the sto",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
