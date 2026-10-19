@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-10-19",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-19T11:11:29.783424+00:00",
+  "updated": "2026-10-19T11:16:47.072835+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform 2 in the direction of Juan de la Cierva Out of service due to check-up. Coming i",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform 2 in the direction of Juan de la Cierva Waiting for information. Services: Acces",
       "seasonPts": 57,
       "checks": 19,
       "wins": 19,
