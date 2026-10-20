@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-10-20",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-20T04:41:34.433375+00:00",
+  "updated": "2026-10-20T04:46:40.861866+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From platform 2 of Line 7 to the interchange corridor of Line 9 and to platform 1 of Line 9 Out of service.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway leading to line 4 platforms and lobby Francisco Silvela to hallway of line 6 platforms Out",
       "seasonPts": 20,
       "checks": 20,
       "wins": 0,
