@@ -2,11 +2,11 @@
   "matchday": 20,
   "lastMatchDate": "2026-10-20",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-20T13:56:32.639975+00:00",
+  "updated": "2026-10-20T14:01:54.896395+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Antonio Palacios to platform 1 on line 1 and platform 1 on line 5 Out of service. We are examinin",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby central to hallway leading on line 1 y line 2 Out of service due to check-up. Coming into service",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
