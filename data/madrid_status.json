@@ -2,11 +2,11 @@
   "matchday": 20,
   "lastMatchDate": "2026-10-20",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-20T07:56:23.235222+00:00",
+  "updated": "2026-10-20T08:01:57.530060+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Alfonso XII to platform in the direction of Valdecarros Out of service due to repair works. Expec",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Antonio Palacios to platform 2 on line 1 and platform 1 on line 5 Waiting for information. Servic",
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From lobby Renfe to entrances Centro Comercial and Renfe Out of service due to check-up. Coming into service",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 60,
       "checks": 20,
       "wins": 20,
