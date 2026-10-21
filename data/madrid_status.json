@@ -2,7 +2,7 @@
   "matchday": 21,
   "lastMatchDate": "2026-10-21",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-21T09:56:28.913956+00:00",
+  "updated": "2026-10-21T10:01:59.155971+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of El Casar Out of service. We are examining the reasons for the sto",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Legazpi to corridor leading to line 6 Out of service. We are examining the reasons for the stop.",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Aeropuerto T4 Out of service due to check-up. Coming into se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Paseo de la Castellana impares to lobby Castellana Out of service due to check-u",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service. We are examining the reasons",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service due to check-up. Coming into s",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
