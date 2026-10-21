@@ -2,11 +2,11 @@
   "matchday": 21,
   "lastMatchDate": "2026-10-21",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-21T14:41:29.335296+00:00",
+  "updated": "2026-10-21T14:46:39.789487+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Bravo Murillo to hallway leading to platform of line 1 in the direction of Vald",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Interchange to hallway for lines 1, 9 and 10 Out of service due to repair works. Expected date",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform. There is another escalator in the same direction and location. Out of s",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Bravo Murillo to hallway leading to platform of line 1 in the direction of Vald",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Interchange to hallway for lines 1, 9 and 10 Out of service due to repair works. Expected date",
       "seasonPts": 21,
       "checks": 21,
       "wins": 0,
