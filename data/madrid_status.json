@@ -2,7 +2,7 @@
   "matchday": 21,
   "lastMatchDate": "2026-10-21",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-21T06:06:26.508957+00:00",
+  "updated": "2026-10-21T06:11:38.953581+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Alcalá impares-Josefa Valcarcel to lobby Josefa Valcarcel Out of service due to repair works. Expected d",
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 60,
       "checks": 21,
       "wins": 20,
