@@ -2,7 +2,7 @@
   "matchday": 21,
   "lastMatchDate": "2026-10-21",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-21T04:42:14.005085+00:00",
+  "updated": "2026-10-21T04:47:11.167795+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "OPEN DATA Issue: Due to technical reasons, delays L2 towards Basauri. Search Search home Metro Bilbao network Map and network status Map of the network status Lines and zone maps Use the map to find out about the stations, lines and areas of the netw",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
