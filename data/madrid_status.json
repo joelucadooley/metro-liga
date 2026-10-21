@@ -2,11 +2,11 @@
   "matchday": 21,
   "lastMatchDate": "2026-10-21",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-21T08:01:44.660319+00:00",
+  "updated": "2026-10-21T08:06:35.601741+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Bravo Murillo to hallway leading to platform of line 1 in the direction of Vald",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Paseo de Ginebra to lobby Out of service due to check-up. Coming into service in the next",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Tertulia to lobby Waiting for information. Services: Accessible station Lifts Escalators",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Felipe II esq. Alcalá of lobby Felipe II to platform on line 2 in the direction of Cuatro Caminos. There is anothe",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Alcalá impares-Josefa Valcarcel to lobby Josefa Valcarcel Out of service due to repair works. Expected d",
       "seasonPts": 60,
       "checks": 21,
       "wins": 20,
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Waiting for information. Services: Acc",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to check-up. Coming into serv",
       "seasonPts": 63,
       "checks": 21,
       "wins": 21,
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Bravo Murillo to hallway leading to platform of line 1 in the direction of Vald",
       "seasonPts": 21,
       "checks": 21,
       "wins": 0,
@@ -149,8 +149,8 @@
       ]
     },
     "L10": {
-      "severity": "clear",
-      "description": null,
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 0,
       "checks": 21,
       "wins": 0,
