@@ -2,7 +2,7 @@
   "matchday": 22,
   "lastMatchDate": "2026-10-22",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-22T13:11:23.913040+00:00",
+  "updated": "2026-10-22T13:16:35.277340+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. Perla to lobby Out of service. We are examining the reasons for the stop. Services: Acce",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Legazpi to corridor leading to line 6 Out of service. We are examining the reasons for the stop.",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service. We are examining the reasons",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor of Line 6 to platform Line 11 in the direction of La Fortuna Out of service. We are examining",
       "seasonPts": 66,
       "checks": 22,
       "wins": 22,
