@@ -2,7 +2,7 @@
   "matchday": 23,
   "lastMatchDate": "2026-10-23",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-23T17:21:19.821157+00:00",
+  "updated": "2026-10-23T17:37:38.252557+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 4 in the direction of Argüelles to platform on line 8 in the direction of Nuevos",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 to line 10 platform in the direction of Puerta",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
