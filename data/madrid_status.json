@@ -2,7 +2,7 @@
   "matchday": 23,
   "lastMatchDate": "2026-10-23",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-23T06:11:34.651254+00:00",
+  "updated": "2026-10-23T06:16:33.750640+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From central platform of line 6 to hallway leading to platform Out of service. We are examining the reasons for the st",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Las Rosas Out of service. We are examining the reasons for t",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. del Casar to lobby Out of service. We are examining the reasons for the stop. Services:",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. del Casar to lobby Waiting for information. Services: Accessible station Lifts Escalator",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 10 in the direction of Tres Olivos and platform 2 on line 6 in the direction of",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
