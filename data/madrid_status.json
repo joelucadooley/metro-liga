@@ -2,7 +2,7 @@
   "matchday": 23,
   "lastMatchDate": "2026-10-23",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-23T06:26:28.984201+00:00",
+  "updated": "2026-10-23T06:36:10.363606+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. del Casar to lobby Waiting for information. Services: Accessible station Lifts Escalator",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Legazpi to corridor leading to line 6 Out of service. We are examining the reasons for the stop.",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
