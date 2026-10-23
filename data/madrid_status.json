@@ -2,7 +2,7 @@
   "matchday": 23,
   "lastMatchDate": "2026-10-23",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-23T09:11:38.253244+00:00",
+  "updated": "2026-10-23T09:16:30.867748+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From central platform of line 6 to hallway leading to platform Out of service. We are examining the reasons for the st",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From central platform of line 6 to hallway leading to platform Out of service due to repair works. Expected date of co",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor or lobby Alberto Aguilera to platform on line 4 in the direction of Pinar de Chamartín Out of",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Felipe II esq. Alcalá of lobby Felipe II to platform on line 2 in the direction of Cuatro Caminos. There is anothe",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gonzalo de Córdoba to lobby Waiting for information. Services: Accessible station Lifts E",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gonzalo de Córdoba to lobby Out of service due to check-up. Coming into service in the ne",
       "seasonPts": 69,
       "checks": 23,
       "wins": 23,
