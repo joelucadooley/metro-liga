@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-10-24",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-24T05:56:24.139035+00:00",
+  "updated": "2026-10-24T06:01:50.435939+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform 1 in the direction of Los Espartales Out of service due to check-up. Coming into serv",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Legazpi to corridor leading to line 6 Out of service. We are examining the reasons for the stop.",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
