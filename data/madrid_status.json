@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-10-24",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-24T05:11:37.510752+00:00",
+  "updated": "2026-10-24T05:16:33.781900+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From hallway of line 6 platforms to hallway of Renfe Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Colombia to lobby Out of service. We are examining the reasons for the stop. Services: Accessi",
       "seasonPts": 72,
       "checks": 24,
       "wins": 24,
