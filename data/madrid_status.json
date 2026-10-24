@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-10-24",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-24T10:41:33.858415+00:00",
+  "updated": "2026-10-24T10:46:42.438031+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Paco de Lucía to hallway leading to platforms to lobby Melchor Fernández Almagro Ou",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Plaza de Castilla to hallway of line 1 platform in the direction of Valdecarros and lobby B",
       "seasonPts": 24,
       "checks": 24,
       "wins": 0,
