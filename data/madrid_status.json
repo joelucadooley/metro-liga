@@ -2,7 +2,7 @@
   "matchday": 25,
   "lastMatchDate": "2026-10-25",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-25T08:56:29.612517+00:00",
+  "updated": "2026-10-25T09:02:09.781924+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Legazpi to corridor leading to line 6 Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Out of service. We are examining the reasons for th",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 9 platforms to platform in the direction of Paco de Lucía Out of service due to ch",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
