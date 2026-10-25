@@ -2,11 +2,11 @@
   "matchday": 25,
   "lastMatchDate": "2026-10-25",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-25T05:26:32.750643+00:00",
+  "updated": "2026-10-25T05:31:46.359312+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform on line 10 in the direction Puerta del Sur Out of service due to check-up. Comin",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Puerta de Arganda to hallway leading to platforms to line",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
