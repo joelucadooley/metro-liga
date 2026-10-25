@@ -2,11 +2,11 @@
   "matchday": 25,
   "lastMatchDate": "2026-10-25",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-25T05:41:39.276359+00:00",
+  "updated": "2026-10-25T05:46:34.905881+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Puerta de Arganda to hallway leading to platforms to line",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 1 in the direction of Valdecarros to hallway leading to lines and lobby Bravo Mur",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to entrances Centro Comercial and Renfe Out of service due to check-up. Coming into se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 4 in the direction of Pinar de Chamartín to platform on line 8 in the direction",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Puerta de Arganda to hallway leading to platforms to line",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 1 in the direction of Valdecarros to hallway leading to lines and lobby Bravo Mur",
       "seasonPts": 25,
       "checks": 25,
       "wins": 0,
