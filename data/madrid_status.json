@@ -2,7 +2,7 @@
   "matchday": 25,
   "lastMatchDate": "2026-10-25",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-25T21:41:28.887632+00:00",
+  "updated": "2026-10-25T21:45:11.448158+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Interchange to hallway for lines 1, 9 and 10 Waiting for information. Services: Accessible sta",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Costa Brava to lobby Out of service. We are examining the reasons for the stop. Services:",
       "seasonPts": 25,
       "checks": 25,
       "wins": 0,
