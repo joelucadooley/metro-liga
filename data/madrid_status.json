@@ -2,7 +2,7 @@
   "matchday": 25,
   "lastMatchDate": "2026-10-25",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-25T11:01:55.087161+00:00",
+  "updated": "2026-10-25T11:06:31.959155+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gonzalo de Córdoba to lobby Waiting for information. Services: Accessible station Lifts E",
       "seasonPts": 75,
       "checks": 25,
       "wins": 25,
