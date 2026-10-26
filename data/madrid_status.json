@@ -2,7 +2,7 @@
   "matchday": 26,
   "lastMatchDate": "2026-10-26",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-26T05:26:26.991249+00:00",
+  "updated": "2026-10-26T05:32:05.453688+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 4 and line 5 and corridor of line 10 platforms to platform in the direction of Tres Olivos Out o",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Felipe II esq. Alcalá of lobby Felipe II to platform on line 2 in the direction of Cuatro Caminos. There is anothe",
       "seasonPts": 76,
       "checks": 26,
       "wins": 25,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 4 in the direction of Pinar de Chamartín to platform on line 8 in the direction",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 76,
       "checks": 26,
       "wins": 25,
