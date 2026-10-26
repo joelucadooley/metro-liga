@@ -2,7 +2,7 @@
   "matchday": 26,
   "lastMatchDate": "2026-10-26",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-26T09:26:31.527059+00:00",
+  "updated": "2026-10-26T09:31:52.212694+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Legazpi to corridor leading to line 6 Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Santa Petronila to lobby Out of service. We are examining the reasons for the stop. Services:",
       "seasonPts": 76,
       "checks": 26,
       "wins": 25,
