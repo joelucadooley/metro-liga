@@ -2,7 +2,7 @@
   "matchday": 26,
   "lastMatchDate": "2026-10-26",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-26T13:02:16.177196+00:00",
+  "updated": "2026-10-26T13:06:50.228332+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "Elevator failure Andén destino Torrent Avinguda /Castelló Station Jesús Elevator failure Acceso C/ Mora de Rubielos, 7 y andenes Station Alameda Elevator failure Andén destino Marítim Station Túria Elevator failure Acceso C/ Menéndez Pidal, 15 Statio",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
