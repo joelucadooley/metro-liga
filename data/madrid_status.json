@@ -2,11 +2,11 @@
   "matchday": 26,
   "lastMatchDate": "2026-10-26",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-26T18:11:38.316103+00:00",
+  "updated": "2026-10-26T18:16:35.509801+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Agustín de Foxá to lobby Out of service due to check-up. Coming into service in the next hours",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
       "seasonPts": 76,
       "checks": 26,
       "wins": 25,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Fermín Caballero to hallway leading to platforms Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
       "seasonPts": 26,
       "checks": 26,
       "wins": 0,
