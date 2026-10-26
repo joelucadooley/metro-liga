@@ -2,11 +2,11 @@
   "matchday": 26,
   "lastMatchDate": "2026-10-26",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-26T21:46:52.166571+00:00",
+  "updated": "2026-10-26T21:56:45.679323+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "Elevator failure Andén destinos Aeroport / Torrent Avinguda y Rafelbunyol Station Mislata Almassil Elevator failure Acceso Av. Gregorio Gea, 91 Station Marítim Elevator failure Acceso C/ Jeroni de Montsoriu, 82 Station Sant Isidre Elevator failure An",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 78,
       "checks": 26,
       "wins": 26,
