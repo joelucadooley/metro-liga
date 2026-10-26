@@ -2,11 +2,11 @@
   "matchday": 26,
   "lastMatchDate": "2026-10-26",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-26T19:26:25.793567+00:00",
+  "updated": "2026-10-26T19:31:45.930990+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line ML1 in the direction of Las Tablas Out of service. We are examining the reasons",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
       "seasonPts": 76,
       "checks": 26,
       "wins": 25,
