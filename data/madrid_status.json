@@ -2,11 +2,11 @@
   "matchday": 26,
   "lastMatchDate": "2026-10-26",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-26T11:41:47.421603+00:00",
+  "updated": "2026-10-26T11:46:51.629517+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central on line 1 in the direction of Valdecarros and platform central on line 4 in t",
       "seasonPts": 76,
       "checks": 26,
       "wins": 25,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Las Rosas Out of service due to check-up. Coming into servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Las Rosas Waiting for information. Services: Accessible stat",
       "seasonPts": 76,
       "checks": 26,
       "wins": 25,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Legazpi to corridor leading to line 6 Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service",
       "seasonPts": 76,
       "checks": 26,
       "wins": 25,
