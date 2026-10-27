@@ -2,7 +2,7 @@
   "matchday": 27,
   "lastMatchDate": "2026-10-27",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-27T01:11:09.321880+00:00",
+  "updated": "2026-10-27T01:16:46.950143+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform Out of service due to check-up. Coming into service in the next hours. F",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 27,
       "checks": 27,
       "wins": 0,
