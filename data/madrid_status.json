@@ -2,7 +2,7 @@
   "matchday": 27,
   "lastMatchDate": "2026-10-27",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-27T08:11:42.674089+00:00",
+  "updated": "2026-10-27T08:16:35.185317+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in the next",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby to hallway leading to platforms on line 6 Out of service. We are examining the reasons for the stop. Servi",
       "seasonPts": 77,
       "checks": 27,
       "wins": 25,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Alcalá impares-Josefa Valcarcel to lobby Josefa Valcarcel Out of service due to repair works. Expected d",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Casa de Campo Waiting for information. From entrance Alcalá imp",
       "seasonPts": 74,
       "checks": 27,
       "wins": 24,
