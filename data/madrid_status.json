@@ -2,11 +2,11 @@
   "matchday": 28,
   "lastMatchDate": "2026-10-28",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-28T18:56:24.537444+00:00",
+  "updated": "2026-10-28T19:01:54.498341+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Plaza de Castilla to platform on line 1 in the direction of Valdecarros to corridor leading to li",
       "seasonPts": 78,
       "checks": 28,
       "wins": 25,
