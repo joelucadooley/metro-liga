@@ -2,11 +2,11 @@
   "matchday": 28,
   "lastMatchDate": "2026-10-28",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-28T11:21:44.576122+00:00",
+  "updated": "2026-10-28T11:27:16.321332+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 9 in the direction of Paco de Lucía Out of service.",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 78,
       "checks": 28,
       "wins": 25,
