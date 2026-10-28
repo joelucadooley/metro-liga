@@ -2,7 +2,7 @@
   "matchday": 28,
   "lastMatchDate": "2026-10-28",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-28T14:41:52.390047+00:00",
+  "updated": "2026-10-28T14:46:35.277458+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Emilio Ferrari to platform on line 5 Waiting for information. Walkways From platform on line 5 in",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Alcalá impares-Josefa Valcarcel to lobby Josefa Valcarcel Out of service. We are examining the reasons f",
       "seasonPts": 75,
       "checks": 28,
       "wins": 24,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Doctor Fleming together Parque Doctor Fleming to lobby Out of service due to check-up. Coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Doctor Fleming together Parque Doctor Fleming to lobby Out of service. We are examining the re",
       "seasonPts": 78,
       "checks": 28,
       "wins": 25,
