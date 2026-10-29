@@ -2,7 +2,7 @@
   "matchday": 29,
   "lastMatchDate": "2026-10-29",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-29T20:11:36.567442+00:00",
+  "updated": "2026-10-29T20:16:38.117958+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Arganda del Rey to hallway leading Out of service due to check-up. Coming into serv",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 8 to platform on line 9 in the direction of Arganda del Rey Out of service due to",
       "seasonPts": 29,
       "checks": 29,
       "wins": 0,
