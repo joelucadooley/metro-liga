@@ -2,11 +2,11 @@
   "matchday": 29,
   "lastMatchDate": "2026-10-29",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-29T23:11:25.477891+00:00",
+  "updated": "2026-10-29T23:16:40.471205+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Castellana to hallway for platforms on line 9 and hallway for platforms on line 10 Out of se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line corridors to Interchange lobby Out of service due to check-up. Coming into service in the nex",
       "seasonPts": 79,
       "checks": 29,
       "wins": 25,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Paseo de Ginebra to lobby Out of service due to repair works. Expected date of coming into ser",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Paseo de Ginebra to lobby Out of service. We are examining the reasons for the stop. Services:",
       "seasonPts": 79,
       "checks": 29,
       "wins": 25,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Castellana to hallway for platforms on line 9 and hallway for platforms on line 10 Out of se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Out of service due to check-up. Coming in",
       "seasonPts": 29,
       "checks": 29,
       "wins": 0,
