@@ -2,7 +2,7 @@
   "matchday": 29,
   "lastMatchDate": "2026-10-29",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-29T12:56:22.285233+00:00",
+  "updated": "2026-10-29T13:02:05.684791+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central on line 5 in the direction of Alameda de Osuna and platform central on line 1",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 5 / Renfe platform distributor hall to Museum Out of service due to check-up. Coming into ser",
       "seasonPts": 76,
       "checks": 29,
       "wins": 24,
