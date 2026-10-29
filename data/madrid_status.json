@@ -2,7 +2,7 @@
   "matchday": 29,
   "lastMatchDate": "2026-10-29",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-29T00:56:27.805660+00:00",
+  "updated": "2026-10-29T01:02:16.986349+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Puerta de Arganda Out of service due to check-up. Coming into ser",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service due to check-up. Coming into service in the next hours. Escala",
       "seasonPts": 29,
       "checks": 29,
       "wins": 0,
