@@ -2,7 +2,7 @@
   "matchday": 30,
   "lastMatchDate": "2026-10-30",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-30T14:56:28.295289+00:00",
+  "updated": "2026-10-30T15:02:04.153778+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform 2 on line 6 in the direction of República Argentina to hallways leading to platforms to",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms on lines 8 and 9 Out of service due to check-up. Coming int",
       "seasonPts": 80,
       "checks": 30,
       "wins": 25,
