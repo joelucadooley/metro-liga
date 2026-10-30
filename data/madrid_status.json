@@ -2,7 +2,7 @@
   "matchday": 30,
   "lastMatchDate": "2026-10-30",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-30T23:41:54.342001+00:00",
+  "updated": "2026-10-30T23:46:58.399130+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Legazpi to corridor leading to line 6 Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform 1 in the direction of Los Espartales Out of service due to check-up. Coming into",
       "seasonPts": 80,
       "checks": 30,
       "wins": 25,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
       "seasonPts": 80,
       "checks": 30,
       "wins": 25,
