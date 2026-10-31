@@ -2,11 +2,11 @@
   "matchday": 31,
   "lastMatchDate": "2026-10-31",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-31T12:11:38.360106+00:00",
+  "updated": "2026-10-31T12:16:40.661018+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Alfonso XII to platform in the direction of Valdecarros Out of service due to repair works. Expec",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Barceló to hallway for platforms on lines 1 and 10 Out of service due to check-up. Coming in",
       "seasonPts": 81,
       "checks": 31,
       "wins": 25,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Legazpi to corridor leading to line 6 Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service",
       "seasonPts": 81,
       "checks": 31,
       "wins": 25,
