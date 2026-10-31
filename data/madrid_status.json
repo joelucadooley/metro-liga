@@ -2,7 +2,7 @@
   "matchday": 31,
   "lastMatchDate": "2026-10-31",
   "lastResetMonth": "2026-10",
-  "updated": "2026-10-31T21:56:37.675448+00:00",
+  "updated": "2026-10-31T22:02:02.132657+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Paseo de Ginebra to lobby Out of service. We are examining the reasons for the stop. Services:",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Paseo de Ginebra to lobby Out of service. We are examining the reasons for the stop. Escalator",
       "seasonPts": 81,
       "checks": 31,
       "wins": 25,
