@@ -2,11 +2,11 @@
   "matchday": 1,
   "lastMatchDate": "2026-11-01",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-01T20:01:52.241093+00:00",
+  "updated": "2026-11-01T20:06:17.893485+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos, to mezzanine and platform on line 1 in th",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
@@ -17,8 +17,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Paseo de Ginebra to lobby Out of service. We are examining the reasons for the stop. Services:",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
@@ -29,8 +29,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Legazpi to corridor leading to line 6 Out of service. We are examining the reasons for the stop.",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
@@ -41,8 +41,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading From platforms on line 6 y on line 4 to platform 1 on line 6 in the direction of Prínc",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
@@ -53,8 +53,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Alcalá impares-Josefa Valcarcel to lobby Josefa Valcarcel Out of service due to check-up. Coming into se",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
@@ -77,8 +77,8 @@
       ]
     },
     "L7": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Doctor Fleming to lobby Out of service due to improvement works. Expected date of coming",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
@@ -89,8 +89,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 8 to platform on line 9 in the direction of Arganda del Rey Out of service due to",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
@@ -101,8 +101,8 @@
       ]
     },
     "L9": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
@@ -113,8 +113,8 @@
       ]
     },
     "L10": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 0,
       "checks": 1,
       "wins": 0,
@@ -125,8 +125,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform in the direcion Plaza Elíptica to hallways leading to platforms Waiting for information.",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
