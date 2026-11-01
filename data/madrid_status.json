@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-11-01",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-01T15:56:19.816433+00:00",
+  "updated": "2026-11-01T16:02:00.514474+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -30,7 +30,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Andalucía pares to lobby Out of service. We are examining the reasons for the st",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Legazpi to corridor leading to line 6 Out of service. We are examining the reasons for the stop.",
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
