@@ -1,150 +1,114 @@
 {
-  "matchday": 31,
-  "lastMatchDate": "2026-10-31",
-  "lastResetMonth": "2026-10",
-  "updated": "2026-10-31T23:56:25.390011+00:00",
+  "matchday": 1,
+  "lastMatchDate": "2026-11-01",
+  "lastResetMonth": "2026-11",
+  "updated": "2026-11-01T00:02:04.472300+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos, to mezzanine and platform on line 1 in th",
-      "seasonPts": 81,
-      "checks": 31,
-      "wins": 25,
-      "draws": 6,
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
       "losses": 0,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
         "D"
       ]
     },
     "L2": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Paseo de Ginebra to lobby Out of service. We are examining the reasons for the stop. Services:",
-      "seasonPts": 81,
-      "checks": 31,
-      "wins": 25,
-      "draws": 6,
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
       "losses": 0,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
         "D"
       ]
     },
     "L3": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service",
-      "seasonPts": 81,
-      "checks": 31,
-      "wins": 25,
-      "draws": 6,
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
       "losses": 0,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
         "D"
       ]
     },
     "L4": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Felipe II esq. Alcalá of lobby Felipe II to platform on line 2 in the direction of Cuatro Caminos. There is anothe",
-      "seasonPts": 81,
-      "checks": 31,
-      "wins": 25,
-      "draws": 6,
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
       "losses": 0,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
         "D"
       ]
     },
     "L5": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrance Alcalá impares-Josefa Valcarcel to lobby Josefa Valcarcel Out of service due to check-up. Coming into se",
-      "seasonPts": 78,
-      "checks": 31,
-      "wins": 24,
-      "draws": 6,
-      "losses": 1,
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
+      "losses": 0,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
         "D"
       ]
     },
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 93,
-      "checks": 31,
-      "wins": 31,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     },
     "L7": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway for platforms Out of service due to check-up. Coming into service in the next ho",
-      "seasonPts": 81,
-      "checks": 31,
-      "wins": 25,
-      "draws": 6,
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
       "losses": 0,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
         "D"
       ]
     },
     "L8": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 8 to platform on line 9 in the direction of Arganda del Rey Out of service due to",
-      "seasonPts": 83,
-      "checks": 31,
-      "wins": 26,
-      "draws": 5,
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
       "losses": 0,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
-        "W"
+        "D"
       ]
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana-Interchange to lobby Castellana Out of service due to check-up. Coming into service",
-      "seasonPts": 31,
-      "checks": 31,
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Puerta de Arganda Out of service due to check-up. Coming in",
+      "seasonPts": 1,
+      "checks": 1,
       "wins": 0,
-      "draws": 31,
+      "draws": 1,
       "losses": 0,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
         "D"
       ]
     },
@@ -152,63 +116,47 @@
       "severity": "incident",
       "description": "Service disruption reported",
       "seasonPts": 0,
-      "checks": 31,
+      "checks": 1,
       "wins": 0,
       "draws": 0,
-      "losses": 31,
+      "losses": 1,
       "recentForm": [
-        "L",
-        "L",
-        "L",
-        "L",
         "L"
       ]
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform in the direcion Plaza Elíptica to hallways leading to platforms Waiting for information.",
-      "seasonPts": 81,
-      "checks": 31,
-      "wins": 25,
-      "draws": 6,
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Marcelo Usera esq. Paseo de Santa Maria de la Cabeza to lobby Marcelo Usera Out of service. We",
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
       "losses": 0,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
         "D"
       ]
     },
     "L12": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 93,
-      "checks": 31,
-      "wins": 31,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     },
     "R": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
-      "seasonPts": 81,
-      "checks": 31,
-      "wins": 25,
-      "draws": 6,
+      "seasonPts": 1,
+      "checks": 1,
+      "wins": 0,
+      "draws": 1,
       "losses": 0,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
         "D"
       ]
     }

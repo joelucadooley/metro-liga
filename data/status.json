@@ -1,167 +1,127 @@
 {
-  "matchday": 31,
-  "lastMatchDate": "2026-10-31",
-  "lastResetMonth": "2026-10",
-  "updated": "2026-10-31T23:55:50.842709+00:00",
+  "matchday": 1,
+  "lastMatchDate": "2026-11-01",
+  "lastResetMonth": "2026-11",
+  "updated": "2026-11-01T00:01:27.825088+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "Torras i Bages: Until 17 November, approximately, the escalator connecting the Hospital de Bellvitge plattform and the lobby, at Torras i Bages station, out of service due to maintenance works. · Catalunya: From today, and until December 30th, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works.",
-      "seasonPts": 31,
-      "checks": 31,
+      "severity": "incident",
+      "description": null,
+      "seasonPts": 0,
+      "checks": 1,
       "wins": 0,
-      "draws": 31,
-      "losses": 0,
+      "draws": 0,
+      "losses": 1,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
-        "D"
+        "L"
       ]
     },
     "L2": {
-      "severity": "clear",
+      "severity": "incident",
       "description": null,
-      "seasonPts": 83,
-      "checks": 31,
-      "wins": 26,
-      "draws": 5,
-      "losses": 0,
+      "seasonPts": 0,
+      "checks": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
       "recentForm": [
-        "W",
-        "D",
-        "D",
-        "D",
-        "W"
+        "L"
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "Drassanes: From 26/10/2026, the access Santa Madrona of the Drassanes station (L3) is closed for works. · Catalunya: From today, and until December 30th, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works.",
-      "seasonPts": 31,
-      "checks": 31,
+      "severity": "incident",
+      "description": null,
+      "seasonPts": 0,
+      "checks": 1,
       "wins": 0,
-      "draws": 31,
-      "losses": 0,
+      "draws": 0,
+      "losses": 1,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
-        "D"
+        "L"
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "Verdaguer: Until 01/02/2027, the escalator from the platform direction La Pau to the lobby of the Verdaguer station (L4) temporarily out of service. · Verdaguer: Until 01/02/2027, the escalator from the platform direction Trinitat Nova to the lobby of the Verdaguer station (L4) temporarily out of service.",
-      "seasonPts": 31,
-      "checks": 31,
+      "severity": "incident",
+      "description": null,
+      "seasonPts": 0,
+      "checks": 1,
       "wins": 0,
-      "draws": 31,
-      "losses": 0,
+      "draws": 0,
+      "losses": 1,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
-        "D"
+        "L"
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "Badal: Until 30/11/2026, the escalator connecting the Vall d'Hebron plattform and the middle lobby at Badal (L5) station, is out of service. · Gavarra: From 26/10/2026, the access Pl.",
-      "seasonPts": 31,
-      "checks": 31,
+      "severity": "incident",
+      "description": null,
+      "seasonPts": 0,
+      "checks": 1,
       "wins": 0,
-      "draws": 31,
-      "losses": 0,
+      "draws": 0,
+      "losses": 1,
       "recentForm": [
-        "D",
-        "D",
-        "D",
-        "D",
-        "D"
+        "L"
       ]
     },
     "L9N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 93,
-      "checks": 31,
-      "wins": 31,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     },
     "L9S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 93,
-      "checks": 31,
-      "wins": 31,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     },
     "L10N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 93,
-      "checks": 31,
-      "wins": 31,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     },
     "L10S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 93,
-      "checks": 31,
-      "wins": 31,
+      "seasonPts": 3,
+      "checks": 1,
+      "wins": 1,
       "draws": 0,
       "losses": 0,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
         "W"
       ]
     },
     "L11": {
-      "severity": "clear",
+      "severity": "incident",
       "description": null,
-      "seasonPts": 87,
-      "checks": 31,
-      "wins": 28,
-      "draws": 3,
-      "losses": 0,
+      "seasonPts": 0,
+      "checks": 1,
+      "wins": 0,
+      "draws": 0,
+      "losses": 1,
       "recentForm": [
-        "W",
-        "W",
-        "W",
-        "W",
-        "W"
+        "L"
       ]
     }
   }
