@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-11-01",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-01T21:26:25.128525+00:00",
+  "updated": "2026-11-01T21:31:50.066689+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -78,7 +78,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Echebeste in front of Gonzalo de Córdoba to lobby Out of service. We are examining the r",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Doctor Fleming to lobby Out of service due to improvement works. Expected date of coming",
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
