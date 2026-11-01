@@ -2,7 +2,7 @@
   "matchday": 1,
   "lastMatchDate": "2026-11-01",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-01T15:26:26.368885+00:00",
+  "updated": "2026-11-01T15:31:38.158985+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -30,7 +30,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Legazpi to corridor leading to line 6 Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of El Casar Waiting for information. From lobby to platform in",
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
@@ -90,7 +90,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 8 to platform on line 9 in the direction of Arganda del Rey Out of service due to",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From lobby Renfe to entrances Centro Comercial and Renfe Out of service. We are examining the reasons for",
       "seasonPts": 1,
       "checks": 1,
       "wins": 0,
