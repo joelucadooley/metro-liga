@@ -2,11 +2,11 @@
   "matchday": 2,
   "lastMatchDate": "2026-11-02",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-02T10:32:20.803316+00:00",
+  "updated": "2026-11-02T10:36:34.485533+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "Elevator failure Andén destino Marítim Station Alameda Elevator failure Andén destinos Aeroport / Torrent Avinguda y Rafelbunyol Station Mislata Almassil Elevator failure Acceso Av. Gregorio Gea, 91 Station Safranar Elevator failure Andén destino Lli",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 6,
       "checks": 2,
       "wins": 2,
