@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-11-02",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-02T22:56:57.219302+00:00",
+  "updated": "2026-11-02T23:02:13.450490+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -97,7 +97,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform line 8 in the direction of Aeropuerto T4 and platform line 10 in the direc",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial corridor line 6 to platform 2 line 6 in the direction of Republica Argentina Out",
       "seasonPts": 2,
       "checks": 2,
       "wins": 0,
