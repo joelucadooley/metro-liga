@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-11-02",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-02T09:56:19.444442+00:00",
+  "updated": "2026-11-02T10:02:11.482346+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -110,7 +110,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Herrera Oria to hallway leading to platforms Out of service. We are examining the reasons for the stop. Ser",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
       "seasonPts": 2,
       "checks": 2,
       "wins": 0,
