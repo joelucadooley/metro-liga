@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-11-02",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-02T15:11:51.719103+00:00",
+  "updated": "2026-11-02T15:16:38.688277+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -32,7 +32,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Santa Petronila to lobby Out of service due to check-up. Coming into service in the next",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Tertulia to lobby Out of service. We are examining the reasons for the stop. Services: Ac",
       "seasonPts": 2,
       "checks": 2,
       "wins": 0,
