@@ -2,7 +2,7 @@
   "matchday": 2,
   "lastMatchDate": "2026-11-02",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-02T12:11:44.689155+00:00",
+  "updated": "2026-11-02T12:16:47.675035+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -32,7 +32,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Legazpi to corridor leading to line 6 Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Paseo de Gigantes y Cabezudos to lobby Out of service. We are examining the reasons for the st",
       "seasonPts": 2,
       "checks": 2,
       "wins": 0,
