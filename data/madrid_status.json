@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-11-03",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-03T06:56:29.068453+00:00",
+  "updated": "2026-11-03T07:02:06.741263+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -104,7 +104,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 8 to platform on line 9 in the direction of Arganda del Rey Out of service due to",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 9 platforms to platform in the direction of Paco de Lucía Out of service. We are e",
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
