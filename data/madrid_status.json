@@ -2,11 +2,11 @@
   "matchday": 3,
   "lastMatchDate": "2026-11-03",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-03T10:26:21.530628+00:00",
+  "updated": "2026-11-03T10:32:09.084565+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Valdecarros Waiting for information. Services: Accessible st",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos, to mezzanine and platform on line 1 in th",
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
@@ -118,7 +118,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Pío XII to hallway leading to platforms Waiting for information. Services: Escalators Defibrillator Mobile",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 1 platforms of lobby Plaza de Castilla to hallway leading to lines and lobbies Out",
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
@@ -146,7 +146,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service due to check-up. Coming into s",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service due to check-up. Coming into servi",
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
