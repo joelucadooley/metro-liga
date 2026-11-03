@@ -2,11 +2,11 @@
   "matchday": 3,
   "lastMatchDate": "2026-11-03",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-03T07:56:28.436695+00:00",
+  "updated": "2026-11-03T08:01:55.914757+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Valdecarros Out of service. We are examining the reasons for",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform on line 10 in the direction of Tres Olivos, to mezzanine and platform on line 1 in th",
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
@@ -104,7 +104,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 8 to platform on line 9 in the direction of Arganda del Rey Out of service due to",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Orense to lobby Orense Out of service due to check-up. Coming into service in the next ho",
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
@@ -146,7 +146,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform in the direcion Plaza Elíptica to hallways leading to platforms Waiting for information.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service due to check-up. Coming into s",
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
