@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-11-03",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-03T15:56:30.279299+00:00",
+  "updated": "2026-11-03T16:01:57.422458+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -103,8 +103,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Orense to lobby Orense Out of service. We are examining the reasons for the stop. Service",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
