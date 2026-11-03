@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-11-03",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-03T20:56:31.207936+00:00",
+  "updated": "2026-11-03T21:02:15.387234+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -103,8 +103,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. de Logroño esq. Camino Viejo de Hortaleza to lobby Out of service. We are examining the",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
