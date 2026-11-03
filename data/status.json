@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-11-03",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-03T14:11:24.330139+00:00",
+  "updated": "2026-11-03T14:16:08.491801+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -20,7 +20,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "Tetuan: Until 05/11/2026, the elevator that connects the hall to street level at Tetuan station will be out of service due to improvement works.",
+      "description": null,
       "seasonPts": 4,
       "checks": 3,
       "wins": 1,
