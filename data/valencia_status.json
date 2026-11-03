@@ -2,7 +2,7 @@
   "matchday": 3,
   "lastMatchDate": "2026-11-03",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-03T01:16:52.042045+00:00",
+  "updated": "2026-11-03T01:21:45.845618+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
@@ -33,8 +33,8 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "Commercial services Environmental management and quality Contractor's profile Accessibility notices Here you can check for any changes in the service provided by our metro lines and the tram. Station Alameda Elevator failure Acceso Paseo Alameda y an",
       "seasonPts": 3,
       "checks": 3,
       "wins": 0,
