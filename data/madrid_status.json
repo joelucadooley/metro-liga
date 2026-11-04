@@ -2,11 +2,11 @@
   "matchday": 4,
   "lastMatchDate": "2026-11-04",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-04T05:26:31.198518+00:00",
+  "updated": "2026-11-04T05:31:54.181024+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Valdecarros Out of service due to check-up. Coming into serv",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 9 in the direction of Puerta de Arganda to hallway leading to platform to line 9",
       "seasonPts": 4,
       "checks": 4,
       "wins": 0,
@@ -155,8 +155,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platform 1 on l",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 4,
       "checks": 4,
       "wins": 0,
