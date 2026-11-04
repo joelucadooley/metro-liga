@@ -2,11 +2,11 @@
   "matchday": 4,
   "lastMatchDate": "2026-11-04",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-04T15:51:03.198031+00:00",
+  "updated": "2026-11-04T15:55:57.100185+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "Hostafrancs: Until 13/11/2026, the lift that connects the station hall with street level at Hostafrancs station will be out of service due to improvement works. · Torras i Bages: Until 17 November, approximately, the escalator connecting the Hospital de Bellvitge plattform and the lobby, at Torras i Bages station, out of service due to maintenance works.",
+      "severity": "incident",
+      "description": null,
       "seasonPts": 3,
       "checks": 4,
       "wins": 0,
@@ -20,8 +20,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "Badalona Pompeu Fabra: Until 26/11/2026, the escalator that connects with the access La Creu at Badalona Pompeu Fabra station will be out of service due to improvement works. · Tetuan: Until 05/11/2026, the elevator that connects the hall to street level at Tetuan station will be out of service due to improvement works.",
+      "severity": "incident",
+      "description": null,
       "seasonPts": 5,
       "checks": 4,
       "wins": 1,
@@ -35,8 +35,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "Sants Estació: Until 24/11/2026, the escalator descending from the Numància entrance hall to the lower hall of Sants Estació station will be temporarily out of service due to improvement works. · Catalunya: From today, and until December 30th, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works.",
+      "severity": "incident",
+      "description": null,
       "seasonPts": 3,
       "checks": 4,
       "wins": 0,
@@ -50,8 +50,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "Verdaguer: Until 01/02/2027, the escalator from the platform direction La Pau to the lobby of the Verdaguer station (L4) temporarily out of service. · Verdaguer: Until 01/02/2027, the escalator from the platform direction Trinitat Nova to the lobby of the Verdaguer station (L4) temporarily out of service.",
+      "severity": "incident",
+      "description": null,
       "seasonPts": 3,
       "checks": 4,
       "wins": 0,
@@ -65,8 +65,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "Badal: Until 30/11/2026, the escalator connecting the Vall d'Hebron plattform and the middle lobby at Badal (L5) station, is out of service. · Gavarra: From 26/10/2026, the access Pl.",
+      "severity": "incident",
+      "description": null,
       "seasonPts": 3,
       "checks": 4,
       "wins": 0,
@@ -140,7 +140,7 @@
       ]
     },
     "L11": {
-      "severity": "clear",
+      "severity": "incident",
       "description": null,
       "seasonPts": 9,
       "checks": 4,
