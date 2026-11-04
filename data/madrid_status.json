@@ -2,7 +2,7 @@
   "matchday": 4,
   "lastMatchDate": "2026-11-04",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-04T06:41:29.234323+00:00",
+  "updated": "2026-11-04T06:46:32.993296+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -111,7 +111,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Agustín de Betancourt and Orense to lobby Orense Out of service due to check-up. Coming",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Avda. de Logroño esq. Camino Viejo de Hortaleza to lobby Out of service due to check-up. Comin",
       "seasonPts": 4,
       "checks": 4,
       "wins": 0,
@@ -185,8 +185,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Paseo de la Florida to platform 1 on line 6 in the direction of Puerta del Ángel and platform on",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 4,
       "checks": 4,
       "wins": 0,
