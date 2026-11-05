@@ -2,7 +2,7 @@
   "matchday": 5,
   "lastMatchDate": "2026-11-05",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-05T08:41:39.367996+00:00",
+  "updated": "2026-11-05T08:46:49.013107+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Paco de Lucía Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Paco de Lucía Out of service. We are examining the reasons for th",
       "seasonPts": 5,
       "checks": 5,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Plaza Elíptica Out of service due to check-up. Coming into servic",
       "seasonPts": 5,
       "checks": 5,
       "wins": 0,
