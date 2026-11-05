@@ -2,7 +2,7 @@
   "matchday": 5,
   "lastMatchDate": "2026-11-05",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-05T11:11:01.570840+00:00",
+  "updated": "2026-11-05T11:16:41.004440+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Paco de Lucía Out of service due to check-up. Coming into service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Maria de Molina to the lobby. There is another elevator in the same location. Out of service d",
       "seasonPts": 5,
       "checks": 5,
       "wins": 0,
