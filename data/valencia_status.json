@@ -2,11 +2,11 @@
   "matchday": 5,
   "lastMatchDate": "2026-11-05",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-05T07:51:47.965587+00:00",
+  "updated": "2026-11-05T07:56:32.638033+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "Elevator failure Andén destinos Aeroport / Torrent Avinguda y Rafelbunyol Station Amado Granell - Montolivet Elevator failure Acceso Av Amado Granell, 18 Station Marítim Elevator failure Acceso C/ Jeroni de Montsoriu, 82 Station Pl. Espanya Elevator ",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
