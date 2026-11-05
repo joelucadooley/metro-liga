@@ -2,7 +2,7 @@
   "matchday": 5,
   "lastMatchDate": "2026-11-05",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-05T12:25:59.437276+00:00",
+  "updated": "2026-11-05T12:31:22.150316+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "Badalona Pompeu Fabra: Until 26/11/2026, the escalator that connects with the access La Creu at Badalona Pompeu Fabra station will be out of service due to improvement works. · Tetuan: Until 05/11/2026, the elevator that connects the hall to street level at Tetuan station will be out of service due to improvement works.",
+      "description": "Badalona Pompeu Fabra: Until 26/11/2026, the escalator that connects with the access La Creu at Badalona Pompeu Fabra station will be out of service due to improvement works.",
       "seasonPts": 6,
       "checks": 5,
       "wins": 1,
