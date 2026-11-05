@@ -2,11 +2,11 @@
   "matchday": 5,
   "lastMatchDate": "2026-11-05",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-05T11:03:29.393219+00:00",
+  "updated": "2026-11-05T11:11:14.033956+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "Elevator failure Andén destino Marítim Station Alameda Elevator failure Andén destinos Aeroport / Torrent Avinguda y Rafelbunyol Station Amado Granell - Montolivet Elevator failure Acceso Av Amado Granell, 18 Station Pl. Espanya Elevator failure Andé",
+      "description": "Elevator failure Acceso Paseo Alameda y andén destino Aeroport/ Riba-roja de Túria Station Alameda Elevator failure Andén destino Marítim Station Alameda Elevator failure Andén destinos Aeroport / Torrent Avinguda y Rafelbunyol Station Pl. Espanya El",
       "seasonPts": 15,
       "checks": 5,
       "wins": 5,
