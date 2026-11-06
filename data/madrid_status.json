@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-11-06",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-06T08:56:28.459919+00:00",
+  "updated": "2026-11-06T09:02:07.274257+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Albarracín to lobby Out of service. We are examining the reasons for the stop. Services: Accessible station Lifts",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform in the direction of Casa de Campo to lobby A. López Casero Waiting for information. Services: Escalator",
       "seasonPts": 6,
       "checks": 6,
       "wins": 0,
