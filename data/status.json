@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-11-06",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-06T12:25:57.318481+00:00",
+  "updated": "2026-11-06T12:31:12.506545+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "Badalona Pompeu Fabra: Until 26/11/2026, the escalator that connects with the access La Creu at Badalona Pompeu Fabra station will be out of service due to improvement works.",
+      "description": "Verneda: Until 21/11/2026, the lift that connects the hall to the platform direction Paral·lel at Verneda station will be out of service due to improvement works. · Badalona Pompeu Fabra: Until 26/11/2026, the escalator that connects with the access La Creu at Badalona Pompeu Fabra station will be out of service due to improvement works.",
       "seasonPts": 7,
       "checks": 6,
       "wins": 1,
