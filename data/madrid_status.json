@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-11-06",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-06T11:26:23.837716+00:00",
+  "updated": "2026-11-06T11:34:05.172560+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Valle de Tobalina to lobby Out of service due to repair works. Expected date of coming into se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Tertulia to lobby Out of service due to repair works. Expected date of coming into servic",
       "seasonPts": 6,
       "checks": 6,
       "wins": 0,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 to line 10 platform in the direction of Puerta",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Castellana to lobby Castellana. There is another lift in the same location Out of service. We",
       "seasonPts": 6,
       "checks": 6,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. La Peseta to lobby Waiting for information. Services: Accessible station Lifts Esca",
       "seasonPts": 6,
       "checks": 6,
       "wins": 0,
