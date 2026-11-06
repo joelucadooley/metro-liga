@@ -2,7 +2,7 @@
   "matchday": 6,
   "lastMatchDate": "2026-11-06",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-06T18:06:47.530263+00:00",
+  "updated": "2026-11-06T18:13:58.567482+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform on line 5 in the direction of Casa de Campo to hallway leading to platforms to line 5 and hallway lead",
       "seasonPts": 6,
       "checks": 6,
       "wins": 0,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service due to check-up. Coming",
       "seasonPts": 6,
       "checks": 6,
       "wins": 0,
