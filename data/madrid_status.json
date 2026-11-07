@@ -2,7 +2,7 @@
   "matchday": 7,
   "lastMatchDate": "2026-11-07",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-07T17:26:28.175035+00:00",
+  "updated": "2026-11-07T17:31:51.408234+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Plaza de Callao to platform on line 5 in the direction of Casa de Campo Out of service. We a",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform to lobby Renfe Out of service due to check-up. Coming into service in the next ho",
       "seasonPts": 7,
       "checks": 7,
       "wins": 0,
