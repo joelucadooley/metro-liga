@@ -2,11 +2,11 @@
   "matchday": 7,
   "lastMatchDate": "2026-11-07",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-07T18:11:42.898834+00:00",
+  "updated": "2026-11-07T18:16:38.922734+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Agustín de Foxá to lobby Out of service due to check-up. Coming into service in the next hours",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Agustín de Foxá to lobby Out of service. We are examining the reasons for the stop. Escalators",
       "seasonPts": 7,
       "checks": 7,
       "wins": 0,
