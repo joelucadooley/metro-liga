@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-11-08",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-08T06:11:42.853354+00:00",
+  "updated": "2026-11-08T06:16:29.372316+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central on line 5 in the direction of Alameda de Osuna and platform central on line 1",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
       "seasonPts": 8,
       "checks": 8,
       "wins": 0,
