@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-11-08",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-08T10:11:28.940821+00:00",
+  "updated": "2026-11-08T10:16:33.599696+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Estadio Metropolitano Out of service due to check-up. Coming into",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Doctor Fleming to lobby Out of service due to improvement works. Expected date of coming",
       "seasonPts": 8,
       "checks": 8,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service due to check-up. Coming into s",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 12,
       "checks": 8,
       "wins": 2,
