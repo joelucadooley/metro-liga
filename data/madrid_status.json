@@ -1,16 +1,16 @@
 {
-  "matchday": 7,
-  "lastMatchDate": "2026-11-07",
+  "matchday": 8,
+  "lastMatchDate": "2026-11-08",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-07T23:56:32.953639+00:00",
+  "updated": "2026-11-08T00:02:06.696465+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From intermediate level platform emerging form platform hallway on line 10 to line 1 platform in the di",
-      "seasonPts": 7,
-      "checks": 7,
+      "seasonPts": 8,
+      "checks": 8,
       "wins": 0,
-      "draws": 7,
+      "draws": 8,
       "losses": 0,
       "recentForm": [
         "D",
@@ -23,10 +23,10 @@
     "L2": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Paseo de Ginebra to lobby Out of service due to repair works. Expected date of coming into ser",
-      "seasonPts": 7,
-      "checks": 7,
+      "seasonPts": 8,
+      "checks": 8,
       "wins": 0,
-      "draws": 7,
+      "draws": 8,
       "losses": 0,
       "recentForm": [
         "D",
@@ -39,10 +39,10 @@
     "L3": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Tertulia to lobby Out of service due to repair works. Expected date of coming into servic",
-      "seasonPts": 7,
-      "checks": 7,
+      "seasonPts": 8,
+      "checks": 8,
       "wins": 0,
-      "draws": 7,
+      "draws": 8,
       "losses": 0,
       "recentForm": [
         "D",
@@ -55,10 +55,10 @@
     "L4": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of lifts: Lifts From corridor leading on lines to platform 1 on Line 4 direction Argüelles Out of service due to repair works. Expected date of",
-      "seasonPts": 7,
-      "checks": 7,
+      "seasonPts": 8,
+      "checks": 8,
       "wins": 0,
-      "draws": 7,
+      "draws": 8,
       "losses": 0,
       "recentForm": [
         "D",
@@ -71,10 +71,10 @@
     "L5": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Alcántara to hallway leading to platforms on line 6 Out of service due to check-up. Coming into service in",
-      "seasonPts": 7,
-      "checks": 7,
+      "seasonPts": 8,
+      "checks": 8,
       "wins": 0,
-      "draws": 7,
+      "draws": 8,
       "losses": 0,
       "recentForm": [
         "D",
@@ -87,9 +87,9 @@
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 21,
-      "checks": 7,
-      "wins": 7,
+      "seasonPts": 24,
+      "checks": 8,
+      "wins": 8,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -103,10 +103,10 @@
     "L7": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Doctor Fleming to lobby Out of service due to improvement works. Expected date of coming",
-      "seasonPts": 7,
-      "checks": 7,
+      "seasonPts": 8,
+      "checks": 8,
       "wins": 0,
-      "draws": 7,
+      "draws": 8,
       "losses": 0,
       "recentForm": [
         "D",
@@ -119,10 +119,10 @@
     "L8": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial-Renfe to hallway leading to platforms on line 6. There is another lift in the sa",
-      "seasonPts": 7,
-      "checks": 7,
+      "seasonPts": 8,
+      "checks": 8,
       "wins": 0,
-      "draws": 7,
+      "draws": 8,
       "losses": 0,
       "recentForm": [
         "D",
@@ -135,10 +135,10 @@
     "L9": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Costa Brava to lobby Waiting for information. Services: Accessible station Lifts Escalato",
-      "seasonPts": 7,
-      "checks": 7,
+      "seasonPts": 8,
+      "checks": 8,
       "wins": 0,
-      "draws": 7,
+      "draws": 8,
       "losses": 0,
       "recentForm": [
         "D",
@@ -152,10 +152,10 @@
       "severity": "incident",
       "description": "Service disruption reported",
       "seasonPts": 0,
-      "checks": 7,
+      "checks": 8,
       "wins": 0,
       "draws": 0,
-      "losses": 7,
+      "losses": 8,
       "recentForm": [
         "L",
         "L",
@@ -165,27 +165,27 @@
       ]
     },
     "L11": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platform 1 on l",
-      "seasonPts": 9,
-      "checks": 7,
-      "wins": 1,
+      "severity": "clear",
+      "description": null,
+      "seasonPts": 12,
+      "checks": 8,
+      "wins": 2,
       "draws": 6,
       "losses": 0,
       "recentForm": [
         "D",
         "D",
         "D",
-        "D",
+        "W",
         "W"
       ]
     },
     "L12": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 21,
-      "checks": 7,
-      "wins": 7,
+      "seasonPts": 24,
+      "checks": 8,
+      "wins": 8,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -199,10 +199,10 @@
     "R": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
-      "seasonPts": 7,
-      "checks": 7,
+      "seasonPts": 8,
+      "checks": 8,
       "wins": 0,
-      "draws": 7,
+      "draws": 8,
       "losses": 0,
       "recentForm": [
         "D",
