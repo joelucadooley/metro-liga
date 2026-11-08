@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-11-08",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-08T17:11:34.716716+00:00",
+  "updated": "2026-11-08T17:16:32.840737+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance San José to lobby Out of service. We are examining the reasons for the stop. Services: Ac",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for the s",
       "seasonPts": 12,
       "checks": 8,
       "wins": 2,
