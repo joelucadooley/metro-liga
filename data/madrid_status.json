@@ -2,7 +2,7 @@
   "matchday": 8,
   "lastMatchDate": "2026-11-08",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-08T22:41:31.795223+00:00",
+  "updated": "2026-11-08T22:46:38.173454+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gonzalo de Córdoba to lobby Out of service. We are examining the reasons for the stop. Se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Plaza Guernica to lobby Out of service. We are examining the reasons for the stop. Servic",
       "seasonPts": 8,
       "checks": 8,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for the s",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platform 1 on l",
       "seasonPts": 12,
       "checks": 8,
       "wins": 2,
