@@ -1,15 +1,15 @@
 {
-  "matchday": 8,
-  "lastMatchDate": "2026-11-08",
+  "matchday": 9,
+  "lastMatchDate": "2026-11-09",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-08T23:56:55.723664+00:00",
+  "updated": "2026-11-09T00:02:24.321434+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 24,
-      "checks": 8,
-      "wins": 8,
+      "seasonPts": 27,
+      "checks": 9,
+      "wins": 9,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -23,9 +23,9 @@
     "L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 24,
-      "checks": 8,
-      "wins": 8,
+      "seasonPts": 27,
+      "checks": 9,
+      "wins": 9,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -37,27 +37,27 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 10,
-      "checks": 8,
+      "severity": "minor",
+      "description": "Commercial services Environmental management and quality Contractor's profile Accessibility notices Here you can check for any changes in the service provided by our metro lines and the tram. Station Alameda Elevator failure Acceso Paseo Alameda y an",
+      "seasonPts": 11,
+      "checks": 9,
       "wins": 1,
-      "draws": 7,
+      "draws": 8,
       "losses": 0,
       "recentForm": [
         "D",
         "D",
         "D",
-        "D",
-        "W"
+        "W",
+        "D"
       ]
     },
     "L4": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 24,
-      "checks": 8,
-      "wins": 8,
+      "seasonPts": 27,
+      "checks": 9,
+      "wins": 9,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -69,27 +69,27 @@
       ]
     },
     "L5": {
-      "severity": "clear",
-      "description": null,
-      "seasonPts": 24,
-      "checks": 8,
+      "severity": "minor",
+      "description": "Elevator failure Acceso C/ Segorbe,12 Station Alameda Elevator failure Andén destino Marítim Station Bailén Elevator failure Andenes Start your next route My trips Timetables and planner Stations",
+      "seasonPts": 25,
+      "checks": 9,
       "wins": 8,
-      "draws": 0,
+      "draws": 1,
       "losses": 0,
       "recentForm": [
         "W",
         "W",
         "W",
         "W",
-        "W"
+        "D"
       ]
     },
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 24,
-      "checks": 8,
-      "wins": 8,
+      "seasonPts": 27,
+      "checks": 9,
+      "wins": 9,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -103,9 +103,9 @@
     "L7": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 24,
-      "checks": 8,
-      "wins": 8,
+      "seasonPts": 27,
+      "checks": 9,
+      "wins": 9,
       "draws": 0,
       "losses": 0,
       "recentForm": [
