@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-11-09",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-09T03:31:59.773913+00:00",
+  "updated": "2026-11-09T03:36:35.820295+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "Elevator failure Acceso C/ Segorbe,12 Station Alameda Elevator failure Andén destino Marítim Station Bailén Elevator failure Andenes Start your next route My trips Timetables and planner Stations",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 25,
       "checks": 9,
       "wins": 8,
