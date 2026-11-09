@@ -2,11 +2,11 @@
   "matchday": 9,
   "lastMatchDate": "2026-11-09",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-09T15:56:23.489711+00:00",
+  "updated": "2026-11-09T16:01:58.957746+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central on line 1 in the direction of Valdecarros and platform central on line 4 in t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform on line 1 in the direction of Valdecarros and central platform on line 4",
       "seasonPts": 9,
       "checks": 9,
       "wins": 0,
