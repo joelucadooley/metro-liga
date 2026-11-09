@@ -2,7 +2,7 @@
   "matchday": 9,
   "lastMatchDate": "2026-11-09",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-09T05:26:19.864068+00:00",
+  "updated": "2026-11-09T05:31:46.256416+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service due to check-up. Coming into servi",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for the s",
       "seasonPts": 13,
       "checks": 9,
       "wins": 2,
