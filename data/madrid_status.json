@@ -2,7 +2,7 @@
   "matchday": 11,
   "lastMatchDate": "2026-11-11",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-11T05:46:32.944024+00:00",
+  "updated": "2026-11-11T05:51:53.667455+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Mirasierra to lobby Out of service due to check-up. Coming into service in the next hours",
       "seasonPts": 11,
       "checks": 11,
       "wins": 0,
