@@ -2,10 +2,10 @@
   "matchday": 11,
   "lastMatchDate": "2026-11-11",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-11T08:26:00.886653+00:00",
+  "updated": "2026-11-11T08:31:28.806992+00:00",
   "lines": {
     "L1": {
-      "severity": "incident",
+      "severity": "minor",
       "description": "to: Until 13/11/2026, the lift that connects the station hall with street level at Hostafrancs station will be out of service due to improvement works. · to: Until 17 November, approximately, the escalator connecting the Hospital de Bellvitge plattform and the lobby, at Torras i Bages station, out of service due to maintenance works.",
       "seasonPts": 10,
       "checks": 11,
@@ -21,7 +21,7 @@
       ]
     },
     "L2": {
-      "severity": "incident",
+      "severity": "minor",
       "description": "to: Until 26/11/2026, the escalator that connects with the access La Creu at Badalona Pompeu Fabra station will be out of service due to improvement works.",
       "seasonPts": 12,
       "checks": 11,
@@ -37,7 +37,7 @@
       ]
     },
     "L3": {
-      "severity": "incident",
+      "severity": "minor",
       "description": "to: Until 24/11/2026, the escalator descending from the Numància entrance hall to the lower hall of Sants Estació station will be temporarily out of service due to improvement works. · Enllaç tancat: From today, and until December 30th, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works.",
       "seasonPts": 10,
       "checks": 11,
@@ -53,7 +53,7 @@
       ]
     },
     "L4": {
-      "severity": "incident",
+      "severity": "minor",
       "description": "Escales mecàniques fora de servei: Until 01/02/2027, the escalator from the platform direction La Pau to the lobby of the Verdaguer station (L4) temporarily out of service. · Escales mecàniques fora de servei: Until 01/02/2027, the escalator from the platform direction Trinitat Nova to the lobby of the Verdaguer station (L4) temporarily out of service.",
       "seasonPts": 10,
       "checks": 11,
@@ -149,7 +149,7 @@
       ]
     },
     "L11": {
-      "severity": "minor",
+      "severity": "clear",
       "description": null,
       "seasonPts": 30,
       "checks": 11,
