@@ -2,7 +2,7 @@
   "matchday": 11,
   "lastMatchDate": "2026-11-11",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-11T21:01:32.774106+00:00",
+  "updated": "2026-11-11T21:06:04.887541+00:00",
   "lines": {
     "L1": {
       "severity": "incident",
@@ -53,7 +53,7 @@
       ]
     },
     "L4": {
-      "severity": "minor",
+      "severity": "incident",
       "description": "Escales mecàniques fora de servei: Until 01/02/2027, the escalator from the platform direction La Pau to the lobby of the Verdaguer station (L4) temporarily out of service. · Escales mecàniques fora de servei: Until 01/02/2027, the escalator from the platform direction Trinitat Nova to the lobby of the Verdaguer station (L4) temporarily out of service.",
       "seasonPts": 10,
       "checks": 11,
