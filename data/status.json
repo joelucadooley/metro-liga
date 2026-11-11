@@ -1,16 +1,16 @@
 {
-  "matchday": 10,
-  "lastMatchDate": "2026-11-10",
+  "matchday": 11,
+  "lastMatchDate": "2026-11-11",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-10T23:55:54.900865+00:00",
+  "updated": "2026-11-11T00:01:28.318722+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
       "description": "to: Until 13/11/2026, the lift that connects the station hall with street level at Hostafrancs station will be out of service due to improvement works. · to: Until 17 November, approximately, the escalator connecting the Hospital de Bellvitge plattform and the lobby, at Torras i Bages station, out of service due to maintenance works.",
-      "seasonPts": 9,
-      "checks": 10,
+      "seasonPts": 10,
+      "checks": 11,
       "wins": 0,
-      "draws": 9,
+      "draws": 10,
       "losses": 1,
       "recentForm": [
         "D",
@@ -23,10 +23,10 @@
     "L2": {
       "severity": "minor",
       "description": "to: Until 26/11/2026, the escalator that connects with the access La Creu at Badalona Pompeu Fabra station will be out of service due to improvement works.",
-      "seasonPts": 11,
-      "checks": 10,
+      "seasonPts": 12,
+      "checks": 11,
       "wins": 1,
-      "draws": 8,
+      "draws": 9,
       "losses": 1,
       "recentForm": [
         "D",
@@ -39,10 +39,10 @@
     "L3": {
       "severity": "minor",
       "description": "to: Until 24/11/2026, the escalator descending from the Numància entrance hall to the lower hall of Sants Estació station will be temporarily out of service due to improvement works. · Enllaç tancat: From today, and until December 30th, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works.",
-      "seasonPts": 9,
-      "checks": 10,
+      "seasonPts": 10,
+      "checks": 11,
       "wins": 0,
-      "draws": 9,
+      "draws": 10,
       "losses": 1,
       "recentForm": [
         "D",
@@ -55,10 +55,10 @@
     "L4": {
       "severity": "minor",
       "description": "Escales mecàniques fora de servei: Until 01/02/2027, the escalator from the platform direction La Pau to the lobby of the Verdaguer station (L4) temporarily out of service. · Escales mecàniques fora de servei: Until 01/02/2027, the escalator from the platform direction Trinitat Nova to the lobby of the Verdaguer station (L4) temporarily out of service.",
-      "seasonPts": 9,
-      "checks": 10,
+      "seasonPts": 10,
+      "checks": 11,
       "wins": 0,
-      "draws": 9,
+      "draws": 10,
       "losses": 1,
       "recentForm": [
         "D",
@@ -71,10 +71,10 @@
     "L5": {
       "severity": "minor",
       "description": "to: Until 30/11/2026, the escalator connecting the Vall d'Hebron plattform and the middle lobby at Badal (L5) station, is out of service. · Enllaç tancat: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work.",
-      "seasonPts": 9,
-      "checks": 10,
+      "seasonPts": 10,
+      "checks": 11,
       "wins": 0,
-      "draws": 9,
+      "draws": 10,
       "losses": 1,
       "recentForm": [
         "D",
@@ -87,9 +87,9 @@
     "L9N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 30,
-      "checks": 10,
-      "wins": 10,
+      "seasonPts": 33,
+      "checks": 11,
+      "wins": 11,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -103,9 +103,9 @@
     "L9S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 30,
-      "checks": 10,
-      "wins": 10,
+      "seasonPts": 33,
+      "checks": 11,
+      "wins": 11,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -119,9 +119,9 @@
     "L10N": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 30,
-      "checks": 10,
-      "wins": 10,
+      "seasonPts": 33,
+      "checks": 11,
+      "wins": 11,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -135,9 +135,9 @@
     "L10S": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 30,
-      "checks": 10,
-      "wins": 10,
+      "seasonPts": 33,
+      "checks": 11,
+      "wins": 11,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -151,9 +151,9 @@
     "L11": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 27,
-      "checks": 10,
-      "wins": 9,
+      "seasonPts": 30,
+      "checks": 11,
+      "wins": 10,
       "draws": 0,
       "losses": 1,
       "recentForm": [
