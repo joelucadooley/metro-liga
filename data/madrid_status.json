@@ -2,7 +2,7 @@
   "matchday": 11,
   "lastMatchDate": "2026-11-11",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-11T12:26:33.176918+00:00",
+  "updated": "2026-11-11T12:31:56.324510+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 8 in the directio of Aeropuerto T4 to entrance Renfe to line 10 hallway and plat",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 10 platform in the direction of Puerta del Sur to line 8 in the direction of Aeropuerto T4",
       "seasonPts": 11,
       "checks": 11,
       "wins": 0,
