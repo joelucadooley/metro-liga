@@ -2,11 +2,11 @@
   "matchday": 12,
   "lastMatchDate": "2026-11-12",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-12T10:11:27.309449+00:00",
+  "updated": "2026-11-12T10:16:57.201512+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service. We are examining the reasons for the stop. F",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
       "seasonPts": 12,
       "checks": 12,
       "wins": 0,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor leading from to central platform on line 7 to lobby Emilio Ferrari Out of service. We are",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor leading from to central platform on line 7 to lobby Emilio Ferrari Out of service due to",
       "seasonPts": 12,
       "checks": 12,
       "wins": 0,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service. We are examining the r",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service due to repair works. Ex",
       "seasonPts": 12,
       "checks": 12,
       "wins": 0,
