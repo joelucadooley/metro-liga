@@ -2,10 +2,10 @@
   "matchday": 12,
   "lastMatchDate": "2026-11-12",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-12T16:41:03.676520+00:00",
+  "updated": "2026-11-12T16:46:07.478195+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
+      "severity": "incident",
       "description": "to: Until 13/11/2026, the lift that connects the station hall with street level at Hostafrancs station will be out of service due to improvement works. · to: Until 17 November, approximately, the escalator connecting the Hospital de Bellvitge plattform and the lobby, at Torras i Bages station, out of service due to maintenance works.",
       "seasonPts": 11,
       "checks": 12,
