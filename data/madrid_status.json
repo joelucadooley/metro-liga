@@ -2,11 +2,11 @@
   "matchday": 12,
   "lastMatchDate": "2026-11-12",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-12T08:56:37.428446+00:00",
+  "updated": "2026-11-12T09:02:18.167208+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line ML1 in the direction of Las Tablas Out of service. We are examining the reasons",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service. We are examining the reasons for the stop. F",
       "seasonPts": 12,
       "checks": 12,
       "wins": 0,
