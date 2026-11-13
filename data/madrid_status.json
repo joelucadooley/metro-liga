@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-11-13",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-13T14:56:19.326667+00:00",
+  "updated": "2026-11-13T15:02:00.681951+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Hospital del Henares Out of service due to check-up. Coming into",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Doctor Fleming to lobby Out of service due to improvement works. Expected date of coming",
       "seasonPts": 13,
       "checks": 13,
       "wins": 0,
