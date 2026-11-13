@@ -2,11 +2,11 @@
   "matchday": 13,
   "lastMatchDate": "2026-11-13",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-13T09:46:48.260126+00:00",
+  "updated": "2026-11-13T09:51:48.055518+00:00",
   "lines": {
     "L1": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair jobs. Expected date of coming i",
       "seasonPts": 13,
       "checks": 13,
       "wins": 0,
