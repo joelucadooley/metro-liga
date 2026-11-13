@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-11-13",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-13T09:11:52.271459+00:00",
+  "updated": "2026-11-13T09:16:42.899891+00:00",
   "lines": {
     "L1": {
       "severity": "incident",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Moncloa Out of service due to check-up. Coming into service in th",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Tertulia to lobby Out of service due to repair works. Expected date of coming into servic",
       "seasonPts": 13,
       "checks": 13,
       "wins": 0,
