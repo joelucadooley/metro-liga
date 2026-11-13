@@ -2,11 +2,11 @@
   "matchday": 13,
   "lastMatchDate": "2026-11-13",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-13T20:16:42.481632+00:00",
+  "updated": "2026-11-13T20:22:19.561760+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "Commercial services Environmental management and quality Contractor's profile Accessibility notices Here you can check for any changes in the service provided by our metro lines and the tram. Station Alameda Elevator failure Andén destino Marítim Sta",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
