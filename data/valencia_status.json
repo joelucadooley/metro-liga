@@ -2,11 +2,11 @@
   "matchday": 13,
   "lastMatchDate": "2026-11-13",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-13T12:41:48.539236+00:00",
+  "updated": "2026-11-13T12:46:47.699607+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "Elevator failure Andén destino Marítim Station Bailén Elevator failure Andenes Station Campanar Elevator failure Acceso Av Pio XII, 27 Station L'Alcúdia Elevator failure Andén destino Bétera / Seminari CEU Station",
+      "description": "Here you can check for any changes in the service provided by our metro lines and the tram. Station Alameda Elevator failure Andén destino Marítim Station Campanar Elevator failure Acceso Av Pio XII, 27 Station L'Alcúdia Elevator failure Andén destin",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
