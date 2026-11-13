@@ -2,11 +2,11 @@
   "matchday": 13,
   "lastMatchDate": "2026-11-13",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-13T08:16:52.646994+00:00",
+  "updated": "2026-11-13T08:21:46.270476+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "Elevator failure Andén destino Marítim Station Bailén Elevator failure Andenes Station Campanar Elevator failure Acceso Av Pio XII, 27 Station L'Alcúdia Elevator failure Andén destino Bétera / Seminari CEU Start your next route",
+      "description": "Elevator failure Andén destino Marítim Station Bailén Elevator failure Andenes Station Campanar Elevator failure Acceso Av Pio XII, 27 Station L'Alcúdia Elevator failure Andén destino Bétera / Seminari CEU Station",
       "seasonPts": 39,
       "checks": 13,
       "wins": 13,
