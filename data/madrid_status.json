@@ -2,11 +2,11 @@
   "matchday": 13,
   "lastMatchDate": "2026-11-13",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-13T05:11:25.878091+00:00",
+  "updated": "2026-11-13T05:16:35.917058+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service due to repair works. Expected date of coming",
       "seasonPts": 13,
       "checks": 13,
       "wins": 0,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. de Guadalajara to lobby Out of service due to check-up. Coming into service in the",
       "seasonPts": 13,
       "checks": 13,
       "wins": 0,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Gitanilla to lobby Waiting for information. From entrance Avda. del Casar to lobby Out of serv",
       "seasonPts": 13,
       "checks": 13,
       "wins": 0,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From corridor leading on lines to platform 1 on Line 4 direction Argüelles Waiting for information. Services: Accessible station",
       "seasonPts": 13,
       "checks": 13,
       "wins": 0,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor leading from to central platform on line 7 to lobby Emilio Ferrari Out of service due to",
       "seasonPts": 13,
       "checks": 13,
       "wins": 0,
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway for platforms Out of service due to repair works. Expected date of coming into s",
       "seasonPts": 13,
       "checks": 13,
       "wins": 0,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line 8 platform in the direction of Aeropuerto T4 and line 10 platform in the direction of Puert",
       "seasonPts": 13,
       "checks": 13,
       "wins": 0,
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Mondariz to hallway leading to platforms Out of service due to check-up. Coming into service in the n",
       "seasonPts": 13,
       "checks": 13,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera and hallway for line 11 to hallway for platforms on line 6 and platforms on li",
       "seasonPts": 17,
       "checks": 13,
       "wins": 2,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway and line 2 platform in the direction of Las Rosas Out of service due to check-up",
       "seasonPts": 13,
       "checks": 13,
       "wins": 0,
