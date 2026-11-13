@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-11-13",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-13T13:56:22.428980+00:00",
+  "updated": "2026-11-13T14:01:52.880697+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Avda. Carabanchel Alto Out of service due to repair jobs. Expected date of comin",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Marcelo Usera to hallway for platforms on line 6 and hallway platforms on line 11 Out of se",
       "seasonPts": 17,
       "checks": 13,
       "wins": 2,
