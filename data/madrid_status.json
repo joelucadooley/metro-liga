@@ -2,7 +2,7 @@
   "matchday": 13,
   "lastMatchDate": "2026-11-13",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-13T10:11:37.936317+00:00",
+  "updated": "2026-11-13T10:16:42.204512+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From corridor leading on lines to platform 1 on Line 4 direction Argüelles Waiting for information. Services: Accessible station",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From corridor leading on lines to platform 1 on Line 4 direction Argüelles Out of service due to repair works. Expected date of",
       "seasonPts": 13,
       "checks": 13,
       "wins": 0,
