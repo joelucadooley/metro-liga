@@ -2,7 +2,7 @@
   "matchday": 14,
   "lastMatchDate": "2026-11-14",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-14T16:41:30.467058+00:00",
+  "updated": "2026-11-14T16:46:32.888954+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From hallway of platform on line 10 in the direction of Tres Olivos and line 8 in the direction of Aero",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 8 in the direction of Aeropuerto T4 and platform line 9 in the direction of Puer",
       "seasonPts": 14,
       "checks": 14,
       "wins": 0,
