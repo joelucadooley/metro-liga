@@ -2,7 +2,7 @@
   "matchday": 14,
   "lastMatchDate": "2026-11-14",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-14T00:11:47.006471+00:00",
+  "updated": "2026-11-14T00:16:32.200148+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to check-up. C",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From corridor leading on lines to platform 1 on Line 4 direction Argüelles Waiting for information. Services: Accessible station",
       "seasonPts": 14,
       "checks": 14,
       "wins": 0,
