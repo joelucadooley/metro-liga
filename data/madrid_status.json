@@ -2,7 +2,7 @@
   "matchday": 15,
   "lastMatchDate": "2026-11-15",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-15T10:56:27.433112+00:00",
+  "updated": "2026-11-15T11:01:53.489868+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Alcalá to lobby Emilio Ferrari Out of service. We are examining the reasons for the stop. Esca",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform hallways to platform in the direction of Casa de Campo Out of service. We are examining the reasons for",
       "seasonPts": 15,
       "checks": 15,
       "wins": 0,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Castellana to platform line 8 in the direction of Aeropuerto T4 and platform line 10 in the direc",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 8 in the direction of Aeropuerto T4 and platform line 9 in the direction of Puer",
       "seasonPts": 15,
       "checks": 15,
       "wins": 0,
