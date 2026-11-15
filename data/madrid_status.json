@@ -2,11 +2,11 @@
   "matchday": 15,
   "lastMatchDate": "2026-11-15",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-15T22:32:11.286126+00:00",
+  "updated": "2026-11-15T22:36:39.462345+00:00",
   "lines": {
     "L1": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby central to hallway leading to platforms on line 6. There is another lift in the same location Out",
       "seasonPts": 15,
       "checks": 15,
       "wins": 0,
