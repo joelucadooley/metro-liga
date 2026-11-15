@@ -2,7 +2,7 @@
   "matchday": 15,
   "lastMatchDate": "2026-11-15",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-15T16:56:19.263069+00:00",
+  "updated": "2026-11-15T17:01:55.192387+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 10 in the direction of Tres Olivos and platform 2 on line 6 in the direction of",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 15,
       "checks": 15,
       "wins": 0,
