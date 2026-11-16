@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-11-16",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-16T13:11:53.190955+00:00",
+  "updated": "2026-11-16T13:16:31.730269+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to platform on line 10 in the direction of Hospital Infanta Sofía and platform 2 on li",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 16,
       "checks": 16,
       "wins": 0,
