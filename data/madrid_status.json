@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-11-16",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-16T20:41:39.417574+00:00",
+  "updated": "2026-11-16T20:46:23.000780+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Pinos de Osuna to lobby Pinos de Osuna Out of service. We are examining the reasons for t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Corbeta to lobby Out of service. We are examining the reasons for the stop. Services: Acc",
       "seasonPts": 16,
       "checks": 16,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Plaza Elíptica Out of service due to check-up. Coming into servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Avda. Carabanchel Alto Out of service due to repair jobs. Expected date of comin",
       "seasonPts": 20,
       "checks": 16,
       "wins": 2,
