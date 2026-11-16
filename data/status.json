@@ -2,11 +2,11 @@
   "matchday": 16,
   "lastMatchDate": "2026-11-16",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-16T12:55:54.457229+00:00",
+  "updated": "2026-11-16T13:01:36.709641+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "to: Until 16/11/2026, the lift that connects the station hall with street level at Hostafrancs station will be out of service due to improvement works. · to: Until 17 November, approximately, the escalator connecting the Hospital de Bellvitge plattform and the lobby, at Torras i Bages station, out of service due to maintenance works.",
+      "description": "to: Until 17 November, approximately, the escalator connecting the Hospital de Bellvitge plattform and the lobby, at Torras i Bages station, out of service due to maintenance works. · Enllaç tancat: From today, and until December 30th, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works.",
       "seasonPts": 15,
       "checks": 16,
       "wins": 0,
