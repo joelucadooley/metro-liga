@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-11-16",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-16T23:11:36.005973+00:00",
+  "updated": "2026-11-16T23:16:43.552970+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gonzalo de Córdoba to lobby Out of service due to check-up. Coming into service in the ne",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gonzalo de Córdoba to lobby Waiting for information. Services: Accessible station Lifts E",
       "seasonPts": 16,
       "checks": 16,
       "wins": 0,
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Manuel Montilla to hallway for platforms Out of service. We are examining the reasons for the stop. Service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line corridors to Interchange lobby Out of service due to check-up. Coming into service in the nex",
       "seasonPts": 16,
       "checks": 16,
       "wins": 0,
