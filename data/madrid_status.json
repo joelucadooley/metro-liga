@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-11-16",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-16T18:26:34.679656+00:00",
+  "updated": "2026-11-16T18:32:05.051865+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 8 in the direction of Aeropuerto T4 and platform line 9 in the direction of Puer",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Manuel Montilla to hallway for platforms Out of service. We are examining the reasons for the stop. Service",
       "seasonPts": 16,
       "checks": 16,
       "wins": 0,
