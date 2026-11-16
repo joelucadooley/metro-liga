@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-11-16",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-16T15:56:29.423138+00:00",
+  "updated": "2026-11-16T16:02:16.098418+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 9 in the direction of Puerta de Arganda. There is a",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 1 platforms of lobby Plaza de Castilla to hallway leading to lines and lobbies Out",
       "seasonPts": 16,
       "checks": 16,
       "wins": 0,
