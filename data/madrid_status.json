@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-11-16",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-16T19:41:35.842132+00:00",
+  "updated": "2026-11-16T19:46:32.295385+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From lobby Renfe to entrances Centro Comercial and Renfe Waiting for information. From entrances Centro Come",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From lobby Renfe to entrances Centro Comercial and Renfe Waiting for information. Services: Accessible stati",
       "seasonPts": 16,
       "checks": 16,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 11 in the direction of La Fortuna to corridor leading on line 6 Out of service. W",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform in the direction of Plaza Elíptica Out of service due to check-up. Coming into servic",
       "seasonPts": 20,
       "checks": 16,
       "wins": 2,
