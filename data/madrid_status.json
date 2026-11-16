@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-11-16",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-16T09:56:26.051316+00:00",
+  "updated": "2026-11-16T10:02:13.067879+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From lobby Renfe to entrances Centro Comercial and Renfe Out of service. We are examining the reasons for th",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From lobby Renfe to entrances Centro Comercial and Renfe Out of service due to check-up. Coming into service",
       "seasonPts": 16,
       "checks": 16,
       "wins": 0,
