@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-11-16",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-16T09:41:38.779196+00:00",
+  "updated": "2026-11-16T09:46:35.904854+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Gitanilla Out of service. We are examining the reasons for the stop. Services: A",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Gitanilla Waiting for information. Services: Accessible station Lifts Escalators",
       "seasonPts": 16,
       "checks": 16,
       "wins": 0,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Juan Bravo to hallway for platforms on line 5 Out of service. We are examining the reasons for the stop. Fr",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrances Plaza Marqués de Salamanca and aparcamiento of lobby Marqués de Salamanca to lobby Out of service. We a",
       "seasonPts": 16,
       "checks": 16,
       "wins": 0,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Doctor Fleming to lobby Waiting for information. Services: Accessible station Lifts Escal",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Doctor Fleming together Parque Doctor Fleming to lobby Out of service due to check-up. Coming",
       "seasonPts": 16,
       "checks": 16,
       "wins": 0,
