@@ -2,7 +2,7 @@
   "matchday": 16,
   "lastMatchDate": "2026-11-16",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-16T16:35:50.598114+00:00",
+  "updated": "2026-11-16T16:41:13.185661+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "to: Until 27/11/2026,  the lift that connects the entrance hall and the lower hall at Fontana station will be out of service due to improvement works. · to: Until 27/11/2026, the lift connecting the main hall and the lower hall at Fontana station will be out of service due to improvement works.",
+      "description": "to: Until 27/11/2026, the lift that connects the lower halle with the platform direction Zona Universitària at Fontana station is out of service due to improvement works. · to: Until 27/11/2026, the lift connecting the main hall and the lower hall at Fontana station will be out of service due to improvement works.",
       "seasonPts": 15,
       "checks": 16,
       "wins": 0,
