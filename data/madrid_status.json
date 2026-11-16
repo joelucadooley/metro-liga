@@ -1,16 +1,16 @@
 {
-  "matchday": 15,
-  "lastMatchDate": "2026-11-15",
+  "matchday": 16,
+  "lastMatchDate": "2026-11-16",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-15T23:56:22.762085+00:00",
+  "updated": "2026-11-16T00:02:02.325361+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform on line 1 in the direction of Valdecarros and central platform on line 4",
-      "seasonPts": 15,
-      "checks": 15,
+      "seasonPts": 16,
+      "checks": 16,
       "wins": 0,
-      "draws": 15,
+      "draws": 16,
       "losses": 0,
       "recentForm": [
         "D",
@@ -23,10 +23,10 @@
     "L2": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Cuatro Caminos Waiting for information. Services: Accessible",
-      "seasonPts": 15,
-      "checks": 15,
+      "seasonPts": 16,
+      "checks": 16,
       "wins": 0,
-      "draws": 15,
+      "draws": 16,
       "losses": 0,
       "recentForm": [
         "D",
@@ -39,10 +39,10 @@
     "L3": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. del Casar to lobby Waiting for information. Services: Accessible station Lifts Esca",
-      "seasonPts": 15,
-      "checks": 15,
+      "seasonPts": 16,
+      "checks": 16,
       "wins": 0,
-      "draws": 15,
+      "draws": 16,
       "losses": 0,
       "recentForm": [
         "D",
@@ -55,10 +55,10 @@
     "L4": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
-      "seasonPts": 15,
-      "checks": 15,
+      "seasonPts": 16,
+      "checks": 16,
       "wins": 0,
-      "draws": 15,
+      "draws": 16,
       "losses": 0,
       "recentForm": [
         "D",
@@ -71,10 +71,10 @@
     "L5": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Alcalá to lobby Emilio Ferrari Out of service. We are examining the reasons for the stop. Esca",
-      "seasonPts": 15,
-      "checks": 15,
+      "seasonPts": 16,
+      "checks": 16,
       "wins": 0,
-      "draws": 15,
+      "draws": 16,
       "losses": 0,
       "recentForm": [
         "D",
@@ -87,9 +87,9 @@
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 45,
-      "checks": 15,
-      "wins": 15,
+      "seasonPts": 48,
+      "checks": 16,
+      "wins": 16,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -102,11 +102,11 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service. We are examining the r",
-      "seasonPts": 15,
-      "checks": 15,
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Doctor Fleming to lobby Waiting for information. Services: Accessible station Lifts Escal",
+      "seasonPts": 16,
+      "checks": 16,
       "wins": 0,
-      "draws": 15,
+      "draws": 16,
       "losses": 0,
       "recentForm": [
         "D",
@@ -119,10 +119,10 @@
     "L8": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial corridor line 6 to platform 2 line 6 in the direction of Republica Argentina Out",
-      "seasonPts": 15,
-      "checks": 15,
+      "seasonPts": 16,
+      "checks": 16,
       "wins": 0,
-      "draws": 15,
+      "draws": 16,
       "losses": 0,
       "recentForm": [
         "D",
@@ -135,10 +135,10 @@
     "L9": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Herrera Oria to hallway leading to platforms Out of service. We are examining the reasons for the stop. Ser",
-      "seasonPts": 15,
-      "checks": 15,
+      "seasonPts": 16,
+      "checks": 16,
       "wins": 0,
-      "draws": 15,
+      "draws": 16,
       "losses": 0,
       "recentForm": [
         "D",
@@ -152,10 +152,10 @@
       "severity": "incident",
       "description": "Service disruption reported",
       "seasonPts": 0,
-      "checks": 15,
+      "checks": 16,
       "wins": 0,
       "draws": 0,
-      "losses": 15,
+      "losses": 16,
       "recentForm": [
         "L",
         "L",
@@ -167,10 +167,10 @@
     "L11": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From central platform on line 6 to hallway leading to platform to line 6, to hallway leading to platfor",
-      "seasonPts": 19,
-      "checks": 15,
+      "seasonPts": 20,
+      "checks": 16,
       "wins": 2,
-      "draws": 13,
+      "draws": 14,
       "losses": 0,
       "recentForm": [
         "D",
@@ -183,9 +183,9 @@
     "L12": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 45,
-      "checks": 15,
-      "wins": 15,
+      "seasonPts": 48,
+      "checks": 16,
+      "wins": 16,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -199,10 +199,10 @@
     "R": {
       "severity": "minor",
       "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 2 on line 6 in the direction of Argüelles and platform on line 10 in the direct",
-      "seasonPts": 15,
-      "checks": 15,
+      "seasonPts": 16,
+      "checks": 16,
       "wins": 0,
-      "draws": 15,
+      "draws": 16,
       "losses": 0,
       "recentForm": [
         "D",
