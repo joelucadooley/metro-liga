@@ -2,7 +2,7 @@
   "matchday": 17,
   "lastMatchDate": "2026-11-17",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-17T07:26:29.640354+00:00",
+  "updated": "2026-11-17T07:31:50.059861+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Felipe II esq. Alcalá of lobby Felipe II to platform on line 2 in the direction of Cuatro Caminos. There is anothe",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Paseo de Ginebra to lobby Out of service due to check-up. Coming into service in the next",
       "seasonPts": 17,
       "checks": 17,
       "wins": 0,
