@@ -2,7 +2,7 @@
   "matchday": 17,
   "lastMatchDate": "2026-11-17",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-17T06:41:39.476828+00:00",
+  "updated": "2026-11-17T06:46:55.906579+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Las Rosas Waiting for information. Services: Accessible stat",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Felipe II esq. Alcalá of lobby Felipe II to platform on line 2 in the direction of Cuatro Caminos. There is anothe",
       "seasonPts": 17,
       "checks": 17,
       "wins": 0,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service. We are examining",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From corridor leading on lines to platform 1 on Line 4 direction Argüelles Waiting for information. Services: Accessible station",
       "seasonPts": 17,
       "checks": 17,
       "wins": 0,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Colombia to lobby Out of service. We are examining the reasons for the stop. From lobby to pla",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Agustín de Betancourt to lobby Orense Out of service. We are examining the reasons for th",
       "seasonPts": 17,
       "checks": 17,
       "wins": 0,
