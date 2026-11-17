@@ -2,7 +2,7 @@
   "matchday": 17,
   "lastMatchDate": "2026-11-17",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-17T06:11:34.232482+00:00",
+  "updated": "2026-11-17T06:17:14.549716+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Gitanilla Waiting for information. Services: Accessible station Lifts Escalators",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Gitanilla Waiting for information. From lobby to platform 1 in the direction of",
       "seasonPts": 17,
       "checks": 17,
       "wins": 0,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to entrances Centro Comercial and Renfe Out of service due to check-up. Coming into se",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 8 in the direction of Aeropuerto T4 and platform line 9 in the direction of Puer",
       "seasonPts": 17,
       "checks": 17,
       "wins": 0,
