@@ -2,11 +2,11 @@
   "matchday": 17,
   "lastMatchDate": "2026-11-17",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-17T07:55:56.839730+00:00",
+  "updated": "2026-11-17T08:01:31.450043+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "to: Until 17 November, approximately, the escalator connecting the Hospital de Bellvitge plattform and the lobby, at Torras i Bages station, out of service due to maintenance works. · Enllaç tancat: From today, and until December 30th, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works.",
+      "description": "Enllaç tancat: From today, and until December 30th, the connection halls between both plattforms at L1, and the ones connecting both plattforma al L3 at Catalunya station, are closed due to improvement works. · Enllaç tancat: Until approximately March 27, 2027, the passageway between L1 and L5 at Plaça de Sants station will be closed due to improvement work.",
       "seasonPts": 16,
       "checks": 17,
       "wins": 0,

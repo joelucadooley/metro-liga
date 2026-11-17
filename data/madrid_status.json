@@ -2,7 +2,7 @@
   "matchday": 17,
   "lastMatchDate": "2026-11-17",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-17T07:56:30.798465+00:00",
+  "updated": "2026-11-17T08:02:07.710388+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Castellana to hallway for platforms on line 9 and hallway for platforms on line 10 Out of se",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Fermín Caballero to hallway leading to platforms Out of service. We are examining the reasons for the stop.",
       "seasonPts": 17,
       "checks": 17,
       "wins": 0,
