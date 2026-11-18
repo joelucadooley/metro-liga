@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-11-18",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-18T10:41:40.404978+00:00",
+  "updated": "2026-11-18T10:46:36.070564+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Velero of lobby Velero to lobby Waiting for information. Services: Accessible station Lif",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of line 10 platforms to corridor leading to line 5 platforms and lobby Santa Bárbara Out of service. We a",
       "seasonPts": 18,
       "checks": 18,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service due to check-up. Coming into s",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service. We are examining the reasons",
       "seasonPts": 22,
       "checks": 18,
       "wins": 2,
