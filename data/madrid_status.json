@@ -2,7 +2,7 @@
   "matchday": 18,
   "lastMatchDate": "2026-11-18",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-18T22:26:23.618393+00:00",
+  "updated": "2026-11-18T22:32:05.523940+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service. We are examining",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
       "seasonPts": 18,
       "checks": 18,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Plaza Elíptica Out of service. We are examining the reasons",
       "seasonPts": 22,
       "checks": 18,
       "wins": 2,
