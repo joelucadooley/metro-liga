@@ -2,11 +2,11 @@
   "matchday": 18,
   "lastMatchDate": "2026-11-18",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-18T08:26:35.636514+00:00",
+  "updated": "2026-11-18T08:36:32.446552+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 9 in the direction of Puerta de Arganda. There is a",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 1 in the direction of Valdecarros to hallway leading to lines and lobby Bravo Mur",
       "seasonPts": 18,
       "checks": 18,
       "wins": 0,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway leading to platforms Out of service. We are examining the reasons for the stop.",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform hallways to platform in the direction of Cuatro Caminos Out of service. We are examining",
       "seasonPts": 18,
       "checks": 18,
       "wins": 0,
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service. We are examining",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Alberto Aguilera to hallway for platforms on lines 6 and 4 Out of service due to check-up. C",
       "seasonPts": 18,
       "checks": 18,
       "wins": 0,
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Velero of lobby Velero to lobby Out of service. We are examining the reasons for the stop",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Albarracín to lobby Out of service. We are examining the reasons for the stop. Services: Accessible station Lifts",
       "seasonPts": 18,
       "checks": 18,
       "wins": 0,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line 8 in the direction of Aeropuerto T4 and platform line 9 in the direction of Puer",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gran Vía de Hortaleza to lobby Out of service. We are examining the reasons for the stop.",
       "seasonPts": 18,
       "checks": 18,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby of Via Lusitana to Interchange, intermediate level of hallway leading to platforms on line 1",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for",
       "seasonPts": 22,
       "checks": 18,
       "wins": 2,
