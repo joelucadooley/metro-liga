@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-11-19",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-19T15:11:40.318171+00:00",
+  "updated": "2026-11-19T15:16:35.613224+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Emilio Ferrari to platform on line 5 and corridor leading on line 7 Out of service due to check-u",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of line 10 platforms to corridor leading to line 5 platforms and lobby Santa Bárbara Out of service due t",
       "seasonPts": 19,
       "checks": 19,
       "wins": 0,
