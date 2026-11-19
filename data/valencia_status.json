@@ -2,11 +2,11 @@
   "matchday": 19,
   "lastMatchDate": "2026-11-19",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-19T07:06:50.939746+00:00",
+  "updated": "2026-11-19T07:16:22.450731+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "Elevator failure Andén destino Marítim Station Bailén Elevator failure Andenes Station Alameda Elevator failure Andén destinos Aeroport / Torrent Avinguda y Rafelbunyol Station Sant Isidre Elevator failure Andén destino Lliria / Bétera / Marítim Stat",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 51,
       "checks": 19,
       "wins": 16,
