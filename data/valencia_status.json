@@ -1,21 +1,21 @@
 {
-  "matchday": 18,
-  "lastMatchDate": "2026-11-18",
+  "matchday": 19,
+  "lastMatchDate": "2026-11-19",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-18T23:55:55.708406+00:00",
+  "updated": "2026-11-19T00:02:15.883769+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 48,
-      "checks": 18,
-      "wins": 15,
+      "seasonPts": 51,
+      "checks": 19,
+      "wins": 16,
       "draws": 3,
       "losses": 0,
       "recentForm": [
         "D",
         "D",
-        "D",
+        "W",
         "W",
         "W"
       ]
@@ -23,9 +23,9 @@
     "L2": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 54,
-      "checks": 18,
-      "wins": 18,
+      "seasonPts": 57,
+      "checks": 19,
+      "wins": 19,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -39,25 +39,25 @@
     "L3": {
       "severity": "minor",
       "description": "Commercial services Environmental management and quality Contractor's profile Accessibility notices Here you can check for any changes in the service provided by our metro lines and the tram. Station Alameda Elevator failure Acceso Paseo Ciudadela y ",
-      "seasonPts": 28,
-      "checks": 18,
+      "seasonPts": 29,
+      "checks": 19,
       "wins": 5,
-      "draws": 13,
+      "draws": 14,
       "losses": 0,
       "recentForm": [
         "W",
-        "W",
         "D",
         "W",
+        "D",
         "D"
       ]
     },
     "L4": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 54,
-      "checks": 18,
-      "wins": 18,
+      "seasonPts": 57,
+      "checks": 19,
+      "wins": 19,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -71,9 +71,9 @@
     "L5": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 50,
-      "checks": 18,
-      "wins": 16,
+      "seasonPts": 53,
+      "checks": 19,
+      "wins": 17,
       "draws": 2,
       "losses": 0,
       "recentForm": [
@@ -87,9 +87,9 @@
     "L6": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 54,
-      "checks": 18,
-      "wins": 18,
+      "seasonPts": 57,
+      "checks": 19,
+      "wins": 19,
       "draws": 0,
       "losses": 0,
       "recentForm": [
@@ -103,9 +103,9 @@
     "L7": {
       "severity": "clear",
       "description": null,
-      "seasonPts": 54,
-      "checks": 18,
-      "wins": 18,
+      "seasonPts": 57,
+      "checks": 19,
+      "wins": 19,
       "draws": 0,
       "losses": 0,
       "recentForm": [
