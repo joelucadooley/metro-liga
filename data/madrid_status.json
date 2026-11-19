@@ -2,7 +2,7 @@
   "matchday": 19,
   "lastMatchDate": "2026-11-19",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-19T13:26:35.936153+00:00",
+  "updated": "2026-11-19T13:31:55.195735+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Doctor Fleming together Parque Doctor Fleming to lobby Out of service due to repair works. Exp",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Doctor Fleming to lobby Out of service due to improvement works. Expected date of coming",
       "seasonPts": 19,
       "checks": 19,
       "wins": 0,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Rampa From entrances Centro Comercial and Renfe to lobby Renfe Out of service. We are examining the reasons for t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Centro Comercial-Renfe to hallway leading to platforms on line 6. There is another lift in the sa",
       "seasonPts": 19,
       "checks": 19,
       "wins": 0,
