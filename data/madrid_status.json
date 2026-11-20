@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-11-20",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-20T13:11:37.991783+00:00",
+  "updated": "2026-11-20T13:16:23.287670+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform on line 5 in the direction of Casa de Campo to hallway leading to platforms to line 5 and hallway lead",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Corbeta to lobby Out of service. We are examining the reasons for the stop. Services: Acc",
       "seasonPts": 20,
       "checks": 20,
       "wins": 0,
