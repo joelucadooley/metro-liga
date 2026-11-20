@@ -2,7 +2,7 @@
   "matchday": 20,
   "lastMatchDate": "2026-11-20",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-20T23:11:37.024000+00:00",
+  "updated": "2026-11-20T23:16:30.090067+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Mondariz to hallway leading to platforms Out of service due to repair works. Expected date of coming",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Mondariz to hallway leading to platforms Out of service due to check-up. Coming into service in the n",
       "seasonPts": 20,
       "checks": 20,
       "wins": 0,
