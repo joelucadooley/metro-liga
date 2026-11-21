@@ -2,11 +2,11 @@
   "matchday": 21,
   "lastMatchDate": "2026-11-21",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-21T12:26:18.535216+00:00",
+  "updated": "2026-11-21T12:31:53.441196+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 10 in the direction of Puerta del Sur Out of servic",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading on line 1-9-10 to platform on line 9 in the direction of Puerta de Arganda. There is a",
       "seasonPts": 21,
       "checks": 21,
       "wins": 0,
