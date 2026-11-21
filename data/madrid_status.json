@@ -2,7 +2,7 @@
   "matchday": 21,
   "lastMatchDate": "2026-11-21",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-21T20:41:48.303262+00:00",
+  "updated": "2026-11-21T20:46:38.407301+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -134,7 +134,7 @@
     },
     "L9": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Mondariz to hallway leading to platforms Waiting for information. Services: Escalators Defibrillator",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Mirasierra to lobby Out of service due to check-up. Coming into service in the next hours",
       "seasonPts": 21,
       "checks": 21,
       "wins": 0,
