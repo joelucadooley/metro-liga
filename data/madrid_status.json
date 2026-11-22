@@ -2,7 +2,7 @@
   "matchday": 22,
   "lastMatchDate": "2026-11-22",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-22T16:56:18.997630+00:00",
+  "updated": "2026-11-22T17:02:00.233773+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From lobby Albarracín to platform in the direction of Aluche Out of service. We are examining the reasons for the stop. Services",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform on line 5 in the direction of Casa de Campo to hallway leading to platforms to line 5 and hallway lead",
       "seasonPts": 22,
       "checks": 22,
       "wins": 0,
