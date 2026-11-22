@@ -2,7 +2,7 @@
   "matchday": 22,
   "lastMatchDate": "2026-11-22",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-22T06:26:22.294729+00:00",
+  "updated": "2026-11-22T06:32:06.353490+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Corbeta to lobby Out of service due to check-up. Coming into service in the next hours. S",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform on line 5 in the direction of Casa de Campo to hallway leading to platforms to line 5 and hallway lead",
       "seasonPts": 22,
       "checks": 22,
       "wins": 0,
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service due to check-up. Coming into servi",
       "seasonPts": 30,
       "checks": 22,
       "wins": 4,
@@ -198,7 +198,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Paseo de la Florida to platform 1 on line 6 in the direction of Puerta del Ángel and platform on",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Renfe to platform on line 10 in the direction of Hospital Infanta Sofía and platform 2 on li",
       "seasonPts": 22,
       "checks": 22,
       "wins": 0,
