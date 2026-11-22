@@ -2,7 +2,7 @@
   "matchday": 22,
   "lastMatchDate": "2026-11-22",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-22T16:26:44.509439+00:00",
+  "updated": "2026-11-22T16:31:38.584105+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -165,8 +165,8 @@
       ]
     },
     "L11": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor leading from platforms on Line 6 to platform 2 in the direction Opañel Out of service. We are",
       "seasonPts": 30,
       "checks": 22,
       "wins": 4,
