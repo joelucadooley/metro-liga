@@ -2,11 +2,11 @@
   "matchday": 23,
   "lastMatchDate": "2026-11-23",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-23T05:41:26.728493+00:00",
+  "updated": "2026-11-23T05:46:34.962228+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From platform on line 10 in the direction of Puerta del Sur to intermediate level and hallway leading",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 23,
       "checks": 23,
       "wins": 0,
@@ -21,8 +21,8 @@
       ]
     },
     "L2": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to hallway leading to platforms and platform in the direction of Las Rosas Out of service due to",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 23,
       "checks": 23,
       "wins": 0,
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Tertulia to lobby Out of service due to repair works. Expected date of coming into servic",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 23,
       "checks": 23,
       "wins": 0,
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of line 10 platforms to corridor leading to line 5 platforms and lobby Santa Bárbara Out of service due t",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 23,
       "checks": 23,
       "wins": 0,
@@ -69,8 +69,8 @@
       ]
     },
     "L5": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From platform on line 5 in the direction of Alameda de Osuna to hallway leading to platforms to line 5 and hallway le",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 23,
       "checks": 23,
       "wins": 0,
@@ -101,8 +101,8 @@
       ]
     },
     "L7": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Plaza Guernica and Avda. San Sebastián to lobby Out of service. We are examining the reasons f",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 23,
       "checks": 23,
       "wins": 0,
@@ -117,8 +117,8 @@
       ]
     },
     "L8": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Centro Comercial and Renfe to lobby Renfe Out of service due to check-up. Coming into se",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 23,
       "checks": 23,
       "wins": 0,
@@ -133,8 +133,8 @@
       ]
     },
     "L9": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From lobby Plaza Mondariz to hallway leading to platforms Waiting for information. Services: Escalators Defibrillator",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 23,
       "checks": 23,
       "wins": 0,
@@ -149,8 +149,8 @@
       ]
     },
     "L10": {
-      "severity": "incident",
-      "description": "Service disruption reported",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 0,
       "checks": 23,
       "wins": 0,
@@ -197,8 +197,8 @@
       ]
     },
     "R": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Paseo de la Florida to platform 1 on line 6 in the direction of Puerta del Ángel and platform on",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 23,
       "checks": 23,
       "wins": 0,
