@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-11-24",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-24T19:41:37.210940+00:00",
+  "updated": "2026-11-24T19:46:47.236439+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service. We are examining the re",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service due to check-up. Coming",
       "seasonPts": 24,
       "checks": 24,
       "wins": 0,
