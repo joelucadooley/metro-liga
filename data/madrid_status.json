@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-11-24",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-24T18:11:30.614649+00:00",
+  "updated": "2026-11-24T18:16:29.413996+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to hallway for platforms Out of service. We are examining the reasons for the stop. Service",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Hospital del Henares Out of service. We are examining the re",
       "seasonPts": 24,
       "checks": 24,
       "wins": 0,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 9 platforms to platform in the direction of Paco de Lucía Out of service due to re",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Príncipe de Vergara impares-Plaza de República Dominicana Out of service. We are",
       "seasonPts": 24,
       "checks": 24,
       "wins": 0,
