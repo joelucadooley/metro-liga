@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-11-24",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-24T15:51:34.761988+00:00",
+  "updated": "2026-11-24T15:56:49.809177+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -37,8 +37,8 @@
       ]
     },
     "L3": {
-      "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Avda. del Casar to lobby Out of service due to repair works. Expected date of coming into",
+      "severity": "incident",
+      "description": "Service disruption reported",
       "seasonPts": 24,
       "checks": 24,
       "wins": 0,
