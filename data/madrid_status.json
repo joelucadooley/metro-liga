@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-11-24",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-24T13:41:58.247466+00:00",
+  "updated": "2026-11-24T13:46:35.319576+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of line 10 platforms to corridor leading to line 5 platforms and lobby Santa Bárbara Out of service due t",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From entrances Plaza Marqués de Salamanca and aparcamiento of lobby Marqués de Salamanca to lobby Out of service. We a",
       "seasonPts": 24,
       "checks": 24,
       "wins": 0,
