@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-11-24",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-24T07:56:25.777831+00:00",
+  "updated": "2026-11-24T08:01:58.958776+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of lobby Alberto Aguilera and platforms on line 4 to platform 1 on line 6 in the direction",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From corridor of line 4 and line 5 and corridor of line 10 platforms to platform in the direction of Tres Olivos Out o",
       "seasonPts": 24,
       "checks": 24,
       "wins": 0,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Waiting for information. Services: Acc",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Estadio Metropolitano Out of service. We are examining the r",
       "seasonPts": 24,
       "checks": 24,
       "wins": 0,
