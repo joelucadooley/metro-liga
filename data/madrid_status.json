@@ -2,7 +2,7 @@
   "matchday": 24,
   "lastMatchDate": "2026-11-24",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-24T21:56:20.030766+00:00",
+  "updated": "2026-11-24T22:01:55.497439+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of line 10 platforms to corridor leading to line 5 platforms and lobby Santa Bárbara Out of service due t",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Walkways From platform on line 5 in the direction of Alameda de Osuna to hallway leading to platforms to line 7 O",
       "seasonPts": 24,
       "checks": 24,
       "wins": 0,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 9 platforms to platform in the direction of Paco de Lucía Out of service due to re",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrances Agustín de Betancourt and Orense to lobby Orense Out of service due to check-up. Coming",
       "seasonPts": 24,
       "checks": 24,
       "wins": 0,
