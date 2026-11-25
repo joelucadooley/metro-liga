@@ -2,7 +2,7 @@
   "matchday": 25,
   "lastMatchDate": "2026-11-25",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-25T12:26:18.583234+00:00",
+  "updated": "2026-11-25T12:31:25.874552+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "to: Until 27/11/2026, the lift that connects the lower halle with the platform direction Zona Universitària at Fontana station is out of service due to improvement works. · to: Until 27/11/2026, the lift connecting the main hall and the lower hall at Fontana station will be out of service due to improvement works.",
+      "description": "to: Until 17/12/2026, the escalator descending from the Numància entrance hall to the lower hall of Sants Estació station will be temporarily out of service due to improvement works. · to: Until 27/11/2026, the lift that connects the lower halle with the platform direction Zona Universitària at Fontana station is out of service due to improvement works.",
       "seasonPts": 24,
       "checks": 25,
       "wins": 0,
