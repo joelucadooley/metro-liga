@@ -2,7 +2,7 @@
   "matchday": 25,
   "lastMatchDate": "2026-11-25",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-25T20:26:29.574701+00:00",
+  "updated": "2026-11-25T20:31:56.285615+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance La Corbeta esq. La Rioja to lobby Out of service. We are examining the reasons for the stop. S",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance La Corbeta esq. La Rioja to lobby Out of service due to check-up. Coming into service in the n",
       "seasonPts": 25,
       "checks": 25,
       "wins": 0,
