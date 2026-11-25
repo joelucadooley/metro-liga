@@ -2,7 +2,7 @@
   "matchday": 25,
   "lastMatchDate": "2026-11-25",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-25T11:41:37.107826+00:00",
+  "updated": "2026-11-25T11:46:39.903967+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From corridor of lobby Alberto Aguilera and corridor of line 4 platforms to line 6 platform in the dire",
+      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of line 10 platforms to corridor leading to line 5 platforms and lobby Santa Bárbara Out of service due t",
       "seasonPts": 25,
       "checks": 25,
       "wins": 0,
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Paseo de la Castellana impares to lobby Castellana Out of service due to check-u",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From hallway of line 9 platforms to platform in the direction of Paco de Lucía Out of service due to re",
       "seasonPts": 25,
       "checks": 25,
       "wins": 0,
