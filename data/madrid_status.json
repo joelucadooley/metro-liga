@@ -2,7 +2,7 @@
   "matchday": 26,
   "lastMatchDate": "2026-11-26",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-26T20:41:31.417517+00:00",
+  "updated": "2026-11-26T20:46:33.956818+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -70,7 +70,7 @@
     },
     "L5": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators: Escalators From hallway of line 10 platforms to corridor leading to line 5 platforms and lobby Santa Bárbara Out of service due t",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Albarracín to lobby Out of service. We are examining the reasons for the stop. Services: Accessible station Lifts",
       "seasonPts": 26,
       "checks": 26,
       "wins": 0,
