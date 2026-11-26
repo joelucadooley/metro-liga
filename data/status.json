@@ -2,7 +2,7 @@
   "matchday": 26,
   "lastMatchDate": "2026-11-26",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-26T12:26:01.461265+00:00",
+  "updated": "2026-11-26T12:31:17.090906+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "to: Until 26/11/2026, the escalator that connects with the access La Creu at Badalona Pompeu Fabra station will be out of service due to improvement works.",
+      "description": null,
       "seasonPts": 27,
       "checks": 26,
       "wins": 1,
