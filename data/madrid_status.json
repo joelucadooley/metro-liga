@@ -2,7 +2,7 @@
   "matchday": 26,
   "lastMatchDate": "2026-11-26",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-26T15:56:25.038145+00:00",
+  "updated": "2026-11-26T16:02:37.183979+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to central platform Out of service. We are examining the reasons for the stop. Services: Acc",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Tertulia to lobby Out of service due to repair works. Expected date of coming into servic",
       "seasonPts": 26,
       "checks": 26,
       "wins": 0,
@@ -198,7 +198,7 @@
     },
     "R": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Paseo de la Florida to platform 1 on line 6 in the direction of Puerta del Ángel and platform on",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby Renfe to platform 1 on line 6 in the direction of Puerta del Ángel and platform on line 10 in the",
       "seasonPts": 26,
       "checks": 26,
       "wins": 0,
