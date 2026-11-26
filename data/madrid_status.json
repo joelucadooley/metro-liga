@@ -2,7 +2,7 @@
   "matchday": 26,
   "lastMatchDate": "2026-11-26",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-26T09:06:25.644981+00:00",
+  "updated": "2026-11-26T09:13:17.268327+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -54,7 +54,7 @@
     },
     "L4": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From corridor Leading on lines to platform 2 on Line 4 direction Pinar de Chamartin Out of service due to check-up. Coming into",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From lobby central to hallway for Lines 1 and 4. There is another lift in the same location. Out of service. We are examining th",
       "seasonPts": 26,
       "checks": 26,
       "wins": 0,
