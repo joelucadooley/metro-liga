@@ -2,11 +2,11 @@
   "matchday": 27,
   "lastMatchDate": "2026-11-27",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-27T15:46:48.582317+00:00",
+  "updated": "2026-11-27T15:51:45.798556+00:00",
   "lines": {
     "L1": {
-      "severity": "minor",
-      "description": "Elevator failure Acceso Paseo Ciudadela y andén destino Aeroport/ Riba-roja de Túria Station Alameda Elevator failure Andén destino Marítim Station Alameda Elevator failure Andén destinos Aeroport / Torrent Avinguda y Rafelbunyol Station València Sud",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 75,
       "checks": 27,
       "wins": 24,
