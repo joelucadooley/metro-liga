@@ -2,11 +2,11 @@
   "matchday": 27,
   "lastMatchDate": "2026-11-27",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-27T12:41:36.259919+00:00",
+  "updated": "2026-11-27T12:46:37.918137+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Barceló to hallway for platforms on lines 1 and 10 Out of service due to check-up. Coming in",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Doctor Esquerdo to hallway for platforms on line 6 Out of service due to repair works. Expec",
       "seasonPts": 27,
       "checks": 27,
       "wins": 0,
@@ -38,7 +38,7 @@
     },
     "L3": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform central Out of service. We are examining the reasons for the stop. Services: Accessib",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Tertulia to lobby Out of service due to repair works. Expected date of coming into servic",
       "seasonPts": 27,
       "checks": 27,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to entrance Avda. Carabanchel Alto Waiting for information. Services: Accessible station Lif",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for",
       "seasonPts": 35,
       "checks": 27,
       "wins": 4,
