@@ -2,7 +2,7 @@
   "matchday": 27,
   "lastMatchDate": "2026-11-27",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-27T14:41:54.563813+00:00",
+  "updated": "2026-11-27T14:46:39.793248+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -118,7 +118,7 @@
     },
     "L8": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Nuevos Ministerios. There is another escalator in the same d",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Gran Vía de Hortaleza to lobby Out of service due to check-up. Coming into service in the",
       "seasonPts": 27,
       "checks": 27,
       "wins": 0,
