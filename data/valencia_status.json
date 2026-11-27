@@ -2,7 +2,7 @@
   "matchday": 27,
   "lastMatchDate": "2026-11-27",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-27T11:22:31.005823+00:00",
+  "updated": "2026-11-27T11:27:12.473760+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "minor",
-      "description": "Elevator failure Station Faitanar Elevator failure Start your next route My trips Timetables and planner Stations Frequently asked questions Register Timetables & Journeys",
+      "severity": "clear",
+      "description": null,
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
