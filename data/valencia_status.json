@@ -2,7 +2,7 @@
   "matchday": 27,
   "lastMatchDate": "2026-11-27",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-27T07:26:37.994869+00:00",
+  "updated": "2026-11-27T07:32:43.323535+00:00",
   "lines": {
     "L1": {
       "severity": "clear",
@@ -53,8 +53,8 @@
       ]
     },
     "L4": {
-      "severity": "clear",
-      "description": null,
+      "severity": "minor",
+      "description": "Elevator failure Acceso C/ Jeroni de Montsoriu, 82 Station Faitanar Elevator failure Start your next route My trips Timetables and planner Stations Frequently asked questions Register Timetables & Journeys",
       "seasonPts": 81,
       "checks": 27,
       "wins": 27,
