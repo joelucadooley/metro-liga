@@ -2,11 +2,11 @@
   "matchday": 27,
   "lastMatchDate": "2026-11-27",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-27T08:26:33.423291+00:00",
+  "updated": "2026-11-27T08:31:46.669592+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby Plaza de Castilla to hallway and line 1 platform in the direction Valdecarros and lobby Bra",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to platform line ML1 in the direction of Las Tablas Out of service. We are examining the reasons",
       "seasonPts": 27,
       "checks": 27,
       "wins": 0,
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to hallway leading to platforms and platform in the direction of Las Rosas Out of service. We are",
+      "description": "We regret to inform you of alterations in the operation of lifts: Lifts From entrance Felipe II esq. Alcalá of lobby Felipe II to platform on line 2 in the direction of Cuatro Caminos. There is anothe",
       "seasonPts": 27,
       "checks": 27,
       "wins": 0,
