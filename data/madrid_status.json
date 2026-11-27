@@ -2,7 +2,7 @@
   "matchday": 27,
   "lastMatchDate": "2026-11-27",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-27T06:56:18.842994+00:00",
+  "updated": "2026-11-27T07:02:06.082418+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to hallway leading to platforms and platform in the direction of Las Rosas Out of service due to",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From lobby to hallway leading to platforms and platform in the direction of Las Rosas Out of service. We are",
       "seasonPts": 27,
       "checks": 27,
       "wins": 0,
