@@ -2,7 +2,7 @@
   "matchday": 28,
   "lastMatchDate": "2026-11-28",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-28T10:11:47.530730+00:00",
+  "updated": "2026-11-28T10:16:31.725575+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
@@ -22,7 +22,7 @@
     },
     "L2": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Cuatro Caminos Out of service. We are examining the reasons",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of Las Rosas Out of service due to check-up. Coming into servic",
       "seasonPts": 28,
       "checks": 28,
       "wins": 0,
@@ -102,7 +102,7 @@
     },
     "L7": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Honduras to lobby Waiting for information. Services: Accessible station Lifts Escalators",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From entrance Honduras semiesq. Méjico to lobby Out of service. We are examining the reasons for the stop. E",
       "seasonPts": 28,
       "checks": 28,
       "wins": 0,
