@@ -2,11 +2,11 @@
   "matchday": 28,
   "lastMatchDate": "2026-11-28",
   "lastResetMonth": "2026-11",
-  "updated": "2026-11-28T00:11:35.451506+00:00",
+  "updated": "2026-11-28T00:16:45.333989+00:00",
   "lines": {
     "L1": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From entrance Arturo Soria to lobby Out of service due to check-up. Coming into service in the next hou",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From line corridors to Interchange lobby Out of service due to check-up. Coming into service in the nex",
       "seasonPts": 28,
       "checks": 28,
       "wins": 0,
@@ -166,7 +166,7 @@
     },
     "L11": {
       "severity": "minor",
-      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Escalators From lobby to platform in the direction of La Fortuna Out of service. We are examining the reasons for",
+      "description": "We regret to inform you of alterations in the operation of escalators and / or lifts: Lifts From corridor of Line 6 to platform Line 11 in the direction of La Fortuna Out of service. We are examining",
       "seasonPts": 36,
       "checks": 28,
       "wins": 4,
